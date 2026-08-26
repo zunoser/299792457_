@@ -3,6 +3,9 @@
 An image archive of [@299792457_](https://x.com/299792457_), rendered with
 [twitter-snap](https://github.com/fa0311/twitter-snap).
 
+The archive also includes an interactive [activity dashboard](dashboard/index.html)
+built from the searchable JSON records with pandas and Plotly.
+
 ![Archived post 2022276975130501251](snapshots/2026/02/2022276975130501251.png)
 
 ## How it works
@@ -19,12 +22,23 @@ other accounts and continuations of a self-thread. Each status in a thread is
 archived as its own addressable record. The library API reuses the guest
 session and font cache across posts in one run.
 
+After collecting posts, the same workflow rebuilds `dashboard/index.html`. The
+dashboard summarizes daily activity, posting times in Japan Standard Time, and
+frequent reply recipients. Its output is deterministic, so runs without new
+archive data do not create commits.
+
 Only ID enumeration is authenticated by the home relay. Rendering uses a guest
 token, so X cookies are never copied into GitHub Actions. The collector stops
 after five consecutive existing authored IDs and renders at most 40 new posts
 or replies per run.
 
 ## Setup
+
+Enter the Nix development shell to get Node.js, pnpm, Python, and uv:
+
+```sh
+nix develop
+```
 
 Add the repository Actions secrets `TS_OAUTH_CLIENT_ID` and `TS_OAUTH_SECRET`.
 The OAuth client must allow `tag:ci` nodes to join the tailnet and reach
@@ -35,6 +49,19 @@ Run a snapshot locally with:
 ```sh
 pnpm install --frozen-lockfile
 pnpm snapshot
+```
+
+Build the dashboard locally with:
+
+```sh
+uv sync --locked
+uv run --locked python scripts/build_dashboard.py
+```
+
+Run the dashboard tests with:
+
+```sh
+uv run --locked python -m unittest discover -s tests -v
 ```
 
 Rebuild every existing PNG or MP4 at 2x resolution with:

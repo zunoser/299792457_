@@ -1,0 +1,12 @@
+[project]
+name = "299792457-dashboard"
+version = "0.1.0"
+description = "Interactive charts for the @299792457_ X archive"
+requires-python = ">=3.12"
+dependencies = [
+  "pandas>=2.2,<3",
+  "plotly>=6,<7",
+]
+
+[tool.uv]
+package = false

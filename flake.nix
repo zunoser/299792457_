@@ -38,9 +38,17 @@
             packages = with pkgs; [
               nodejs
               pnpm
+              python3
+              uv
               yarn
               self.formatter.${system}
             ];
+            LD_LIBRARY_PATH = pkgs.lib.optionalString pkgs.stdenv.hostPlatform.isLinux (
+              pkgs.lib.makeLibraryPath [
+                pkgs.stdenv.cc.cc.lib
+                pkgs.zlib
+              ]
+            );
           };
         }
       );
