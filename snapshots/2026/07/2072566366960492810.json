@@ -1,0 +1,1706 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2072566366960492810"
+        ],
+        "editableUntilMsecs": "1782976902000",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2072566366960492810",
+        "createdAt": "Thu Jul 02 06:21:42 +0000 2026",
+        "displayTextRange": [
+          0,
+          15
+        ],
+        "entities": {},
+        "favoriteCount": 5,
+        "favorited": false,
+        "fullText": "これされたい女子フォローして。",
+        "idStr": "2072566366960492810",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "1726899120441565651",
+        "quotedStatusPermalink": {
+          "display": "x.com/fqprgilk7l5403…",
+          "expanded": "https://twitter.com/fqprgilk7l5403/status/1726899120441565651",
+          "url": "https://t.co/IlwMiBeQ2x"
+        },
+        "replyCount": 2,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1702591129605275648/93WdHFNM_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Sep 15 07:50:58 +0000 2023",
+                  "name": "クロロ28号",
+                  "screenName": "FQpRgiLK7l5403"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNzAyNTkwNTkwMDAzOTA4NjA4",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "クロロ@ropy80979886のサブ垢でつ 、よければ仲良くして下さい🥹迷惑行為、配信系のやらかし、現在被害を受けていて悩んでる事、面白い動画等ありましたらDMくだされ。座右の銘は守秘義務は守ります。",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 3,
+                  "followRequestSent": false,
+                  "followersCount": 6372,
+                  "friendsCount": 2,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 35,
+                  "mediaCount": 1849,
+                  "normalFollowersCount": 6372,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "1757428630769307733"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1702590590003908608/1694957991",
+                  "profileInterstitialType": "",
+                  "statusesCount": 4690,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "クロロ@ropy80979886のサブ垢でつ 、よければ仲良くして下さい🥹迷惑行為、配信系のやらかし、現在被害を受けていて悩んでる事、面白い動画等ありましたらDMくだされ。座右の銘は守秘義務は守ります。"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1702590590003908608",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "1726899120441565651"
+            ],
+            "editableUntilMsecs": "1700563409000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 3215,
+            "bookmarked": false,
+            "conversationIdStr": "1726899120441565651",
+            "createdAt": "Tue Nov 21 09:43:29 +0000 2023",
+            "displayTextRange": [
+              0,
+              82
+            ],
+            "entities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/pvZlfwT9Bh",
+                  "expandedUrl": "https://x.com/FQpRgiLK7l5403/status/1726899120441565651/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "1726899048517705728",
+                  "indices": [
+                    83,
+                    106
+                  ],
+                  "mediaKey": "7_1726899048517705728",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "7_1726899048517705728"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/1726899048517705728/pu/img/s21jui5VPAX_Zd13.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1046,
+                    "width": 720
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1046,
+                      "resize": "fit",
+                      "w": 720
+                    },
+                    "medium": {
+                      "h": 1046,
+                      "resize": "fit",
+                      "w": 720
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 468
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/pvZlfwT9Bh",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      360,
+                      523
+                    ],
+                    "durationMillis": 22971,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/pl/doeBwU3Ad8Z6cKuF.m3u8?tag=12"
+                      },
+                      {
+                        "bitrate": 632000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/320x464/255JJDiQSRfH72N_.mp4?tag=12"
+                      },
+                      {
+                        "bitrate": 950000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/480x696/Np29knTmiBYazP2H.mp4?tag=12"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/720x1046/mToVyRzCuYQwwixY.mp4?tag=12"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/pvZlfwT9Bh",
+                  "expandedUrl": "https://x.com/FQpRgiLK7l5403/status/1726899120441565651/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "1726899048517705728",
+                  "indices": [
+                    83,
+                    106
+                  ],
+                  "mediaKey": "7_1726899048517705728",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "7_1726899048517705728"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/1726899048517705728/pu/img/s21jui5VPAX_Zd13.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1046,
+                    "width": 720
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1046,
+                      "resize": "fit",
+                      "w": 720
+                    },
+                    "medium": {
+                      "h": 1046,
+                      "resize": "fit",
+                      "w": 720
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 468
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/pvZlfwT9Bh",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      360,
+                      523
+                    ],
+                    "durationMillis": 22971,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/pl/doeBwU3Ad8Z6cKuF.m3u8?tag=12"
+                      },
+                      {
+                        "bitrate": 632000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/320x464/255JJDiQSRfH72N_.mp4?tag=12"
+                      },
+                      {
+                        "bitrate": 950000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/480x696/Np29knTmiBYazP2H.mp4?tag=12"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/720x1046/mToVyRzCuYQwwixY.mp4?tag=12"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favoriteCount": 9442,
+            "favorited": false,
+            "fullText": "マッスルバーに遊びに来た女の子、ガチで雌の顔になってしまうw\n彼女にホストクラブ通われるより、こっちの方が雄としての敗北感凄そうで草\nみたいなコメントで笑いました。 https://t.co/pvZlfwT9Bh",
+            "idStr": "1726899120441565651",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 1412,
+            "replyCount": 192,
+            "retweetCount": 955,
+            "retweeted": false,
+            "userIdStr": "1702590590003908608"
+          },
+          "restId": "1726899120441565651",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "10821055",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2072566366960492810",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "526",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2072566366960492810"
+      ],
+      "editableUntilMsecs": "1782976902000",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2072566366960492810",
+      "createdAt": "Thu Jul 02 06:21:42 +0000 2026",
+      "displayTextRange": [
+        0,
+        15
+      ],
+      "entities": {},
+      "favoriteCount": 5,
+      "favorited": false,
+      "fullText": "これされたい女子フォローして。",
+      "idStr": "2072566366960492810",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "1726899120441565651",
+      "quotedStatusPermalink": {
+        "display": "x.com/fqprgilk7l5403…",
+        "expanded": "https://twitter.com/fqprgilk7l5403/status/1726899120441565651",
+        "url": "https://t.co/IlwMiBeQ2x"
+      },
+      "replyCount": 2,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1702591129605275648/93WdHFNM_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Sep 15 07:50:58 +0000 2023",
+                "name": "クロロ28号",
+                "screenName": "FQpRgiLK7l5403"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNzAyNTkwNTkwMDAzOTA4NjA4",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "クロロ@ropy80979886のサブ垢でつ 、よければ仲良くして下さい🥹迷惑行為、配信系のやらかし、現在被害を受けていて悩んでる事、面白い動画等ありましたらDMくだされ。座右の銘は守秘義務は守ります。",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 3,
+                "followRequestSent": false,
+                "followersCount": 6372,
+                "friendsCount": 2,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 35,
+                "mediaCount": 1849,
+                "normalFollowersCount": 6372,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "1757428630769307733"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1702590590003908608/1694957991",
+                "profileInterstitialType": "",
+                "statusesCount": 4690,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "クロロ@ropy80979886のサブ垢でつ 、よければ仲良くして下さい🥹迷惑行為、配信系のやらかし、現在被害を受けていて悩んでる事、面白い動画等ありましたらDMくだされ。座右の銘は守秘義務は守ります。"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1702590590003908608",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "1726899120441565651"
+          ],
+          "editableUntilMsecs": "1700563409000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 3215,
+          "bookmarked": false,
+          "conversationIdStr": "1726899120441565651",
+          "createdAt": "Tue Nov 21 09:43:29 +0000 2023",
+          "displayTextRange": [
+            0,
+            82
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/pvZlfwT9Bh",
+                "expandedUrl": "https://x.com/FQpRgiLK7l5403/status/1726899120441565651/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "1726899048517705728",
+                "indices": [
+                  83,
+                  106
+                ],
+                "mediaKey": "7_1726899048517705728",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "7_1726899048517705728"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/1726899048517705728/pu/img/s21jui5VPAX_Zd13.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1046,
+                  "width": 720
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1046,
+                    "resize": "fit",
+                    "w": 720
+                  },
+                  "medium": {
+                    "h": 1046,
+                    "resize": "fit",
+                    "w": 720
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 468
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/pvZlfwT9Bh",
+                "videoInfo": {
+                  "aspectRatio": [
+                    360,
+                    523
+                  ],
+                  "durationMillis": 22971,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/pl/doeBwU3Ad8Z6cKuF.m3u8?tag=12"
+                    },
+                    {
+                      "bitrate": 632000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/320x464/255JJDiQSRfH72N_.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 950000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/480x696/Np29knTmiBYazP2H.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/720x1046/mToVyRzCuYQwwixY.mp4?tag=12"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/pvZlfwT9Bh",
+                "expandedUrl": "https://x.com/FQpRgiLK7l5403/status/1726899120441565651/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "1726899048517705728",
+                "indices": [
+                  83,
+                  106
+                ],
+                "mediaKey": "7_1726899048517705728",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "7_1726899048517705728"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/1726899048517705728/pu/img/s21jui5VPAX_Zd13.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1046,
+                  "width": 720
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1046,
+                    "resize": "fit",
+                    "w": 720
+                  },
+                  "medium": {
+                    "h": 1046,
+                    "resize": "fit",
+                    "w": 720
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 468
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/pvZlfwT9Bh",
+                "videoInfo": {
+                  "aspectRatio": [
+                    360,
+                    523
+                  ],
+                  "durationMillis": 22971,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/pl/doeBwU3Ad8Z6cKuF.m3u8?tag=12"
+                    },
+                    {
+                      "bitrate": 632000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/320x464/255JJDiQSRfH72N_.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 950000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/480x696/Np29knTmiBYazP2H.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/720x1046/mToVyRzCuYQwwixY.mp4?tag=12"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 9442,
+          "favorited": false,
+          "fullText": "マッスルバーに遊びに来た女の子、ガチで雌の顔になってしまうw\n彼女にホストクラブ通われるより、こっちの方が雄としての敗北感凄そうで草\nみたいなコメントで笑いました。 https://t.co/pvZlfwT9Bh",
+          "idStr": "1726899120441565651",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 1412,
+          "replyCount": 192,
+          "retweetCount": 955,
+          "retweeted": false,
+          "userIdStr": "1702590590003908608"
+        },
+        "restId": "1726899120441565651",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "10821055",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2072566366960492810",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "526",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1702591129605275648/93WdHFNM_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Sep 15 07:50:58 +0000 2023",
+                "name": "クロロ28号",
+                "screenName": "FQpRgiLK7l5403"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNzAyNTkwNTkwMDAzOTA4NjA4",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "クロロ@ropy80979886のサブ垢でつ 、よければ仲良くして下さい🥹迷惑行為、配信系のやらかし、現在被害を受けていて悩んでる事、面白い動画等ありましたらDMくだされ。座右の銘は守秘義務は守ります。",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 3,
+                "followRequestSent": false,
+                "followersCount": 6372,
+                "friendsCount": 2,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 35,
+                "mediaCount": 1849,
+                "normalFollowersCount": 6372,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "1757428630769307733"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1702590590003908608/1694957991",
+                "profileInterstitialType": "",
+                "statusesCount": 4690,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "クロロ@ropy80979886のサブ垢でつ 、よければ仲良くして下さい🥹迷惑行為、配信系のやらかし、現在被害を受けていて悩んでる事、面白い動画等ありましたらDMくだされ。座右の銘は守秘義務は守ります。"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1702590590003908608",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "1726899120441565651"
+          ],
+          "editableUntilMsecs": "1700563409000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 3215,
+          "bookmarked": false,
+          "conversationIdStr": "1726899120441565651",
+          "createdAt": "Tue Nov 21 09:43:29 +0000 2023",
+          "displayTextRange": [
+            0,
+            82
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/pvZlfwT9Bh",
+                "expandedUrl": "https://x.com/FQpRgiLK7l5403/status/1726899120441565651/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "1726899048517705728",
+                "indices": [
+                  83,
+                  106
+                ],
+                "mediaKey": "7_1726899048517705728",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "7_1726899048517705728"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/1726899048517705728/pu/img/s21jui5VPAX_Zd13.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1046,
+                  "width": 720
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1046,
+                    "resize": "fit",
+                    "w": 720
+                  },
+                  "medium": {
+                    "h": 1046,
+                    "resize": "fit",
+                    "w": 720
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 468
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/pvZlfwT9Bh",
+                "videoInfo": {
+                  "aspectRatio": [
+                    360,
+                    523
+                  ],
+                  "durationMillis": 22971,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/pl/doeBwU3Ad8Z6cKuF.m3u8?tag=12"
+                    },
+                    {
+                      "bitrate": 632000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/320x464/255JJDiQSRfH72N_.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 950000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/480x696/Np29knTmiBYazP2H.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/720x1046/mToVyRzCuYQwwixY.mp4?tag=12"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/pvZlfwT9Bh",
+                "expandedUrl": "https://x.com/FQpRgiLK7l5403/status/1726899120441565651/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "1726899048517705728",
+                "indices": [
+                  83,
+                  106
+                ],
+                "mediaKey": "7_1726899048517705728",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "7_1726899048517705728"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/1726899048517705728/pu/img/s21jui5VPAX_Zd13.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1046,
+                  "width": 720
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1046,
+                    "resize": "fit",
+                    "w": 720
+                  },
+                  "medium": {
+                    "h": 1046,
+                    "resize": "fit",
+                    "w": 720
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 468
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/pvZlfwT9Bh",
+                "videoInfo": {
+                  "aspectRatio": [
+                    360,
+                    523
+                  ],
+                  "durationMillis": 22971,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/pl/doeBwU3Ad8Z6cKuF.m3u8?tag=12"
+                    },
+                    {
+                      "bitrate": 632000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/320x464/255JJDiQSRfH72N_.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 950000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/480x696/Np29knTmiBYazP2H.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/720x1046/mToVyRzCuYQwwixY.mp4?tag=12"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 9442,
+          "favorited": false,
+          "fullText": "マッスルバーに遊びに来た女の子、ガチで雌の顔になってしまうw\n彼女にホストクラブ通われるより、こっちの方が雄としての敗北感凄そうで草\nみたいなコメントで笑いました。 https://t.co/pvZlfwT9Bh",
+          "idStr": "1726899120441565651",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 1412,
+          "replyCount": 192,
+          "retweetCount": 955,
+          "retweeted": false,
+          "userIdStr": "1702590590003908608"
+        },
+        "restId": "1726899120441565651",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "10821055",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1702591129605275648/93WdHFNM_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Fri Sep 15 07:50:58 +0000 2023",
+              "name": "クロロ28号",
+              "screenName": "FQpRgiLK7l5403"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxNzAyNTkwNTkwMDAzOTA4NjA4",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "クロロ@ropy80979886のサブ垢でつ 、よければ仲良くして下さい🥹迷惑行為、配信系のやらかし、現在被害を受けていて悩んでる事、面白い動画等ありましたらDMくだされ。座右の銘は守秘義務は守ります。",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 3,
+              "followRequestSent": false,
+              "followersCount": 6372,
+              "friendsCount": 2,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 35,
+              "mediaCount": 1849,
+              "normalFollowersCount": 6372,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "1757428630769307733"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1702590590003908608/1694957991",
+              "profileInterstitialType": "",
+              "statusesCount": 4690,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "クロロ@ropy80979886のサブ垢でつ 、よければ仲良くして下さい🥹迷惑行為、配信系のやらかし、現在被害を受けていて悩んでる事、面白い動画等ありましたらDMくだされ。座右の銘は守秘義務は守ります。"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1702590590003908608",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "1726899120441565651"
+        ],
+        "editableUntilMsecs": "1700563409000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 3215,
+        "bookmarked": false,
+        "conversationIdStr": "1726899120441565651",
+        "createdAt": "Tue Nov 21 09:43:29 +0000 2023",
+        "displayTextRange": [
+          0,
+          82
+        ],
+        "entities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/pvZlfwT9Bh",
+              "expandedUrl": "https://x.com/FQpRgiLK7l5403/status/1726899120441565651/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "1726899048517705728",
+              "indices": [
+                83,
+                106
+              ],
+              "mediaKey": "7_1726899048517705728",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "7_1726899048517705728"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/1726899048517705728/pu/img/s21jui5VPAX_Zd13.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1046,
+                "width": 720
+              },
+              "sizes": {
+                "large": {
+                  "h": 1046,
+                  "resize": "fit",
+                  "w": 720
+                },
+                "medium": {
+                  "h": 1046,
+                  "resize": "fit",
+                  "w": 720
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 468
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/pvZlfwT9Bh",
+              "videoInfo": {
+                "aspectRatio": [
+                  360,
+                  523
+                ],
+                "durationMillis": 22971,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/pl/doeBwU3Ad8Z6cKuF.m3u8?tag=12"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/320x464/255JJDiQSRfH72N_.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/480x696/Np29knTmiBYazP2H.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/720x1046/mToVyRzCuYQwwixY.mp4?tag=12"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/pvZlfwT9Bh",
+              "expandedUrl": "https://x.com/FQpRgiLK7l5403/status/1726899120441565651/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "1726899048517705728",
+              "indices": [
+                83,
+                106
+              ],
+              "mediaKey": "7_1726899048517705728",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "7_1726899048517705728"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/1726899048517705728/pu/img/s21jui5VPAX_Zd13.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1046,
+                "width": 720
+              },
+              "sizes": {
+                "large": {
+                  "h": 1046,
+                  "resize": "fit",
+                  "w": 720
+                },
+                "medium": {
+                  "h": 1046,
+                  "resize": "fit",
+                  "w": 720
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 468
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/pvZlfwT9Bh",
+              "videoInfo": {
+                "aspectRatio": [
+                  360,
+                  523
+                ],
+                "durationMillis": 22971,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/pl/doeBwU3Ad8Z6cKuF.m3u8?tag=12"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/320x464/255JJDiQSRfH72N_.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/480x696/Np29knTmiBYazP2H.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1726899048517705728/pu/vid/avc1/720x1046/mToVyRzCuYQwwixY.mp4?tag=12"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favoriteCount": 9442,
+        "favorited": false,
+        "fullText": "マッスルバーに遊びに来た女の子、ガチで雌の顔になってしまうw\n彼女にホストクラブ通われるより、こっちの方が雄としての敗北感凄そうで草\nみたいなコメントで笑いました。 https://t.co/pvZlfwT9Bh",
+        "idStr": "1726899120441565651",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 1412,
+        "replyCount": 192,
+        "retweetCount": 955,
+        "retweeted": false,
+        "userIdStr": "1702590590003908608"
+      },
+      "restId": "1726899120441565651",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "10821055",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1702591129605275648/93WdHFNM_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Fri Sep 15 07:50:58 +0000 2023",
+        "name": "クロロ28号",
+        "screenName": "FQpRgiLK7l5403"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxNzAyNTkwNTkwMDAzOTA4NjA4",
+      "isBlueVerified": false,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "クロロ@ropy80979886のサブ垢でつ 、よければ仲良くして下さい🥹迷惑行為、配信系のやらかし、現在被害を受けていて悩んでる事、面白い動画等ありましたらDMくだされ。座右の銘は守秘義務は守ります。",
+        "entities": {
+          "description": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 3,
+        "followRequestSent": false,
+        "followersCount": 6372,
+        "friendsCount": 2,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 35,
+        "mediaCount": 1849,
+        "normalFollowersCount": 6372,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "1757428630769307733"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1702590590003908608/1694957991",
+        "profileInterstitialType": "",
+        "statusesCount": 4690,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": ""
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "クロロ@ropy80979886のサブ垢でつ 、よければ仲良くして下さい🥹迷惑行為、配信系のやらかし、現在被害を受けていて悩んでる事、面白い動画等ありましたらDMくだされ。座右の銘は守秘義務は守ります。"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1702590590003908608",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}

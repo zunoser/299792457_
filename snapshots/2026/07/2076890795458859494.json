@@ -1,0 +1,4064 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "imageValue": {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=280x150",
+                  "width": 267
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "stringValue": "高市政権がいまの国会で成立を目指す皇室典範改正案をめぐり、立憲民主党は独自の修正案を取りまとめました。",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "stringValue": "news.ntv.co.jp",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x320_1",
+                  "width": 569
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribeKey": "publisher_id",
+                "type": "USER",
+                "userValue": {
+                  "idStr": "41167899"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 81,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=144x144",
+                  "width": 144
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribeKey": "vanity_url",
+                "stringValue": "news.ntv.co.jp",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 35.19,
+                      "rgb": {
+                        "blue": 244,
+                        "green": 238,
+                        "red": 235
+                      }
+                    },
+                    {
+                      "percentage": 31.9,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 96,
+                        "red": 88
+                      }
+                    },
+                    {
+                      "percentage": 15.09,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 39,
+                        "red": 40
+                      }
+                    },
+                    {
+                      "percentage": 5.36,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 119,
+                        "red": 155
+                      }
+                    },
+                    {
+                      "percentage": 1.35,
+                      "rgb": {
+                        "blue": 141,
+                        "green": 97,
+                        "red": 226
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "stringValue": "皇室典範改正案めぐり　立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など（2026年7月13日掲載）｜日テレNEWS NNN",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 35.19,
+                      "rgb": {
+                        "blue": 244,
+                        "green": 238,
+                        "red": 235
+                      }
+                    },
+                    {
+                      "percentage": 31.9,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 96,
+                        "red": 88
+                      }
+                    },
+                    {
+                      "percentage": 15.09,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 39,
+                        "red": 40
+                      }
+                    },
+                    {
+                      "percentage": 5.36,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 119,
+                        "red": 155
+                      }
+                    },
+                    {
+                      "percentage": 1.35,
+                      "rgb": {
+                        "blue": 141,
+                        "green": 97,
+                        "red": 226
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 35.19,
+                      "rgb": {
+                        "blue": 244,
+                        "green": 238,
+                        "red": 235
+                      }
+                    },
+                    {
+                      "percentage": 31.9,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 96,
+                        "red": 88
+                      }
+                    },
+                    {
+                      "percentage": 15.09,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 39,
+                        "red": 40
+                      }
+                    },
+                    {
+                      "percentage": 5.36,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 119,
+                        "red": 155
+                      }
+                    },
+                    {
+                      "percentage": 1.35,
+                      "rgb": {
+                        "blue": 141,
+                        "green": 97,
+                        "red": 226
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://t.co/4ECTArGK9V",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/4ECTArGK9V",
+          "userRefsResults": [
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1714161418424193024/5MPQMqrI_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Tue May 19 17:54:15 +0000 2009",
+                  "name": "日テレNEWS NNN",
+                  "screenName": "news24ntv"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjo0MTE2Nzg5OQ==",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "news.ntv.co.jp/static/app/lp.…",
+                          "expanded_url": "https://news.ntv.co.jp/static/app/lp.html",
+                          "indices": [
+                            37,
+                            60
+                          ],
+                          "url": "https://t.co/lQjwzUzqAW"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "news.ntv.co.jp",
+                          "expanded_url": "https://news.ntv.co.jp/",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/yCJQqejGid"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 527,
+                  "followRequestSent": false,
+                  "followersCount": 255277,
+                  "friendsCount": 66,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 7462,
+                  "mediaCount": 10176,
+                  "normalFollowersCount": 255277,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/41167899/1696951051",
+                  "profileInterstitialType": "",
+                  "statusesCount": 333257,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/yCJQqejGid",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "Tokyo, JAPAN"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "41167899",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          ]
+        },
+        "restId": "https://t.co/4ECTArGK9V"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2076890795458859494"
+        ],
+        "editableUntilMsecs": "1784007927059",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2076890795458859494",
+        "createdAt": "Tue Jul 14 04:45:27 +0000 2026",
+        "displayTextRange": [
+          0,
+          140
+        ],
+        "entities": {
+          "userMentions": [
+            {
+              "id_str": "292215556",
+              "indices": [
+                3,
+                13
+              ],
+              "name": "ＨＣ",
+              "screen_name": "umiyama21"
+            }
+          ]
+        },
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "RT @umiyama21: ここ数か月ずっと自民党のめちゃくちゃな政治が止まんない無力感がキツかったけどマジで目から鱗。\n＞自民が出した法案の、悪いとこ全部修正した修正（改善）法案を通す\nという手があったのか。\n\n立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など｜日…",
+        "idStr": "2076890795458859494",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 5308,
+        "retweeted": false,
+        "retweetedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "card": {
+              "legacy": {
+                "bindingValues": [
+                  {
+                    "key": "photo_image_full_size_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 419,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                        "width": 800
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image",
+                    "value": {
+                      "imageValue": {
+                        "height": 150,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=280x150",
+                        "width": 267
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "description",
+                    "value": {
+                      "stringValue": "高市政権がいまの国会で成立を目指す皇室典範改正案をめぐり、立憲民主党は独自の修正案を取りまとめました。",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "domain",
+                    "value": {
+                      "stringValue": "news.ntv.co.jp",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 320,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x320_1",
+                        "width": 569
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 202,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                        "width": 386
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 675,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                        "width": 1200
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "site",
+                    "value": {
+                      "scribeKey": "publisher_id",
+                      "type": "USER",
+                      "userValue": {
+                        "idStr": "41167899"
+                      }
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 202,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                        "width": 386
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 419,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                        "width": 800
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 81,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=144x144",
+                        "width": 144
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 675,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                        "width": 1200
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 675,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                        "width": 1200
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "vanity_url",
+                    "value": {
+                      "scribeKey": "vanity_url",
+                      "stringValue": "news.ntv.co.jp",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size",
+                    "value": {
+                      "imageValue": {
+                        "height": 314,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                        "width": 600
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 35.19,
+                            "rgb": {
+                              "blue": 244,
+                              "green": 238,
+                              "red": 235
+                            }
+                          },
+                          {
+                            "percentage": 31.9,
+                            "rgb": {
+                              "blue": 158,
+                              "green": 96,
+                              "red": 88
+                            }
+                          },
+                          {
+                            "percentage": 15.09,
+                            "rgb": {
+                              "blue": 36,
+                              "green": 39,
+                              "red": 40
+                            }
+                          },
+                          {
+                            "percentage": 5.36,
+                            "rgb": {
+                              "blue": 97,
+                              "green": 119,
+                              "red": 155
+                            }
+                          },
+                          {
+                            "percentage": 1.35,
+                            "rgb": {
+                              "blue": 141,
+                              "green": 97,
+                              "red": 226
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "title",
+                    "value": {
+                      "stringValue": "皇室典範改正案めぐり　立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など（2026年7月13日掲載）｜日テレNEWS NNN",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 35.19,
+                            "rgb": {
+                              "blue": 244,
+                              "green": 238,
+                              "red": 235
+                            }
+                          },
+                          {
+                            "percentage": 31.9,
+                            "rgb": {
+                              "blue": 158,
+                              "green": 96,
+                              "red": 88
+                            }
+                          },
+                          {
+                            "percentage": 15.09,
+                            "rgb": {
+                              "blue": 36,
+                              "green": 39,
+                              "red": 40
+                            }
+                          },
+                          {
+                            "percentage": 5.36,
+                            "rgb": {
+                              "blue": 97,
+                              "green": 119,
+                              "red": 155
+                            }
+                          },
+                          {
+                            "percentage": 1.35,
+                            "rgb": {
+                              "blue": 141,
+                              "green": 97,
+                              "red": 226
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 675,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                        "width": 1200
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image",
+                    "value": {
+                      "imageValue": {
+                        "height": 314,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                        "width": 600
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 35.19,
+                            "rgb": {
+                              "blue": 244,
+                              "green": 238,
+                              "red": 235
+                            }
+                          },
+                          {
+                            "percentage": 31.9,
+                            "rgb": {
+                              "blue": 158,
+                              "green": 96,
+                              "red": 88
+                            }
+                          },
+                          {
+                            "percentage": 15.09,
+                            "rgb": {
+                              "blue": 36,
+                              "green": 39,
+                              "red": 40
+                            }
+                          },
+                          {
+                            "percentage": 5.36,
+                            "rgb": {
+                              "blue": 97,
+                              "green": 119,
+                              "red": 155
+                            }
+                          },
+                          {
+                            "percentage": 1.35,
+                            "rgb": {
+                              "blue": 141,
+                              "green": 97,
+                              "red": 226
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 675,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                        "width": 1200
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "card_url",
+                    "value": {
+                      "scribeKey": "card_url",
+                      "stringValue": "https://t.co/4ECTArGK9V",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 675,
+                        "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                        "width": 1200
+                      },
+                      "type": "IMAGE"
+                    }
+                  }
+                ],
+                "cardPlatform": {
+                  "platform": {
+                    "audience": {
+                      "name": "production"
+                    },
+                    "device": {
+                      "name": "Swift",
+                      "version": "12"
+                    }
+                  }
+                },
+                "name": "summary_large_image",
+                "url": "https://t.co/4ECTArGK9V",
+                "userRefsResults": [
+                  {
+                    "result": {
+                      "typename": "User",
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/1714161418424193024/5MPQMqrI_normal.jpg"
+                      },
+                      "core": {
+                        "createdAt": "Tue May 19 17:54:15 +0000 2009",
+                        "name": "日テレNEWS NNN",
+                        "screenName": "news24ntv"
+                      },
+                      "dmPermissions": {
+                        "canDm": false
+                      },
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjo0MTE2Nzg5OQ==",
+                      "isBlueVerified": true,
+                      "legacy": {
+                        "defaultProfile": true,
+                        "defaultProfileImage": false,
+                        "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。",
+                        "entities": {
+                          "description": {
+                            "urls": [
+                              {
+                                "display_url": "news.ntv.co.jp/static/app/lp.…",
+                                "expanded_url": "https://news.ntv.co.jp/static/app/lp.html",
+                                "indices": [
+                                  37,
+                                  60
+                                ],
+                                "url": "https://t.co/lQjwzUzqAW"
+                              }
+                            ]
+                          },
+                          "url": {
+                            "urls": [
+                              {
+                                "display_url": "news.ntv.co.jp",
+                                "expanded_url": "https://news.ntv.co.jp/",
+                                "indices": [
+                                  0,
+                                  23
+                                ],
+                                "url": "https://t.co/yCJQqejGid"
+                              }
+                            ]
+                          }
+                        },
+                        "fastFollowersCount": 0,
+                        "favouritesCount": 527,
+                        "followRequestSent": false,
+                        "followersCount": 255277,
+                        "friendsCount": 66,
+                        "hasCustomTimelines": false,
+                        "isTranslator": false,
+                        "listedCount": 7462,
+                        "mediaCount": 10176,
+                        "normalFollowersCount": 255277,
+                        "notifications": false,
+                        "possiblySensitive": false,
+                        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/41167899/1696951051",
+                        "profileInterstitialType": "",
+                        "statusesCount": 333257,
+                        "timeZone": "",
+                        "translatorType": "none",
+                        "url": "https://t.co/yCJQqejGid",
+                        "utcOffset": 0,
+                        "withheldDescription": "",
+                        "withheldScope": ""
+                      },
+                      "location": {
+                        "location": "Tokyo, JAPAN"
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "privacy": {
+                        "_protected": false
+                      },
+                      "profileBio": {
+                        "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。"
+                      },
+                      "profileDescriptionLanguage": "ja",
+                      "profileImageShape": "Circle",
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false
+                      },
+                      "restId": "41167899",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tipjarSettings": {
+                        "bandcampHandle": "",
+                        "bitcoinHandle": "",
+                        "cashAppHandle": "",
+                        "ethereumHandle": "",
+                        "gofundmeHandle": "",
+                        "isEnabled": false,
+                        "patreonHandle": "",
+                        "payPalHandle": "",
+                        "venmoHandle": ""
+                      },
+                      "verification": {
+                        "verified": false
+                      }
+                    }
+                  }
+                ]
+              },
+              "restId": "https://t.co/4ECTArGK9V"
+            },
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1453364300878278659/ZydllH5f_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Tue May 03 08:58:15 +0000 2011",
+                    "name": "ＨＣ",
+                    "screenName": "umiyama21"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoyOTIyMTU1NTY=",
+                  "isBlueVerified": false,
+                  "legacy": {
+                    "defaultProfile": false,
+                    "defaultProfileImage": false,
+                    "description": "基本は壁打ち独り言とメタ解釈。 考察はマイ星座＝この点とこの点つないだらこういう絵に見えて面白くね？という幻覚を楽しむもの派。\nエゴを貫いて利他行動で崖に向かって等速で加速しながらついでに世界を巻き込んでいく馬鹿野どもに拗れるここ数年。",
+                    "entities": {
+                      "description": {}
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 28986,
+                    "followRequestSent": false,
+                    "followersCount": 6547,
+                    "friendsCount": 82,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "listedCount": 170,
+                    "mediaCount": 129,
+                    "normalFollowersCount": 6547,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "2092629540589941028"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "",
+                    "profileInterstitialType": "",
+                    "statusesCount": 49076,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": ""
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "基本は壁打ち独り言とメタ解釈。 考察はマイ星座＝この点とこの点つないだらこういう絵に見えて面白くね？という幻覚を楽しむもの派。\nエゴを貫いて利他行動で崖に向かって等速で加速しながらついでに世界を巻き込んでいく馬鹿野どもに拗れるここ数年。"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "292215556",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2076650808977072150"
+              ],
+              "editableUntilMsecs": "1783950709000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 1553,
+              "bookmarked": false,
+              "conversationIdStr": "2076650808977072150",
+              "createdAt": "Mon Jul 13 12:51:49 +0000 2026",
+              "displayTextRange": [
+                0,
+                158
+              ],
+              "entities": {
+                "urls": [
+                  {
+                    "displayUrl": "news.ntv.co.jp/category/polit…",
+                    "expandedUrl": "https://news.ntv.co.jp/category/politics/f258bde6f11d4ea4a90b49e957305ce9",
+                    "indices": [
+                      135,
+                      158
+                    ],
+                    "url": "https://t.co/4ECTArGK9V"
+                  }
+                ]
+              },
+              "favoriteCount": 23471,
+              "favorited": false,
+              "fullText": "ここ数か月ずっと自民党のめちゃくちゃな政治が止まんない無力感がキツかったけどマジで目から鱗。\n＞自民が出した法案の、悪いとこ全部修正した修正（改善）法案を通す\nという手があったのか。\n\n立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など｜日テレNEWS NNN https://t.co/4ECTArGK9V",
+              "idStr": "2076650808977072150",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "possiblySensitive": false,
+              "possiblySensitiveEditable": true,
+              "quoteCount": 115,
+              "replyCount": 40,
+              "retweetCount": 5308,
+              "retweeted": false,
+              "userIdStr": "292215556"
+            },
+            "restId": "2076650808977072150",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "unmentionData": {},
+            "views": {
+              "count": "464421",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2076890795458859494",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "2",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "card": {
+      "legacy": {
+        "bindingValues": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "imageValue": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "imageValue": {
+                "height": 150,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=280x150",
+                "width": 267
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "stringValue": "高市政権がいまの国会で成立を目指す皇室典範改正案をめぐり、立憲民主党は独自の修正案を取りまとめました。",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "stringValue": "news.ntv.co.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "imageValue": {
+                "height": 320,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x320_1",
+                "width": 569
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "imageValue": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "imageValue": {
+                "height": 675,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribeKey": "publisher_id",
+              "type": "USER",
+              "userValue": {
+                "idStr": "41167899"
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "imageValue": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "imageValue": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "imageValue": {
+                "height": 81,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "imageValue": {
+                "height": 675,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "imageValue": {
+                "height": 675,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribeKey": "vanity_url",
+              "stringValue": "news.ntv.co.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 35.19,
+                    "rgb": {
+                      "blue": 244,
+                      "green": 238,
+                      "red": 235
+                    }
+                  },
+                  {
+                    "percentage": 31.9,
+                    "rgb": {
+                      "blue": 158,
+                      "green": 96,
+                      "red": 88
+                    }
+                  },
+                  {
+                    "percentage": 15.09,
+                    "rgb": {
+                      "blue": 36,
+                      "green": 39,
+                      "red": 40
+                    }
+                  },
+                  {
+                    "percentage": 5.36,
+                    "rgb": {
+                      "blue": 97,
+                      "green": 119,
+                      "red": 155
+                    }
+                  },
+                  {
+                    "percentage": 1.35,
+                    "rgb": {
+                      "blue": 141,
+                      "green": 97,
+                      "red": 226
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "stringValue": "皇室典範改正案めぐり　立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など（2026年7月13日掲載）｜日テレNEWS NNN",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 35.19,
+                    "rgb": {
+                      "blue": 244,
+                      "green": 238,
+                      "red": 235
+                    }
+                  },
+                  {
+                    "percentage": 31.9,
+                    "rgb": {
+                      "blue": 158,
+                      "green": 96,
+                      "red": 88
+                    }
+                  },
+                  {
+                    "percentage": 15.09,
+                    "rgb": {
+                      "blue": 36,
+                      "green": 39,
+                      "red": 40
+                    }
+                  },
+                  {
+                    "percentage": 5.36,
+                    "rgb": {
+                      "blue": 97,
+                      "green": 119,
+                      "red": 155
+                    }
+                  },
+                  {
+                    "percentage": 1.35,
+                    "rgb": {
+                      "blue": 141,
+                      "green": 97,
+                      "red": 226
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "imageValue": {
+                "height": 675,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 35.19,
+                    "rgb": {
+                      "blue": 244,
+                      "green": 238,
+                      "red": 235
+                    }
+                  },
+                  {
+                    "percentage": 31.9,
+                    "rgb": {
+                      "blue": 158,
+                      "green": 96,
+                      "red": 88
+                    }
+                  },
+                  {
+                    "percentage": 15.09,
+                    "rgb": {
+                      "blue": 36,
+                      "green": 39,
+                      "red": 40
+                    }
+                  },
+                  {
+                    "percentage": 5.36,
+                    "rgb": {
+                      "blue": 97,
+                      "green": 119,
+                      "red": 155
+                    }
+                  },
+                  {
+                    "percentage": 1.35,
+                    "rgb": {
+                      "blue": 141,
+                      "green": 97,
+                      "red": 226
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "imageValue": {
+                "height": 675,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribeKey": "card_url",
+              "stringValue": "https://t.co/4ECTArGK9V",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "imageValue": {
+                "height": 675,
+                "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "cardPlatform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/4ECTArGK9V",
+        "userRefsResults": [
+          {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1714161418424193024/5MPQMqrI_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Tue May 19 17:54:15 +0000 2009",
+                "name": "日テレNEWS NNN",
+                "screenName": "news24ntv"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjo0MTE2Nzg5OQ==",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "news.ntv.co.jp/static/app/lp.…",
+                        "expanded_url": "https://news.ntv.co.jp/static/app/lp.html",
+                        "indices": [
+                          37,
+                          60
+                        ],
+                        "url": "https://t.co/lQjwzUzqAW"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "news.ntv.co.jp",
+                        "expanded_url": "https://news.ntv.co.jp/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/yCJQqejGid"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 527,
+                "followRequestSent": false,
+                "followersCount": 255277,
+                "friendsCount": 66,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 7462,
+                "mediaCount": 10176,
+                "normalFollowersCount": 255277,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/41167899/1696951051",
+                "profileInterstitialType": "",
+                "statusesCount": 333257,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/yCJQqejGid",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "Tokyo, JAPAN"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "41167899",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        ]
+      },
+      "restId": "https://t.co/4ECTArGK9V"
+    },
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2076890795458859494"
+      ],
+      "editableUntilMsecs": "1784007927059",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2076890795458859494",
+      "createdAt": "Tue Jul 14 04:45:27 +0000 2026",
+      "displayTextRange": [
+        0,
+        140
+      ],
+      "entities": {
+        "userMentions": [
+          {
+            "id_str": "292215556",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "ＨＣ",
+            "screen_name": "umiyama21"
+          }
+        ]
+      },
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "RT @umiyama21: ここ数か月ずっと自民党のめちゃくちゃな政治が止まんない無力感がキツかったけどマジで目から鱗。\n＞自民が出した法案の、悪いとこ全部修正した修正（改善）法案を通す\nという手があったのか。\n\n立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など｜日…",
+      "idStr": "2076890795458859494",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 5308,
+      "retweeted": false,
+      "retweetedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "card": {
+            "legacy": {
+              "bindingValues": [
+                {
+                  "key": "photo_image_full_size_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 419,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                      "width": 800
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image",
+                  "value": {
+                    "imageValue": {
+                      "height": 150,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=280x150",
+                      "width": 267
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "description",
+                  "value": {
+                    "stringValue": "高市政権がいまの国会で成立を目指す皇室典範改正案をめぐり、立憲民主党は独自の修正案を取りまとめました。",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "domain",
+                  "value": {
+                    "stringValue": "news.ntv.co.jp",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 320,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x320_1",
+                      "width": 569
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 202,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                      "width": 386
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 675,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                      "width": 1200
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "site",
+                  "value": {
+                    "scribeKey": "publisher_id",
+                    "type": "USER",
+                    "userValue": {
+                      "idStr": "41167899"
+                    }
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 202,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                      "width": 386
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 419,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                      "width": 800
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 81,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=144x144",
+                      "width": 144
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 675,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                      "width": 1200
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 675,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                      "width": 1200
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "vanity_url",
+                  "value": {
+                    "scribeKey": "vanity_url",
+                    "stringValue": "news.ntv.co.jp",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size",
+                  "value": {
+                    "imageValue": {
+                      "height": 314,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                      "width": 600
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 35.19,
+                          "rgb": {
+                            "blue": 244,
+                            "green": 238,
+                            "red": 235
+                          }
+                        },
+                        {
+                          "percentage": 31.9,
+                          "rgb": {
+                            "blue": 158,
+                            "green": 96,
+                            "red": 88
+                          }
+                        },
+                        {
+                          "percentage": 15.09,
+                          "rgb": {
+                            "blue": 36,
+                            "green": 39,
+                            "red": 40
+                          }
+                        },
+                        {
+                          "percentage": 5.36,
+                          "rgb": {
+                            "blue": 97,
+                            "green": 119,
+                            "red": 155
+                          }
+                        },
+                        {
+                          "percentage": 1.35,
+                          "rgb": {
+                            "blue": 141,
+                            "green": 97,
+                            "red": 226
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "title",
+                  "value": {
+                    "stringValue": "皇室典範改正案めぐり　立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など（2026年7月13日掲載）｜日テレNEWS NNN",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 35.19,
+                          "rgb": {
+                            "blue": 244,
+                            "green": 238,
+                            "red": 235
+                          }
+                        },
+                        {
+                          "percentage": 31.9,
+                          "rgb": {
+                            "blue": 158,
+                            "green": 96,
+                            "red": 88
+                          }
+                        },
+                        {
+                          "percentage": 15.09,
+                          "rgb": {
+                            "blue": 36,
+                            "green": 39,
+                            "red": 40
+                          }
+                        },
+                        {
+                          "percentage": 5.36,
+                          "rgb": {
+                            "blue": 97,
+                            "green": 119,
+                            "red": 155
+                          }
+                        },
+                        {
+                          "percentage": 1.35,
+                          "rgb": {
+                            "blue": 141,
+                            "green": 97,
+                            "red": 226
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 675,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                      "width": 1200
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image",
+                  "value": {
+                    "imageValue": {
+                      "height": 314,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                      "width": 600
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 35.19,
+                          "rgb": {
+                            "blue": 244,
+                            "green": 238,
+                            "red": 235
+                          }
+                        },
+                        {
+                          "percentage": 31.9,
+                          "rgb": {
+                            "blue": 158,
+                            "green": 96,
+                            "red": 88
+                          }
+                        },
+                        {
+                          "percentage": 15.09,
+                          "rgb": {
+                            "blue": 36,
+                            "green": 39,
+                            "red": 40
+                          }
+                        },
+                        {
+                          "percentage": 5.36,
+                          "rgb": {
+                            "blue": 97,
+                            "green": 119,
+                            "red": 155
+                          }
+                        },
+                        {
+                          "percentage": 1.35,
+                          "rgb": {
+                            "blue": 141,
+                            "green": 97,
+                            "red": 226
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 675,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                      "width": 1200
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "card_url",
+                  "value": {
+                    "scribeKey": "card_url",
+                    "stringValue": "https://t.co/4ECTArGK9V",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 675,
+                      "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                      "width": 1200
+                    },
+                    "type": "IMAGE"
+                  }
+                }
+              ],
+              "cardPlatform": {
+                "platform": {
+                  "audience": {
+                    "name": "production"
+                  },
+                  "device": {
+                    "name": "Swift",
+                    "version": "12"
+                  }
+                }
+              },
+              "name": "summary_large_image",
+              "url": "https://t.co/4ECTArGK9V",
+              "userRefsResults": [
+                {
+                  "result": {
+                    "typename": "User",
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/1714161418424193024/5MPQMqrI_normal.jpg"
+                    },
+                    "core": {
+                      "createdAt": "Tue May 19 17:54:15 +0000 2009",
+                      "name": "日テレNEWS NNN",
+                      "screenName": "news24ntv"
+                    },
+                    "dmPermissions": {
+                      "canDm": false
+                    },
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjo0MTE2Nzg5OQ==",
+                    "isBlueVerified": true,
+                    "legacy": {
+                      "defaultProfile": true,
+                      "defaultProfileImage": false,
+                      "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。",
+                      "entities": {
+                        "description": {
+                          "urls": [
+                            {
+                              "display_url": "news.ntv.co.jp/static/app/lp.…",
+                              "expanded_url": "https://news.ntv.co.jp/static/app/lp.html",
+                              "indices": [
+                                37,
+                                60
+                              ],
+                              "url": "https://t.co/lQjwzUzqAW"
+                            }
+                          ]
+                        },
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "news.ntv.co.jp",
+                              "expanded_url": "https://news.ntv.co.jp/",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/yCJQqejGid"
+                            }
+                          ]
+                        }
+                      },
+                      "fastFollowersCount": 0,
+                      "favouritesCount": 527,
+                      "followRequestSent": false,
+                      "followersCount": 255277,
+                      "friendsCount": 66,
+                      "hasCustomTimelines": false,
+                      "isTranslator": false,
+                      "listedCount": 7462,
+                      "mediaCount": 10176,
+                      "normalFollowersCount": 255277,
+                      "notifications": false,
+                      "possiblySensitive": false,
+                      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/41167899/1696951051",
+                      "profileInterstitialType": "",
+                      "statusesCount": 333257,
+                      "timeZone": "",
+                      "translatorType": "none",
+                      "url": "https://t.co/yCJQqejGid",
+                      "utcOffset": 0,
+                      "withheldDescription": "",
+                      "withheldScope": ""
+                    },
+                    "location": {
+                      "location": "Tokyo, JAPAN"
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "privacy": {
+                      "_protected": false
+                    },
+                    "profileBio": {
+                      "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。"
+                    },
+                    "profileDescriptionLanguage": "ja",
+                    "profileImageShape": "Circle",
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false
+                    },
+                    "restId": "41167899",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tipjarSettings": {
+                      "bandcampHandle": "",
+                      "bitcoinHandle": "",
+                      "cashAppHandle": "",
+                      "ethereumHandle": "",
+                      "gofundmeHandle": "",
+                      "isEnabled": false,
+                      "patreonHandle": "",
+                      "payPalHandle": "",
+                      "venmoHandle": ""
+                    },
+                    "verification": {
+                      "verified": false
+                    }
+                  }
+                }
+              ]
+            },
+            "restId": "https://t.co/4ECTArGK9V"
+          },
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1453364300878278659/ZydllH5f_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Tue May 03 08:58:15 +0000 2011",
+                  "name": "ＨＣ",
+                  "screenName": "umiyama21"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyOTIyMTU1NTY=",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "基本は壁打ち独り言とメタ解釈。 考察はマイ星座＝この点とこの点つないだらこういう絵に見えて面白くね？という幻覚を楽しむもの派。\nエゴを貫いて利他行動で崖に向かって等速で加速しながらついでに世界を巻き込んでいく馬鹿野どもに拗れるここ数年。",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 28986,
+                  "followRequestSent": false,
+                  "followersCount": 6547,
+                  "friendsCount": 82,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 170,
+                  "mediaCount": 129,
+                  "normalFollowersCount": 6547,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2092629540589941028"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "",
+                  "profileInterstitialType": "",
+                  "statusesCount": 49076,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "基本は壁打ち独り言とメタ解釈。 考察はマイ星座＝この点とこの点つないだらこういう絵に見えて面白くね？という幻覚を楽しむもの派。\nエゴを貫いて利他行動で崖に向かって等速で加速しながらついでに世界を巻き込んでいく馬鹿野どもに拗れるここ数年。"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "292215556",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2076650808977072150"
+            ],
+            "editableUntilMsecs": "1783950709000",
+            "editsRemaining": "5",
+            "isEditEligible": false
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 1553,
+            "bookmarked": false,
+            "conversationIdStr": "2076650808977072150",
+            "createdAt": "Mon Jul 13 12:51:49 +0000 2026",
+            "displayTextRange": [
+              0,
+              158
+            ],
+            "entities": {
+              "urls": [
+                {
+                  "displayUrl": "news.ntv.co.jp/category/polit…",
+                  "expandedUrl": "https://news.ntv.co.jp/category/politics/f258bde6f11d4ea4a90b49e957305ce9",
+                  "indices": [
+                    135,
+                    158
+                  ],
+                  "url": "https://t.co/4ECTArGK9V"
+                }
+              ]
+            },
+            "favoriteCount": 23471,
+            "favorited": false,
+            "fullText": "ここ数か月ずっと自民党のめちゃくちゃな政治が止まんない無力感がキツかったけどマジで目から鱗。\n＞自民が出した法案の、悪いとこ全部修正した修正（改善）法案を通す\nという手があったのか。\n\n立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など｜日テレNEWS NNN https://t.co/4ECTArGK9V",
+            "idStr": "2076650808977072150",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 115,
+            "replyCount": 40,
+            "retweetCount": 5308,
+            "retweeted": false,
+            "userIdStr": "292215556"
+          },
+          "restId": "2076650808977072150",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "464421",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2076890795458859494",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "2",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "retweeted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "card": {
+          "legacy": {
+            "bindingValues": [
+              {
+                "key": "photo_image_full_size_large",
+                "value": {
+                  "imageValue": {
+                    "height": 419,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                    "width": 800
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image",
+                "value": {
+                  "imageValue": {
+                    "height": 150,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=280x150",
+                    "width": 267
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "description",
+                "value": {
+                  "stringValue": "高市政権がいまの国会で成立を目指す皇室典範改正案をめぐり、立憲民主党は独自の修正案を取りまとめました。",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "domain",
+                "value": {
+                  "stringValue": "news.ntv.co.jp",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "thumbnail_image_large",
+                "value": {
+                  "imageValue": {
+                    "height": 320,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x320_1",
+                    "width": 569
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image_small",
+                "value": {
+                  "imageValue": {
+                    "height": 202,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                    "width": 386
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_original",
+                "value": {
+                  "imageValue": {
+                    "height": 675,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                    "width": 1200
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "site",
+                "value": {
+                  "scribeKey": "publisher_id",
+                  "type": "USER",
+                  "userValue": {
+                    "idStr": "41167899"
+                  }
+                }
+              },
+              {
+                "key": "photo_image_full_size_small",
+                "value": {
+                  "imageValue": {
+                    "height": 202,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                    "width": 386
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image_large",
+                "value": {
+                  "imageValue": {
+                    "height": 419,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                    "width": 800
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_small",
+                "value": {
+                  "imageValue": {
+                    "height": 81,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=144x144",
+                    "width": 144
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 675,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                    "width": 1200
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_original",
+                "value": {
+                  "imageValue": {
+                    "height": 675,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                    "width": 1200
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "vanity_url",
+                "value": {
+                  "scribeKey": "vanity_url",
+                  "stringValue": "news.ntv.co.jp",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "photo_image_full_size",
+                "value": {
+                  "imageValue": {
+                    "height": 314,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                    "width": 600
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 35.19,
+                        "rgb": {
+                          "blue": 244,
+                          "green": 238,
+                          "red": 235
+                        }
+                      },
+                      {
+                        "percentage": 31.9,
+                        "rgb": {
+                          "blue": 158,
+                          "green": 96,
+                          "red": 88
+                        }
+                      },
+                      {
+                        "percentage": 15.09,
+                        "rgb": {
+                          "blue": 36,
+                          "green": 39,
+                          "red": 40
+                        }
+                      },
+                      {
+                        "percentage": 5.36,
+                        "rgb": {
+                          "blue": 97,
+                          "green": 119,
+                          "red": 155
+                        }
+                      },
+                      {
+                        "percentage": 1.35,
+                        "rgb": {
+                          "blue": 141,
+                          "green": 97,
+                          "red": 226
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "title",
+                "value": {
+                  "stringValue": "皇室典範改正案めぐり　立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など（2026年7月13日掲載）｜日テレNEWS NNN",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "summary_photo_image_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 35.19,
+                        "rgb": {
+                          "blue": 244,
+                          "green": 238,
+                          "red": 235
+                        }
+                      },
+                      {
+                        "percentage": 31.9,
+                        "rgb": {
+                          "blue": 158,
+                          "green": 96,
+                          "red": 88
+                        }
+                      },
+                      {
+                        "percentage": 15.09,
+                        "rgb": {
+                          "blue": 36,
+                          "green": 39,
+                          "red": 40
+                        }
+                      },
+                      {
+                        "percentage": 5.36,
+                        "rgb": {
+                          "blue": 97,
+                          "green": 119,
+                          "red": 155
+                        }
+                      },
+                      {
+                        "percentage": 1.35,
+                        "rgb": {
+                          "blue": 141,
+                          "green": 97,
+                          "red": 226
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "summary_photo_image_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 675,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                    "width": 1200
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image",
+                "value": {
+                  "imageValue": {
+                    "height": 314,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                    "width": 600
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 35.19,
+                        "rgb": {
+                          "blue": 244,
+                          "green": 238,
+                          "red": 235
+                        }
+                      },
+                      {
+                        "percentage": 31.9,
+                        "rgb": {
+                          "blue": 158,
+                          "green": 96,
+                          "red": 88
+                        }
+                      },
+                      {
+                        "percentage": 15.09,
+                        "rgb": {
+                          "blue": 36,
+                          "green": 39,
+                          "red": 40
+                        }
+                      },
+                      {
+                        "percentage": 5.36,
+                        "rgb": {
+                          "blue": 97,
+                          "green": 119,
+                          "red": 155
+                        }
+                      },
+                      {
+                        "percentage": 1.35,
+                        "rgb": {
+                          "blue": 141,
+                          "green": 97,
+                          "red": 226
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "photo_image_full_size_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 675,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                    "width": 1200
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "card_url",
+                "value": {
+                  "scribeKey": "card_url",
+                  "stringValue": "https://t.co/4ECTArGK9V",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "summary_photo_image_original",
+                "value": {
+                  "imageValue": {
+                    "height": 675,
+                    "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                    "width": 1200
+                  },
+                  "type": "IMAGE"
+                }
+              }
+            ],
+            "cardPlatform": {
+              "platform": {
+                "audience": {
+                  "name": "production"
+                },
+                "device": {
+                  "name": "Swift",
+                  "version": "12"
+                }
+              }
+            },
+            "name": "summary_large_image",
+            "url": "https://t.co/4ECTArGK9V",
+            "userRefsResults": [
+              {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1714161418424193024/5MPQMqrI_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Tue May 19 17:54:15 +0000 2009",
+                    "name": "日テレNEWS NNN",
+                    "screenName": "news24ntv"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjo0MTE2Nzg5OQ==",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": true,
+                    "defaultProfileImage": false,
+                    "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "display_url": "news.ntv.co.jp/static/app/lp.…",
+                            "expanded_url": "https://news.ntv.co.jp/static/app/lp.html",
+                            "indices": [
+                              37,
+                              60
+                            ],
+                            "url": "https://t.co/lQjwzUzqAW"
+                          }
+                        ]
+                      },
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "news.ntv.co.jp",
+                            "expanded_url": "https://news.ntv.co.jp/",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/yCJQqejGid"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 527,
+                    "followRequestSent": false,
+                    "followersCount": 255277,
+                    "friendsCount": 66,
+                    "hasCustomTimelines": false,
+                    "isTranslator": false,
+                    "listedCount": 7462,
+                    "mediaCount": 10176,
+                    "normalFollowersCount": 255277,
+                    "notifications": false,
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/41167899/1696951051",
+                    "profileInterstitialType": "",
+                    "statusesCount": 333257,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/yCJQqejGid",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "Tokyo, JAPAN"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "41167899",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            ]
+          },
+          "restId": "https://t.co/4ECTArGK9V"
+        },
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1453364300878278659/ZydllH5f_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Tue May 03 08:58:15 +0000 2011",
+                "name": "ＨＣ",
+                "screenName": "umiyama21"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyOTIyMTU1NTY=",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "基本は壁打ち独り言とメタ解釈。 考察はマイ星座＝この点とこの点つないだらこういう絵に見えて面白くね？という幻覚を楽しむもの派。\nエゴを貫いて利他行動で崖に向かって等速で加速しながらついでに世界を巻き込んでいく馬鹿野どもに拗れるここ数年。",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 28986,
+                "followRequestSent": false,
+                "followersCount": 6547,
+                "friendsCount": 82,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 170,
+                "mediaCount": 129,
+                "normalFollowersCount": 6547,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2092629540589941028"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "",
+                "profileInterstitialType": "",
+                "statusesCount": 49076,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "基本は壁打ち独り言とメタ解釈。 考察はマイ星座＝この点とこの点つないだらこういう絵に見えて面白くね？という幻覚を楽しむもの派。\nエゴを貫いて利他行動で崖に向かって等速で加速しながらついでに世界を巻き込んでいく馬鹿野どもに拗れるここ数年。"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "292215556",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2076650808977072150"
+          ],
+          "editableUntilMsecs": "1783950709000",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 1553,
+          "bookmarked": false,
+          "conversationIdStr": "2076650808977072150",
+          "createdAt": "Mon Jul 13 12:51:49 +0000 2026",
+          "displayTextRange": [
+            0,
+            158
+          ],
+          "entities": {
+            "urls": [
+              {
+                "displayUrl": "news.ntv.co.jp/category/polit…",
+                "expandedUrl": "https://news.ntv.co.jp/category/politics/f258bde6f11d4ea4a90b49e957305ce9",
+                "indices": [
+                  135,
+                  158
+                ],
+                "url": "https://t.co/4ECTArGK9V"
+              }
+            ]
+          },
+          "favoriteCount": 23471,
+          "favorited": false,
+          "fullText": "ここ数か月ずっと自民党のめちゃくちゃな政治が止まんない無力感がキツかったけどマジで目から鱗。\n＞自民が出した法案の、悪いとこ全部修正した修正（改善）法案を通す\nという手があったのか。\n\n立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など｜日テレNEWS NNN https://t.co/4ECTArGK9V",
+          "idStr": "2076650808977072150",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 115,
+          "replyCount": 40,
+          "retweetCount": 5308,
+          "retweeted": false,
+          "userIdStr": "292215556"
+        },
+        "restId": "2076650808977072150",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "464421",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "imageValue": {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=280x150",
+                  "width": 267
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "stringValue": "高市政権がいまの国会で成立を目指す皇室典範改正案をめぐり、立憲民主党は独自の修正案を取りまとめました。",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "stringValue": "news.ntv.co.jp",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x320_1",
+                  "width": 569
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribeKey": "publisher_id",
+                "type": "USER",
+                "userValue": {
+                  "idStr": "41167899"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 81,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=144x144",
+                  "width": 144
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribeKey": "vanity_url",
+                "stringValue": "news.ntv.co.jp",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 35.19,
+                      "rgb": {
+                        "blue": 244,
+                        "green": 238,
+                        "red": 235
+                      }
+                    },
+                    {
+                      "percentage": 31.9,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 96,
+                        "red": 88
+                      }
+                    },
+                    {
+                      "percentage": 15.09,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 39,
+                        "red": 40
+                      }
+                    },
+                    {
+                      "percentage": 5.36,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 119,
+                        "red": 155
+                      }
+                    },
+                    {
+                      "percentage": 1.35,
+                      "rgb": {
+                        "blue": 141,
+                        "green": 97,
+                        "red": 226
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "stringValue": "皇室典範改正案めぐり　立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など（2026年7月13日掲載）｜日テレNEWS NNN",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 35.19,
+                      "rgb": {
+                        "blue": 244,
+                        "green": 238,
+                        "red": 235
+                      }
+                    },
+                    {
+                      "percentage": 31.9,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 96,
+                        "red": 88
+                      }
+                    },
+                    {
+                      "percentage": 15.09,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 39,
+                        "red": 40
+                      }
+                    },
+                    {
+                      "percentage": 5.36,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 119,
+                        "red": 155
+                      }
+                    },
+                    {
+                      "percentage": 1.35,
+                      "rgb": {
+                        "blue": 141,
+                        "green": 97,
+                        "red": 226
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 35.19,
+                      "rgb": {
+                        "blue": 244,
+                        "green": 238,
+                        "red": 235
+                      }
+                    },
+                    {
+                      "percentage": 31.9,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 96,
+                        "red": 88
+                      }
+                    },
+                    {
+                      "percentage": 15.09,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 39,
+                        "red": 40
+                      }
+                    },
+                    {
+                      "percentage": 5.36,
+                      "rgb": {
+                        "blue": 97,
+                        "green": 119,
+                        "red": 155
+                      }
+                    },
+                    {
+                      "percentage": 1.35,
+                      "rgb": {
+                        "blue": 141,
+                        "green": 97,
+                        "red": 226
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://t.co/4ECTArGK9V",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2092258596772007936/jW-AYWcR?format=jpg&name=orig",
+                  "width": 1200
+                },
+                "type": "IMAGE"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/4ECTArGK9V",
+          "userRefsResults": [
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1714161418424193024/5MPQMqrI_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Tue May 19 17:54:15 +0000 2009",
+                  "name": "日テレNEWS NNN",
+                  "screenName": "news24ntv"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjo0MTE2Nzg5OQ==",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "news.ntv.co.jp/static/app/lp.…",
+                          "expanded_url": "https://news.ntv.co.jp/static/app/lp.html",
+                          "indices": [
+                            37,
+                            60
+                          ],
+                          "url": "https://t.co/lQjwzUzqAW"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "news.ntv.co.jp",
+                          "expanded_url": "https://news.ntv.co.jp/",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/yCJQqejGid"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 527,
+                  "followRequestSent": false,
+                  "followersCount": 255277,
+                  "friendsCount": 66,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 7462,
+                  "mediaCount": 10176,
+                  "normalFollowersCount": 255277,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/41167899/1696951051",
+                  "profileInterstitialType": "",
+                  "statusesCount": 333257,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/yCJQqejGid",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "Tokyo, JAPAN"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "日本テレビ公式アカウントです。\n▼アプリ「日テレNEWS NNN」登場▼（https://t.co/lQjwzUzqAW）24時間365日のニュース配信に加え新たに番組参加機能を実装しました。"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "41167899",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          ]
+        },
+        "restId": "https://t.co/4ECTArGK9V"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1453364300878278659/ZydllH5f_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Tue May 03 08:58:15 +0000 2011",
+              "name": "ＨＣ",
+              "screenName": "umiyama21"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoyOTIyMTU1NTY=",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": false,
+              "defaultProfileImage": false,
+              "description": "基本は壁打ち独り言とメタ解釈。 考察はマイ星座＝この点とこの点つないだらこういう絵に見えて面白くね？という幻覚を楽しむもの派。\nエゴを貫いて利他行動で崖に向かって等速で加速しながらついでに世界を巻き込んでいく馬鹿野どもに拗れるここ数年。",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 28986,
+              "followRequestSent": false,
+              "followersCount": 6547,
+              "friendsCount": 82,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "listedCount": 170,
+              "mediaCount": 129,
+              "normalFollowersCount": 6547,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2092629540589941028"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "",
+              "profileInterstitialType": "",
+              "statusesCount": 49076,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "基本は壁打ち独り言とメタ解釈。 考察はマイ星座＝この点とこの点つないだらこういう絵に見えて面白くね？という幻覚を楽しむもの派。\nエゴを貫いて利他行動で崖に向かって等速で加速しながらついでに世界を巻き込んでいく馬鹿野どもに拗れるここ数年。"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "292215556",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2076650808977072150"
+        ],
+        "editableUntilMsecs": "1783950709000",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 1553,
+        "bookmarked": false,
+        "conversationIdStr": "2076650808977072150",
+        "createdAt": "Mon Jul 13 12:51:49 +0000 2026",
+        "displayTextRange": [
+          0,
+          158
+        ],
+        "entities": {
+          "urls": [
+            {
+              "displayUrl": "news.ntv.co.jp/category/polit…",
+              "expandedUrl": "https://news.ntv.co.jp/category/politics/f258bde6f11d4ea4a90b49e957305ce9",
+              "indices": [
+                135,
+                158
+              ],
+              "url": "https://t.co/4ECTArGK9V"
+            }
+          ]
+        },
+        "favoriteCount": 23471,
+        "favorited": false,
+        "fullText": "ここ数か月ずっと自民党のめちゃくちゃな政治が止まんない無力感がキツかったけどマジで目から鱗。\n＞自民が出した法案の、悪いとこ全部修正した修正（改善）法案を通す\nという手があったのか。\n\n立憲、独自修正案を取りまとめ　“旧宮家からの養子”削除など｜日テレNEWS NNN https://t.co/4ECTArGK9V",
+        "idStr": "2076650808977072150",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 115,
+        "replyCount": 40,
+        "retweetCount": 5308,
+        "retweeted": false,
+        "userIdStr": "292215556"
+      },
+      "restId": "2076650808977072150",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "464421",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1453364300878278659/ZydllH5f_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Tue May 03 08:58:15 +0000 2011",
+        "name": "ＨＣ",
+        "screenName": "umiyama21"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoyOTIyMTU1NTY=",
+      "isBlueVerified": false,
+      "legacy": {
+        "defaultProfile": false,
+        "defaultProfileImage": false,
+        "description": "基本は壁打ち独り言とメタ解釈。 考察はマイ星座＝この点とこの点つないだらこういう絵に見えて面白くね？という幻覚を楽しむもの派。\nエゴを貫いて利他行動で崖に向かって等速で加速しながらついでに世界を巻き込んでいく馬鹿野どもに拗れるここ数年。",
+        "entities": {
+          "description": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 28986,
+        "followRequestSent": false,
+        "followersCount": 6547,
+        "friendsCount": 82,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "listedCount": 170,
+        "mediaCount": 129,
+        "normalFollowersCount": 6547,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "2092629540589941028"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "",
+        "profileInterstitialType": "",
+        "statusesCount": 49076,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": ""
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "基本は壁打ち独り言とメタ解釈。 考察はマイ星座＝この点とこの点つないだらこういう絵に見えて面白くね？という幻覚を楽しむもの派。\nエゴを貫いて利他行動で崖に向かって等速で加速しながらついでに世界を巻き込んでいく馬鹿野どもに拗れるここ数年。"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "292215556",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}

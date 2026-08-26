@@ -1,0 +1,2313 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2062797233704329342"
+        ],
+        "editableUntilMsecs": "1780647760000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": false,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2062797233704329342",
+        "createdAt": "Fri Jun 05 07:22:40 +0000 2026",
+        "displayTextRange": [
+          0,
+          5
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                5
+              ],
+              "text": "鬱グルト"
+            }
+          ],
+          "media": [
+            {
+              "displayUrl": "pic.x.com/JqOHgqnsvl",
+              "expandedUrl": "https://x.com/299792457_/status/2062797233704329342/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2062797227408621568",
+              "indices": [
+                6,
+                29
+              ],
+              "mediaKey": "3_2062797227408621568",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2062797227408621568"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HKCHJi9aAAAX9Es.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 860,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 338
+                  },
+                  {
+                    "h": 1536,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1751,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1024,
+                    "x": 256,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 1536
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "resize": "fit",
+                  "w": 1536
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 900
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 510
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/JqOHgqnsvl"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "displayUrl": "pic.x.com/JqOHgqnsvl",
+              "expandedUrl": "https://x.com/299792457_/status/2062797233704329342/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2062797227408621568",
+              "indices": [
+                6,
+                29
+              ],
+              "mediaKey": "3_2062797227408621568",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2062797227408621568"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HKCHJi9aAAAX9Es.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 860,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 338
+                  },
+                  {
+                    "h": 1536,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1751,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1024,
+                    "x": 256,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 1536
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "resize": "fit",
+                  "w": 1536
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 900
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 510
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/JqOHgqnsvl"
+            }
+          ]
+        },
+        "favoriteCount": 8,
+        "favorited": false,
+        "fullText": "#鬱グルト https://t.co/JqOHgqnsvl",
+        "idStr": "2062797233704329342",
+        "isQuoteStatus": true,
+        "lang": "qme",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2060710708606906712",
+        "quotedStatusPermalink": {
+          "display": "x.com/IttaFunahashi/…",
+          "expanded": "https://twitter.com/IttaFunahashi/status/2060710708606906712",
+          "url": "https://t.co/I3aC9T2ZLw"
+        },
+        "replyCount": 0,
+        "retweetCount": 1,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1998668551251701763/rAdjm_BA_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Sun Jul 11 10:24:42 +0000 2021",
+                  "name": "Itta Funahashi",
+                  "screenName": "IttaFunahashi"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNDE0MTY4NzA2NzEyNjI1MTU2",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "itta.dev",
+                          "expanded_url": "https://itta.dev",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/4cZHJl7Ycc"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 6933,
+                  "followRequestSent": false,
+                  "followersCount": 706,
+                  "friendsCount": 1390,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 3,
+                  "mediaCount": 186,
+                  "normalFollowersCount": 706,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414168706712625156/1777037621",
+                  "profileInterstitialType": "",
+                  "statusesCount": 1137,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/4cZHJl7Ycc",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "Aichi, Japan"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "professional": {
+                  "category": [],
+                  "professionalType": "Creator",
+                  "restId": "1501839307023462402"
+                },
+                "profileBio": {
+                  "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1414168706712625156",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2060710708606906712"
+            ],
+            "editableUntilMsecs": "1780150293000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": false,
+          "legacy": {
+            "bookmarkCount": 0,
+            "bookmarked": false,
+            "conversationIdStr": "2060710708606906712",
+            "createdAt": "Sat May 30 13:11:33 +0000 2026",
+            "displayTextRange": [
+              0,
+              5
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    0,
+                    5
+                  ],
+                  "text": "躁グルト"
+                }
+              ],
+              "media": [
+                {
+                  "displayUrl": "pic.x.com/lrZi5j6xSa",
+                  "expandedUrl": "https://x.com/IttaFunahashi/status/2060710708606906712/photo/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "idStr": "2060710701413580800",
+                  "indices": [
+                    6,
+                    29
+                  ],
+                  "mediaKey": "3_2060710701413580800",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "3_2060710701413580800"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/media/HJkddv6aQAAG5Pn.jpg",
+                  "originalInfo": {
+                    "focusRects": [
+                      {
+                        "h": 860,
+                        "w": 1536,
+                        "x": 0,
+                        "y": 338
+                      },
+                      {
+                        "h": 1536,
+                        "w": 1536,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1751,
+                        "w": 1536,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 2048,
+                        "w": 1024,
+                        "x": 460,
+                        "y": 0
+                      },
+                      {
+                        "h": 2048,
+                        "w": 1536,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 2048,
+                    "width": 1536
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 2048,
+                      "resize": "fit",
+                      "w": 1536
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "resize": "fit",
+                      "w": 900
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 510
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/lrZi5j6xSa"
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "displayUrl": "pic.x.com/lrZi5j6xSa",
+                  "expandedUrl": "https://x.com/IttaFunahashi/status/2060710708606906712/photo/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "idStr": "2060710701413580800",
+                  "indices": [
+                    6,
+                    29
+                  ],
+                  "mediaKey": "3_2060710701413580800",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "3_2060710701413580800"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/media/HJkddv6aQAAG5Pn.jpg",
+                  "originalInfo": {
+                    "focusRects": [
+                      {
+                        "h": 860,
+                        "w": 1536,
+                        "x": 0,
+                        "y": 338
+                      },
+                      {
+                        "h": 1536,
+                        "w": 1536,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1751,
+                        "w": 1536,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 2048,
+                        "w": 1024,
+                        "x": 460,
+                        "y": 0
+                      },
+                      {
+                        "h": 2048,
+                        "w": 1536,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 2048,
+                    "width": 1536
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 2048,
+                      "resize": "fit",
+                      "w": 1536
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "resize": "fit",
+                      "w": 900
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 510
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/lrZi5j6xSa"
+                }
+              ]
+            },
+            "favoriteCount": 12,
+            "favorited": false,
+            "fullText": "#躁グルト https://t.co/lrZi5j6xSa",
+            "idStr": "2060710708606906712",
+            "isQuoteStatus": false,
+            "lang": "qme",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 1,
+            "replyCount": 0,
+            "retweetCount": 4,
+            "retweeted": false,
+            "userIdStr": "1414168706712625156"
+          },
+          "restId": "2060710708606906712",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "825",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2062797233704329342",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "423",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2062797233704329342"
+      ],
+      "editableUntilMsecs": "1780647760000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": false,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2062797233704329342",
+      "createdAt": "Fri Jun 05 07:22:40 +0000 2026",
+      "displayTextRange": [
+        0,
+        5
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              5
+            ],
+            "text": "鬱グルト"
+          }
+        ],
+        "media": [
+          {
+            "displayUrl": "pic.x.com/JqOHgqnsvl",
+            "expandedUrl": "https://x.com/299792457_/status/2062797233704329342/photo/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "idStr": "2062797227408621568",
+            "indices": [
+              6,
+              29
+            ],
+            "mediaKey": "3_2062797227408621568",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "3_2062797227408621568"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/media/HKCHJi9aAAAX9Es.jpg",
+            "originalInfo": {
+              "focusRects": [
+                {
+                  "h": 860,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 338
+                },
+                {
+                  "h": 1536,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1751,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1024,
+                  "x": 256,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 1536
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/JqOHgqnsvl"
+          }
+        ]
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "displayUrl": "pic.x.com/JqOHgqnsvl",
+            "expandedUrl": "https://x.com/299792457_/status/2062797233704329342/photo/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "idStr": "2062797227408621568",
+            "indices": [
+              6,
+              29
+            ],
+            "mediaKey": "3_2062797227408621568",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "3_2062797227408621568"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/media/HKCHJi9aAAAX9Es.jpg",
+            "originalInfo": {
+              "focusRects": [
+                {
+                  "h": 860,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 338
+                },
+                {
+                  "h": 1536,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1751,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1024,
+                  "x": 256,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1536,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 1536
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/JqOHgqnsvl"
+          }
+        ]
+      },
+      "favoriteCount": 8,
+      "favorited": false,
+      "fullText": "#鬱グルト https://t.co/JqOHgqnsvl",
+      "idStr": "2062797233704329342",
+      "isQuoteStatus": true,
+      "lang": "qme",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2060710708606906712",
+      "quotedStatusPermalink": {
+        "display": "x.com/IttaFunahashi/…",
+        "expanded": "https://twitter.com/IttaFunahashi/status/2060710708606906712",
+        "url": "https://t.co/I3aC9T2ZLw"
+      },
+      "replyCount": 0,
+      "retweetCount": 1,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1998668551251701763/rAdjm_BA_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sun Jul 11 10:24:42 +0000 2021",
+                "name": "Itta Funahashi",
+                "screenName": "IttaFunahashi"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNDE0MTY4NzA2NzEyNjI1MTU2",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "itta.dev",
+                        "expanded_url": "https://itta.dev",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/4cZHJl7Ycc"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 6933,
+                "followRequestSent": false,
+                "followersCount": 706,
+                "friendsCount": 1390,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 3,
+                "mediaCount": 186,
+                "normalFollowersCount": 706,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414168706712625156/1777037621",
+                "profileInterstitialType": "",
+                "statusesCount": 1137,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/4cZHJl7Ycc",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "Aichi, Japan"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "professional": {
+                "category": [],
+                "professionalType": "Creator",
+                "restId": "1501839307023462402"
+              },
+              "profileBio": {
+                "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1414168706712625156",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2060710708606906712"
+          ],
+          "editableUntilMsecs": "1780150293000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": false,
+        "legacy": {
+          "bookmarkCount": 0,
+          "bookmarked": false,
+          "conversationIdStr": "2060710708606906712",
+          "createdAt": "Sat May 30 13:11:33 +0000 2026",
+          "displayTextRange": [
+            0,
+            5
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  0,
+                  5
+                ],
+                "text": "躁グルト"
+              }
+            ],
+            "media": [
+              {
+                "displayUrl": "pic.x.com/lrZi5j6xSa",
+                "expandedUrl": "https://x.com/IttaFunahashi/status/2060710708606906712/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2060710701413580800",
+                "indices": [
+                  6,
+                  29
+                ],
+                "mediaKey": "3_2060710701413580800",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2060710701413580800"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HJkddv6aQAAG5Pn.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 860,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 338
+                    },
+                    {
+                      "h": 1536,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1751,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1024,
+                      "x": 460,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 2048,
+                  "width": 1536
+                },
+                "sizes": {
+                  "large": {
+                    "h": 2048,
+                    "resize": "fit",
+                    "w": 1536
+                  },
+                  "medium": {
+                    "h": 1200,
+                    "resize": "fit",
+                    "w": 900
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 510
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/lrZi5j6xSa"
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "displayUrl": "pic.x.com/lrZi5j6xSa",
+                "expandedUrl": "https://x.com/IttaFunahashi/status/2060710708606906712/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2060710701413580800",
+                "indices": [
+                  6,
+                  29
+                ],
+                "mediaKey": "3_2060710701413580800",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2060710701413580800"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HJkddv6aQAAG5Pn.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 860,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 338
+                    },
+                    {
+                      "h": 1536,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1751,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1024,
+                      "x": 460,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 2048,
+                  "width": 1536
+                },
+                "sizes": {
+                  "large": {
+                    "h": 2048,
+                    "resize": "fit",
+                    "w": 1536
+                  },
+                  "medium": {
+                    "h": 1200,
+                    "resize": "fit",
+                    "w": 900
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 510
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/lrZi5j6xSa"
+              }
+            ]
+          },
+          "favoriteCount": 12,
+          "favorited": false,
+          "fullText": "#躁グルト https://t.co/lrZi5j6xSa",
+          "idStr": "2060710708606906712",
+          "isQuoteStatus": false,
+          "lang": "qme",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 1,
+          "replyCount": 0,
+          "retweetCount": 4,
+          "retweeted": false,
+          "userIdStr": "1414168706712625156"
+        },
+        "restId": "2060710708606906712",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "825",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2062797233704329342",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "423",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1998668551251701763/rAdjm_BA_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sun Jul 11 10:24:42 +0000 2021",
+                "name": "Itta Funahashi",
+                "screenName": "IttaFunahashi"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNDE0MTY4NzA2NzEyNjI1MTU2",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "itta.dev",
+                        "expanded_url": "https://itta.dev",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/4cZHJl7Ycc"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 6933,
+                "followRequestSent": false,
+                "followersCount": 706,
+                "friendsCount": 1390,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 3,
+                "mediaCount": 186,
+                "normalFollowersCount": 706,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414168706712625156/1777037621",
+                "profileInterstitialType": "",
+                "statusesCount": 1137,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/4cZHJl7Ycc",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "Aichi, Japan"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "professional": {
+                "category": [],
+                "professionalType": "Creator",
+                "restId": "1501839307023462402"
+              },
+              "profileBio": {
+                "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1414168706712625156",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2060710708606906712"
+          ],
+          "editableUntilMsecs": "1780150293000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": false,
+        "legacy": {
+          "bookmarkCount": 0,
+          "bookmarked": false,
+          "conversationIdStr": "2060710708606906712",
+          "createdAt": "Sat May 30 13:11:33 +0000 2026",
+          "displayTextRange": [
+            0,
+            5
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  0,
+                  5
+                ],
+                "text": "躁グルト"
+              }
+            ],
+            "media": [
+              {
+                "displayUrl": "pic.x.com/lrZi5j6xSa",
+                "expandedUrl": "https://x.com/IttaFunahashi/status/2060710708606906712/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2060710701413580800",
+                "indices": [
+                  6,
+                  29
+                ],
+                "mediaKey": "3_2060710701413580800",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2060710701413580800"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HJkddv6aQAAG5Pn.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 860,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 338
+                    },
+                    {
+                      "h": 1536,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1751,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1024,
+                      "x": 460,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 2048,
+                  "width": 1536
+                },
+                "sizes": {
+                  "large": {
+                    "h": 2048,
+                    "resize": "fit",
+                    "w": 1536
+                  },
+                  "medium": {
+                    "h": 1200,
+                    "resize": "fit",
+                    "w": 900
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 510
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/lrZi5j6xSa"
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "displayUrl": "pic.x.com/lrZi5j6xSa",
+                "expandedUrl": "https://x.com/IttaFunahashi/status/2060710708606906712/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2060710701413580800",
+                "indices": [
+                  6,
+                  29
+                ],
+                "mediaKey": "3_2060710701413580800",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2060710701413580800"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HJkddv6aQAAG5Pn.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 860,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 338
+                    },
+                    {
+                      "h": 1536,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1751,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1024,
+                      "x": 460,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1536,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 2048,
+                  "width": 1536
+                },
+                "sizes": {
+                  "large": {
+                    "h": 2048,
+                    "resize": "fit",
+                    "w": 1536
+                  },
+                  "medium": {
+                    "h": 1200,
+                    "resize": "fit",
+                    "w": 900
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 510
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/lrZi5j6xSa"
+              }
+            ]
+          },
+          "favoriteCount": 12,
+          "favorited": false,
+          "fullText": "#躁グルト https://t.co/lrZi5j6xSa",
+          "idStr": "2060710708606906712",
+          "isQuoteStatus": false,
+          "lang": "qme",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 1,
+          "replyCount": 0,
+          "retweetCount": 4,
+          "retweeted": false,
+          "userIdStr": "1414168706712625156"
+        },
+        "restId": "2060710708606906712",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "825",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1998668551251701763/rAdjm_BA_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sun Jul 11 10:24:42 +0000 2021",
+              "name": "Itta Funahashi",
+              "screenName": "IttaFunahashi"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxNDE0MTY4NzA2NzEyNjI1MTU2",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "itta.dev",
+                      "expanded_url": "https://itta.dev",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/4cZHJl7Ycc"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 6933,
+              "followRequestSent": false,
+              "followersCount": 706,
+              "friendsCount": 1390,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 3,
+              "mediaCount": 186,
+              "normalFollowersCount": 706,
+              "notifications": false,
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414168706712625156/1777037621",
+              "profileInterstitialType": "",
+              "statusesCount": 1137,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/4cZHJl7Ycc",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "Aichi, Japan"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "professional": {
+              "category": [],
+              "professionalType": "Creator",
+              "restId": "1501839307023462402"
+            },
+            "profileBio": {
+              "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1414168706712625156",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2060710708606906712"
+        ],
+        "editableUntilMsecs": "1780150293000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": false,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2060710708606906712",
+        "createdAt": "Sat May 30 13:11:33 +0000 2026",
+        "displayTextRange": [
+          0,
+          5
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                5
+              ],
+              "text": "躁グルト"
+            }
+          ],
+          "media": [
+            {
+              "displayUrl": "pic.x.com/lrZi5j6xSa",
+              "expandedUrl": "https://x.com/IttaFunahashi/status/2060710708606906712/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2060710701413580800",
+              "indices": [
+                6,
+                29
+              ],
+              "mediaKey": "3_2060710701413580800",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2060710701413580800"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HJkddv6aQAAG5Pn.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 860,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 338
+                  },
+                  {
+                    "h": 1536,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1751,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1024,
+                    "x": 460,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 1536
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "resize": "fit",
+                  "w": 1536
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 900
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 510
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/lrZi5j6xSa"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "displayUrl": "pic.x.com/lrZi5j6xSa",
+              "expandedUrl": "https://x.com/IttaFunahashi/status/2060710708606906712/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2060710701413580800",
+              "indices": [
+                6,
+                29
+              ],
+              "mediaKey": "3_2060710701413580800",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2060710701413580800"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HJkddv6aQAAG5Pn.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 860,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 338
+                  },
+                  {
+                    "h": 1536,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1751,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1024,
+                    "x": 460,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 1536,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 1536
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "resize": "fit",
+                  "w": 1536
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 900
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 510
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/lrZi5j6xSa"
+            }
+          ]
+        },
+        "favoriteCount": 12,
+        "favorited": false,
+        "fullText": "#躁グルト https://t.co/lrZi5j6xSa",
+        "idStr": "2060710708606906712",
+        "isQuoteStatus": false,
+        "lang": "qme",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 1,
+        "replyCount": 0,
+        "retweetCount": 4,
+        "retweeted": false,
+        "userIdStr": "1414168706712625156"
+      },
+      "restId": "2060710708606906712",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "825",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1998668551251701763/rAdjm_BA_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Sun Jul 11 10:24:42 +0000 2021",
+        "name": "Itta Funahashi",
+        "screenName": "IttaFunahashi"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxNDE0MTY4NzA2NzEyNjI1MTU2",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "itta.dev",
+                "expanded_url": "https://itta.dev",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/4cZHJl7Ycc"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 6933,
+        "followRequestSent": false,
+        "followersCount": 706,
+        "friendsCount": 1390,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 3,
+        "mediaCount": 186,
+        "normalFollowersCount": 706,
+        "notifications": false,
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414168706712625156/1777037621",
+        "profileInterstitialType": "",
+        "statusesCount": 1137,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/4cZHJl7Ycc",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "Aichi, Japan"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "professional": {
+        "category": [],
+        "professionalType": "Creator",
+        "restId": "1501839307023462402"
+      },
+      "profileBio": {
+        "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1414168706712625156",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}

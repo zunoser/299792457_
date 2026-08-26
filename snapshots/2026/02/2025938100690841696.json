@@ -1,0 +1,4172 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "imageValue": {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=280x150",
+                  "width": 225
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "stringValue": "天皇陛下は23日、66歳の誕生日を迎えられた。これに先立ち、皇居・宮殿で記者会見に臨み、戦後80年の昨年、戦争体験者や遺族らから話を聞...",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "stringValue": "www.tokyo-np.co.jp",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x320_1",
+                  "width": 480
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribeKey": "publisher_id",
+                "type": "USER",
+                "userValue": {
+                  "idStr": "268213306"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 67,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=100x100",
+                  "width": 100
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribeKey": "vanity_url",
+                "stringValue": "tokyo-np.co.jp",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 45.14,
+                      "rgb": {
+                        "blue": 128,
+                        "green": 146,
+                        "red": 154
+                      }
+                    },
+                    {
+                      "percentage": 14.81,
+                      "rgb": {
+                        "blue": 72,
+                        "green": 55,
+                        "red": 41
+                      }
+                    },
+                    {
+                      "percentage": 7.78,
+                      "rgb": {
+                        "blue": 120,
+                        "green": 171,
+                        "red": 198
+                      }
+                    },
+                    {
+                      "percentage": 7.15,
+                      "rgb": {
+                        "blue": 168,
+                        "green": 156,
+                        "red": 130
+                      }
+                    },
+                    {
+                      "percentage": 4.83,
+                      "rgb": {
+                        "blue": 75,
+                        "green": 102,
+                        "red": 199
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "stringValue": "天皇陛下「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日、悠仁さまへの思いも語る：東京新聞デジタル",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 45.14,
+                      "rgb": {
+                        "blue": 128,
+                        "green": 146,
+                        "red": 154
+                      }
+                    },
+                    {
+                      "percentage": 14.81,
+                      "rgb": {
+                        "blue": 72,
+                        "green": 55,
+                        "red": 41
+                      }
+                    },
+                    {
+                      "percentage": 7.78,
+                      "rgb": {
+                        "blue": 120,
+                        "green": 171,
+                        "red": 198
+                      }
+                    },
+                    {
+                      "percentage": 7.15,
+                      "rgb": {
+                        "blue": 168,
+                        "green": 156,
+                        "red": 130
+                      }
+                    },
+                    {
+                      "percentage": 4.83,
+                      "rgb": {
+                        "blue": 75,
+                        "green": 102,
+                        "red": 199
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 45.14,
+                      "rgb": {
+                        "blue": 128,
+                        "green": 146,
+                        "red": 154
+                      }
+                    },
+                    {
+                      "percentage": 14.81,
+                      "rgb": {
+                        "blue": 72,
+                        "green": 55,
+                        "red": 41
+                      }
+                    },
+                    {
+                      "percentage": 7.78,
+                      "rgb": {
+                        "blue": 120,
+                        "green": 171,
+                        "red": 198
+                      }
+                    },
+                    {
+                      "percentage": 7.15,
+                      "rgb": {
+                        "blue": 168,
+                        "green": 156,
+                        "red": 130
+                      }
+                    },
+                    {
+                      "percentage": 4.83,
+                      "rgb": {
+                        "blue": 75,
+                        "green": 102,
+                        "red": 199
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://t.co/SEjrZXgLZJ",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/SEjrZXgLZJ",
+          "userRefsResults": [
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1856899870185197569/MmGv37jH_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Mar 18 10:38:45 +0000 2011",
+                  "name": "東京新聞デジタル",
+                  "screenName": "tokyo_shimbun"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyNjgyMTMzMDY=",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "tokyo-np.co.jp/guidance",
+                          "expanded_url": "https://www.tokyo-np.co.jp/guidance",
+                          "indices": [
+                            73,
+                            96
+                          ],
+                          "url": "https://t.co/8eG9ILi9dk"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "tokyo-np.co.jp",
+                          "expanded_url": "http://www.tokyo-np.co.jp",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/RuTukkqq4b"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 442,
+                  "followRequestSent": false,
+                  "followersCount": 124077,
+                  "friendsCount": 130,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 3410,
+                  "mediaCount": 550,
+                  "normalFollowersCount": 124077,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2080557859599942038"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/268213306/1468047387",
+                  "profileInterstitialType": "",
+                  "statusesCount": 307068,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/RuTukkqq4b",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "東京都 千代田区"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "professional": {
+                  "category": [
+                    {
+                      "iconName": "IconBriefcaseStroke",
+                      "id": 580,
+                      "name": "Media & News Company"
+                    }
+                  ],
+                  "professionalType": "Business",
+                  "restId": "1669902082193883136"
+                },
+                "profileBio": {
+                  "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "268213306",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          ]
+        },
+        "restId": "https://t.co/SEjrZXgLZJ"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2025938100690841696"
+        ],
+        "editableUntilMsecs": "1771859857971",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2025938100690841696",
+        "createdAt": "Mon Feb 23 14:17:37 +0000 2026",
+        "displayTextRange": [
+          0,
+          93
+        ],
+        "entities": {
+          "urls": [
+            {
+              "displayUrl": "tokyo-np.co.jp/article/470553",
+              "expandedUrl": "https://www.tokyo-np.co.jp/article/470553",
+              "indices": [
+                70,
+                93
+              ],
+              "url": "https://t.co/SEjrZXgLZJ"
+            }
+          ],
+          "userMentions": [
+            {
+              "id_str": "4378798994",
+              "indices": [
+                3,
+                19
+              ],
+              "name": "反差別統一戦線東京委員会",
+              "screen_name": "Anti_Discrimina"
+            }
+          ]
+        },
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "RT @Anti_Discrimina: ネトウヨ、肝に銘じろ。\n\n天皇「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日\nhttps://t.co/SEjrZXgLZJ",
+        "idStr": "2025938100690841696",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 5548,
+        "retweeted": false,
+        "retweetedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "card": {
+              "legacy": {
+                "bindingValues": [
+                  {
+                    "key": "photo_image_full_size_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 419,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                        "width": 800
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image",
+                    "value": {
+                      "imageValue": {
+                        "height": 150,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=280x150",
+                        "width": 225
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "description",
+                    "value": {
+                      "stringValue": "天皇陛下は23日、66歳の誕生日を迎えられた。これに先立ち、皇居・宮殿で記者会見に臨み、戦後80年の昨年、戦争体験者や遺族らから話を聞...",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "domain",
+                    "value": {
+                      "stringValue": "www.tokyo-np.co.jp",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 320,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x320_1",
+                        "width": 480
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 202,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                        "width": 386
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 813,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                        "width": 1220
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "site",
+                    "value": {
+                      "scribeKey": "publisher_id",
+                      "type": "USER",
+                      "userValue": {
+                        "idStr": "268213306"
+                      }
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 202,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                        "width": 386
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 419,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                        "width": 800
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 67,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=100x100",
+                        "width": 100
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 813,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                        "width": 1220
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 813,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                        "width": 1220
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "vanity_url",
+                    "value": {
+                      "scribeKey": "vanity_url",
+                      "stringValue": "tokyo-np.co.jp",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size",
+                    "value": {
+                      "imageValue": {
+                        "height": 314,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                        "width": 600
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 45.14,
+                            "rgb": {
+                              "blue": 128,
+                              "green": 146,
+                              "red": 154
+                            }
+                          },
+                          {
+                            "percentage": 14.81,
+                            "rgb": {
+                              "blue": 72,
+                              "green": 55,
+                              "red": 41
+                            }
+                          },
+                          {
+                            "percentage": 7.78,
+                            "rgb": {
+                              "blue": 120,
+                              "green": 171,
+                              "red": 198
+                            }
+                          },
+                          {
+                            "percentage": 7.15,
+                            "rgb": {
+                              "blue": 168,
+                              "green": 156,
+                              "red": 130
+                            }
+                          },
+                          {
+                            "percentage": 4.83,
+                            "rgb": {
+                              "blue": 75,
+                              "green": 102,
+                              "red": 199
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "title",
+                    "value": {
+                      "stringValue": "天皇陛下「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日、悠仁さまへの思いも語る：東京新聞デジタル",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 45.14,
+                            "rgb": {
+                              "blue": 128,
+                              "green": 146,
+                              "red": 154
+                            }
+                          },
+                          {
+                            "percentage": 14.81,
+                            "rgb": {
+                              "blue": 72,
+                              "green": 55,
+                              "red": 41
+                            }
+                          },
+                          {
+                            "percentage": 7.78,
+                            "rgb": {
+                              "blue": 120,
+                              "green": 171,
+                              "red": 198
+                            }
+                          },
+                          {
+                            "percentage": 7.15,
+                            "rgb": {
+                              "blue": 168,
+                              "green": 156,
+                              "red": 130
+                            }
+                          },
+                          {
+                            "percentage": 4.83,
+                            "rgb": {
+                              "blue": 75,
+                              "green": 102,
+                              "red": 199
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 813,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                        "width": 1220
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image",
+                    "value": {
+                      "imageValue": {
+                        "height": 314,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                        "width": 600
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 45.14,
+                            "rgb": {
+                              "blue": 128,
+                              "green": 146,
+                              "red": 154
+                            }
+                          },
+                          {
+                            "percentage": 14.81,
+                            "rgb": {
+                              "blue": 72,
+                              "green": 55,
+                              "red": 41
+                            }
+                          },
+                          {
+                            "percentage": 7.78,
+                            "rgb": {
+                              "blue": 120,
+                              "green": 171,
+                              "red": 198
+                            }
+                          },
+                          {
+                            "percentage": 7.15,
+                            "rgb": {
+                              "blue": 168,
+                              "green": 156,
+                              "red": 130
+                            }
+                          },
+                          {
+                            "percentage": 4.83,
+                            "rgb": {
+                              "blue": 75,
+                              "green": 102,
+                              "red": 199
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 813,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                        "width": 1220
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "card_url",
+                    "value": {
+                      "scribeKey": "card_url",
+                      "stringValue": "https://t.co/SEjrZXgLZJ",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 813,
+                        "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                        "width": 1220
+                      },
+                      "type": "IMAGE"
+                    }
+                  }
+                ],
+                "cardPlatform": {
+                  "platform": {
+                    "audience": {
+                      "name": "production"
+                    },
+                    "device": {
+                      "name": "Swift",
+                      "version": "12"
+                    }
+                  }
+                },
+                "name": "summary_large_image",
+                "url": "https://t.co/SEjrZXgLZJ",
+                "userRefsResults": [
+                  {
+                    "result": {
+                      "typename": "User",
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/1856899870185197569/MmGv37jH_normal.jpg"
+                      },
+                      "core": {
+                        "createdAt": "Fri Mar 18 10:38:45 +0000 2011",
+                        "name": "東京新聞デジタル",
+                        "screenName": "tokyo_shimbun"
+                      },
+                      "dmPermissions": {
+                        "canDm": false
+                      },
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjoyNjgyMTMzMDY=",
+                      "isBlueVerified": true,
+                      "legacy": {
+                        "defaultProfile": false,
+                        "defaultProfileImage": false,
+                        "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。",
+                        "entities": {
+                          "description": {
+                            "urls": [
+                              {
+                                "display_url": "tokyo-np.co.jp/guidance",
+                                "expanded_url": "https://www.tokyo-np.co.jp/guidance",
+                                "indices": [
+                                  73,
+                                  96
+                                ],
+                                "url": "https://t.co/8eG9ILi9dk"
+                              }
+                            ]
+                          },
+                          "url": {
+                            "urls": [
+                              {
+                                "display_url": "tokyo-np.co.jp",
+                                "expanded_url": "http://www.tokyo-np.co.jp",
+                                "indices": [
+                                  0,
+                                  23
+                                ],
+                                "url": "https://t.co/RuTukkqq4b"
+                              }
+                            ]
+                          }
+                        },
+                        "fastFollowersCount": 0,
+                        "favouritesCount": 442,
+                        "followRequestSent": false,
+                        "followersCount": 124077,
+                        "friendsCount": 130,
+                        "hasCustomTimelines": false,
+                        "isTranslator": false,
+                        "listedCount": 3410,
+                        "mediaCount": 550,
+                        "normalFollowersCount": 124077,
+                        "notifications": false,
+                        "pinnedTweetIdsStr": [
+                          "2080557859599942038"
+                        ],
+                        "possiblySensitive": false,
+                        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/268213306/1468047387",
+                        "profileInterstitialType": "",
+                        "statusesCount": 307068,
+                        "timeZone": "",
+                        "translatorType": "none",
+                        "url": "https://t.co/RuTukkqq4b",
+                        "utcOffset": 0,
+                        "withheldDescription": "",
+                        "withheldScope": ""
+                      },
+                      "location": {
+                        "location": "東京都 千代田区"
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "privacy": {
+                        "_protected": false
+                      },
+                      "professional": {
+                        "category": [
+                          {
+                            "iconName": "IconBriefcaseStroke",
+                            "id": 580,
+                            "name": "Media & News Company"
+                          }
+                        ],
+                        "professionalType": "Business",
+                        "restId": "1669902082193883136"
+                      },
+                      "profileBio": {
+                        "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。"
+                      },
+                      "profileDescriptionLanguage": "ja",
+                      "profileImageShape": "Circle",
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false
+                      },
+                      "restId": "268213306",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tipjarSettings": {
+                        "bandcampHandle": "",
+                        "bitcoinHandle": "",
+                        "cashAppHandle": "",
+                        "ethereumHandle": "",
+                        "gofundmeHandle": "",
+                        "isEnabled": false,
+                        "patreonHandle": "",
+                        "payPalHandle": "",
+                        "venmoHandle": ""
+                      },
+                      "verification": {
+                        "verified": false
+                      }
+                    }
+                  }
+                ]
+              },
+              "restId": "https://t.co/SEjrZXgLZJ"
+            },
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1267387499975897088/e1m_Gtlg_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Fri Nov 27 15:33:56 +0000 2015",
+                    "name": "反差別統一戦線東京委員会",
+                    "screenName": "Anti_Discrimina"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjo0Mzc4Nzk4OTk0",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": true,
+                    "defaultProfileImage": false,
+                    "description": "Anti-Discrimination United Front Tokyo Committee",
+                    "entities": {
+                      "description": {}
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 130141,
+                    "followRequestSent": false,
+                    "followersCount": 8128,
+                    "friendsCount": 509,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "listedCount": 176,
+                    "mediaCount": 6992,
+                    "normalFollowersCount": 8128,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "745204975974780928"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4378798994/1526111038",
+                    "profileInterstitialType": "",
+                    "statusesCount": 591737,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": ""
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "Anti-Discrimination United Front Tokyo Committee"
+                  },
+                  "profileDescriptionLanguage": "und",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "4378798994",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2025694637915328857"
+              ],
+              "editableUntilMsecs": "1771801811000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 990,
+              "bookmarked": false,
+              "conversationIdStr": "2025694637915328857",
+              "createdAt": "Sun Feb 22 22:10:11 +0000 2026",
+              "displayTextRange": [
+                0,
+                72
+              ],
+              "entities": {
+                "urls": [
+                  {
+                    "displayUrl": "tokyo-np.co.jp/article/470553",
+                    "expandedUrl": "https://www.tokyo-np.co.jp/article/470553",
+                    "indices": [
+                      49,
+                      72
+                    ],
+                    "url": "https://t.co/SEjrZXgLZJ"
+                  }
+                ]
+              },
+              "favoriteCount": 29361,
+              "favorited": false,
+              "fullText": "ネトウヨ、肝に銘じろ。\n\n天皇「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日\nhttps://t.co/SEjrZXgLZJ",
+              "idStr": "2025694637915328857",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "possiblySensitive": false,
+              "possiblySensitiveEditable": true,
+              "quoteCount": 201,
+              "replyCount": 277,
+              "retweetCount": 5548,
+              "retweeted": false,
+              "userIdStr": "4378798994"
+            },
+            "restId": "2025694637915328857",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "unmentionData": {},
+            "views": {
+              "count": "712194",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2025938100690841696",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "state": "Enabled"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "card": {
+      "legacy": {
+        "bindingValues": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "imageValue": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "imageValue": {
+                "height": 150,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=280x150",
+                "width": 225
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "stringValue": "天皇陛下は23日、66歳の誕生日を迎えられた。これに先立ち、皇居・宮殿で記者会見に臨み、戦後80年の昨年、戦争体験者や遺族らから話を聞...",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "stringValue": "www.tokyo-np.co.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "imageValue": {
+                "height": 320,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x320_1",
+                "width": 480
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "imageValue": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "imageValue": {
+                "height": 813,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                "width": 1220
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribeKey": "publisher_id",
+              "type": "USER",
+              "userValue": {
+                "idStr": "268213306"
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "imageValue": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "imageValue": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "imageValue": {
+                "height": 67,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=100x100",
+                "width": 100
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "imageValue": {
+                "height": 813,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                "width": 1220
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "imageValue": {
+                "height": 813,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                "width": 1220
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribeKey": "vanity_url",
+              "stringValue": "tokyo-np.co.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 45.14,
+                    "rgb": {
+                      "blue": 128,
+                      "green": 146,
+                      "red": 154
+                    }
+                  },
+                  {
+                    "percentage": 14.81,
+                    "rgb": {
+                      "blue": 72,
+                      "green": 55,
+                      "red": 41
+                    }
+                  },
+                  {
+                    "percentage": 7.78,
+                    "rgb": {
+                      "blue": 120,
+                      "green": 171,
+                      "red": 198
+                    }
+                  },
+                  {
+                    "percentage": 7.15,
+                    "rgb": {
+                      "blue": 168,
+                      "green": 156,
+                      "red": 130
+                    }
+                  },
+                  {
+                    "percentage": 4.83,
+                    "rgb": {
+                      "blue": 75,
+                      "green": 102,
+                      "red": 199
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "stringValue": "天皇陛下「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日、悠仁さまへの思いも語る：東京新聞デジタル",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 45.14,
+                    "rgb": {
+                      "blue": 128,
+                      "green": 146,
+                      "red": 154
+                    }
+                  },
+                  {
+                    "percentage": 14.81,
+                    "rgb": {
+                      "blue": 72,
+                      "green": 55,
+                      "red": 41
+                    }
+                  },
+                  {
+                    "percentage": 7.78,
+                    "rgb": {
+                      "blue": 120,
+                      "green": 171,
+                      "red": 198
+                    }
+                  },
+                  {
+                    "percentage": 7.15,
+                    "rgb": {
+                      "blue": 168,
+                      "green": 156,
+                      "red": 130
+                    }
+                  },
+                  {
+                    "percentage": 4.83,
+                    "rgb": {
+                      "blue": 75,
+                      "green": 102,
+                      "red": 199
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "imageValue": {
+                "height": 813,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                "width": 1220
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 45.14,
+                    "rgb": {
+                      "blue": 128,
+                      "green": 146,
+                      "red": 154
+                    }
+                  },
+                  {
+                    "percentage": 14.81,
+                    "rgb": {
+                      "blue": 72,
+                      "green": 55,
+                      "red": 41
+                    }
+                  },
+                  {
+                    "percentage": 7.78,
+                    "rgb": {
+                      "blue": 120,
+                      "green": 171,
+                      "red": 198
+                    }
+                  },
+                  {
+                    "percentage": 7.15,
+                    "rgb": {
+                      "blue": 168,
+                      "green": 156,
+                      "red": 130
+                    }
+                  },
+                  {
+                    "percentage": 4.83,
+                    "rgb": {
+                      "blue": 75,
+                      "green": 102,
+                      "red": 199
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "imageValue": {
+                "height": 813,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                "width": 1220
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribeKey": "card_url",
+              "stringValue": "https://t.co/SEjrZXgLZJ",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "imageValue": {
+                "height": 813,
+                "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                "width": 1220
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "cardPlatform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/SEjrZXgLZJ",
+        "userRefsResults": [
+          {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1856899870185197569/MmGv37jH_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Mar 18 10:38:45 +0000 2011",
+                "name": "東京新聞デジタル",
+                "screenName": "tokyo_shimbun"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyNjgyMTMzMDY=",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "tokyo-np.co.jp/guidance",
+                        "expanded_url": "https://www.tokyo-np.co.jp/guidance",
+                        "indices": [
+                          73,
+                          96
+                        ],
+                        "url": "https://t.co/8eG9ILi9dk"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "tokyo-np.co.jp",
+                        "expanded_url": "http://www.tokyo-np.co.jp",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/RuTukkqq4b"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 442,
+                "followRequestSent": false,
+                "followersCount": 124077,
+                "friendsCount": 130,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 3410,
+                "mediaCount": 550,
+                "normalFollowersCount": 124077,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2080557859599942038"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/268213306/1468047387",
+                "profileInterstitialType": "",
+                "statusesCount": 307068,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/RuTukkqq4b",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "東京都 千代田区"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "professional": {
+                "category": [
+                  {
+                    "iconName": "IconBriefcaseStroke",
+                    "id": 580,
+                    "name": "Media & News Company"
+                  }
+                ],
+                "professionalType": "Business",
+                "restId": "1669902082193883136"
+              },
+              "profileBio": {
+                "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "268213306",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        ]
+      },
+      "restId": "https://t.co/SEjrZXgLZJ"
+    },
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2025938100690841696"
+      ],
+      "editableUntilMsecs": "1771859857971",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2025938100690841696",
+      "createdAt": "Mon Feb 23 14:17:37 +0000 2026",
+      "displayTextRange": [
+        0,
+        93
+      ],
+      "entities": {
+        "urls": [
+          {
+            "displayUrl": "tokyo-np.co.jp/article/470553",
+            "expandedUrl": "https://www.tokyo-np.co.jp/article/470553",
+            "indices": [
+              70,
+              93
+            ],
+            "url": "https://t.co/SEjrZXgLZJ"
+          }
+        ],
+        "userMentions": [
+          {
+            "id_str": "4378798994",
+            "indices": [
+              3,
+              19
+            ],
+            "name": "反差別統一戦線東京委員会",
+            "screen_name": "Anti_Discrimina"
+          }
+        ]
+      },
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "RT @Anti_Discrimina: ネトウヨ、肝に銘じろ。\n\n天皇「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日\nhttps://t.co/SEjrZXgLZJ",
+      "idStr": "2025938100690841696",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 5548,
+      "retweeted": false,
+      "retweetedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "card": {
+            "legacy": {
+              "bindingValues": [
+                {
+                  "key": "photo_image_full_size_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 419,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                      "width": 800
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image",
+                  "value": {
+                    "imageValue": {
+                      "height": 150,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=280x150",
+                      "width": 225
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "description",
+                  "value": {
+                    "stringValue": "天皇陛下は23日、66歳の誕生日を迎えられた。これに先立ち、皇居・宮殿で記者会見に臨み、戦後80年の昨年、戦争体験者や遺族らから話を聞...",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "domain",
+                  "value": {
+                    "stringValue": "www.tokyo-np.co.jp",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 320,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x320_1",
+                      "width": 480
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 202,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                      "width": 386
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 813,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                      "width": 1220
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "site",
+                  "value": {
+                    "scribeKey": "publisher_id",
+                    "type": "USER",
+                    "userValue": {
+                      "idStr": "268213306"
+                    }
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 202,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                      "width": 386
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 419,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                      "width": 800
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 67,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=100x100",
+                      "width": 100
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 813,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                      "width": 1220
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 813,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                      "width": 1220
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "vanity_url",
+                  "value": {
+                    "scribeKey": "vanity_url",
+                    "stringValue": "tokyo-np.co.jp",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size",
+                  "value": {
+                    "imageValue": {
+                      "height": 314,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                      "width": 600
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 45.14,
+                          "rgb": {
+                            "blue": 128,
+                            "green": 146,
+                            "red": 154
+                          }
+                        },
+                        {
+                          "percentage": 14.81,
+                          "rgb": {
+                            "blue": 72,
+                            "green": 55,
+                            "red": 41
+                          }
+                        },
+                        {
+                          "percentage": 7.78,
+                          "rgb": {
+                            "blue": 120,
+                            "green": 171,
+                            "red": 198
+                          }
+                        },
+                        {
+                          "percentage": 7.15,
+                          "rgb": {
+                            "blue": 168,
+                            "green": 156,
+                            "red": 130
+                          }
+                        },
+                        {
+                          "percentage": 4.83,
+                          "rgb": {
+                            "blue": 75,
+                            "green": 102,
+                            "red": 199
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "title",
+                  "value": {
+                    "stringValue": "天皇陛下「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日、悠仁さまへの思いも語る：東京新聞デジタル",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 45.14,
+                          "rgb": {
+                            "blue": 128,
+                            "green": 146,
+                            "red": 154
+                          }
+                        },
+                        {
+                          "percentage": 14.81,
+                          "rgb": {
+                            "blue": 72,
+                            "green": 55,
+                            "red": 41
+                          }
+                        },
+                        {
+                          "percentage": 7.78,
+                          "rgb": {
+                            "blue": 120,
+                            "green": 171,
+                            "red": 198
+                          }
+                        },
+                        {
+                          "percentage": 7.15,
+                          "rgb": {
+                            "blue": 168,
+                            "green": 156,
+                            "red": 130
+                          }
+                        },
+                        {
+                          "percentage": 4.83,
+                          "rgb": {
+                            "blue": 75,
+                            "green": 102,
+                            "red": 199
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 813,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                      "width": 1220
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image",
+                  "value": {
+                    "imageValue": {
+                      "height": 314,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                      "width": 600
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 45.14,
+                          "rgb": {
+                            "blue": 128,
+                            "green": 146,
+                            "red": 154
+                          }
+                        },
+                        {
+                          "percentage": 14.81,
+                          "rgb": {
+                            "blue": 72,
+                            "green": 55,
+                            "red": 41
+                          }
+                        },
+                        {
+                          "percentage": 7.78,
+                          "rgb": {
+                            "blue": 120,
+                            "green": 171,
+                            "red": 198
+                          }
+                        },
+                        {
+                          "percentage": 7.15,
+                          "rgb": {
+                            "blue": 168,
+                            "green": 156,
+                            "red": 130
+                          }
+                        },
+                        {
+                          "percentage": 4.83,
+                          "rgb": {
+                            "blue": 75,
+                            "green": 102,
+                            "red": 199
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 813,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                      "width": 1220
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "card_url",
+                  "value": {
+                    "scribeKey": "card_url",
+                    "stringValue": "https://t.co/SEjrZXgLZJ",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 813,
+                      "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                      "width": 1220
+                    },
+                    "type": "IMAGE"
+                  }
+                }
+              ],
+              "cardPlatform": {
+                "platform": {
+                  "audience": {
+                    "name": "production"
+                  },
+                  "device": {
+                    "name": "Swift",
+                    "version": "12"
+                  }
+                }
+              },
+              "name": "summary_large_image",
+              "url": "https://t.co/SEjrZXgLZJ",
+              "userRefsResults": [
+                {
+                  "result": {
+                    "typename": "User",
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/1856899870185197569/MmGv37jH_normal.jpg"
+                    },
+                    "core": {
+                      "createdAt": "Fri Mar 18 10:38:45 +0000 2011",
+                      "name": "東京新聞デジタル",
+                      "screenName": "tokyo_shimbun"
+                    },
+                    "dmPermissions": {
+                      "canDm": false
+                    },
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjoyNjgyMTMzMDY=",
+                    "isBlueVerified": true,
+                    "legacy": {
+                      "defaultProfile": false,
+                      "defaultProfileImage": false,
+                      "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。",
+                      "entities": {
+                        "description": {
+                          "urls": [
+                            {
+                              "display_url": "tokyo-np.co.jp/guidance",
+                              "expanded_url": "https://www.tokyo-np.co.jp/guidance",
+                              "indices": [
+                                73,
+                                96
+                              ],
+                              "url": "https://t.co/8eG9ILi9dk"
+                            }
+                          ]
+                        },
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "tokyo-np.co.jp",
+                              "expanded_url": "http://www.tokyo-np.co.jp",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/RuTukkqq4b"
+                            }
+                          ]
+                        }
+                      },
+                      "fastFollowersCount": 0,
+                      "favouritesCount": 442,
+                      "followRequestSent": false,
+                      "followersCount": 124077,
+                      "friendsCount": 130,
+                      "hasCustomTimelines": false,
+                      "isTranslator": false,
+                      "listedCount": 3410,
+                      "mediaCount": 550,
+                      "normalFollowersCount": 124077,
+                      "notifications": false,
+                      "pinnedTweetIdsStr": [
+                        "2080557859599942038"
+                      ],
+                      "possiblySensitive": false,
+                      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/268213306/1468047387",
+                      "profileInterstitialType": "",
+                      "statusesCount": 307068,
+                      "timeZone": "",
+                      "translatorType": "none",
+                      "url": "https://t.co/RuTukkqq4b",
+                      "utcOffset": 0,
+                      "withheldDescription": "",
+                      "withheldScope": ""
+                    },
+                    "location": {
+                      "location": "東京都 千代田区"
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "privacy": {
+                      "_protected": false
+                    },
+                    "professional": {
+                      "category": [
+                        {
+                          "iconName": "IconBriefcaseStroke",
+                          "id": 580,
+                          "name": "Media & News Company"
+                        }
+                      ],
+                      "professionalType": "Business",
+                      "restId": "1669902082193883136"
+                    },
+                    "profileBio": {
+                      "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。"
+                    },
+                    "profileDescriptionLanguage": "ja",
+                    "profileImageShape": "Circle",
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false
+                    },
+                    "restId": "268213306",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tipjarSettings": {
+                      "bandcampHandle": "",
+                      "bitcoinHandle": "",
+                      "cashAppHandle": "",
+                      "ethereumHandle": "",
+                      "gofundmeHandle": "",
+                      "isEnabled": false,
+                      "patreonHandle": "",
+                      "payPalHandle": "",
+                      "venmoHandle": ""
+                    },
+                    "verification": {
+                      "verified": false
+                    }
+                  }
+                }
+              ]
+            },
+            "restId": "https://t.co/SEjrZXgLZJ"
+          },
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1267387499975897088/e1m_Gtlg_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Nov 27 15:33:56 +0000 2015",
+                  "name": "反差別統一戦線東京委員会",
+                  "screenName": "Anti_Discrimina"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjo0Mzc4Nzk4OTk0",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "Anti-Discrimination United Front Tokyo Committee",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 130141,
+                  "followRequestSent": false,
+                  "followersCount": 8128,
+                  "friendsCount": 509,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 176,
+                  "mediaCount": 6992,
+                  "normalFollowersCount": 8128,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "745204975974780928"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4378798994/1526111038",
+                  "profileInterstitialType": "",
+                  "statusesCount": 591737,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "Anti-Discrimination United Front Tokyo Committee"
+                },
+                "profileDescriptionLanguage": "und",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "4378798994",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2025694637915328857"
+            ],
+            "editableUntilMsecs": "1771801811000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 990,
+            "bookmarked": false,
+            "conversationIdStr": "2025694637915328857",
+            "createdAt": "Sun Feb 22 22:10:11 +0000 2026",
+            "displayTextRange": [
+              0,
+              72
+            ],
+            "entities": {
+              "urls": [
+                {
+                  "displayUrl": "tokyo-np.co.jp/article/470553",
+                  "expandedUrl": "https://www.tokyo-np.co.jp/article/470553",
+                  "indices": [
+                    49,
+                    72
+                  ],
+                  "url": "https://t.co/SEjrZXgLZJ"
+                }
+              ]
+            },
+            "favoriteCount": 29361,
+            "favorited": false,
+            "fullText": "ネトウヨ、肝に銘じろ。\n\n天皇「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日\nhttps://t.co/SEjrZXgLZJ",
+            "idStr": "2025694637915328857",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 201,
+            "replyCount": 277,
+            "retweetCount": 5548,
+            "retweeted": false,
+            "userIdStr": "4378798994"
+          },
+          "restId": "2025694637915328857",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "712194",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2025938100690841696",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "state": "Enabled"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "retweeted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "card": {
+          "legacy": {
+            "bindingValues": [
+              {
+                "key": "photo_image_full_size_large",
+                "value": {
+                  "imageValue": {
+                    "height": 419,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                    "width": 800
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image",
+                "value": {
+                  "imageValue": {
+                    "height": 150,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=280x150",
+                    "width": 225
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "description",
+                "value": {
+                  "stringValue": "天皇陛下は23日、66歳の誕生日を迎えられた。これに先立ち、皇居・宮殿で記者会見に臨み、戦後80年の昨年、戦争体験者や遺族らから話を聞...",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "domain",
+                "value": {
+                  "stringValue": "www.tokyo-np.co.jp",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "thumbnail_image_large",
+                "value": {
+                  "imageValue": {
+                    "height": 320,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x320_1",
+                    "width": 480
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image_small",
+                "value": {
+                  "imageValue": {
+                    "height": 202,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                    "width": 386
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_original",
+                "value": {
+                  "imageValue": {
+                    "height": 813,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                    "width": 1220
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "site",
+                "value": {
+                  "scribeKey": "publisher_id",
+                  "type": "USER",
+                  "userValue": {
+                    "idStr": "268213306"
+                  }
+                }
+              },
+              {
+                "key": "photo_image_full_size_small",
+                "value": {
+                  "imageValue": {
+                    "height": 202,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                    "width": 386
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image_large",
+                "value": {
+                  "imageValue": {
+                    "height": 419,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                    "width": 800
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_small",
+                "value": {
+                  "imageValue": {
+                    "height": 67,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=100x100",
+                    "width": 100
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 813,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                    "width": 1220
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_original",
+                "value": {
+                  "imageValue": {
+                    "height": 813,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                    "width": 1220
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "vanity_url",
+                "value": {
+                  "scribeKey": "vanity_url",
+                  "stringValue": "tokyo-np.co.jp",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "photo_image_full_size",
+                "value": {
+                  "imageValue": {
+                    "height": 314,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                    "width": 600
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 45.14,
+                        "rgb": {
+                          "blue": 128,
+                          "green": 146,
+                          "red": 154
+                        }
+                      },
+                      {
+                        "percentage": 14.81,
+                        "rgb": {
+                          "blue": 72,
+                          "green": 55,
+                          "red": 41
+                        }
+                      },
+                      {
+                        "percentage": 7.78,
+                        "rgb": {
+                          "blue": 120,
+                          "green": 171,
+                          "red": 198
+                        }
+                      },
+                      {
+                        "percentage": 7.15,
+                        "rgb": {
+                          "blue": 168,
+                          "green": 156,
+                          "red": 130
+                        }
+                      },
+                      {
+                        "percentage": 4.83,
+                        "rgb": {
+                          "blue": 75,
+                          "green": 102,
+                          "red": 199
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "title",
+                "value": {
+                  "stringValue": "天皇陛下「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日、悠仁さまへの思いも語る：東京新聞デジタル",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "summary_photo_image_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 45.14,
+                        "rgb": {
+                          "blue": 128,
+                          "green": 146,
+                          "red": 154
+                        }
+                      },
+                      {
+                        "percentage": 14.81,
+                        "rgb": {
+                          "blue": 72,
+                          "green": 55,
+                          "red": 41
+                        }
+                      },
+                      {
+                        "percentage": 7.78,
+                        "rgb": {
+                          "blue": 120,
+                          "green": 171,
+                          "red": 198
+                        }
+                      },
+                      {
+                        "percentage": 7.15,
+                        "rgb": {
+                          "blue": 168,
+                          "green": 156,
+                          "red": 130
+                        }
+                      },
+                      {
+                        "percentage": 4.83,
+                        "rgb": {
+                          "blue": 75,
+                          "green": 102,
+                          "red": 199
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "summary_photo_image_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 813,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                    "width": 1220
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image",
+                "value": {
+                  "imageValue": {
+                    "height": 314,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                    "width": 600
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 45.14,
+                        "rgb": {
+                          "blue": 128,
+                          "green": 146,
+                          "red": 154
+                        }
+                      },
+                      {
+                        "percentage": 14.81,
+                        "rgb": {
+                          "blue": 72,
+                          "green": 55,
+                          "red": 41
+                        }
+                      },
+                      {
+                        "percentage": 7.78,
+                        "rgb": {
+                          "blue": 120,
+                          "green": 171,
+                          "red": 198
+                        }
+                      },
+                      {
+                        "percentage": 7.15,
+                        "rgb": {
+                          "blue": 168,
+                          "green": 156,
+                          "red": 130
+                        }
+                      },
+                      {
+                        "percentage": 4.83,
+                        "rgb": {
+                          "blue": 75,
+                          "green": 102,
+                          "red": 199
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "photo_image_full_size_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 813,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                    "width": 1220
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "card_url",
+                "value": {
+                  "scribeKey": "card_url",
+                  "stringValue": "https://t.co/SEjrZXgLZJ",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "summary_photo_image_original",
+                "value": {
+                  "imageValue": {
+                    "height": 813,
+                    "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                    "width": 1220
+                  },
+                  "type": "IMAGE"
+                }
+              }
+            ],
+            "cardPlatform": {
+              "platform": {
+                "audience": {
+                  "name": "production"
+                },
+                "device": {
+                  "name": "Swift",
+                  "version": "12"
+                }
+              }
+            },
+            "name": "summary_large_image",
+            "url": "https://t.co/SEjrZXgLZJ",
+            "userRefsResults": [
+              {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1856899870185197569/MmGv37jH_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Fri Mar 18 10:38:45 +0000 2011",
+                    "name": "東京新聞デジタル",
+                    "screenName": "tokyo_shimbun"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoyNjgyMTMzMDY=",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": false,
+                    "defaultProfileImage": false,
+                    "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "display_url": "tokyo-np.co.jp/guidance",
+                            "expanded_url": "https://www.tokyo-np.co.jp/guidance",
+                            "indices": [
+                              73,
+                              96
+                            ],
+                            "url": "https://t.co/8eG9ILi9dk"
+                          }
+                        ]
+                      },
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "tokyo-np.co.jp",
+                            "expanded_url": "http://www.tokyo-np.co.jp",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/RuTukkqq4b"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 442,
+                    "followRequestSent": false,
+                    "followersCount": 124077,
+                    "friendsCount": 130,
+                    "hasCustomTimelines": false,
+                    "isTranslator": false,
+                    "listedCount": 3410,
+                    "mediaCount": 550,
+                    "normalFollowersCount": 124077,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "2080557859599942038"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/268213306/1468047387",
+                    "profileInterstitialType": "",
+                    "statusesCount": 307068,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/RuTukkqq4b",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "東京都 千代田区"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "professional": {
+                    "category": [
+                      {
+                        "iconName": "IconBriefcaseStroke",
+                        "id": 580,
+                        "name": "Media & News Company"
+                      }
+                    ],
+                    "professionalType": "Business",
+                    "restId": "1669902082193883136"
+                  },
+                  "profileBio": {
+                    "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "268213306",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            ]
+          },
+          "restId": "https://t.co/SEjrZXgLZJ"
+        },
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1267387499975897088/e1m_Gtlg_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Nov 27 15:33:56 +0000 2015",
+                "name": "反差別統一戦線東京委員会",
+                "screenName": "Anti_Discrimina"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjo0Mzc4Nzk4OTk0",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "Anti-Discrimination United Front Tokyo Committee",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 130141,
+                "followRequestSent": false,
+                "followersCount": 8128,
+                "friendsCount": 509,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 176,
+                "mediaCount": 6992,
+                "normalFollowersCount": 8128,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "745204975974780928"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4378798994/1526111038",
+                "profileInterstitialType": "",
+                "statusesCount": 591737,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "Anti-Discrimination United Front Tokyo Committee"
+              },
+              "profileDescriptionLanguage": "und",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "4378798994",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2025694637915328857"
+          ],
+          "editableUntilMsecs": "1771801811000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 990,
+          "bookmarked": false,
+          "conversationIdStr": "2025694637915328857",
+          "createdAt": "Sun Feb 22 22:10:11 +0000 2026",
+          "displayTextRange": [
+            0,
+            72
+          ],
+          "entities": {
+            "urls": [
+              {
+                "displayUrl": "tokyo-np.co.jp/article/470553",
+                "expandedUrl": "https://www.tokyo-np.co.jp/article/470553",
+                "indices": [
+                  49,
+                  72
+                ],
+                "url": "https://t.co/SEjrZXgLZJ"
+              }
+            ]
+          },
+          "favoriteCount": 29361,
+          "favorited": false,
+          "fullText": "ネトウヨ、肝に銘じろ。\n\n天皇「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日\nhttps://t.co/SEjrZXgLZJ",
+          "idStr": "2025694637915328857",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 201,
+          "replyCount": 277,
+          "retweetCount": 5548,
+          "retweeted": false,
+          "userIdStr": "4378798994"
+        },
+        "restId": "2025694637915328857",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "712194",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "imageValue": {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=280x150",
+                  "width": 225
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "stringValue": "天皇陛下は23日、66歳の誕生日を迎えられた。これに先立ち、皇居・宮殿で記者会見に臨み、戦後80年の昨年、戦争体験者や遺族らから話を聞...",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "stringValue": "www.tokyo-np.co.jp",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x320_1",
+                  "width": 480
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribeKey": "publisher_id",
+                "type": "USER",
+                "userValue": {
+                  "idStr": "268213306"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 67,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=100x100",
+                  "width": 100
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribeKey": "vanity_url",
+                "stringValue": "tokyo-np.co.jp",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 45.14,
+                      "rgb": {
+                        "blue": 128,
+                        "green": 146,
+                        "red": 154
+                      }
+                    },
+                    {
+                      "percentage": 14.81,
+                      "rgb": {
+                        "blue": 72,
+                        "green": 55,
+                        "red": 41
+                      }
+                    },
+                    {
+                      "percentage": 7.78,
+                      "rgb": {
+                        "blue": 120,
+                        "green": 171,
+                        "red": 198
+                      }
+                    },
+                    {
+                      "percentage": 7.15,
+                      "rgb": {
+                        "blue": 168,
+                        "green": 156,
+                        "red": 130
+                      }
+                    },
+                    {
+                      "percentage": 4.83,
+                      "rgb": {
+                        "blue": 75,
+                        "green": 102,
+                        "red": 199
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "stringValue": "天皇陛下「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日、悠仁さまへの思いも語る：東京新聞デジタル",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 45.14,
+                      "rgb": {
+                        "blue": 128,
+                        "green": 146,
+                        "red": 154
+                      }
+                    },
+                    {
+                      "percentage": 14.81,
+                      "rgb": {
+                        "blue": 72,
+                        "green": 55,
+                        "red": 41
+                      }
+                    },
+                    {
+                      "percentage": 7.78,
+                      "rgb": {
+                        "blue": 120,
+                        "green": 171,
+                        "red": 198
+                      }
+                    },
+                    {
+                      "percentage": 7.15,
+                      "rgb": {
+                        "blue": 168,
+                        "green": 156,
+                        "red": 130
+                      }
+                    },
+                    {
+                      "percentage": 4.83,
+                      "rgb": {
+                        "blue": 75,
+                        "green": 102,
+                        "red": 199
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 45.14,
+                      "rgb": {
+                        "blue": 128,
+                        "green": 146,
+                        "red": 154
+                      }
+                    },
+                    {
+                      "percentage": 14.81,
+                      "rgb": {
+                        "blue": 72,
+                        "green": 55,
+                        "red": 41
+                      }
+                    },
+                    {
+                      "percentage": 7.78,
+                      "rgb": {
+                        "blue": 120,
+                        "green": 171,
+                        "red": 198
+                      }
+                    },
+                    {
+                      "percentage": 7.15,
+                      "rgb": {
+                        "blue": 168,
+                        "green": 156,
+                        "red": 130
+                      }
+                    },
+                    {
+                      "percentage": 4.83,
+                      "rgb": {
+                        "blue": 75,
+                        "green": 102,
+                        "red": 199
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=png&name=2048x2048_2_exp",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://t.co/SEjrZXgLZJ",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 813,
+                  "url": "https://pbs.twimg.com/card_img/2092030873222721536/WVAizFGY?format=jpg&name=orig",
+                  "width": 1220
+                },
+                "type": "IMAGE"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/SEjrZXgLZJ",
+          "userRefsResults": [
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1856899870185197569/MmGv37jH_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Mar 18 10:38:45 +0000 2011",
+                  "name": "東京新聞デジタル",
+                  "screenName": "tokyo_shimbun"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyNjgyMTMzMDY=",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "tokyo-np.co.jp/guidance",
+                          "expanded_url": "https://www.tokyo-np.co.jp/guidance",
+                          "indices": [
+                            73,
+                            96
+                          ],
+                          "url": "https://t.co/8eG9ILi9dk"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "tokyo-np.co.jp",
+                          "expanded_url": "http://www.tokyo-np.co.jp",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/RuTukkqq4b"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 442,
+                  "followRequestSent": false,
+                  "followersCount": 124077,
+                  "friendsCount": 130,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 3410,
+                  "mediaCount": 550,
+                  "normalFollowersCount": 124077,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2080557859599942038"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/268213306/1468047387",
+                  "profileInterstitialType": "",
+                  "statusesCount": 307068,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/RuTukkqq4b",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "東京都 千代田区"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "professional": {
+                  "category": [
+                    {
+                      "iconName": "IconBriefcaseStroke",
+                      "id": 580,
+                      "name": "Media & News Company"
+                    }
+                  ],
+                  "professionalType": "Business",
+                  "restId": "1669902082193883136"
+                },
+                "profileBio": {
+                  "description": "2024年11月14日にスタートした「東京新聞デジタル」の公式アカウントです。注目のニュースやおすすめ記事などをお知らせします。各プランの詳細は https://t.co/8eG9ILi9dk をご覧ください（学割もあります）。"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "268213306",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          ]
+        },
+        "restId": "https://t.co/SEjrZXgLZJ"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1267387499975897088/e1m_Gtlg_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Fri Nov 27 15:33:56 +0000 2015",
+              "name": "反差別統一戦線東京委員会",
+              "screenName": "Anti_Discrimina"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjo0Mzc4Nzk4OTk0",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "Anti-Discrimination United Front Tokyo Committee",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 130141,
+              "followRequestSent": false,
+              "followersCount": 8128,
+              "friendsCount": 509,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "listedCount": 176,
+              "mediaCount": 6992,
+              "normalFollowersCount": 8128,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "745204975974780928"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4378798994/1526111038",
+              "profileInterstitialType": "",
+              "statusesCount": 591737,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "Anti-Discrimination United Front Tokyo Committee"
+            },
+            "profileDescriptionLanguage": "und",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "4378798994",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2025694637915328857"
+        ],
+        "editableUntilMsecs": "1771801811000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 990,
+        "bookmarked": false,
+        "conversationIdStr": "2025694637915328857",
+        "createdAt": "Sun Feb 22 22:10:11 +0000 2026",
+        "displayTextRange": [
+          0,
+          72
+        ],
+        "entities": {
+          "urls": [
+            {
+              "displayUrl": "tokyo-np.co.jp/article/470553",
+              "expandedUrl": "https://www.tokyo-np.co.jp/article/470553",
+              "indices": [
+                49,
+                72
+              ],
+              "url": "https://t.co/SEjrZXgLZJ"
+            }
+          ]
+        },
+        "favoriteCount": 29361,
+        "favorited": false,
+        "fullText": "ネトウヨ、肝に銘じろ。\n\n天皇「愛子にも戦争の記憶と平和の尊さを引き継ぐ役割を」　66歳の誕生日\nhttps://t.co/SEjrZXgLZJ",
+        "idStr": "2025694637915328857",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 201,
+        "replyCount": 277,
+        "retweetCount": 5548,
+        "retweeted": false,
+        "userIdStr": "4378798994"
+      },
+      "restId": "2025694637915328857",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "712194",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1267387499975897088/e1m_Gtlg_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Fri Nov 27 15:33:56 +0000 2015",
+        "name": "反差別統一戦線東京委員会",
+        "screenName": "Anti_Discrimina"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjo0Mzc4Nzk4OTk0",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "Anti-Discrimination United Front Tokyo Committee",
+        "entities": {
+          "description": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 130141,
+        "followRequestSent": false,
+        "followersCount": 8128,
+        "friendsCount": 509,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "listedCount": 176,
+        "mediaCount": 6992,
+        "normalFollowersCount": 8128,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "745204975974780928"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4378798994/1526111038",
+        "profileInterstitialType": "",
+        "statusesCount": 591737,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": ""
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "Anti-Discrimination United Front Tokyo Committee"
+      },
+      "profileDescriptionLanguage": "und",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "4378798994",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}

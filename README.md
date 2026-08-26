@@ -3,18 +3,21 @@
 An image archive of [@299792457_](https://x.com/299792457_), rendered with
 [twitter-snap](https://github.com/fa0311/twitter-snap).
 
+![Archived post 2022276975130501251](snapshots/2026/02/2022276975130501251.png)
+
 ## How it works
 
 GitHub Actions runs hourly. It uses [`@yuta/bird`](https://git.yutakobayashi.com/yuta/bird)
 through Twitter Safe Relay to enumerate post IDs, renders each new status with
 twitter-snap's exported `getSnapAppRenderWithCache` API and guest session, and
-commits 2x-resolution files to `snapshots/YYYY/MM/<tweet-id>.<png|mp4>`. Image
-posts remain PNGs and video posts are rendered as MP4s. Posts and authored
+commits each record to `snapshots/YYYY/MM/<tweet-id>.<png|mp4>` with a searchable
+`<tweet-id>.json` sidecar produced by twitter-snap's `Json` theme. JSON is
+pretty-printed for readable diffs and repository search. Image posts remain
+2x-resolution PNGs and video posts are rendered as MP4s. Posts and authored
 replies are both collected from `UserTweetsAndReplies`, including replies to
 other accounts and continuations of a self-thread. Each status in a thread is
-archived as its own addressable snapshot; twitter-snap does not combine an
-entire conversation into one image. The library API reuses the guest session
-and font cache across posts in one run.
+archived as its own addressable record. The library API reuses the guest
+session and font cache across posts in one run.
 
 Only ID enumeration is authenticated by the home relay. Rendering uses a guest
 token, so X cookies are never copied into GitHub Actions. The collector stops
@@ -47,6 +50,12 @@ paginated `UserTweetsAndReplies` timeline with:
 pnpm snapshot -- --backfill
 ```
 
+Backfill missing JSON sidecars for up to 40 existing snapshots per run with:
+
+```sh
+pnpm snapshot -- --backfill-json
+```
+
 You can also start the `Archive X snapshots` workflow manually from the Actions
 tab. Scheduled and manual runs operate only on the default branch.
 
@@ -54,5 +63,5 @@ tab. Scheduled and manual runs operate only on the default branch.
 
 Keep both dependencies pinned. Before opening a pull request, run
 `pnpm install --frozen-lockfile` and verify that `pnpm snapshot` creates a
-non-empty PNG or MP4. Update this README when the schedule, target, output layout,
-or required secret changes.
+non-empty PNG or MP4 with a matching, valid JSON sidecar. Update this README
+when the schedule, target, output layout, or required secret changes.

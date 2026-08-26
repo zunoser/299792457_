@@ -1,4 +1,4 @@
-import {readdir, stat, unlink} from 'node:fs/promises'
+import {readFile, readdir, stat, unlink, writeFile} from 'node:fs/promises'
 import {tmpdir} from 'node:os'
 import {dirname, join} from 'node:path'
 import {fileURLToPath} from 'node:url'
@@ -25,7 +25,7 @@ const snap = getSnapAppRenderWithCache({})
 const sleep = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds))
 const randomDelay = (minimum, maximum) => Math.floor(Math.random() * (maximum - minimum) + minimum)
 
-async function findSnapshotIds(directory) {
+async function findArchiveIds(directory, extensions) {
   const ids = new Set()
   let entries
   try {
@@ -38,10 +38,10 @@ async function findSnapshotIds(directory) {
   for (const entry of entries) {
     const path = join(directory, entry.name)
     if (entry.isDirectory()) {
-      for (const id of await findSnapshotIds(path)) ids.add(id)
+      for (const id of await findArchiveIds(path, extensions)) ids.add(id)
     } else if (entry.isFile()) {
-      const match = entry.name.match(/^(\d+)\.(?:png|mp4)$/)
-      if (match) ids.add(match[1])
+      const match = entry.name.match(/^(\d+)\.(png|mp4|json)$/)
+      if (match && extensions.has(match[2])) ids.add(match[1])
     }
   }
   return ids
@@ -127,7 +127,7 @@ async function collectNewPostIds(existingIds, {backfill = false} = {}) {
   return collected
 }
 
-async function renderPost(postId) {
+async function renderPost(postId, {jsonOnly = false} = {}) {
   const results = await snap({
     url: `https://x.com/i/status/${postId}`,
     allowAppName: ['twitter'],
@@ -135,52 +135,90 @@ async function renderPost(postId) {
     sessionType: 'guest',
     limit: 1,
     callback: async (run) => {
-      const result = await run({
+      const media = jsonOnly ? undefined : await run({
         width: 1300,
         scale: 2,
         theme: 'RenderOceanBlueColor',
         output: join(snapshotsRoot, '{time-yyyy}', '{time-mm}', '{id}.{if-type:png:mp4:json:}'),
       })
-      const output = result.file.path.toString()
-      await result.file.tempCleanup()
-      return output
+      const json = await run({
+        theme: 'Json',
+        output: join(snapshotsRoot, '{time-yyyy}', '{time-mm}', '{id}.json'),
+      })
+      await media?.file.tempCleanup()
+      await json.file.tempCleanup()
+      return {
+        mediaPath: media?.file.path.toString(),
+        jsonPath: json.file.path.toString(),
+      }
     },
   })
-  if (results.length !== 1) throw new Error(`twitter-snap rendered ${results.length} files for ${postId}`)
-  if (!/\.(?:png|mp4)$/.test(results[0])) throw new Error(`twitter-snap returned an invalid output for ${postId}`)
-  return results[0]
+  if (results.length !== 1) throw new Error(`twitter-snap rendered ${results.length} records for ${postId}`)
+  const [{mediaPath, jsonPath}] = results
+  if (!jsonPath.endsWith('.json')) throw new Error(`twitter-snap returned an invalid JSON output for ${postId}`)
+  const json = JSON.parse(await readFile(jsonPath, 'utf8'))
+  if (json.tweet?.restId !== postId) throw new Error(`twitter-snap returned JSON for the wrong post: ${postId}`)
+  await writeFile(jsonPath, `${JSON.stringify(json, null, 2)}\n`)
+  if (!jsonOnly && !/\.(?:png|mp4)$/.test(mediaPath)) throw new Error(`twitter-snap returned an invalid media output for ${postId}`)
+  return {mediaPath, jsonPath}
 }
 
 const args = process.argv.slice(2).filter((argument) => argument !== '--')
-if (args.some((argument) => argument !== '--rebuild' && argument !== '--backfill')) throw new Error('Usage: pnpm snapshot [--rebuild|--backfill]')
+if (args.some((argument) => !['--rebuild', '--backfill', '--backfill-json'].includes(argument))) {
+  throw new Error('Usage: pnpm snapshot [--rebuild|--backfill|--backfill-json]')
+}
 const rebuild = args.includes('--rebuild')
 const backfill = args.includes('--backfill')
-if (rebuild && backfill) throw new Error('--rebuild and --backfill are mutually exclusive')
-const existingIds = await findSnapshotIds(snapshotsRoot)
-const postIds = rebuild ? [...existingIds].sort().reverse() : await collectNewPostIds(existingIds, {backfill})
+const backfillJson = args.includes('--backfill-json')
+if ([rebuild, backfill, backfillJson].filter(Boolean).length > 1) throw new Error('Snapshot modes are mutually exclusive')
+const mediaIds = await findArchiveIds(snapshotsRoot, new Set(['png', 'mp4']))
+const jsonIds = await findArchiveIds(snapshotsRoot, new Set(['json']))
+const completeIds = new Set([...mediaIds].filter((id) => jsonIds.has(id)))
+const postIds = rebuild
+  ? [...mediaIds].sort().reverse()
+  : backfillJson
+    ? [...mediaIds].filter((id) => !jsonIds.has(id)).sort().reverse()
+    : await collectNewPostIds(completeIds, {backfill})
 
 if (postIds.length === 0) {
-  console.log(rebuild ? 'No snapshots to rebuild.' : backfill ? 'No missing historical posts.' : 'No new posts.')
+  console.log(rebuild ? 'No snapshots to rebuild.' : backfill ? 'No missing historical posts.' : backfillJson ? 'No missing JSON records.' : 'No new posts.')
   process.exit(0)
 }
 
-for (const [index, postId] of postIds.entries()) {
-  const outputPath = await renderPost(postId)
-  if ((await stat(outputPath)).size === 0) throw new Error(`twitter-snap produced an empty file for ${postId}`)
-
-  const paths = await findSnapshotPaths(snapshotsRoot, postId)
-  for (const path of paths) {
-    if (path !== outputPath) await unlink(path)
+let completed = 0
+let unavailable = 0
+for (const postId of postIds) {
+  let output
+  try {
+    output = await renderPost(postId, {jsonOnly: backfillJson})
+  } catch (error) {
+    if (!backfillJson) throw error
+    unavailable += 1
+    console.warn(`JSON unavailable for ${postId}; keeping the existing snapshot.`)
+    continue
   }
-  const currentPaths = await findSnapshotPaths(snapshotsRoot, postId)
-  if (currentPaths.length !== 1 || currentPaths[0] !== outputPath) throw new Error(`Invalid archive output for ${postId}`)
+  const {mediaPath, jsonPath} = output
+  if ((await stat(jsonPath)).size === 0) throw new Error(`twitter-snap produced empty JSON for ${postId}`)
 
-  if (index + 1 < postIds.length) await sleep(randomDelay(1_000, 3_000))
+  if (mediaPath) {
+    if ((await stat(mediaPath)).size === 0) throw new Error(`twitter-snap produced an empty file for ${postId}`)
+    const paths = await findSnapshotPaths(snapshotsRoot, postId)
+    for (const path of paths) {
+      if (path !== mediaPath) await unlink(path)
+    }
+    const currentPaths = await findSnapshotPaths(snapshotsRoot, postId)
+    if (currentPaths.length !== 1 || currentPaths[0] !== mediaPath) throw new Error(`Invalid archive output for ${postId}`)
+  }
+
+  completed += 1
+  if (backfillJson && completed >= MAX_NEW_POSTS) break
+  if (completed + unavailable >= postIds.length) break
+  await sleep(randomDelay(1_000, 3_000))
 }
 
-const action = rebuild ? 'Rebuilt' : backfill ? 'Backfilled' : 'Archived'
-const detail = rebuild ? 'posts at 2x resolution' : backfill ? 'historical posts' : 'new posts'
-console.log(`${action} ${postIds.length} ${detail}.`)
+const action = rebuild ? 'Rebuilt' : backfill || backfillJson ? 'Backfilled' : 'Archived'
+const detail = rebuild ? 'posts with media and JSON' : backfill ? 'historical posts' : backfillJson ? 'JSON records' : 'new posts with media and JSON'
+console.log(`${action} ${completed} ${detail}${unavailable > 0 ? `; ${unavailable} currently unavailable` : ''}.`)
 
 async function findSnapshotPaths(directory, postId) {
   const paths = []

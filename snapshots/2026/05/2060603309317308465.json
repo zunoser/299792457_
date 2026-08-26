@@ -1,0 +1,1213 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2060603309317308465"
+        ],
+        "editableUntilMsecs": "1780124687000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2060603309317308465",
+        "createdAt": "Sat May 30 06:04:47 +0000 2026",
+        "displayTextRange": [
+          0,
+          62
+        ],
+        "entities": {},
+        "favoriteCount": 5,
+        "favorited": false,
+        "fullText": "人生の選択を減らしアルゴリズム的に行動すると楽に生きられることが知られている \n\n隣に座った女子がウルフカットなら話しかける",
+        "idStr": "2060603309317308465",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2060496413210165330",
+        "quotedStatusPermalink": {
+          "display": "x.com/akiko_lawson/s…",
+          "expanded": "https://twitter.com/akiko_lawson/status/2060496413210165330",
+          "url": "https://t.co/XoO7iXpTGz"
+        },
+        "replyCount": 1,
+        "retweetCount": 2,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "card": {
+            "legacy": {
+              "bindingValues": [
+                {
+                  "key": "unified_card",
+                  "value": {
+                    "stringValue": "{\"type\":\"image_website\",\"component_objects\":{\"details_1\":{\"type\":\"details\",\"data\":{\"title\":{\"content\":\"\\u30AD\\u30E3\\u30F3\\u30DA\\u30FC\\u30F3\\u8A73\\u7D30\\u306F\\u3053\\u3061\\u3089\\u266A\",\"is_rtl\":false},\"subtitle\":{\"content\":\"lawson.co.jp\",\"is_rtl\":false},\"destination\":\"browser_1\"}},\"media_1\":{\"type\":\"media\",\"data\":{\"id\":\"3_2056185966742921216\",\"destination\":\"browser_1\"}}},\"destination_objects\":{\"browser_1\":{\"type\":\"browser\",\"data\":{\"url_data\":{\"url\":\"https://www.lawson.co.jp/lab/tsuushin/art/1520787_4659.html\",\"vanity\":\"lawson.co.jp\"}}}},\"components\":[\"media_1\",\"details_1\"],\"media_entities\":{\"3_2056185966742921216\":{\"id\":2056185966742921216,\"id_str\":\"2056185966742921216\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/HIkKPhva4AAexq0.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":800,\"height\":800,\"focus_rects\":[{\"x\":0,\"y\":236,\"h\":448,\"w\":800},{\"x\":0,\"y\":0,\"h\":800,\"w\":800},{\"x\":0,\"y\":0,\"h\":800,\"w\":702},{\"x\":0,\"y\":0,\"h\":800,\"w\":400},{\"x\":0,\"y\":0,\"h\":800,\"w\":800}]},\"sizes\":{\"medium\":{\"w\":800,\"h\":800,\"resize\":\"fit\"},\"large\":{\"w\":800,\"h\":800,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":680,\"resize\":\"fit\"}},\"source_user_id\":115639376,\"source_user_id_str\":\"115639376\",\"media_key\":\"3_2056185966742921216\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":242,\"green\":224,\"blue\":211},\"percentage\":40.94},{\"rgb\":{\"red\":194,\"green\":138,\"blue\":97},\"percentage\":21.22},{\"rgb\":{\"red\":193,\"green\":23,\"blue\":36},\"percentage\":13.55},{\"rgb\":{\"red\":122,\"green\":71,\"blue\":36},\"percentage\":6.46},{\"rgb\":{\"red\":194,\"green\":106,\"blue\":25},\"percentage\":4.69}]}},\"ttl\":-1}}}}}",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "card_url",
+                  "value": {
+                    "scribeKey": "card_url",
+                    "stringValue": "https://twitter.com",
+                    "type": "STRING"
+                  }
+                }
+              ],
+              "cardPlatform": {
+                "platform": {
+                  "audience": {
+                    "name": "production"
+                  },
+                  "device": {
+                    "name": "Swift",
+                    "version": "12"
+                  }
+                }
+              },
+              "name": "unified_card",
+              "url": "card://2056197967720407040",
+              "userRefsResults": []
+            },
+            "restId": "card://2056197967720407040"
+          },
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1613363763008393216/RxJvbU68_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Feb 19 11:16:00 +0000 2010",
+                  "name": "ローソン",
+                  "screenName": "akiko_lawson"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxMTU2MzkzNzY=",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "lawson.co.jp",
+                          "expanded_url": "http://lawson.co.jp",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/T6cg3CLT7X"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 392,
+                  "followRequestSent": false,
+                  "followersCount": 10397049,
+                  "friendsCount": 18,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 19258,
+                  "mediaCount": 50339797,
+                  "normalFollowersCount": 10397049,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/115639376/1779681511",
+                  "profileInterstitialType": "",
+                  "statusesCount": 50465789,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/T6cg3CLT7X",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "東京都品川区大崎"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Square",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "115639376",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false,
+                  "verifiedType": "Business"
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2060496413210165330"
+            ],
+            "editableUntilMsecs": "1780099201000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 2361,
+            "bookmarked": false,
+            "conversationIdStr": "2060496413210165330",
+            "createdAt": "Fri May 29 23:00:01 +0000 2026",
+            "displayTextRange": [
+              0,
+              91
+            ],
+            "entities": {},
+            "favoriteCount": 119224,
+            "favorited": false,
+            "fullText": "5日間限定の無料券チャレンジ(^^)\n今日は冷凍焼餃子無料の4日目です♪\n\n1）このアカウントをフォロー\n2）この投稿をリポスト\n3）抽選で毎日1万名様に無料券！結果は自動でお知らせ",
+            "idStr": "2060496413210165330",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "quoteCount": 166454,
+            "replyCount": 3230,
+            "retweetCount": 337778,
+            "retweeted": false,
+            "userIdStr": "115639376"
+          },
+          "restId": "2060496413210165330",
+          "source": "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">Ads Manager Next</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "219242770",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2060603309317308465",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "436",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2060603309317308465"
+      ],
+      "editableUntilMsecs": "1780124687000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2060603309317308465",
+      "createdAt": "Sat May 30 06:04:47 +0000 2026",
+      "displayTextRange": [
+        0,
+        62
+      ],
+      "entities": {},
+      "favoriteCount": 5,
+      "favorited": false,
+      "fullText": "人生の選択を減らしアルゴリズム的に行動すると楽に生きられることが知られている \n\n隣に座った女子がウルフカットなら話しかける",
+      "idStr": "2060603309317308465",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2060496413210165330",
+      "quotedStatusPermalink": {
+        "display": "x.com/akiko_lawson/s…",
+        "expanded": "https://twitter.com/akiko_lawson/status/2060496413210165330",
+        "url": "https://t.co/XoO7iXpTGz"
+      },
+      "replyCount": 1,
+      "retweetCount": 2,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "card": {
+          "legacy": {
+            "bindingValues": [
+              {
+                "key": "unified_card",
+                "value": {
+                  "stringValue": "{\"type\":\"image_website\",\"component_objects\":{\"details_1\":{\"type\":\"details\",\"data\":{\"title\":{\"content\":\"\\u30AD\\u30E3\\u30F3\\u30DA\\u30FC\\u30F3\\u8A73\\u7D30\\u306F\\u3053\\u3061\\u3089\\u266A\",\"is_rtl\":false},\"subtitle\":{\"content\":\"lawson.co.jp\",\"is_rtl\":false},\"destination\":\"browser_1\"}},\"media_1\":{\"type\":\"media\",\"data\":{\"id\":\"3_2056185966742921216\",\"destination\":\"browser_1\"}}},\"destination_objects\":{\"browser_1\":{\"type\":\"browser\",\"data\":{\"url_data\":{\"url\":\"https://www.lawson.co.jp/lab/tsuushin/art/1520787_4659.html\",\"vanity\":\"lawson.co.jp\"}}}},\"components\":[\"media_1\",\"details_1\"],\"media_entities\":{\"3_2056185966742921216\":{\"id\":2056185966742921216,\"id_str\":\"2056185966742921216\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/HIkKPhva4AAexq0.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":800,\"height\":800,\"focus_rects\":[{\"x\":0,\"y\":236,\"h\":448,\"w\":800},{\"x\":0,\"y\":0,\"h\":800,\"w\":800},{\"x\":0,\"y\":0,\"h\":800,\"w\":702},{\"x\":0,\"y\":0,\"h\":800,\"w\":400},{\"x\":0,\"y\":0,\"h\":800,\"w\":800}]},\"sizes\":{\"medium\":{\"w\":800,\"h\":800,\"resize\":\"fit\"},\"large\":{\"w\":800,\"h\":800,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":680,\"resize\":\"fit\"}},\"source_user_id\":115639376,\"source_user_id_str\":\"115639376\",\"media_key\":\"3_2056185966742921216\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":242,\"green\":224,\"blue\":211},\"percentage\":40.94},{\"rgb\":{\"red\":194,\"green\":138,\"blue\":97},\"percentage\":21.22},{\"rgb\":{\"red\":193,\"green\":23,\"blue\":36},\"percentage\":13.55},{\"rgb\":{\"red\":122,\"green\":71,\"blue\":36},\"percentage\":6.46},{\"rgb\":{\"red\":194,\"green\":106,\"blue\":25},\"percentage\":4.69}]}},\"ttl\":-1}}}}}",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "card_url",
+                "value": {
+                  "scribeKey": "card_url",
+                  "stringValue": "https://twitter.com",
+                  "type": "STRING"
+                }
+              }
+            ],
+            "cardPlatform": {
+              "platform": {
+                "audience": {
+                  "name": "production"
+                },
+                "device": {
+                  "name": "Swift",
+                  "version": "12"
+                }
+              }
+            },
+            "name": "unified_card",
+            "url": "card://2056197967720407040",
+            "userRefsResults": []
+          },
+          "restId": "card://2056197967720407040"
+        },
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1613363763008393216/RxJvbU68_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Feb 19 11:16:00 +0000 2010",
+                "name": "ローソン",
+                "screenName": "akiko_lawson"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxMTU2MzkzNzY=",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lawson.co.jp",
+                        "expanded_url": "http://lawson.co.jp",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/T6cg3CLT7X"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 392,
+                "followRequestSent": false,
+                "followersCount": 10397049,
+                "friendsCount": 18,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 19258,
+                "mediaCount": 50339797,
+                "normalFollowersCount": 10397049,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/115639376/1779681511",
+                "profileInterstitialType": "",
+                "statusesCount": 50465789,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/T6cg3CLT7X",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "東京都品川区大崎"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Square",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "115639376",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false,
+                "verifiedType": "Business"
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2060496413210165330"
+          ],
+          "editableUntilMsecs": "1780099201000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 2361,
+          "bookmarked": false,
+          "conversationIdStr": "2060496413210165330",
+          "createdAt": "Fri May 29 23:00:01 +0000 2026",
+          "displayTextRange": [
+            0,
+            91
+          ],
+          "entities": {},
+          "favoriteCount": 119224,
+          "favorited": false,
+          "fullText": "5日間限定の無料券チャレンジ(^^)\n今日は冷凍焼餃子無料の4日目です♪\n\n1）このアカウントをフォロー\n2）この投稿をリポスト\n3）抽選で毎日1万名様に無料券！結果は自動でお知らせ",
+          "idStr": "2060496413210165330",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "quoteCount": 166454,
+          "replyCount": 3230,
+          "retweetCount": 337778,
+          "retweeted": false,
+          "userIdStr": "115639376"
+        },
+        "restId": "2060496413210165330",
+        "source": "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">Ads Manager Next</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "219242770",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2060603309317308465",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "436",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "card": {
+          "legacy": {
+            "bindingValues": [
+              {
+                "key": "unified_card",
+                "value": {
+                  "stringValue": "{\"type\":\"image_website\",\"component_objects\":{\"details_1\":{\"type\":\"details\",\"data\":{\"title\":{\"content\":\"\\u30AD\\u30E3\\u30F3\\u30DA\\u30FC\\u30F3\\u8A73\\u7D30\\u306F\\u3053\\u3061\\u3089\\u266A\",\"is_rtl\":false},\"subtitle\":{\"content\":\"lawson.co.jp\",\"is_rtl\":false},\"destination\":\"browser_1\"}},\"media_1\":{\"type\":\"media\",\"data\":{\"id\":\"3_2056185966742921216\",\"destination\":\"browser_1\"}}},\"destination_objects\":{\"browser_1\":{\"type\":\"browser\",\"data\":{\"url_data\":{\"url\":\"https://www.lawson.co.jp/lab/tsuushin/art/1520787_4659.html\",\"vanity\":\"lawson.co.jp\"}}}},\"components\":[\"media_1\",\"details_1\"],\"media_entities\":{\"3_2056185966742921216\":{\"id\":2056185966742921216,\"id_str\":\"2056185966742921216\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/HIkKPhva4AAexq0.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":800,\"height\":800,\"focus_rects\":[{\"x\":0,\"y\":236,\"h\":448,\"w\":800},{\"x\":0,\"y\":0,\"h\":800,\"w\":800},{\"x\":0,\"y\":0,\"h\":800,\"w\":702},{\"x\":0,\"y\":0,\"h\":800,\"w\":400},{\"x\":0,\"y\":0,\"h\":800,\"w\":800}]},\"sizes\":{\"medium\":{\"w\":800,\"h\":800,\"resize\":\"fit\"},\"large\":{\"w\":800,\"h\":800,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":680,\"resize\":\"fit\"}},\"source_user_id\":115639376,\"source_user_id_str\":\"115639376\",\"media_key\":\"3_2056185966742921216\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":242,\"green\":224,\"blue\":211},\"percentage\":40.94},{\"rgb\":{\"red\":194,\"green\":138,\"blue\":97},\"percentage\":21.22},{\"rgb\":{\"red\":193,\"green\":23,\"blue\":36},\"percentage\":13.55},{\"rgb\":{\"red\":122,\"green\":71,\"blue\":36},\"percentage\":6.46},{\"rgb\":{\"red\":194,\"green\":106,\"blue\":25},\"percentage\":4.69}]}},\"ttl\":-1}}}}}",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "card_url",
+                "value": {
+                  "scribeKey": "card_url",
+                  "stringValue": "https://twitter.com",
+                  "type": "STRING"
+                }
+              }
+            ],
+            "cardPlatform": {
+              "platform": {
+                "audience": {
+                  "name": "production"
+                },
+                "device": {
+                  "name": "Swift",
+                  "version": "12"
+                }
+              }
+            },
+            "name": "unified_card",
+            "url": "card://2056197967720407040",
+            "userRefsResults": []
+          },
+          "restId": "card://2056197967720407040"
+        },
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1613363763008393216/RxJvbU68_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Feb 19 11:16:00 +0000 2010",
+                "name": "ローソン",
+                "screenName": "akiko_lawson"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxMTU2MzkzNzY=",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lawson.co.jp",
+                        "expanded_url": "http://lawson.co.jp",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/T6cg3CLT7X"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 392,
+                "followRequestSent": false,
+                "followersCount": 10397049,
+                "friendsCount": 18,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 19258,
+                "mediaCount": 50339797,
+                "normalFollowersCount": 10397049,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/115639376/1779681511",
+                "profileInterstitialType": "",
+                "statusesCount": 50465789,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/T6cg3CLT7X",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "東京都品川区大崎"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Square",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "115639376",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false,
+                "verifiedType": "Business"
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2060496413210165330"
+          ],
+          "editableUntilMsecs": "1780099201000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 2361,
+          "bookmarked": false,
+          "conversationIdStr": "2060496413210165330",
+          "createdAt": "Fri May 29 23:00:01 +0000 2026",
+          "displayTextRange": [
+            0,
+            91
+          ],
+          "entities": {},
+          "favoriteCount": 119224,
+          "favorited": false,
+          "fullText": "5日間限定の無料券チャレンジ(^^)\n今日は冷凍焼餃子無料の4日目です♪\n\n1）このアカウントをフォロー\n2）この投稿をリポスト\n3）抽選で毎日1万名様に無料券！結果は自動でお知らせ",
+          "idStr": "2060496413210165330",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "quoteCount": 166454,
+          "replyCount": 3230,
+          "retweetCount": 337778,
+          "retweeted": false,
+          "userIdStr": "115639376"
+        },
+        "restId": "2060496413210165330",
+        "source": "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">Ads Manager Next</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "219242770",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "unified_card",
+              "value": {
+                "stringValue": "{\"type\":\"image_website\",\"component_objects\":{\"details_1\":{\"type\":\"details\",\"data\":{\"title\":{\"content\":\"\\u30AD\\u30E3\\u30F3\\u30DA\\u30FC\\u30F3\\u8A73\\u7D30\\u306F\\u3053\\u3061\\u3089\\u266A\",\"is_rtl\":false},\"subtitle\":{\"content\":\"lawson.co.jp\",\"is_rtl\":false},\"destination\":\"browser_1\"}},\"media_1\":{\"type\":\"media\",\"data\":{\"id\":\"3_2056185966742921216\",\"destination\":\"browser_1\"}}},\"destination_objects\":{\"browser_1\":{\"type\":\"browser\",\"data\":{\"url_data\":{\"url\":\"https://www.lawson.co.jp/lab/tsuushin/art/1520787_4659.html\",\"vanity\":\"lawson.co.jp\"}}}},\"components\":[\"media_1\",\"details_1\"],\"media_entities\":{\"3_2056185966742921216\":{\"id\":2056185966742921216,\"id_str\":\"2056185966742921216\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/HIkKPhva4AAexq0.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":800,\"height\":800,\"focus_rects\":[{\"x\":0,\"y\":236,\"h\":448,\"w\":800},{\"x\":0,\"y\":0,\"h\":800,\"w\":800},{\"x\":0,\"y\":0,\"h\":800,\"w\":702},{\"x\":0,\"y\":0,\"h\":800,\"w\":400},{\"x\":0,\"y\":0,\"h\":800,\"w\":800}]},\"sizes\":{\"medium\":{\"w\":800,\"h\":800,\"resize\":\"fit\"},\"large\":{\"w\":800,\"h\":800,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":680,\"resize\":\"fit\"}},\"source_user_id\":115639376,\"source_user_id_str\":\"115639376\",\"media_key\":\"3_2056185966742921216\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":242,\"green\":224,\"blue\":211},\"percentage\":40.94},{\"rgb\":{\"red\":194,\"green\":138,\"blue\":97},\"percentage\":21.22},{\"rgb\":{\"red\":193,\"green\":23,\"blue\":36},\"percentage\":13.55},{\"rgb\":{\"red\":122,\"green\":71,\"blue\":36},\"percentage\":6.46},{\"rgb\":{\"red\":194,\"green\":106,\"blue\":25},\"percentage\":4.69}]}},\"ttl\":-1}}}}}",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://twitter.com",
+                "type": "STRING"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "unified_card",
+          "url": "card://2056197967720407040",
+          "userRefsResults": []
+        },
+        "restId": "card://2056197967720407040"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1613363763008393216/RxJvbU68_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Fri Feb 19 11:16:00 +0000 2010",
+              "name": "ローソン",
+              "screenName": "akiko_lawson"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxMTU2MzkzNzY=",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": false,
+              "defaultProfileImage": false,
+              "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "lawson.co.jp",
+                      "expanded_url": "http://lawson.co.jp",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/T6cg3CLT7X"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 392,
+              "followRequestSent": false,
+              "followersCount": 10397049,
+              "friendsCount": 18,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "listedCount": 19258,
+              "mediaCount": 50339797,
+              "normalFollowersCount": 10397049,
+              "notifications": false,
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/115639376/1779681511",
+              "profileInterstitialType": "",
+              "statusesCount": 50465789,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/T6cg3CLT7X",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "東京都品川区大崎"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Square",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "115639376",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false,
+              "verifiedType": "Business"
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2060496413210165330"
+        ],
+        "editableUntilMsecs": "1780099201000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 2361,
+        "bookmarked": false,
+        "conversationIdStr": "2060496413210165330",
+        "createdAt": "Fri May 29 23:00:01 +0000 2026",
+        "displayTextRange": [
+          0,
+          91
+        ],
+        "entities": {},
+        "favoriteCount": 119224,
+        "favorited": false,
+        "fullText": "5日間限定の無料券チャレンジ(^^)\n今日は冷凍焼餃子無料の4日目です♪\n\n1）このアカウントをフォロー\n2）この投稿をリポスト\n3）抽選で毎日1万名様に無料券！結果は自動でお知らせ",
+        "idStr": "2060496413210165330",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 166454,
+        "replyCount": 3230,
+        "retweetCount": 337778,
+        "retweeted": false,
+        "userIdStr": "115639376"
+      },
+      "restId": "2060496413210165330",
+      "source": "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">Ads Manager Next</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "219242770",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1613363763008393216/RxJvbU68_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Fri Feb 19 11:16:00 +0000 2010",
+        "name": "ローソン",
+        "screenName": "akiko_lawson"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxMTU2MzkzNzY=",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": false,
+        "defaultProfileImage": false,
+        "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "lawson.co.jp",
+                "expanded_url": "http://lawson.co.jp",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/T6cg3CLT7X"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 392,
+        "followRequestSent": false,
+        "followersCount": 10397049,
+        "friendsCount": 18,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "listedCount": 19258,
+        "mediaCount": 50339797,
+        "normalFollowersCount": 10397049,
+        "notifications": false,
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/115639376/1779681511",
+        "profileInterstitialType": "",
+        "statusesCount": 50465789,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/T6cg3CLT7X",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "東京都品川区大崎"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Square",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "115639376",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false,
+        "verifiedType": "Business"
+      }
+    },
+    "replies": []
+  }
+}

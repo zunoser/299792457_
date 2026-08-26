@@ -1,0 +1,1019 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2020500399321694715"
+        ],
+        "editableUntilMsecs": "1770563408937",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2020500399321694715",
+        "createdAt": "Sun Feb 08 14:10:08 +0000 2026",
+        "displayTextRange": [
+          0,
+          40
+        ],
+        "entities": {
+          "userMentions": [
+            {
+              "id_str": "1272710529350590466",
+              "indices": [
+                3,
+                14
+              ],
+              "name": "HTT",
+              "screen_name": "hh34269323"
+            }
+          ]
+        },
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "RT @hh34269323: リタイヤしたいのは中道の方だったかもしれません🤭",
+        "idStr": "2020500399321694715",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 1,
+        "retweeted": false,
+        "retweetedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1294058246941159424/PZBkyg6f_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Tue Jun 16 02:00:27 +0000 2020",
+                    "name": "HTT",
+                    "screenName": "hh34269323"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoxMjcyNzEwNTI5MzUwNTkwNDY2",
+                  "isBlueVerified": false,
+                  "legacy": {
+                    "defaultProfile": true,
+                    "defaultProfileImage": false,
+                    "description": "",
+                    "entities": {
+                      "description": {}
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 101,
+                    "followRequestSent": false,
+                    "followersCount": 14,
+                    "friendsCount": 29,
+                    "hasCustomTimelines": false,
+                    "isTranslator": false,
+                    "listedCount": 0,
+                    "mediaCount": 30,
+                    "normalFollowersCount": 14,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "1980840451843453184"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1272710529350590466/1758527408",
+                    "profileInterstitialType": "",
+                    "statusesCount": 279,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "heiheiワンダーランド"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": ""
+                  },
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "1272710529350590466",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2020499158772441173"
+              ],
+              "editableUntilMsecs": "1770563113000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 0,
+              "bookmarked": false,
+              "conversationIdStr": "2020499158772441173",
+              "createdAt": "Sun Feb 08 14:05:13 +0000 2026",
+              "displayTextRange": [
+                0,
+                24
+              ],
+              "entities": {},
+              "favoriteCount": 3,
+              "favorited": false,
+              "fullText": "リタイヤしたいのは中道の方だったかもしれません🤭",
+              "idStr": "2020499158772441173",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "quoteCount": 0,
+              "replyCount": 0,
+              "retweetCount": 1,
+              "retweeted": false,
+              "userIdStr": "1272710529350590466"
+            },
+            "restId": "2020499158772441173",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "unmentionData": {},
+            "views": {
+              "count": "186",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2020500399321694715",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "state": "Enabled"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2020500399321694715"
+      ],
+      "editableUntilMsecs": "1770563408937",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2020500399321694715",
+      "createdAt": "Sun Feb 08 14:10:08 +0000 2026",
+      "displayTextRange": [
+        0,
+        40
+      ],
+      "entities": {
+        "userMentions": [
+          {
+            "id_str": "1272710529350590466",
+            "indices": [
+              3,
+              14
+            ],
+            "name": "HTT",
+            "screen_name": "hh34269323"
+          }
+        ]
+      },
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "RT @hh34269323: リタイヤしたいのは中道の方だったかもしれません🤭",
+      "idStr": "2020500399321694715",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 1,
+      "retweeted": false,
+      "retweetedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1294058246941159424/PZBkyg6f_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Tue Jun 16 02:00:27 +0000 2020",
+                  "name": "HTT",
+                  "screenName": "hh34269323"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxMjcyNzEwNTI5MzUwNTkwNDY2",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 101,
+                  "followRequestSent": false,
+                  "followersCount": 14,
+                  "friendsCount": 29,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 0,
+                  "mediaCount": 30,
+                  "normalFollowersCount": 14,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "1980840451843453184"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1272710529350590466/1758527408",
+                  "profileInterstitialType": "",
+                  "statusesCount": 279,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "heiheiワンダーランド"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": ""
+                },
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1272710529350590466",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2020499158772441173"
+            ],
+            "editableUntilMsecs": "1770563113000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 0,
+            "bookmarked": false,
+            "conversationIdStr": "2020499158772441173",
+            "createdAt": "Sun Feb 08 14:05:13 +0000 2026",
+            "displayTextRange": [
+              0,
+              24
+            ],
+            "entities": {},
+            "favoriteCount": 3,
+            "favorited": false,
+            "fullText": "リタイヤしたいのは中道の方だったかもしれません🤭",
+            "idStr": "2020499158772441173",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 1,
+            "retweeted": false,
+            "userIdStr": "1272710529350590466"
+          },
+          "restId": "2020499158772441173",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "186",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2020500399321694715",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "state": "Enabled"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "retweeted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1294058246941159424/PZBkyg6f_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Tue Jun 16 02:00:27 +0000 2020",
+                "name": "HTT",
+                "screenName": "hh34269323"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxMjcyNzEwNTI5MzUwNTkwNDY2",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 101,
+                "followRequestSent": false,
+                "followersCount": 14,
+                "friendsCount": 29,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 0,
+                "mediaCount": 30,
+                "normalFollowersCount": 14,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "1980840451843453184"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1272710529350590466/1758527408",
+                "profileInterstitialType": "",
+                "statusesCount": 279,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "heiheiワンダーランド"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": ""
+              },
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1272710529350590466",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2020499158772441173"
+          ],
+          "editableUntilMsecs": "1770563113000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 0,
+          "bookmarked": false,
+          "conversationIdStr": "2020499158772441173",
+          "createdAt": "Sun Feb 08 14:05:13 +0000 2026",
+          "displayTextRange": [
+            0,
+            24
+          ],
+          "entities": {},
+          "favoriteCount": 3,
+          "favorited": false,
+          "fullText": "リタイヤしたいのは中道の方だったかもしれません🤭",
+          "idStr": "2020499158772441173",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "quoteCount": 0,
+          "replyCount": 0,
+          "retweetCount": 1,
+          "retweeted": false,
+          "userIdStr": "1272710529350590466"
+        },
+        "restId": "2020499158772441173",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "186",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1294058246941159424/PZBkyg6f_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Tue Jun 16 02:00:27 +0000 2020",
+              "name": "HTT",
+              "screenName": "hh34269323"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxMjcyNzEwNTI5MzUwNTkwNDY2",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 101,
+              "followRequestSent": false,
+              "followersCount": 14,
+              "friendsCount": 29,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 0,
+              "mediaCount": 30,
+              "normalFollowersCount": 14,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "1980840451843453184"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1272710529350590466/1758527408",
+              "profileInterstitialType": "",
+              "statusesCount": 279,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "heiheiワンダーランド"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": ""
+            },
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1272710529350590466",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2020499158772441173"
+        ],
+        "editableUntilMsecs": "1770563113000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2020499158772441173",
+        "createdAt": "Sun Feb 08 14:05:13 +0000 2026",
+        "displayTextRange": [
+          0,
+          24
+        ],
+        "entities": {},
+        "favoriteCount": 3,
+        "favorited": false,
+        "fullText": "リタイヤしたいのは中道の方だったかもしれません🤭",
+        "idStr": "2020499158772441173",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 1,
+        "retweeted": false,
+        "userIdStr": "1272710529350590466"
+      },
+      "restId": "2020499158772441173",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "186",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1294058246941159424/PZBkyg6f_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Tue Jun 16 02:00:27 +0000 2020",
+        "name": "HTT",
+        "screenName": "hh34269323"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxMjcyNzEwNTI5MzUwNTkwNDY2",
+      "isBlueVerified": false,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "",
+        "entities": {
+          "description": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 101,
+        "followRequestSent": false,
+        "followersCount": 14,
+        "friendsCount": 29,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 0,
+        "mediaCount": 30,
+        "normalFollowersCount": 14,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "1980840451843453184"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1272710529350590466/1758527408",
+        "profileInterstitialType": "",
+        "statusesCount": 279,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "heiheiワンダーランド"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": ""
+      },
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1272710529350590466",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}

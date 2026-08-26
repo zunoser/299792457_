@@ -1,0 +1,1202 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2062107576167506146"
+        ],
+        "editableUntilMsecs": "1780483332000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2062107576167506146",
+        "createdAt": "Wed Jun 03 09:42:12 +0000 2026",
+        "displayTextRange": [
+          0,
+          7
+        ],
+        "entities": {},
+        "favoriteCount": 2,
+        "favorited": false,
+        "fullText": "空売りしとくか",
+        "idStr": "2062107576167506146",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2061979932268671235",
+        "quotedStatusPermalink": {
+          "display": "x.com/YahooNewsTopic…",
+          "expanded": "https://twitter.com/YahooNewsTopics/status/2061979932268671235",
+          "url": "https://t.co/cpDkVZLiPn"
+        },
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "card": {
+            "restId": "https://t.co/3Vm6o5IhcG"
+          },
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {
+                  "label": {
+                    "badge": {
+                      "url": "https://pbs.twimg.com/profile_images/1708099235982479360/7A6D4yj-_bigger.png"
+                    },
+                    "description": "LINEヤフー株式会社",
+                    "url": {
+                      "url": "https://twitter.com/lycorp_jp",
+                      "urlType": "DeepLink"
+                    },
+                    "userLabelDisplayType": "Badge",
+                    "userLabelType": "BusinessLabel"
+                  }
+                },
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Tue Nov 10 03:59:51 +0000 2009",
+                  "name": "Yahoo!ニュース",
+                  "screenName": "YahooNewsTopics"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjo4ODg0NjA4NQ==",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "news.yahoo.co.jp",
+                          "expanded_url": "https://news.yahoo.co.jp/",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/PORT0VCtyG"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 0,
+                  "followRequestSent": false,
+                  "followersCount": 2045895,
+                  "friendsCount": 8,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 22325,
+                  "mediaCount": 3989,
+                  "normalFollowersCount": 2045895,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/88846085/1557715365",
+                  "profileInterstitialType": "",
+                  "statusesCount": 596434,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/PORT0VCtyG",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Square",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "88846085",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false,
+                  "verifiedType": "Business"
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2061979932268671235"
+            ],
+            "editableUntilMsecs": "1780452900000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 155,
+            "bookmarked": false,
+            "conversationIdStr": "2061979932268671235",
+            "createdAt": "Wed Jun 03 01:15:00 +0000 2026",
+            "displayTextRange": [
+              0,
+              45
+            ],
+            "entities": {
+              "urls": [
+                {
+                  "displayUrl": "news.yahoo.co.jp/pickup/6582751",
+                  "expandedUrl": "https://news.yahoo.co.jp/pickup/6582751",
+                  "indices": [
+                    22,
+                    45
+                  ],
+                  "url": "https://t.co/3Vm6o5IhcG"
+                }
+              ]
+            },
+            "favoriteCount": 2680,
+            "favorited": false,
+            "fullText": "【KIOXIA 時価総額が一時トヨタ超え】\nhttps://t.co/3Vm6o5IhcG",
+            "idStr": "2061979932268671235",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 226,
+            "replyCount": 113,
+            "retweetCount": 506,
+            "retweeted": false,
+            "userIdStr": "88846085"
+          },
+          "restId": "2061979932268671235",
+          "source": "<a href=\"http://dailynews.yahoo.co.jp/fc/\" rel=\"nofollow\">ヤフトピbot</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "2734462",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2062107576167506146",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "225",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2062107576167506146"
+      ],
+      "editableUntilMsecs": "1780483332000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2062107576167506146",
+      "createdAt": "Wed Jun 03 09:42:12 +0000 2026",
+      "displayTextRange": [
+        0,
+        7
+      ],
+      "entities": {},
+      "favoriteCount": 2,
+      "favorited": false,
+      "fullText": "空売りしとくか",
+      "idStr": "2062107576167506146",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2061979932268671235",
+      "quotedStatusPermalink": {
+        "display": "x.com/YahooNewsTopic…",
+        "expanded": "https://twitter.com/YahooNewsTopics/status/2061979932268671235",
+        "url": "https://t.co/cpDkVZLiPn"
+      },
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "card": {
+          "restId": "https://t.co/3Vm6o5IhcG"
+        },
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {
+                "label": {
+                  "badge": {
+                    "url": "https://pbs.twimg.com/profile_images/1708099235982479360/7A6D4yj-_bigger.png"
+                  },
+                  "description": "LINEヤフー株式会社",
+                  "url": {
+                    "url": "https://twitter.com/lycorp_jp",
+                    "urlType": "DeepLink"
+                  },
+                  "userLabelDisplayType": "Badge",
+                  "userLabelType": "BusinessLabel"
+                }
+              },
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Tue Nov 10 03:59:51 +0000 2009",
+                "name": "Yahoo!ニュース",
+                "screenName": "YahooNewsTopics"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjo4ODg0NjA4NQ==",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "news.yahoo.co.jp",
+                        "expanded_url": "https://news.yahoo.co.jp/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/PORT0VCtyG"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 0,
+                "followRequestSent": false,
+                "followersCount": 2045895,
+                "friendsCount": 8,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 22325,
+                "mediaCount": 3989,
+                "normalFollowersCount": 2045895,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/88846085/1557715365",
+                "profileInterstitialType": "",
+                "statusesCount": 596434,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/PORT0VCtyG",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Square",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "88846085",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false,
+                "verifiedType": "Business"
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2061979932268671235"
+          ],
+          "editableUntilMsecs": "1780452900000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 155,
+          "bookmarked": false,
+          "conversationIdStr": "2061979932268671235",
+          "createdAt": "Wed Jun 03 01:15:00 +0000 2026",
+          "displayTextRange": [
+            0,
+            45
+          ],
+          "entities": {
+            "urls": [
+              {
+                "displayUrl": "news.yahoo.co.jp/pickup/6582751",
+                "expandedUrl": "https://news.yahoo.co.jp/pickup/6582751",
+                "indices": [
+                  22,
+                  45
+                ],
+                "url": "https://t.co/3Vm6o5IhcG"
+              }
+            ]
+          },
+          "favoriteCount": 2680,
+          "favorited": false,
+          "fullText": "【KIOXIA 時価総額が一時トヨタ超え】\nhttps://t.co/3Vm6o5IhcG",
+          "idStr": "2061979932268671235",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 226,
+          "replyCount": 113,
+          "retweetCount": 506,
+          "retweeted": false,
+          "userIdStr": "88846085"
+        },
+        "restId": "2061979932268671235",
+        "source": "<a href=\"http://dailynews.yahoo.co.jp/fc/\" rel=\"nofollow\">ヤフトピbot</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "2734462",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2062107576167506146",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "225",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "card": {
+          "restId": "https://t.co/3Vm6o5IhcG"
+        },
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {
+                "label": {
+                  "badge": {
+                    "url": "https://pbs.twimg.com/profile_images/1708099235982479360/7A6D4yj-_bigger.png"
+                  },
+                  "description": "LINEヤフー株式会社",
+                  "url": {
+                    "url": "https://twitter.com/lycorp_jp",
+                    "urlType": "DeepLink"
+                  },
+                  "userLabelDisplayType": "Badge",
+                  "userLabelType": "BusinessLabel"
+                }
+              },
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Tue Nov 10 03:59:51 +0000 2009",
+                "name": "Yahoo!ニュース",
+                "screenName": "YahooNewsTopics"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjo4ODg0NjA4NQ==",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "news.yahoo.co.jp",
+                        "expanded_url": "https://news.yahoo.co.jp/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/PORT0VCtyG"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 0,
+                "followRequestSent": false,
+                "followersCount": 2045895,
+                "friendsCount": 8,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 22325,
+                "mediaCount": 3989,
+                "normalFollowersCount": 2045895,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/88846085/1557715365",
+                "profileInterstitialType": "",
+                "statusesCount": 596434,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/PORT0VCtyG",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Square",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "88846085",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false,
+                "verifiedType": "Business"
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2061979932268671235"
+          ],
+          "editableUntilMsecs": "1780452900000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 155,
+          "bookmarked": false,
+          "conversationIdStr": "2061979932268671235",
+          "createdAt": "Wed Jun 03 01:15:00 +0000 2026",
+          "displayTextRange": [
+            0,
+            45
+          ],
+          "entities": {
+            "urls": [
+              {
+                "displayUrl": "news.yahoo.co.jp/pickup/6582751",
+                "expandedUrl": "https://news.yahoo.co.jp/pickup/6582751",
+                "indices": [
+                  22,
+                  45
+                ],
+                "url": "https://t.co/3Vm6o5IhcG"
+              }
+            ]
+          },
+          "favoriteCount": 2680,
+          "favorited": false,
+          "fullText": "【KIOXIA 時価総額が一時トヨタ超え】\nhttps://t.co/3Vm6o5IhcG",
+          "idStr": "2061979932268671235",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 226,
+          "replyCount": 113,
+          "retweetCount": 506,
+          "retweeted": false,
+          "userIdStr": "88846085"
+        },
+        "restId": "2061979932268671235",
+        "source": "<a href=\"http://dailynews.yahoo.co.jp/fc/\" rel=\"nofollow\">ヤフトピbot</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "2734462",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "card": {
+        "restId": "https://t.co/3Vm6o5IhcG"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {
+              "label": {
+                "badge": {
+                  "url": "https://pbs.twimg.com/profile_images/1708099235982479360/7A6D4yj-_bigger.png"
+                },
+                "description": "LINEヤフー株式会社",
+                "url": {
+                  "url": "https://twitter.com/lycorp_jp",
+                  "urlType": "DeepLink"
+                },
+                "userLabelDisplayType": "Badge",
+                "userLabelType": "BusinessLabel"
+              }
+            },
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Tue Nov 10 03:59:51 +0000 2009",
+              "name": "Yahoo!ニュース",
+              "screenName": "YahooNewsTopics"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjo4ODg0NjA4NQ==",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": false,
+              "defaultProfileImage": false,
+              "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "news.yahoo.co.jp",
+                      "expanded_url": "https://news.yahoo.co.jp/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/PORT0VCtyG"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 0,
+              "followRequestSent": false,
+              "followersCount": 2045895,
+              "friendsCount": 8,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 22325,
+              "mediaCount": 3989,
+              "normalFollowersCount": 2045895,
+              "notifications": false,
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/88846085/1557715365",
+              "profileInterstitialType": "",
+              "statusesCount": 596434,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/PORT0VCtyG",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Square",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "88846085",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false,
+              "verifiedType": "Business"
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2061979932268671235"
+        ],
+        "editableUntilMsecs": "1780452900000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 155,
+        "bookmarked": false,
+        "conversationIdStr": "2061979932268671235",
+        "createdAt": "Wed Jun 03 01:15:00 +0000 2026",
+        "displayTextRange": [
+          0,
+          45
+        ],
+        "entities": {
+          "urls": [
+            {
+              "displayUrl": "news.yahoo.co.jp/pickup/6582751",
+              "expandedUrl": "https://news.yahoo.co.jp/pickup/6582751",
+              "indices": [
+                22,
+                45
+              ],
+              "url": "https://t.co/3Vm6o5IhcG"
+            }
+          ]
+        },
+        "favoriteCount": 2680,
+        "favorited": false,
+        "fullText": "【KIOXIA 時価総額が一時トヨタ超え】\nhttps://t.co/3Vm6o5IhcG",
+        "idStr": "2061979932268671235",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 226,
+        "replyCount": 113,
+        "retweetCount": 506,
+        "retweeted": false,
+        "userIdStr": "88846085"
+      },
+      "restId": "2061979932268671235",
+      "source": "<a href=\"http://dailynews.yahoo.co.jp/fc/\" rel=\"nofollow\">ヤフトピbot</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "2734462",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {
+        "label": {
+          "badge": {
+            "url": "https://pbs.twimg.com/profile_images/1708099235982479360/7A6D4yj-_bigger.png"
+          },
+          "description": "LINEヤフー株式会社",
+          "url": {
+            "url": "https://twitter.com/lycorp_jp",
+            "urlType": "DeepLink"
+          },
+          "userLabelDisplayType": "Badge",
+          "userLabelType": "BusinessLabel"
+        }
+      },
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Tue Nov 10 03:59:51 +0000 2009",
+        "name": "Yahoo!ニュース",
+        "screenName": "YahooNewsTopics"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjo4ODg0NjA4NQ==",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": false,
+        "defaultProfileImage": false,
+        "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.yahoo.co.jp",
+                "expanded_url": "https://news.yahoo.co.jp/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/PORT0VCtyG"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 0,
+        "followRequestSent": false,
+        "followersCount": 2045895,
+        "friendsCount": 8,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 22325,
+        "mediaCount": 3989,
+        "normalFollowersCount": 2045895,
+        "notifications": false,
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/88846085/1557715365",
+        "profileInterstitialType": "",
+        "statusesCount": 596434,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/PORT0VCtyG",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": ""
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Square",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "88846085",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false,
+        "verifiedType": "Business"
+      }
+    },
+    "replies": []
+  }
+}

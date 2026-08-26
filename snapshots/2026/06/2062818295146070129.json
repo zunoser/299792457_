@@ -1,0 +1,1059 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2062818295146070129"
+        ],
+        "editableUntilMsecs": "1780652781000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2062818295146070129",
+        "createdAt": "Fri Jun 05 08:46:21 +0000 2026",
+        "displayTextRange": [
+          0,
+          11
+        ],
+        "entities": {},
+        "favoriteCount": 1,
+        "favorited": false,
+        "fullText": "現世から退出して下さい",
+        "idStr": "2062818295146070129",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2062616415627342020",
+        "quotedStatusPermalink": {
+          "display": "x.com/vy3OSqb72yJzM1…",
+          "expanded": "https://twitter.com/vy3OSqb72yJzM17/status/2062616415627342020",
+          "url": "https://t.co/8BwBtIwqO9"
+        },
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+                },
+                "core": {
+                  "createdAt": "Sat May 07 15:29:39 +0000 2016",
+                  "name": "ひげ無し",
+                  "screenName": "vy3OSqb72yJzM17"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjo3Mjg5NzAwNTQ5MTg4MDc1NTI=",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": true,
+                  "description": "①自分の中で税金の使い道優先順位\n日本人の子供＞日本人の労働者＞働けない生活保護＞働かない生活保護＞日本に住む外国人＞海外の外国人＞犯罪者\n②女性は子育て期間はボーナスステージ\n子育て終わったら馬車馬の様に働いて欲しい\n③裕福な高齢者の金で社会保障費を賄う",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 8673,
+                  "followRequestSent": false,
+                  "followersCount": 98,
+                  "friendsCount": 87,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 3,
+                  "mediaCount": 2,
+                  "normalFollowersCount": 98,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "",
+                  "profileInterstitialType": "",
+                  "statusesCount": 4096,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "日本 大阪"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "①自分の中で税金の使い道優先順位\n日本人の子供＞日本人の労働者＞働けない生活保護＞働かない生活保護＞日本に住む外国人＞海外の外国人＞犯罪者\n②女性は子育て期間はボーナスステージ\n子育て終わったら馬車馬の様に働いて欲しい\n③裕福な高齢者の金で社会保障費を賄う"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "728970054918807552",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2062616415627342020"
+            ],
+            "editableUntilMsecs": "1780604649000",
+            "editsRemaining": "5",
+            "isEditEligible": false
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 78,
+            "bookmarked": false,
+            "conversationIdStr": "2062527865170887098",
+            "createdAt": "Thu Jun 04 19:24:09 +0000 2026",
+            "displayTextRange": [
+              11,
+              58
+            ],
+            "entities": {
+              "userMentions": [
+                {
+                  "id_str": "152963467",
+                  "indices": [
+                    0,
+                    10
+                  ],
+                  "name": "乙武洋匡",
+                  "screen_name": "h_ototake"
+                }
+              ]
+            },
+            "favoriteCount": 162,
+            "favorited": false,
+            "fullText": "@h_ototake みんなが社会の役に立てる様に生きて、役に立たないなら自然淘汰されていくのが全体最適な気がします",
+            "idStr": "2062616415627342020",
+            "inReplyToScreenName": "h_ototake",
+            "inReplyToStatusIdStr": "2062527865170887098",
+            "inReplyToUserIdStr": "152963467",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "quoteCount": 236,
+            "replyCount": 118,
+            "retweetCount": 32,
+            "retweeted": false,
+            "userIdStr": "728970054918807552"
+          },
+          "restId": "2062616415627342020",
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "1484044",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2062818295146070129",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "262",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2062818295146070129"
+      ],
+      "editableUntilMsecs": "1780652781000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2062818295146070129",
+      "createdAt": "Fri Jun 05 08:46:21 +0000 2026",
+      "displayTextRange": [
+        0,
+        11
+      ],
+      "entities": {},
+      "favoriteCount": 1,
+      "favorited": false,
+      "fullText": "現世から退出して下さい",
+      "idStr": "2062818295146070129",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2062616415627342020",
+      "quotedStatusPermalink": {
+        "display": "x.com/vy3OSqb72yJzM1…",
+        "expanded": "https://twitter.com/vy3OSqb72yJzM17/status/2062616415627342020",
+        "url": "https://t.co/8BwBtIwqO9"
+      },
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+              },
+              "core": {
+                "createdAt": "Sat May 07 15:29:39 +0000 2016",
+                "name": "ひげ無し",
+                "screenName": "vy3OSqb72yJzM17"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjo3Mjg5NzAwNTQ5MTg4MDc1NTI=",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": true,
+                "description": "①自分の中で税金の使い道優先順位\n日本人の子供＞日本人の労働者＞働けない生活保護＞働かない生活保護＞日本に住む外国人＞海外の外国人＞犯罪者\n②女性は子育て期間はボーナスステージ\n子育て終わったら馬車馬の様に働いて欲しい\n③裕福な高齢者の金で社会保障費を賄う",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 8673,
+                "followRequestSent": false,
+                "followersCount": 98,
+                "friendsCount": 87,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 3,
+                "mediaCount": 2,
+                "normalFollowersCount": 98,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "",
+                "profileInterstitialType": "",
+                "statusesCount": 4096,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "日本 大阪"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "①自分の中で税金の使い道優先順位\n日本人の子供＞日本人の労働者＞働けない生活保護＞働かない生活保護＞日本に住む外国人＞海外の外国人＞犯罪者\n②女性は子育て期間はボーナスステージ\n子育て終わったら馬車馬の様に働いて欲しい\n③裕福な高齢者の金で社会保障費を賄う"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "728970054918807552",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2062616415627342020"
+          ],
+          "editableUntilMsecs": "1780604649000",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 78,
+          "bookmarked": false,
+          "conversationIdStr": "2062527865170887098",
+          "createdAt": "Thu Jun 04 19:24:09 +0000 2026",
+          "displayTextRange": [
+            11,
+            58
+          ],
+          "entities": {
+            "userMentions": [
+              {
+                "id_str": "152963467",
+                "indices": [
+                  0,
+                  10
+                ],
+                "name": "乙武洋匡",
+                "screen_name": "h_ototake"
+              }
+            ]
+          },
+          "favoriteCount": 162,
+          "favorited": false,
+          "fullText": "@h_ototake みんなが社会の役に立てる様に生きて、役に立たないなら自然淘汰されていくのが全体最適な気がします",
+          "idStr": "2062616415627342020",
+          "inReplyToScreenName": "h_ototake",
+          "inReplyToStatusIdStr": "2062527865170887098",
+          "inReplyToUserIdStr": "152963467",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "quoteCount": 236,
+          "replyCount": 118,
+          "retweetCount": 32,
+          "retweeted": false,
+          "userIdStr": "728970054918807552"
+        },
+        "restId": "2062616415627342020",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "1484044",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2062818295146070129",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "262",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+              },
+              "core": {
+                "createdAt": "Sat May 07 15:29:39 +0000 2016",
+                "name": "ひげ無し",
+                "screenName": "vy3OSqb72yJzM17"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjo3Mjg5NzAwNTQ5MTg4MDc1NTI=",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": true,
+                "description": "①自分の中で税金の使い道優先順位\n日本人の子供＞日本人の労働者＞働けない生活保護＞働かない生活保護＞日本に住む外国人＞海外の外国人＞犯罪者\n②女性は子育て期間はボーナスステージ\n子育て終わったら馬車馬の様に働いて欲しい\n③裕福な高齢者の金で社会保障費を賄う",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 8673,
+                "followRequestSent": false,
+                "followersCount": 98,
+                "friendsCount": 87,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 3,
+                "mediaCount": 2,
+                "normalFollowersCount": 98,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "",
+                "profileInterstitialType": "",
+                "statusesCount": 4096,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "日本 大阪"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "①自分の中で税金の使い道優先順位\n日本人の子供＞日本人の労働者＞働けない生活保護＞働かない生活保護＞日本に住む外国人＞海外の外国人＞犯罪者\n②女性は子育て期間はボーナスステージ\n子育て終わったら馬車馬の様に働いて欲しい\n③裕福な高齢者の金で社会保障費を賄う"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "728970054918807552",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2062616415627342020"
+          ],
+          "editableUntilMsecs": "1780604649000",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 78,
+          "bookmarked": false,
+          "conversationIdStr": "2062527865170887098",
+          "createdAt": "Thu Jun 04 19:24:09 +0000 2026",
+          "displayTextRange": [
+            11,
+            58
+          ],
+          "entities": {
+            "userMentions": [
+              {
+                "id_str": "152963467",
+                "indices": [
+                  0,
+                  10
+                ],
+                "name": "乙武洋匡",
+                "screen_name": "h_ototake"
+              }
+            ]
+          },
+          "favoriteCount": 162,
+          "favorited": false,
+          "fullText": "@h_ototake みんなが社会の役に立てる様に生きて、役に立たないなら自然淘汰されていくのが全体最適な気がします",
+          "idStr": "2062616415627342020",
+          "inReplyToScreenName": "h_ototake",
+          "inReplyToStatusIdStr": "2062527865170887098",
+          "inReplyToUserIdStr": "152963467",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "quoteCount": 236,
+          "replyCount": 118,
+          "retweetCount": 32,
+          "retweeted": false,
+          "userIdStr": "728970054918807552"
+        },
+        "restId": "2062616415627342020",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "1484044",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            },
+            "core": {
+              "createdAt": "Sat May 07 15:29:39 +0000 2016",
+              "name": "ひげ無し",
+              "screenName": "vy3OSqb72yJzM17"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjo3Mjg5NzAwNTQ5MTg4MDc1NTI=",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": true,
+              "description": "①自分の中で税金の使い道優先順位\n日本人の子供＞日本人の労働者＞働けない生活保護＞働かない生活保護＞日本に住む外国人＞海外の外国人＞犯罪者\n②女性は子育て期間はボーナスステージ\n子育て終わったら馬車馬の様に働いて欲しい\n③裕福な高齢者の金で社会保障費を賄う",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 8673,
+              "followRequestSent": false,
+              "followersCount": 98,
+              "friendsCount": 87,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 3,
+              "mediaCount": 2,
+              "normalFollowersCount": 98,
+              "notifications": false,
+              "possiblySensitive": false,
+              "profileBannerUrl": "",
+              "profileInterstitialType": "",
+              "statusesCount": 4096,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "日本 大阪"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "①自分の中で税金の使い道優先順位\n日本人の子供＞日本人の労働者＞働けない生活保護＞働かない生活保護＞日本に住む外国人＞海外の外国人＞犯罪者\n②女性は子育て期間はボーナスステージ\n子育て終わったら馬車馬の様に働いて欲しい\n③裕福な高齢者の金で社会保障費を賄う"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "728970054918807552",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2062616415627342020"
+        ],
+        "editableUntilMsecs": "1780604649000",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 78,
+        "bookmarked": false,
+        "conversationIdStr": "2062527865170887098",
+        "createdAt": "Thu Jun 04 19:24:09 +0000 2026",
+        "displayTextRange": [
+          11,
+          58
+        ],
+        "entities": {
+          "userMentions": [
+            {
+              "id_str": "152963467",
+              "indices": [
+                0,
+                10
+              ],
+              "name": "乙武洋匡",
+              "screen_name": "h_ototake"
+            }
+          ]
+        },
+        "favoriteCount": 162,
+        "favorited": false,
+        "fullText": "@h_ototake みんなが社会の役に立てる様に生きて、役に立たないなら自然淘汰されていくのが全体最適な気がします",
+        "idStr": "2062616415627342020",
+        "inReplyToScreenName": "h_ototake",
+        "inReplyToStatusIdStr": "2062527865170887098",
+        "inReplyToUserIdStr": "152963467",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 236,
+        "replyCount": 118,
+        "retweetCount": 32,
+        "retweeted": false,
+        "userIdStr": "728970054918807552"
+      },
+      "restId": "2062616415627342020",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "1484044",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+      },
+      "core": {
+        "createdAt": "Sat May 07 15:29:39 +0000 2016",
+        "name": "ひげ無し",
+        "screenName": "vy3OSqb72yJzM17"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjo3Mjg5NzAwNTQ5MTg4MDc1NTI=",
+      "isBlueVerified": false,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": true,
+        "description": "①自分の中で税金の使い道優先順位\n日本人の子供＞日本人の労働者＞働けない生活保護＞働かない生活保護＞日本に住む外国人＞海外の外国人＞犯罪者\n②女性は子育て期間はボーナスステージ\n子育て終わったら馬車馬の様に働いて欲しい\n③裕福な高齢者の金で社会保障費を賄う",
+        "entities": {
+          "description": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8673,
+        "followRequestSent": false,
+        "followersCount": 98,
+        "friendsCount": 87,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 3,
+        "mediaCount": 2,
+        "normalFollowersCount": 98,
+        "notifications": false,
+        "possiblySensitive": false,
+        "profileBannerUrl": "",
+        "profileInterstitialType": "",
+        "statusesCount": 4096,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "日本 大阪"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "①自分の中で税金の使い道優先順位\n日本人の子供＞日本人の労働者＞働けない生活保護＞働かない生活保護＞日本に住む外国人＞海外の外国人＞犯罪者\n②女性は子育て期間はボーナスステージ\n子育て終わったら馬車馬の様に働いて欲しい\n③裕福な高齢者の金で社会保障費を賄う"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "728970054918807552",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}

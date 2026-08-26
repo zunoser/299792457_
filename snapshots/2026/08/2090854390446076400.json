@@ -1,0 +1,2413 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2090854390446076400"
+        ],
+        "editableUntilMsecs": "1787337107000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2090854390446076400",
+        "createdAt": "Fri Aug 21 17:31:47 +0000 2026",
+        "displayTextRange": [
+          0,
+          7
+        ],
+        "entities": {},
+        "favoriteCount": 7,
+        "favorited": false,
+        "fullText": "ずのさーって何",
+        "idStr": "2090854390446076400",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2090853974962536842",
+        "quotedStatusPermalink": {
+          "display": "x.com/moons_dev/stat…",
+          "expanded": "https://twitter.com/moons_dev/status/2090853974962536842",
+          "url": "https://t.co/u1zIXC9haY"
+        },
+        "replyCount": 1,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1904932685845585923/HhKnCVb2_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Nov 13 12:32:56 +0000 2020",
+                  "name": "むーんず",
+                  "screenName": "moons_dev"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxMzI3MjI3OTEzNDMxNzgxMzc4",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "AI, Web, Camera, Anime\nSFC 25",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "moons14.com",
+                          "expanded_url": "https://moons14.com/",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/xbGuM97AFO"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 161787,
+                  "followRequestSent": false,
+                  "followersCount": 1777,
+                  "friendsCount": 925,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 22,
+                  "mediaCount": 654,
+                  "normalFollowersCount": 1777,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "1721863903850947057"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1327227913431781378/1773005302",
+                  "profileInterstitialType": "",
+                  "statusesCount": 6370,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/xbGuM97AFO",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "professional": {
+                  "category": [
+                    {
+                      "iconName": "IconBriefcaseStroke",
+                      "id": 1055,
+                      "name": "Software developer/Programmer/Software engineer"
+                    }
+                  ],
+                  "professionalType": "Creator",
+                  "restId": "1492706663446372354"
+                },
+                "profileBio": {
+                  "description": "AI, Web, Camera, Anime\nSFC 25"
+                },
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1327227913431781378",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2090853974962536842"
+            ],
+            "editableUntilMsecs": "1787337008000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 2,
+            "bookmarked": false,
+            "conversationIdStr": "2090853974962536842",
+            "createdAt": "Fri Aug 21 17:30:08 +0000 2026",
+            "displayTextRange": [
+              0,
+              34
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    0,
+                    5
+                  ],
+                  "text": "C109"
+                },
+                {
+                  "indices": [
+                    29,
+                    34
+                  ],
+                  "text": "ずのさー"
+                }
+              ],
+              "media": [
+                {
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/EQgOUh8Iee",
+                  "expandedUrl": "https://x.com/moons_dev/status/2090853974962536842/photo/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "h": 48,
+                          "w": 48,
+                          "x": 443,
+                          "y": 266
+                        },
+                        {
+                          "h": 70,
+                          "w": 70,
+                          "x": 554,
+                          "y": 206
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "h": 48,
+                          "w": 48,
+                          "x": 443,
+                          "y": 266
+                        },
+                        {
+                          "h": 70,
+                          "w": 70,
+                          "x": 554,
+                          "y": 206
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "h": 48,
+                          "w": 48,
+                          "x": 443,
+                          "y": 266
+                        },
+                        {
+                          "h": 70,
+                          "w": 70,
+                          "x": 554,
+                          "y": 206
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "h": 36,
+                          "w": 36,
+                          "x": 333,
+                          "y": 200
+                        },
+                        {
+                          "h": 52,
+                          "w": 52,
+                          "x": 417,
+                          "y": 155
+                        }
+                      ]
+                    }
+                  },
+                  "idStr": "2090853450695462912",
+                  "indices": [
+                    35,
+                    58
+                  ],
+                  "mediaKey": "3_2090853450695462912",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "3_2090853450695462912"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/media/HQQ0IrYaUAAwoUc.jpg",
+                  "originalInfo": {
+                    "focusRects": [
+                      {
+                        "h": 356,
+                        "w": 635,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 635,
+                        "w": 635,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 724,
+                        "w": 635,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 903,
+                        "w": 452,
+                        "x": 112,
+                        "y": 0
+                      },
+                      {
+                        "h": 903,
+                        "w": 635,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 903,
+                    "width": 635
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 903,
+                      "resize": "fit",
+                      "w": 635
+                    },
+                    "medium": {
+                      "h": 903,
+                      "resize": "fit",
+                      "w": 635
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 478
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/EQgOUh8Iee"
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/EQgOUh8Iee",
+                  "expandedUrl": "https://x.com/moons_dev/status/2090853974962536842/photo/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "h": 48,
+                          "w": 48,
+                          "x": 443,
+                          "y": 266
+                        },
+                        {
+                          "h": 70,
+                          "w": 70,
+                          "x": 554,
+                          "y": 206
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "h": 48,
+                          "w": 48,
+                          "x": 443,
+                          "y": 266
+                        },
+                        {
+                          "h": 70,
+                          "w": 70,
+                          "x": 554,
+                          "y": 206
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "h": 48,
+                          "w": 48,
+                          "x": 443,
+                          "y": 266
+                        },
+                        {
+                          "h": 70,
+                          "w": 70,
+                          "x": 554,
+                          "y": 206
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "h": 36,
+                          "w": 36,
+                          "x": 333,
+                          "y": 200
+                        },
+                        {
+                          "h": 52,
+                          "w": 52,
+                          "x": 417,
+                          "y": 155
+                        }
+                      ]
+                    }
+                  },
+                  "idStr": "2090853450695462912",
+                  "indices": [
+                    35,
+                    58
+                  ],
+                  "mediaKey": "3_2090853450695462912",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "3_2090853450695462912"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/media/HQQ0IrYaUAAwoUc.jpg",
+                  "originalInfo": {
+                    "focusRects": [
+                      {
+                        "h": 356,
+                        "w": 635,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 635,
+                        "w": 635,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 724,
+                        "w": 635,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 903,
+                        "w": 452,
+                        "x": 112,
+                        "y": 0
+                      },
+                      {
+                        "h": 903,
+                        "w": 635,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 903,
+                    "width": 635
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 903,
+                      "resize": "fit",
+                      "w": 635
+                    },
+                    "medium": {
+                      "h": 903,
+                      "resize": "fit",
+                      "w": 635
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 478
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/EQgOUh8Iee"
+                }
+              ]
+            },
+            "favoriteCount": 39,
+            "favorited": false,
+            "fullText": "#C109 申し込みました！初参加できたらいいな...!\n#ずのさー https://t.co/EQgOUh8Iee",
+            "idStr": "2090853974962536842",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 3,
+            "replyCount": 1,
+            "retweetCount": 5,
+            "retweeted": false,
+            "userIdStr": "1327227913431781378"
+          },
+          "restId": "2090853974962536842",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "5427",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2090854390446076400",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "246",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2090854390446076400"
+      ],
+      "editableUntilMsecs": "1787337107000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2090854390446076400",
+      "createdAt": "Fri Aug 21 17:31:47 +0000 2026",
+      "displayTextRange": [
+        0,
+        7
+      ],
+      "entities": {},
+      "favoriteCount": 7,
+      "favorited": false,
+      "fullText": "ずのさーって何",
+      "idStr": "2090854390446076400",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2090853974962536842",
+      "quotedStatusPermalink": {
+        "display": "x.com/moons_dev/stat…",
+        "expanded": "https://twitter.com/moons_dev/status/2090853974962536842",
+        "url": "https://t.co/u1zIXC9haY"
+      },
+      "replyCount": 1,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1904932685845585923/HhKnCVb2_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Nov 13 12:32:56 +0000 2020",
+                "name": "むーんず",
+                "screenName": "moons_dev"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxMzI3MjI3OTEzNDMxNzgxMzc4",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "AI, Web, Camera, Anime\nSFC 25",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "moons14.com",
+                        "expanded_url": "https://moons14.com/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/xbGuM97AFO"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 161787,
+                "followRequestSent": false,
+                "followersCount": 1777,
+                "friendsCount": 925,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 22,
+                "mediaCount": 654,
+                "normalFollowersCount": 1777,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "1721863903850947057"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1327227913431781378/1773005302",
+                "profileInterstitialType": "",
+                "statusesCount": 6370,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/xbGuM97AFO",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "professional": {
+                "category": [
+                  {
+                    "iconName": "IconBriefcaseStroke",
+                    "id": 1055,
+                    "name": "Software developer/Programmer/Software engineer"
+                  }
+                ],
+                "professionalType": "Creator",
+                "restId": "1492706663446372354"
+              },
+              "profileBio": {
+                "description": "AI, Web, Camera, Anime\nSFC 25"
+              },
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1327227913431781378",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2090853974962536842"
+          ],
+          "editableUntilMsecs": "1787337008000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 2,
+          "bookmarked": false,
+          "conversationIdStr": "2090853974962536842",
+          "createdAt": "Fri Aug 21 17:30:08 +0000 2026",
+          "displayTextRange": [
+            0,
+            34
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  0,
+                  5
+                ],
+                "text": "C109"
+              },
+              {
+                "indices": [
+                  29,
+                  34
+                ],
+                "text": "ずのさー"
+              }
+            ],
+            "media": [
+              {
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/EQgOUh8Iee",
+                "expandedUrl": "https://x.com/moons_dev/status/2090853974962536842/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "h": 36,
+                        "w": 36,
+                        "x": 333,
+                        "y": 200
+                      },
+                      {
+                        "h": 52,
+                        "w": 52,
+                        "x": 417,
+                        "y": 155
+                      }
+                    ]
+                  }
+                },
+                "idStr": "2090853450695462912",
+                "indices": [
+                  35,
+                  58
+                ],
+                "mediaKey": "3_2090853450695462912",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2090853450695462912"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HQQ0IrYaUAAwoUc.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 356,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 635,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 724,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 903,
+                      "w": 452,
+                      "x": 112,
+                      "y": 0
+                    },
+                    {
+                      "h": 903,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 903,
+                  "width": 635
+                },
+                "sizes": {
+                  "large": {
+                    "h": 903,
+                    "resize": "fit",
+                    "w": 635
+                  },
+                  "medium": {
+                    "h": 903,
+                    "resize": "fit",
+                    "w": 635
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 478
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/EQgOUh8Iee"
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/EQgOUh8Iee",
+                "expandedUrl": "https://x.com/moons_dev/status/2090853974962536842/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "h": 36,
+                        "w": 36,
+                        "x": 333,
+                        "y": 200
+                      },
+                      {
+                        "h": 52,
+                        "w": 52,
+                        "x": 417,
+                        "y": 155
+                      }
+                    ]
+                  }
+                },
+                "idStr": "2090853450695462912",
+                "indices": [
+                  35,
+                  58
+                ],
+                "mediaKey": "3_2090853450695462912",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2090853450695462912"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HQQ0IrYaUAAwoUc.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 356,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 635,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 724,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 903,
+                      "w": 452,
+                      "x": 112,
+                      "y": 0
+                    },
+                    {
+                      "h": 903,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 903,
+                  "width": 635
+                },
+                "sizes": {
+                  "large": {
+                    "h": 903,
+                    "resize": "fit",
+                    "w": 635
+                  },
+                  "medium": {
+                    "h": 903,
+                    "resize": "fit",
+                    "w": 635
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 478
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/EQgOUh8Iee"
+              }
+            ]
+          },
+          "favoriteCount": 39,
+          "favorited": false,
+          "fullText": "#C109 申し込みました！初参加できたらいいな...!\n#ずのさー https://t.co/EQgOUh8Iee",
+          "idStr": "2090853974962536842",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 3,
+          "replyCount": 1,
+          "retweetCount": 5,
+          "retweeted": false,
+          "userIdStr": "1327227913431781378"
+        },
+        "restId": "2090853974962536842",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "5427",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2090854390446076400",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "246",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1904932685845585923/HhKnCVb2_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Nov 13 12:32:56 +0000 2020",
+                "name": "むーんず",
+                "screenName": "moons_dev"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxMzI3MjI3OTEzNDMxNzgxMzc4",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "AI, Web, Camera, Anime\nSFC 25",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "moons14.com",
+                        "expanded_url": "https://moons14.com/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/xbGuM97AFO"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 161787,
+                "followRequestSent": false,
+                "followersCount": 1777,
+                "friendsCount": 925,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 22,
+                "mediaCount": 654,
+                "normalFollowersCount": 1777,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "1721863903850947057"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1327227913431781378/1773005302",
+                "profileInterstitialType": "",
+                "statusesCount": 6370,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/xbGuM97AFO",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "professional": {
+                "category": [
+                  {
+                    "iconName": "IconBriefcaseStroke",
+                    "id": 1055,
+                    "name": "Software developer/Programmer/Software engineer"
+                  }
+                ],
+                "professionalType": "Creator",
+                "restId": "1492706663446372354"
+              },
+              "profileBio": {
+                "description": "AI, Web, Camera, Anime\nSFC 25"
+              },
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1327227913431781378",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2090853974962536842"
+          ],
+          "editableUntilMsecs": "1787337008000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 2,
+          "bookmarked": false,
+          "conversationIdStr": "2090853974962536842",
+          "createdAt": "Fri Aug 21 17:30:08 +0000 2026",
+          "displayTextRange": [
+            0,
+            34
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  0,
+                  5
+                ],
+                "text": "C109"
+              },
+              {
+                "indices": [
+                  29,
+                  34
+                ],
+                "text": "ずのさー"
+              }
+            ],
+            "media": [
+              {
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/EQgOUh8Iee",
+                "expandedUrl": "https://x.com/moons_dev/status/2090853974962536842/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "h": 36,
+                        "w": 36,
+                        "x": 333,
+                        "y": 200
+                      },
+                      {
+                        "h": 52,
+                        "w": 52,
+                        "x": 417,
+                        "y": 155
+                      }
+                    ]
+                  }
+                },
+                "idStr": "2090853450695462912",
+                "indices": [
+                  35,
+                  58
+                ],
+                "mediaKey": "3_2090853450695462912",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2090853450695462912"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HQQ0IrYaUAAwoUc.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 356,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 635,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 724,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 903,
+                      "w": 452,
+                      "x": 112,
+                      "y": 0
+                    },
+                    {
+                      "h": 903,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 903,
+                  "width": 635
+                },
+                "sizes": {
+                  "large": {
+                    "h": 903,
+                    "resize": "fit",
+                    "w": 635
+                  },
+                  "medium": {
+                    "h": 903,
+                    "resize": "fit",
+                    "w": 635
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 478
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/EQgOUh8Iee"
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/EQgOUh8Iee",
+                "expandedUrl": "https://x.com/moons_dev/status/2090853974962536842/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 48,
+                        "w": 48,
+                        "x": 443,
+                        "y": 266
+                      },
+                      {
+                        "h": 70,
+                        "w": 70,
+                        "x": 554,
+                        "y": 206
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "h": 36,
+                        "w": 36,
+                        "x": 333,
+                        "y": 200
+                      },
+                      {
+                        "h": 52,
+                        "w": 52,
+                        "x": 417,
+                        "y": 155
+                      }
+                    ]
+                  }
+                },
+                "idStr": "2090853450695462912",
+                "indices": [
+                  35,
+                  58
+                ],
+                "mediaKey": "3_2090853450695462912",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2090853450695462912"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HQQ0IrYaUAAwoUc.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 356,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 635,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 724,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 903,
+                      "w": 452,
+                      "x": 112,
+                      "y": 0
+                    },
+                    {
+                      "h": 903,
+                      "w": 635,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 903,
+                  "width": 635
+                },
+                "sizes": {
+                  "large": {
+                    "h": 903,
+                    "resize": "fit",
+                    "w": 635
+                  },
+                  "medium": {
+                    "h": 903,
+                    "resize": "fit",
+                    "w": 635
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 478
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/EQgOUh8Iee"
+              }
+            ]
+          },
+          "favoriteCount": 39,
+          "favorited": false,
+          "fullText": "#C109 申し込みました！初参加できたらいいな...!\n#ずのさー https://t.co/EQgOUh8Iee",
+          "idStr": "2090853974962536842",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 3,
+          "replyCount": 1,
+          "retweetCount": 5,
+          "retweeted": false,
+          "userIdStr": "1327227913431781378"
+        },
+        "restId": "2090853974962536842",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "5427",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1904932685845585923/HhKnCVb2_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Fri Nov 13 12:32:56 +0000 2020",
+              "name": "むーんず",
+              "screenName": "moons_dev"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxMzI3MjI3OTEzNDMxNzgxMzc4",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "AI, Web, Camera, Anime\nSFC 25",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "moons14.com",
+                      "expanded_url": "https://moons14.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/xbGuM97AFO"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 161787,
+              "followRequestSent": false,
+              "followersCount": 1777,
+              "friendsCount": 925,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "listedCount": 22,
+              "mediaCount": 654,
+              "normalFollowersCount": 1777,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "1721863903850947057"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1327227913431781378/1773005302",
+              "profileInterstitialType": "",
+              "statusesCount": 6370,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/xbGuM97AFO",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "iconName": "IconBriefcaseStroke",
+                  "id": 1055,
+                  "name": "Software developer/Programmer/Software engineer"
+                }
+              ],
+              "professionalType": "Creator",
+              "restId": "1492706663446372354"
+            },
+            "profileBio": {
+              "description": "AI, Web, Camera, Anime\nSFC 25"
+            },
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1327227913431781378",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2090853974962536842"
+        ],
+        "editableUntilMsecs": "1787337008000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 2,
+        "bookmarked": false,
+        "conversationIdStr": "2090853974962536842",
+        "createdAt": "Fri Aug 21 17:30:08 +0000 2026",
+        "displayTextRange": [
+          0,
+          34
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                5
+              ],
+              "text": "C109"
+            },
+            {
+              "indices": [
+                29,
+                34
+              ],
+              "text": "ずのさー"
+            }
+          ],
+          "media": [
+            {
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/EQgOUh8Iee",
+              "expandedUrl": "https://x.com/moons_dev/status/2090853974962536842/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 48,
+                      "w": 48,
+                      "x": 443,
+                      "y": 266
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 554,
+                      "y": 206
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 48,
+                      "w": 48,
+                      "x": 443,
+                      "y": 266
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 554,
+                      "y": 206
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 48,
+                      "w": 48,
+                      "x": 443,
+                      "y": 266
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 554,
+                      "y": 206
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 36,
+                      "w": 36,
+                      "x": 333,
+                      "y": 200
+                    },
+                    {
+                      "h": 52,
+                      "w": 52,
+                      "x": 417,
+                      "y": 155
+                    }
+                  ]
+                }
+              },
+              "idStr": "2090853450695462912",
+              "indices": [
+                35,
+                58
+              ],
+              "mediaKey": "3_2090853450695462912",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2090853450695462912"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HQQ0IrYaUAAwoUc.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 356,
+                    "w": 635,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 635,
+                    "w": 635,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 724,
+                    "w": 635,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 903,
+                    "w": 452,
+                    "x": 112,
+                    "y": 0
+                  },
+                  {
+                    "h": 903,
+                    "w": 635,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 903,
+                "width": 635
+              },
+              "sizes": {
+                "large": {
+                  "h": 903,
+                  "resize": "fit",
+                  "w": 635
+                },
+                "medium": {
+                  "h": 903,
+                  "resize": "fit",
+                  "w": 635
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 478
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/EQgOUh8Iee"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/EQgOUh8Iee",
+              "expandedUrl": "https://x.com/moons_dev/status/2090853974962536842/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 48,
+                      "w": 48,
+                      "x": 443,
+                      "y": 266
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 554,
+                      "y": 206
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 48,
+                      "w": 48,
+                      "x": 443,
+                      "y": 266
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 554,
+                      "y": 206
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 48,
+                      "w": 48,
+                      "x": 443,
+                      "y": 266
+                    },
+                    {
+                      "h": 70,
+                      "w": 70,
+                      "x": 554,
+                      "y": 206
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 36,
+                      "w": 36,
+                      "x": 333,
+                      "y": 200
+                    },
+                    {
+                      "h": 52,
+                      "w": 52,
+                      "x": 417,
+                      "y": 155
+                    }
+                  ]
+                }
+              },
+              "idStr": "2090853450695462912",
+              "indices": [
+                35,
+                58
+              ],
+              "mediaKey": "3_2090853450695462912",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2090853450695462912"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HQQ0IrYaUAAwoUc.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 356,
+                    "w": 635,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 635,
+                    "w": 635,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 724,
+                    "w": 635,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 903,
+                    "w": 452,
+                    "x": 112,
+                    "y": 0
+                  },
+                  {
+                    "h": 903,
+                    "w": 635,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 903,
+                "width": 635
+              },
+              "sizes": {
+                "large": {
+                  "h": 903,
+                  "resize": "fit",
+                  "w": 635
+                },
+                "medium": {
+                  "h": 903,
+                  "resize": "fit",
+                  "w": 635
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 478
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/EQgOUh8Iee"
+            }
+          ]
+        },
+        "favoriteCount": 39,
+        "favorited": false,
+        "fullText": "#C109 申し込みました！初参加できたらいいな...!\n#ずのさー https://t.co/EQgOUh8Iee",
+        "idStr": "2090853974962536842",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 3,
+        "replyCount": 1,
+        "retweetCount": 5,
+        "retweeted": false,
+        "userIdStr": "1327227913431781378"
+      },
+      "restId": "2090853974962536842",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "5427",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1904932685845585923/HhKnCVb2_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Fri Nov 13 12:32:56 +0000 2020",
+        "name": "むーんず",
+        "screenName": "moons_dev"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxMzI3MjI3OTEzNDMxNzgxMzc4",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "AI, Web, Camera, Anime\nSFC 25",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "moons14.com",
+                "expanded_url": "https://moons14.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/xbGuM97AFO"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 161787,
+        "followRequestSent": false,
+        "followersCount": 1777,
+        "friendsCount": 925,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "listedCount": 22,
+        "mediaCount": 654,
+        "normalFollowersCount": 1777,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "1721863903850947057"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1327227913431781378/1773005302",
+        "profileInterstitialType": "",
+        "statusesCount": 6370,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/xbGuM97AFO",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": ""
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "professional": {
+        "category": [
+          {
+            "iconName": "IconBriefcaseStroke",
+            "id": 1055,
+            "name": "Software developer/Programmer/Software engineer"
+          }
+        ],
+        "professionalType": "Creator",
+        "restId": "1492706663446372354"
+      },
+      "profileBio": {
+        "description": "AI, Web, Camera, Anime\nSFC 25"
+      },
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1327227913431781378",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}

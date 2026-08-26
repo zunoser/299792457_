@@ -1,0 +1,1729 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2020707591807254853"
+        ],
+        "editableUntilMsecs": "1770612807000",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2020646424850153641",
+        "createdAt": "Mon Feb 09 03:53:27 +0000 2026",
+        "displayTextRange": [
+          17,
+          23
+        ],
+        "entities": {},
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "@igYRZYHaJp70383 あるいはこれ",
+        "idStr": "2020707591807254853",
+        "inReplyToScreenName": "299792457_",
+        "inReplyToStatusIdStr": "2020707083897930022",
+        "inReplyToUserIdStr": "1966785609529483264",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 1,
+        "quotedStatusIdStr": "2020519102670889149",
+        "quotedStatusPermalink": {
+          "display": "x.com/RyMfegzBUFNoZ8…",
+          "expanded": "https://twitter.com/RyMfegzBUFNoZ8k/status/2020519102670889149",
+          "url": "https://t.co/YyPwrdR4tx"
+        },
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1948962837902110720/0DfeLk-U_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Sat Dec 31 14:02:52 +0000 2022",
+                  "name": "アベノ広報官🏺(色々試し中)",
+                  "screenName": "RyMfegzBUFNoZ8k"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNjA5MTg4MzAzNzA5OTEzMDg4",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "趣味は安倍晋三",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 12525,
+                  "followRequestSent": false,
+                  "followersCount": 15256,
+                  "friendsCount": 3554,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 294,
+                  "mediaCount": 3806,
+                  "normalFollowersCount": 15256,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1609188303709913088/1764504194",
+                  "profileInterstitialType": "",
+                  "statusesCount": 7788,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "東朝鮮民主主義人民共和国 東京(トンキン)"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "Parody",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "趣味は安倍晋三"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1609188303709913088",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2020519102670889149"
+            ],
+            "editableUntilMsecs": "1770567868000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 5083,
+            "bookmarked": false,
+            "conversationIdStr": "2020519102670889149",
+            "createdAt": "Sun Feb 08 15:24:28 +0000 2026",
+            "displayTextRange": [
+              0,
+              95
+            ],
+            "entities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "displayUrl": "pic.x.com/sgPo5i9SZu",
+                  "expandedUrl": "https://x.com/RyMfegzBUFNoZ8k/status/2020519102670889149/video/1",
+                  "extMediaAvailability": {
+                    "reason": "Dmcaed",
+                    "status": "Unavailable"
+                  },
+                  "idStr": "2020518982982488064",
+                  "indices": [
+                    96,
+                    119
+                  ],
+                  "mediaKey": "7_2020518982982488064",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "7_2020518982982488064"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/2020518982982488064/pu/img/RMYP7sFqos-pBQKy.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 720,
+                    "width": 1280
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 720,
+                      "resize": "fit",
+                      "w": 1280
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/sgPo5i9SZu",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      16,
+                      9
+                    ],
+                    "durationMillis": 113499,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/pl/XFf_9bxdz5-m9xig.m3u8?tag=12&v=d14"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/480x270/ToH-OktVVfznf4NT.mp4?tag=12"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/640x360/x6q_621YcLVbp7Z8.mp4?tag=12"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/1280x720/dhWhV4TWqm7zukjk.mp4?tag=12"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "displayUrl": "pic.x.com/sgPo5i9SZu",
+                  "expandedUrl": "https://x.com/RyMfegzBUFNoZ8k/status/2020519102670889149/video/1",
+                  "extMediaAvailability": {
+                    "reason": "Dmcaed",
+                    "status": "Unavailable"
+                  },
+                  "idStr": "2020518982982488064",
+                  "indices": [
+                    96,
+                    119
+                  ],
+                  "mediaKey": "7_2020518982982488064",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "7_2020518982982488064"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/2020518982982488064/pu/img/RMYP7sFqos-pBQKy.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 720,
+                    "width": 1280
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 720,
+                      "resize": "fit",
+                      "w": 1280
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/sgPo5i9SZu",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      16,
+                      9
+                    ],
+                    "durationMillis": 113499,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/pl/XFf_9bxdz5-m9xig.m3u8?tag=12&v=d14"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/480x270/ToH-OktVVfznf4NT.mp4?tag=12"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/640x360/x6q_621YcLVbp7Z8.mp4?tag=12"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/1280x720/dhWhV4TWqm7zukjk.mp4?tag=12"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favoriteCount": 51583,
+            "favorited": false,
+            "fullText": "爆笑太田はかなり気を遣って丁寧な聞き方してるのに、この程度の質問にイラつく高市早苗の器の小ささ。ムキになると地が出て関西弁になるところが64歳児みたいでホンマキツイ⋯。総理大臣の姿か？これが https://t.co/sgPo5i9SZu",
+            "idStr": "2020519102670889149",
+            "isQuoteStatus": true,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 2344,
+            "quotedStatusIdStr": "2020502033997136325",
+            "quotedStatusPermalink": {
+              "display": "x.com/RyMfegzBUFNoZ8…",
+              "expanded": "https://twitter.com/RyMfegzBUFNoZ8k/status/2020502033997136325",
+              "url": "https://t.co/oQ74gdeOQP"
+            },
+            "replyCount": 1965,
+            "retweetCount": 11300,
+            "retweeted": false,
+            "userIdStr": "1609188303709913088"
+          },
+          "quotedRefResult": {
+            "result": {
+              "typename": "Tweet",
+              "restId": "2020502033997136325"
+            }
+          },
+          "restId": "2020519102670889149",
+          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "11366458",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2020707591807254853",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "132",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2020707591807254853"
+      ],
+      "editableUntilMsecs": "1770612807000",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2020646424850153641",
+      "createdAt": "Mon Feb 09 03:53:27 +0000 2026",
+      "displayTextRange": [
+        17,
+        23
+      ],
+      "entities": {},
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "@igYRZYHaJp70383 あるいはこれ",
+      "idStr": "2020707591807254853",
+      "inReplyToScreenName": "299792457_",
+      "inReplyToStatusIdStr": "2020707083897930022",
+      "inReplyToUserIdStr": "1966785609529483264",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 1,
+      "quotedStatusIdStr": "2020519102670889149",
+      "quotedStatusPermalink": {
+        "display": "x.com/RyMfegzBUFNoZ8…",
+        "expanded": "https://twitter.com/RyMfegzBUFNoZ8k/status/2020519102670889149",
+        "url": "https://t.co/YyPwrdR4tx"
+      },
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1948962837902110720/0DfeLk-U_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sat Dec 31 14:02:52 +0000 2022",
+                "name": "アベノ広報官🏺(色々試し中)",
+                "screenName": "RyMfegzBUFNoZ8k"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNjA5MTg4MzAzNzA5OTEzMDg4",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "趣味は安倍晋三",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 12525,
+                "followRequestSent": false,
+                "followersCount": 15256,
+                "friendsCount": 3554,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 294,
+                "mediaCount": 3806,
+                "normalFollowersCount": 15256,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1609188303709913088/1764504194",
+                "profileInterstitialType": "",
+                "statusesCount": 7788,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "東朝鮮民主主義人民共和国 東京(トンキン)"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "Parody",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "趣味は安倍晋三"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1609188303709913088",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2020519102670889149"
+          ],
+          "editableUntilMsecs": "1770567868000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 5083,
+          "bookmarked": false,
+          "conversationIdStr": "2020519102670889149",
+          "createdAt": "Sun Feb 08 15:24:28 +0000 2026",
+          "displayTextRange": [
+            0,
+            95
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/sgPo5i9SZu",
+                "expandedUrl": "https://x.com/RyMfegzBUFNoZ8k/status/2020519102670889149/video/1",
+                "extMediaAvailability": {
+                  "reason": "Dmcaed",
+                  "status": "Unavailable"
+                },
+                "idStr": "2020518982982488064",
+                "indices": [
+                  96,
+                  119
+                ],
+                "mediaKey": "7_2020518982982488064",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "7_2020518982982488064"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/2020518982982488064/pu/img/RMYP7sFqos-pBQKy.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 720,
+                  "width": 1280
+                },
+                "sizes": {
+                  "large": {
+                    "h": 720,
+                    "resize": "fit",
+                    "w": 1280
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/sgPo5i9SZu",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 113499,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/pl/XFf_9bxdz5-m9xig.m3u8?tag=12&v=d14"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/480x270/ToH-OktVVfznf4NT.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/640x360/x6q_621YcLVbp7Z8.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/1280x720/dhWhV4TWqm7zukjk.mp4?tag=12"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/sgPo5i9SZu",
+                "expandedUrl": "https://x.com/RyMfegzBUFNoZ8k/status/2020519102670889149/video/1",
+                "extMediaAvailability": {
+                  "reason": "Dmcaed",
+                  "status": "Unavailable"
+                },
+                "idStr": "2020518982982488064",
+                "indices": [
+                  96,
+                  119
+                ],
+                "mediaKey": "7_2020518982982488064",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "7_2020518982982488064"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/2020518982982488064/pu/img/RMYP7sFqos-pBQKy.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 720,
+                  "width": 1280
+                },
+                "sizes": {
+                  "large": {
+                    "h": 720,
+                    "resize": "fit",
+                    "w": 1280
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/sgPo5i9SZu",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 113499,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/pl/XFf_9bxdz5-m9xig.m3u8?tag=12&v=d14"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/480x270/ToH-OktVVfznf4NT.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/640x360/x6q_621YcLVbp7Z8.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/1280x720/dhWhV4TWqm7zukjk.mp4?tag=12"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 51583,
+          "favorited": false,
+          "fullText": "爆笑太田はかなり気を遣って丁寧な聞き方してるのに、この程度の質問にイラつく高市早苗の器の小ささ。ムキになると地が出て関西弁になるところが64歳児みたいでホンマキツイ⋯。総理大臣の姿か？これが https://t.co/sgPo5i9SZu",
+          "idStr": "2020519102670889149",
+          "isQuoteStatus": true,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 2344,
+          "quotedStatusIdStr": "2020502033997136325",
+          "quotedStatusPermalink": {
+            "display": "x.com/RyMfegzBUFNoZ8…",
+            "expanded": "https://twitter.com/RyMfegzBUFNoZ8k/status/2020502033997136325",
+            "url": "https://t.co/oQ74gdeOQP"
+          },
+          "replyCount": 1965,
+          "retweetCount": 11300,
+          "retweeted": false,
+          "userIdStr": "1609188303709913088"
+        },
+        "quotedRefResult": {
+          "result": {
+            "typename": "Tweet",
+            "restId": "2020502033997136325"
+          }
+        },
+        "restId": "2020519102670889149",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "11366458",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2020707591807254853",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "132",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1948962837902110720/0DfeLk-U_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sat Dec 31 14:02:52 +0000 2022",
+                "name": "アベノ広報官🏺(色々試し中)",
+                "screenName": "RyMfegzBUFNoZ8k"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNjA5MTg4MzAzNzA5OTEzMDg4",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "趣味は安倍晋三",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 12525,
+                "followRequestSent": false,
+                "followersCount": 15256,
+                "friendsCount": 3554,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 294,
+                "mediaCount": 3806,
+                "normalFollowersCount": 15256,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1609188303709913088/1764504194",
+                "profileInterstitialType": "",
+                "statusesCount": 7788,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "東朝鮮民主主義人民共和国 東京(トンキン)"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "Parody",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "趣味は安倍晋三"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1609188303709913088",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2020519102670889149"
+          ],
+          "editableUntilMsecs": "1770567868000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 5083,
+          "bookmarked": false,
+          "conversationIdStr": "2020519102670889149",
+          "createdAt": "Sun Feb 08 15:24:28 +0000 2026",
+          "displayTextRange": [
+            0,
+            95
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/sgPo5i9SZu",
+                "expandedUrl": "https://x.com/RyMfegzBUFNoZ8k/status/2020519102670889149/video/1",
+                "extMediaAvailability": {
+                  "reason": "Dmcaed",
+                  "status": "Unavailable"
+                },
+                "idStr": "2020518982982488064",
+                "indices": [
+                  96,
+                  119
+                ],
+                "mediaKey": "7_2020518982982488064",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "7_2020518982982488064"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/2020518982982488064/pu/img/RMYP7sFqos-pBQKy.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 720,
+                  "width": 1280
+                },
+                "sizes": {
+                  "large": {
+                    "h": 720,
+                    "resize": "fit",
+                    "w": 1280
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/sgPo5i9SZu",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 113499,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/pl/XFf_9bxdz5-m9xig.m3u8?tag=12&v=d14"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/480x270/ToH-OktVVfznf4NT.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/640x360/x6q_621YcLVbp7Z8.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/1280x720/dhWhV4TWqm7zukjk.mp4?tag=12"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/sgPo5i9SZu",
+                "expandedUrl": "https://x.com/RyMfegzBUFNoZ8k/status/2020519102670889149/video/1",
+                "extMediaAvailability": {
+                  "reason": "Dmcaed",
+                  "status": "Unavailable"
+                },
+                "idStr": "2020518982982488064",
+                "indices": [
+                  96,
+                  119
+                ],
+                "mediaKey": "7_2020518982982488064",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "7_2020518982982488064"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/2020518982982488064/pu/img/RMYP7sFqos-pBQKy.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 720,
+                  "width": 1280
+                },
+                "sizes": {
+                  "large": {
+                    "h": 720,
+                    "resize": "fit",
+                    "w": 1280
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/sgPo5i9SZu",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 113499,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/pl/XFf_9bxdz5-m9xig.m3u8?tag=12&v=d14"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/480x270/ToH-OktVVfznf4NT.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/640x360/x6q_621YcLVbp7Z8.mp4?tag=12"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/1280x720/dhWhV4TWqm7zukjk.mp4?tag=12"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 51583,
+          "favorited": false,
+          "fullText": "爆笑太田はかなり気を遣って丁寧な聞き方してるのに、この程度の質問にイラつく高市早苗の器の小ささ。ムキになると地が出て関西弁になるところが64歳児みたいでホンマキツイ⋯。総理大臣の姿か？これが https://t.co/sgPo5i9SZu",
+          "idStr": "2020519102670889149",
+          "isQuoteStatus": true,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 2344,
+          "quotedStatusIdStr": "2020502033997136325",
+          "quotedStatusPermalink": {
+            "display": "x.com/RyMfegzBUFNoZ8…",
+            "expanded": "https://twitter.com/RyMfegzBUFNoZ8k/status/2020502033997136325",
+            "url": "https://t.co/oQ74gdeOQP"
+          },
+          "replyCount": 1965,
+          "retweetCount": 11300,
+          "retweeted": false,
+          "userIdStr": "1609188303709913088"
+        },
+        "quotedRefResult": {
+          "result": {
+            "typename": "Tweet",
+            "restId": "2020502033997136325"
+          }
+        },
+        "restId": "2020519102670889149",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "11366458",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1948962837902110720/0DfeLk-U_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Dec 31 14:02:52 +0000 2022",
+              "name": "アベノ広報官🏺(色々試し中)",
+              "screenName": "RyMfegzBUFNoZ8k"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxNjA5MTg4MzAzNzA5OTEzMDg4",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "趣味は安倍晋三",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 12525,
+              "followRequestSent": false,
+              "followersCount": 15256,
+              "friendsCount": 3554,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 294,
+              "mediaCount": 3806,
+              "normalFollowersCount": 15256,
+              "notifications": false,
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1609188303709913088/1764504194",
+              "profileInterstitialType": "",
+              "statusesCount": 7788,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "東朝鮮民主主義人民共和国 東京(トンキン)"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "Parody",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "趣味は安倍晋三"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1609188303709913088",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2020519102670889149"
+        ],
+        "editableUntilMsecs": "1770567868000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 5083,
+        "bookmarked": false,
+        "conversationIdStr": "2020519102670889149",
+        "createdAt": "Sun Feb 08 15:24:28 +0000 2026",
+        "displayTextRange": [
+          0,
+          95
+        ],
+        "entities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "displayUrl": "pic.x.com/sgPo5i9SZu",
+              "expandedUrl": "https://x.com/RyMfegzBUFNoZ8k/status/2020519102670889149/video/1",
+              "extMediaAvailability": {
+                "reason": "Dmcaed",
+                "status": "Unavailable"
+              },
+              "idStr": "2020518982982488064",
+              "indices": [
+                96,
+                119
+              ],
+              "mediaKey": "7_2020518982982488064",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "7_2020518982982488064"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/2020518982982488064/pu/img/RMYP7sFqos-pBQKy.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 720,
+                "width": 1280
+              },
+              "sizes": {
+                "large": {
+                  "h": 720,
+                  "resize": "fit",
+                  "w": 1280
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/sgPo5i9SZu",
+              "videoInfo": {
+                "aspectRatio": [
+                  16,
+                  9
+                ],
+                "durationMillis": 113499,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/pl/XFf_9bxdz5-m9xig.m3u8?tag=12&v=d14"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/480x270/ToH-OktVVfznf4NT.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/640x360/x6q_621YcLVbp7Z8.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/1280x720/dhWhV4TWqm7zukjk.mp4?tag=12"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "displayUrl": "pic.x.com/sgPo5i9SZu",
+              "expandedUrl": "https://x.com/RyMfegzBUFNoZ8k/status/2020519102670889149/video/1",
+              "extMediaAvailability": {
+                "reason": "Dmcaed",
+                "status": "Unavailable"
+              },
+              "idStr": "2020518982982488064",
+              "indices": [
+                96,
+                119
+              ],
+              "mediaKey": "7_2020518982982488064",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "7_2020518982982488064"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/ext_tw_video_thumb/2020518982982488064/pu/img/RMYP7sFqos-pBQKy.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 720,
+                "width": 1280
+              },
+              "sizes": {
+                "large": {
+                  "h": 720,
+                  "resize": "fit",
+                  "w": 1280
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/sgPo5i9SZu",
+              "videoInfo": {
+                "aspectRatio": [
+                  16,
+                  9
+                ],
+                "durationMillis": 113499,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/pl/XFf_9bxdz5-m9xig.m3u8?tag=12&v=d14"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/480x270/ToH-OktVVfznf4NT.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/640x360/x6q_621YcLVbp7Z8.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/2020518982982488064/pu/vid/avc1/1280x720/dhWhV4TWqm7zukjk.mp4?tag=12"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favoriteCount": 51583,
+        "favorited": false,
+        "fullText": "爆笑太田はかなり気を遣って丁寧な聞き方してるのに、この程度の質問にイラつく高市早苗の器の小ささ。ムキになると地が出て関西弁になるところが64歳児みたいでホンマキツイ⋯。総理大臣の姿か？これが https://t.co/sgPo5i9SZu",
+        "idStr": "2020519102670889149",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 2344,
+        "quotedStatusIdStr": "2020502033997136325",
+        "quotedStatusPermalink": {
+          "display": "x.com/RyMfegzBUFNoZ8…",
+          "expanded": "https://twitter.com/RyMfegzBUFNoZ8k/status/2020502033997136325",
+          "url": "https://t.co/oQ74gdeOQP"
+        },
+        "replyCount": 1965,
+        "retweetCount": 11300,
+        "retweeted": false,
+        "userIdStr": "1609188303709913088"
+      },
+      "quotedRefResult": {
+        "result": {
+          "typename": "Tweet",
+          "restId": "2020502033997136325"
+        }
+      },
+      "restId": "2020519102670889149",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "11366458",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1948962837902110720/0DfeLk-U_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Sat Dec 31 14:02:52 +0000 2022",
+        "name": "アベノ広報官🏺(色々試し中)",
+        "screenName": "RyMfegzBUFNoZ8k"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxNjA5MTg4MzAzNzA5OTEzMDg4",
+      "isBlueVerified": false,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "趣味は安倍晋三",
+        "entities": {
+          "description": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 12525,
+        "followRequestSent": false,
+        "followersCount": 15256,
+        "friendsCount": 3554,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 294,
+        "mediaCount": 3806,
+        "normalFollowersCount": 15256,
+        "notifications": false,
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1609188303709913088/1764504194",
+        "profileInterstitialType": "",
+        "statusesCount": 7788,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "東朝鮮民主主義人民共和国 東京(トンキン)"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "Parody",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "趣味は安倍晋三"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1609188303709913088",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}

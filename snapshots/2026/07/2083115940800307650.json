@@ -1,0 +1,2049 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 406,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 148,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2083115940800307650"
+        ],
+        "editableUntilMsecs": "1785492117366",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2083115940800307650",
+        "createdAt": "Fri Jul 31 09:01:57 +0000 2026",
+        "displayTextRange": [
+          0,
+          140
+        ],
+        "entities": {
+          "urls": [
+            {
+              "displayUrl": "mutar.ai",
+              "expandedUrl": "https://mutar.ai",
+              "indices": [
+                68,
+                91
+              ],
+              "url": "https://t.co/Zlc5Axl1FJ"
+            }
+          ],
+          "userMentions": [
+            {
+              "id_str": "1414168706712625156",
+              "indices": [
+                3,
+                17
+              ],
+              "name": "Itta Funahashi",
+              "screen_name": "IttaFunahashi"
+            }
+          ]
+        },
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "RT @IttaFunahashi: 文字をあとから直せるAI画像生成ツール Mutar（ミューター）をリリースしました！！🎉🎉🎉\n→ https://t.co/Zlc5Axl1FJ\n\n・文字を編集できる状態で画像を生成\n・ 画像生成AI特有の文字の歪み無し\n・ChatGPT等…",
+        "idStr": "2083115940800307650",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 27,
+        "retweeted": false,
+        "retweetedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1998668551251701763/rAdjm_BA_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Sun Jul 11 10:24:42 +0000 2021",
+                    "name": "Itta Funahashi",
+                    "screenName": "IttaFunahashi"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoxNDE0MTY4NzA2NzEyNjI1MTU2",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": true,
+                    "defaultProfileImage": false,
+                    "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ",
+                    "entities": {
+                      "description": {},
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "itta.dev",
+                            "expanded_url": "https://itta.dev",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/4cZHJl7Ycc"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 6933,
+                    "followRequestSent": false,
+                    "followersCount": 706,
+                    "friendsCount": 1390,
+                    "hasCustomTimelines": false,
+                    "isTranslator": false,
+                    "listedCount": 3,
+                    "mediaCount": 186,
+                    "normalFollowersCount": 706,
+                    "notifications": false,
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414168706712625156/1777037621",
+                    "profileInterstitialType": "",
+                    "statusesCount": 1137,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/4cZHJl7Ycc",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "Aichi, Japan"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "professional": {
+                    "category": [],
+                    "professionalType": "Creator",
+                    "restId": "1501839307023462402"
+                  },
+                  "profileBio": {
+                    "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "1414168706712625156",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editControlInitial": {
+                "editTweetIds": [
+                  "2083108249218470310",
+                  "2083108770075578698"
+                ],
+                "editableUntilMsecs": "1785490283000",
+                "editsRemaining": "4",
+                "isEditEligible": true
+              },
+              "initialTweetId": "2083108249218470310"
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 79,
+              "bookmarked": false,
+              "conversationIdStr": "2083108770075578698",
+              "createdAt": "Fri Jul 31 08:33:27 +0000 2026",
+              "displayTextRange": [
+                0,
+                158
+              ],
+              "entities": {
+                "media": [
+                  {
+                    "additionalMediaInfo": {
+                      "monetizable": false
+                    },
+                    "displayUrl": "pic.x.com/raUM4CCGh9",
+                    "expandedUrl": "https://x.com/IttaFunahashi/status/2083108770075578698/video/1",
+                    "extMediaAvailability": {
+                      "status": "Available"
+                    },
+                    "idStr": "2083108099800666112",
+                    "indices": [
+                      159,
+                      182
+                    ],
+                    "mediaKey": "13_2083108099800666112",
+                    "mediaResults": {
+                      "result": {
+                        "mediaKey": "13_2083108099800666112"
+                      }
+                    },
+                    "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2083108099800666112/img/L4hSkzALUU1fafVd.jpg",
+                    "originalInfo": {
+                      "focusRects": [],
+                      "height": 1080,
+                      "width": 1920
+                    },
+                    "sizes": {
+                      "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1920
+                      },
+                      "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                      },
+                      "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                      },
+                      "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                      }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/raUM4CCGh9",
+                    "videoInfo": {
+                      "aspectRatio": [
+                        16,
+                        9
+                      ],
+                      "durationMillis": 26483,
+                      "variants": [
+                        {
+                          "contentType": "application/x-mpegURL",
+                          "url": "https://video.twimg.com/amplify_video/2083108099800666112/pl/KGOidYHbwO7AE_6v.m3u8?tag=29&v=cfc"
+                        },
+                        {
+                          "bitrate": 256000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/480x270/DOQ6sR5w1SWSpUaM.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 832000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/640x360/0455zRvSz9I34_f6.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 2176000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1280x720/TmGVkSxzIk6rqRDa.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 10368000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1920x1080/0IdqPzq1qOQ_ctPi.mp4?tag=29"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "urls": [
+                  {
+                    "displayUrl": "mutar.ai",
+                    "expandedUrl": "https://mutar.ai",
+                    "indices": [
+                      49,
+                      72
+                    ],
+                    "url": "https://t.co/Zlc5Axl1FJ"
+                  }
+                ]
+              },
+              "extendedEntities": {
+                "media": [
+                  {
+                    "additionalMediaInfo": {
+                      "monetizable": false
+                    },
+                    "displayUrl": "pic.x.com/raUM4CCGh9",
+                    "expandedUrl": "https://x.com/IttaFunahashi/status/2083108770075578698/video/1",
+                    "extMediaAvailability": {
+                      "status": "Available"
+                    },
+                    "idStr": "2083108099800666112",
+                    "indices": [
+                      159,
+                      182
+                    ],
+                    "mediaKey": "13_2083108099800666112",
+                    "mediaResults": {
+                      "result": {
+                        "mediaKey": "13_2083108099800666112"
+                      }
+                    },
+                    "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2083108099800666112/img/L4hSkzALUU1fafVd.jpg",
+                    "originalInfo": {
+                      "focusRects": [],
+                      "height": 1080,
+                      "width": 1920
+                    },
+                    "sizes": {
+                      "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1920
+                      },
+                      "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                      },
+                      "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                      },
+                      "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                      }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/raUM4CCGh9",
+                    "videoInfo": {
+                      "aspectRatio": [
+                        16,
+                        9
+                      ],
+                      "durationMillis": 26483,
+                      "variants": [
+                        {
+                          "contentType": "application/x-mpegURL",
+                          "url": "https://video.twimg.com/amplify_video/2083108099800666112/pl/KGOidYHbwO7AE_6v.m3u8?tag=29&v=cfc"
+                        },
+                        {
+                          "bitrate": 256000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/480x270/DOQ6sR5w1SWSpUaM.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 832000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/640x360/0455zRvSz9I34_f6.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 2176000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1280x720/TmGVkSxzIk6rqRDa.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 10368000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1920x1080/0IdqPzq1qOQ_ctPi.mp4?tag=29"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              "favoriteCount": 91,
+              "favorited": false,
+              "fullText": "文字をあとから直せるAI画像生成ツール Mutar（ミューター）をリリースしました！！🎉🎉🎉\n→ https://t.co/Zlc5Axl1FJ\n\n・文字を編集できる状態で画像を生成\n・ 画像生成AI特有の文字の歪み無し\n・ChatGPT等で作成した画像も編集可能に\n・FigmaやPowerPointに貼り付け可能 https://t.co/raUM4CCGh9",
+              "idStr": "2083108770075578698",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "possiblySensitive": false,
+              "possiblySensitiveEditable": true,
+              "quoteCount": 4,
+              "replyCount": 3,
+              "retweetCount": 27,
+              "retweeted": false,
+              "userIdStr": "1414168706712625156"
+            },
+            "noteTweet": {
+              "isExpandable": true,
+              "noteTweetResults": {
+                "result": {
+                  "entitySet": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "timestamps": [],
+                    "urls": [
+                      {
+                        "displayUrl": "mutar.ai",
+                        "expandedUrl": "https://mutar.ai",
+                        "indices": [
+                          49,
+                          72
+                        ],
+                        "url": "https://t.co/j0EXPCNlGG"
+                      }
+                    ],
+                    "userMentions": []
+                  },
+                  "id": "Tm90ZVR3ZWV0OjIwODMxMDg3NzAwMjEwNjg4MDA=",
+                  "media": {
+                    "inlineMedia": []
+                  },
+                  "richtext": {
+                    "richtextTags": []
+                  },
+                  "text": "文字をあとから直せるAI画像生成ツール Mutar（ミューター）をリリースしました！！🎉🎉🎉\n→ https://t.co/j0EXPCNlGG\n\n・文字を編集できる状態で画像を生成\n・ 画像生成AI特有の文字の歪み無し\n・ChatGPT等で作成した画像も編集可能に\n・FigmaやPowerPointに貼り付け可能\n\n無料で4枚まで生成できます！ぜひ！！"
+                }
+              }
+            },
+            "previousCounts": {
+              "bookmarkCount": 0,
+              "favoriteCount": 0,
+              "quoteCount": 0,
+              "replyCount": 0,
+              "retweetCount": 0
+            },
+            "restId": "2083108770075578698",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "unmentionData": {},
+            "views": {
+              "count": "109075",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2083115940800307650",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "state": "Enabled"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 406,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 148,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2083115940800307650"
+      ],
+      "editableUntilMsecs": "1785492117366",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2083115940800307650",
+      "createdAt": "Fri Jul 31 09:01:57 +0000 2026",
+      "displayTextRange": [
+        0,
+        140
+      ],
+      "entities": {
+        "urls": [
+          {
+            "displayUrl": "mutar.ai",
+            "expandedUrl": "https://mutar.ai",
+            "indices": [
+              68,
+              91
+            ],
+            "url": "https://t.co/Zlc5Axl1FJ"
+          }
+        ],
+        "userMentions": [
+          {
+            "id_str": "1414168706712625156",
+            "indices": [
+              3,
+              17
+            ],
+            "name": "Itta Funahashi",
+            "screen_name": "IttaFunahashi"
+          }
+        ]
+      },
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "RT @IttaFunahashi: 文字をあとから直せるAI画像生成ツール Mutar（ミューター）をリリースしました！！🎉🎉🎉\n→ https://t.co/Zlc5Axl1FJ\n\n・文字を編集できる状態で画像を生成\n・ 画像生成AI特有の文字の歪み無し\n・ChatGPT等…",
+      "idStr": "2083115940800307650",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 27,
+      "retweeted": false,
+      "retweetedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1998668551251701763/rAdjm_BA_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Sun Jul 11 10:24:42 +0000 2021",
+                  "name": "Itta Funahashi",
+                  "screenName": "IttaFunahashi"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNDE0MTY4NzA2NzEyNjI1MTU2",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "itta.dev",
+                          "expanded_url": "https://itta.dev",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/4cZHJl7Ycc"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 6933,
+                  "followRequestSent": false,
+                  "followersCount": 706,
+                  "friendsCount": 1390,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 3,
+                  "mediaCount": 186,
+                  "normalFollowersCount": 706,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414168706712625156/1777037621",
+                  "profileInterstitialType": "",
+                  "statusesCount": 1137,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/4cZHJl7Ycc",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "Aichi, Japan"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "professional": {
+                  "category": [],
+                  "professionalType": "Creator",
+                  "restId": "1501839307023462402"
+                },
+                "profileBio": {
+                  "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1414168706712625156",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editControlInitial": {
+              "editTweetIds": [
+                "2083108249218470310",
+                "2083108770075578698"
+              ],
+              "editableUntilMsecs": "1785490283000",
+              "editsRemaining": "4",
+              "isEditEligible": true
+            },
+            "initialTweetId": "2083108249218470310"
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 79,
+            "bookmarked": false,
+            "conversationIdStr": "2083108770075578698",
+            "createdAt": "Fri Jul 31 08:33:27 +0000 2026",
+            "displayTextRange": [
+              0,
+              158
+            ],
+            "entities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "displayUrl": "pic.x.com/raUM4CCGh9",
+                  "expandedUrl": "https://x.com/IttaFunahashi/status/2083108770075578698/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2083108099800666112",
+                  "indices": [
+                    159,
+                    182
+                  ],
+                  "mediaKey": "13_2083108099800666112",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2083108099800666112"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2083108099800666112/img/L4hSkzALUU1fafVd.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/raUM4CCGh9",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      16,
+                      9
+                    ],
+                    "durationMillis": 26483,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2083108099800666112/pl/KGOidYHbwO7AE_6v.m3u8?tag=29&v=cfc"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/480x270/DOQ6sR5w1SWSpUaM.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/640x360/0455zRvSz9I34_f6.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1280x720/TmGVkSxzIk6rqRDa.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1920x1080/0IdqPzq1qOQ_ctPi.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "urls": [
+                {
+                  "displayUrl": "mutar.ai",
+                  "expandedUrl": "https://mutar.ai",
+                  "indices": [
+                    49,
+                    72
+                  ],
+                  "url": "https://t.co/Zlc5Axl1FJ"
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "displayUrl": "pic.x.com/raUM4CCGh9",
+                  "expandedUrl": "https://x.com/IttaFunahashi/status/2083108770075578698/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2083108099800666112",
+                  "indices": [
+                    159,
+                    182
+                  ],
+                  "mediaKey": "13_2083108099800666112",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2083108099800666112"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2083108099800666112/img/L4hSkzALUU1fafVd.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/raUM4CCGh9",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      16,
+                      9
+                    ],
+                    "durationMillis": 26483,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2083108099800666112/pl/KGOidYHbwO7AE_6v.m3u8?tag=29&v=cfc"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/480x270/DOQ6sR5w1SWSpUaM.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/640x360/0455zRvSz9I34_f6.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1280x720/TmGVkSxzIk6rqRDa.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1920x1080/0IdqPzq1qOQ_ctPi.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favoriteCount": 91,
+            "favorited": false,
+            "fullText": "文字をあとから直せるAI画像生成ツール Mutar（ミューター）をリリースしました！！🎉🎉🎉\n→ https://t.co/Zlc5Axl1FJ\n\n・文字を編集できる状態で画像を生成\n・ 画像生成AI特有の文字の歪み無し\n・ChatGPT等で作成した画像も編集可能に\n・FigmaやPowerPointに貼り付け可能 https://t.co/raUM4CCGh9",
+            "idStr": "2083108770075578698",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 4,
+            "replyCount": 3,
+            "retweetCount": 27,
+            "retweeted": false,
+            "userIdStr": "1414168706712625156"
+          },
+          "noteTweet": {
+            "isExpandable": true,
+            "noteTweetResults": {
+              "result": {
+                "entitySet": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "timestamps": [],
+                  "urls": [
+                    {
+                      "displayUrl": "mutar.ai",
+                      "expandedUrl": "https://mutar.ai",
+                      "indices": [
+                        49,
+                        72
+                      ],
+                      "url": "https://t.co/j0EXPCNlGG"
+                    }
+                  ],
+                  "userMentions": []
+                },
+                "id": "Tm90ZVR3ZWV0OjIwODMxMDg3NzAwMjEwNjg4MDA=",
+                "media": {
+                  "inlineMedia": []
+                },
+                "richtext": {
+                  "richtextTags": []
+                },
+                "text": "文字をあとから直せるAI画像生成ツール Mutar（ミューター）をリリースしました！！🎉🎉🎉\n→ https://t.co/j0EXPCNlGG\n\n・文字を編集できる状態で画像を生成\n・ 画像生成AI特有の文字の歪み無し\n・ChatGPT等で作成した画像も編集可能に\n・FigmaやPowerPointに貼り付け可能\n\n無料で4枚まで生成できます！ぜひ！！"
+              }
+            }
+          },
+          "previousCounts": {
+            "bookmarkCount": 0,
+            "favoriteCount": 0,
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0
+          },
+          "restId": "2083108770075578698",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "109075",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2083115940800307650",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "state": "Enabled"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 406,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 148,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "retweeted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1998668551251701763/rAdjm_BA_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sun Jul 11 10:24:42 +0000 2021",
+                "name": "Itta Funahashi",
+                "screenName": "IttaFunahashi"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNDE0MTY4NzA2NzEyNjI1MTU2",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "itta.dev",
+                        "expanded_url": "https://itta.dev",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/4cZHJl7Ycc"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 6933,
+                "followRequestSent": false,
+                "followersCount": 706,
+                "friendsCount": 1390,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 3,
+                "mediaCount": 186,
+                "normalFollowersCount": 706,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414168706712625156/1777037621",
+                "profileInterstitialType": "",
+                "statusesCount": 1137,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/4cZHJl7Ycc",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "Aichi, Japan"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "professional": {
+                "category": [],
+                "professionalType": "Creator",
+                "restId": "1501839307023462402"
+              },
+              "profileBio": {
+                "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1414168706712625156",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editControlInitial": {
+            "editTweetIds": [
+              "2083108249218470310",
+              "2083108770075578698"
+            ],
+            "editableUntilMsecs": "1785490283000",
+            "editsRemaining": "4",
+            "isEditEligible": true
+          },
+          "initialTweetId": "2083108249218470310"
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 79,
+          "bookmarked": false,
+          "conversationIdStr": "2083108770075578698",
+          "createdAt": "Fri Jul 31 08:33:27 +0000 2026",
+          "displayTextRange": [
+            0,
+            158
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/raUM4CCGh9",
+                "expandedUrl": "https://x.com/IttaFunahashi/status/2083108770075578698/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2083108099800666112",
+                "indices": [
+                  159,
+                  182
+                ],
+                "mediaKey": "13_2083108099800666112",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2083108099800666112"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2083108099800666112/img/L4hSkzALUU1fafVd.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "resize": "fit",
+                    "w": 1920
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/raUM4CCGh9",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 26483,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2083108099800666112/pl/KGOidYHbwO7AE_6v.m3u8?tag=29&v=cfc"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/480x270/DOQ6sR5w1SWSpUaM.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/640x360/0455zRvSz9I34_f6.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1280x720/TmGVkSxzIk6rqRDa.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1920x1080/0IdqPzq1qOQ_ctPi.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ],
+            "urls": [
+              {
+                "displayUrl": "mutar.ai",
+                "expandedUrl": "https://mutar.ai",
+                "indices": [
+                  49,
+                  72
+                ],
+                "url": "https://t.co/Zlc5Axl1FJ"
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/raUM4CCGh9",
+                "expandedUrl": "https://x.com/IttaFunahashi/status/2083108770075578698/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2083108099800666112",
+                "indices": [
+                  159,
+                  182
+                ],
+                "mediaKey": "13_2083108099800666112",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2083108099800666112"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2083108099800666112/img/L4hSkzALUU1fafVd.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "resize": "fit",
+                    "w": 1920
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/raUM4CCGh9",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 26483,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2083108099800666112/pl/KGOidYHbwO7AE_6v.m3u8?tag=29&v=cfc"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/480x270/DOQ6sR5w1SWSpUaM.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/640x360/0455zRvSz9I34_f6.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1280x720/TmGVkSxzIk6rqRDa.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1920x1080/0IdqPzq1qOQ_ctPi.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 91,
+          "favorited": false,
+          "fullText": "文字をあとから直せるAI画像生成ツール Mutar（ミューター）をリリースしました！！🎉🎉🎉\n→ https://t.co/Zlc5Axl1FJ\n\n・文字を編集できる状態で画像を生成\n・ 画像生成AI特有の文字の歪み無し\n・ChatGPT等で作成した画像も編集可能に\n・FigmaやPowerPointに貼り付け可能 https://t.co/raUM4CCGh9",
+          "idStr": "2083108770075578698",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 4,
+          "replyCount": 3,
+          "retweetCount": 27,
+          "retweeted": false,
+          "userIdStr": "1414168706712625156"
+        },
+        "noteTweet": {
+          "isExpandable": true,
+          "noteTweetResults": {
+            "result": {
+              "entitySet": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                  {
+                    "displayUrl": "mutar.ai",
+                    "expandedUrl": "https://mutar.ai",
+                    "indices": [
+                      49,
+                      72
+                    ],
+                    "url": "https://t.co/j0EXPCNlGG"
+                  }
+                ],
+                "userMentions": []
+              },
+              "id": "Tm90ZVR3ZWV0OjIwODMxMDg3NzAwMjEwNjg4MDA=",
+              "media": {
+                "inlineMedia": []
+              },
+              "richtext": {
+                "richtextTags": []
+              },
+              "text": "文字をあとから直せるAI画像生成ツール Mutar（ミューター）をリリースしました！！🎉🎉🎉\n→ https://t.co/j0EXPCNlGG\n\n・文字を編集できる状態で画像を生成\n・ 画像生成AI特有の文字の歪み無し\n・ChatGPT等で作成した画像も編集可能に\n・FigmaやPowerPointに貼り付け可能\n\n無料で4枚まで生成できます！ぜひ！！"
+            }
+          }
+        },
+        "previousCounts": {
+          "bookmarkCount": 0,
+          "favoriteCount": 0,
+          "quoteCount": 0,
+          "replyCount": 0,
+          "retweetCount": 0
+        },
+        "restId": "2083108770075578698",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "109075",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1998668551251701763/rAdjm_BA_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sun Jul 11 10:24:42 +0000 2021",
+              "name": "Itta Funahashi",
+              "screenName": "IttaFunahashi"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxNDE0MTY4NzA2NzEyNjI1MTU2",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "itta.dev",
+                      "expanded_url": "https://itta.dev",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/4cZHJl7Ycc"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 6933,
+              "followRequestSent": false,
+              "followersCount": 706,
+              "friendsCount": 1390,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 3,
+              "mediaCount": 186,
+              "normalFollowersCount": 706,
+              "notifications": false,
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414168706712625156/1777037621",
+              "profileInterstitialType": "",
+              "statusesCount": 1137,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/4cZHJl7Ycc",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "Aichi, Japan"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "professional": {
+              "category": [],
+              "professionalType": "Creator",
+              "restId": "1501839307023462402"
+            },
+            "profileBio": {
+              "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1414168706712625156",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editControlInitial": {
+          "editTweetIds": [
+            "2083108249218470310",
+            "2083108770075578698"
+          ],
+          "editableUntilMsecs": "1785490283000",
+          "editsRemaining": "4",
+          "isEditEligible": true
+        },
+        "initialTweetId": "2083108249218470310"
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 79,
+        "bookmarked": false,
+        "conversationIdStr": "2083108770075578698",
+        "createdAt": "Fri Jul 31 08:33:27 +0000 2026",
+        "displayTextRange": [
+          0,
+          158
+        ],
+        "entities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "displayUrl": "pic.x.com/raUM4CCGh9",
+              "expandedUrl": "https://x.com/IttaFunahashi/status/2083108770075578698/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2083108099800666112",
+              "indices": [
+                159,
+                182
+              ],
+              "mediaKey": "13_2083108099800666112",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2083108099800666112"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2083108099800666112/img/L4hSkzALUU1fafVd.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "resize": "fit",
+                  "w": 1920
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/raUM4CCGh9",
+              "videoInfo": {
+                "aspectRatio": [
+                  16,
+                  9
+                ],
+                "durationMillis": 26483,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2083108099800666112/pl/KGOidYHbwO7AE_6v.m3u8?tag=29&v=cfc"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/480x270/DOQ6sR5w1SWSpUaM.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/640x360/0455zRvSz9I34_f6.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1280x720/TmGVkSxzIk6rqRDa.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1920x1080/0IdqPzq1qOQ_ctPi.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ],
+          "urls": [
+            {
+              "displayUrl": "mutar.ai",
+              "expandedUrl": "https://mutar.ai",
+              "indices": [
+                49,
+                72
+              ],
+              "url": "https://t.co/Zlc5Axl1FJ"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "displayUrl": "pic.x.com/raUM4CCGh9",
+              "expandedUrl": "https://x.com/IttaFunahashi/status/2083108770075578698/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2083108099800666112",
+              "indices": [
+                159,
+                182
+              ],
+              "mediaKey": "13_2083108099800666112",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2083108099800666112"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2083108099800666112/img/L4hSkzALUU1fafVd.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "resize": "fit",
+                  "w": 1920
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/raUM4CCGh9",
+              "videoInfo": {
+                "aspectRatio": [
+                  16,
+                  9
+                ],
+                "durationMillis": 26483,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2083108099800666112/pl/KGOidYHbwO7AE_6v.m3u8?tag=29&v=cfc"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/480x270/DOQ6sR5w1SWSpUaM.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/640x360/0455zRvSz9I34_f6.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1280x720/TmGVkSxzIk6rqRDa.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2083108099800666112/vid/avc1/1920x1080/0IdqPzq1qOQ_ctPi.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favoriteCount": 91,
+        "favorited": false,
+        "fullText": "文字をあとから直せるAI画像生成ツール Mutar（ミューター）をリリースしました！！🎉🎉🎉\n→ https://t.co/Zlc5Axl1FJ\n\n・文字を編集できる状態で画像を生成\n・ 画像生成AI特有の文字の歪み無し\n・ChatGPT等で作成した画像も編集可能に\n・FigmaやPowerPointに貼り付け可能 https://t.co/raUM4CCGh9",
+        "idStr": "2083108770075578698",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 4,
+        "replyCount": 3,
+        "retweetCount": 27,
+        "retweeted": false,
+        "userIdStr": "1414168706712625156"
+      },
+      "noteTweet": {
+        "isExpandable": true,
+        "noteTweetResults": {
+          "result": {
+            "entitySet": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "displayUrl": "mutar.ai",
+                  "expandedUrl": "https://mutar.ai",
+                  "indices": [
+                    49,
+                    72
+                  ],
+                  "url": "https://t.co/j0EXPCNlGG"
+                }
+              ],
+              "userMentions": []
+            },
+            "id": "Tm90ZVR3ZWV0OjIwODMxMDg3NzAwMjEwNjg4MDA=",
+            "media": {
+              "inlineMedia": []
+            },
+            "richtext": {
+              "richtextTags": []
+            },
+            "text": "文字をあとから直せるAI画像生成ツール Mutar（ミューター）をリリースしました！！🎉🎉🎉\n→ https://t.co/j0EXPCNlGG\n\n・文字を編集できる状態で画像を生成\n・ 画像生成AI特有の文字の歪み無し\n・ChatGPT等で作成した画像も編集可能に\n・FigmaやPowerPointに貼り付け可能\n\n無料で4枚まで生成できます！ぜひ！！"
+          }
+        }
+      },
+      "previousCounts": {
+        "bookmarkCount": 0,
+        "favoriteCount": 0,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 0
+      },
+      "restId": "2083108770075578698",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "109075",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1998668551251701763/rAdjm_BA_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Sun Jul 11 10:24:42 +0000 2021",
+        "name": "Itta Funahashi",
+        "screenName": "IttaFunahashi"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxNDE0MTY4NzA2NzEyNjI1MTU2",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "itta.dev",
+                "expanded_url": "https://itta.dev",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/4cZHJl7Ycc"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 6933,
+        "followRequestSent": false,
+        "followersCount": 706,
+        "friendsCount": 1390,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 3,
+        "mediaCount": 186,
+        "normalFollowersCount": 706,
+        "notifications": false,
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414168706712625156/1777037621",
+        "profileInterstitialType": "",
+        "statusesCount": 1137,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/4cZHJl7Ycc",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "Aichi, Japan"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "professional": {
+        "category": [],
+        "professionalType": "Creator",
+        "restId": "1501839307023462402"
+      },
+      "profileBio": {
+        "description": "エディタづくりが趣味です\n\nU-22 プロコン'21 経済産業大臣賞 / 未踏ジュニア '25 スパクリ"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1414168706712625156",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}
