@@ -1,0 +1,5190 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "imageValue": {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=280x150",
+                  "width": 267
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "stringValue": "【NHK】高市総理大臣は28日、AIについて指導を受けることになりました。チームみらいの安野党首らが講師を務めるということです。 政府は28日午後、総理大臣官邸で、高市総理大臣がAIについて指導を受ける「A",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "stringValue": "news.web.nhk",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x320_1",
+                  "width": 569
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribeKey": "publisher_id",
+                "type": "USER",
+                "userValue": {
+                  "idStr": "204245399"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 81,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=144x144",
+                  "width": 144
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "creator",
+              "value": {
+                "type": "USER",
+                "userValue": {
+                  "idStr": "204245399"
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribeKey": "vanity_url",
+                "stringValue": "news.web.nhk",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 50.82,
+                      "rgb": {
+                        "blue": 59,
+                        "green": 57,
+                        "red": 57
+                      }
+                    },
+                    {
+                      "percentage": 21.53,
+                      "rgb": {
+                        "blue": 202,
+                        "green": 207,
+                        "red": 188
+                      }
+                    },
+                    {
+                      "percentage": 18.71,
+                      "rgb": {
+                        "blue": 81,
+                        "green": 95,
+                        "red": 118
+                      }
+                    },
+                    {
+                      "percentage": 3.14,
+                      "rgb": {
+                        "blue": 112,
+                        "green": 118,
+                        "red": 149
+                      }
+                    },
+                    {
+                      "percentage": 1.2,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 36,
+                        "red": 24
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "stringValue": "高市首相 28日にAI指導受ける 講師はチームみらい安野党首ら | NHKニュース",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 50.82,
+                      "rgb": {
+                        "blue": 59,
+                        "green": 57,
+                        "red": 57
+                      }
+                    },
+                    {
+                      "percentage": 21.53,
+                      "rgb": {
+                        "blue": 202,
+                        "green": 207,
+                        "red": 188
+                      }
+                    },
+                    {
+                      "percentage": 18.71,
+                      "rgb": {
+                        "blue": 81,
+                        "green": 95,
+                        "red": 118
+                      }
+                    },
+                    {
+                      "percentage": 3.14,
+                      "rgb": {
+                        "blue": 112,
+                        "green": 118,
+                        "red": 149
+                      }
+                    },
+                    {
+                      "percentage": 1.2,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 36,
+                        "red": 24
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 50.82,
+                      "rgb": {
+                        "blue": 59,
+                        "green": 57,
+                        "red": 57
+                      }
+                    },
+                    {
+                      "percentage": 21.53,
+                      "rgb": {
+                        "blue": 202,
+                        "green": 207,
+                        "red": 188
+                      }
+                    },
+                    {
+                      "percentage": 18.71,
+                      "rgb": {
+                        "blue": 81,
+                        "green": 95,
+                        "red": 118
+                      }
+                    },
+                    {
+                      "percentage": 3.14,
+                      "rgb": {
+                        "blue": 112,
+                        "green": 118,
+                        "red": 149
+                      }
+                    },
+                    {
+                      "percentage": 1.2,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 36,
+                        "red": 24
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://t.co/JqQj8SGLWs",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/JqQj8SGLWs",
+          "userRefsResults": [
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                  "name": "NHKニュース",
+                  "screenName": "nhk_news"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyMDQyNDUzOTk=",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "nhk.jp/rules",
+                          "expanded_url": "http://nhk.jp/rules",
+                          "indices": [
+                            42,
+                            65
+                          ],
+                          "url": "https://t.co/X9ExoZ8ao6"
+                        },
+                        {
+                          "display_url": "nhk.or.jp/css/",
+                          "expanded_url": "http://www.nhk.or.jp/css/",
+                          "indices": [
+                            86,
+                            109
+                          ],
+                          "url": "https://t.co/fMCPIt2S57"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "nhk.jp/news",
+                          "expanded_url": "http://nhk.jp/news",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/bM6wmxNKVo"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 6,
+                  "followRequestSent": false,
+                  "followersCount": 3463711,
+                  "friendsCount": 19,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 66227,
+                  "mediaCount": 21107,
+                  "normalFollowersCount": 3463711,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "895196466859450368"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                  "profileInterstitialType": "",
+                  "statusesCount": 740869,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/bM6wmxNKVo",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "東京都渋谷区神南2-2-1"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "204245399",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            },
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                  "name": "NHKニュース",
+                  "screenName": "nhk_news"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyMDQyNDUzOTk=",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "nhk.jp/rules",
+                          "expanded_url": "http://nhk.jp/rules",
+                          "indices": [
+                            42,
+                            65
+                          ],
+                          "url": "https://t.co/X9ExoZ8ao6"
+                        },
+                        {
+                          "display_url": "nhk.or.jp/css/",
+                          "expanded_url": "http://www.nhk.or.jp/css/",
+                          "indices": [
+                            86,
+                            109
+                          ],
+                          "url": "https://t.co/fMCPIt2S57"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "nhk.jp/news",
+                          "expanded_url": "http://nhk.jp/news",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/bM6wmxNKVo"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 6,
+                  "followRequestSent": false,
+                  "followersCount": 3463711,
+                  "friendsCount": 19,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 66227,
+                  "mediaCount": 21107,
+                  "normalFollowersCount": 3463711,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "895196466859450368"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                  "profileInterstitialType": "",
+                  "statusesCount": 740869,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/bM6wmxNKVo",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "東京都渋谷区神南2-2-1"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "204245399",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          ]
+        },
+        "restId": "https://t.co/JqQj8SGLWs"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 418,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 44,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 151,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2093188697319682069"
+        ],
+        "editableUntilMsecs": "1787893649663",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2093188697319682069",
+        "createdAt": "Fri Aug 28 04:07:29 +0000 2026",
+        "displayTextRange": [
+          0,
+          77
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                68,
+                77
+              ],
+              "text": "nhk_news"
+            }
+          ],
+          "urls": [
+            {
+              "displayUrl": "news.web.nhk/newsweb/na/nd-…",
+              "expandedUrl": "https://news.web.nhk/newsweb/na/nd-20260827de46827",
+              "indices": [
+                44,
+                67
+              ],
+              "url": "https://t.co/JqQj8SGLWs"
+            }
+          ],
+          "userMentions": [
+            {
+              "id_str": "204245399",
+              "indices": [
+                3,
+                12
+              ],
+              "name": "NHKニュース",
+              "screen_name": "nhk_news"
+            }
+          ]
+        },
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "RT @nhk_news: 高市首相 あすAI指導受ける 講師はチームみらい安野党首ら\nhttps://t.co/JqQj8SGLWs #nhk_news",
+        "idStr": "2093188697319682069",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 752,
+        "retweeted": false,
+        "retweetedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "card": {
+              "legacy": {
+                "bindingValues": [
+                  {
+                    "key": "photo_image_full_size_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 419,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                        "width": 800
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image",
+                    "value": {
+                      "imageValue": {
+                        "height": 150,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=280x150",
+                        "width": 267
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "description",
+                    "value": {
+                      "stringValue": "【NHK】高市総理大臣は28日、AIについて指導を受けることになりました。チームみらいの安野党首らが講師を務めるということです。 政府は28日午後、総理大臣官邸で、高市総理大臣がAIについて指導を受ける「A",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "domain",
+                    "value": {
+                      "stringValue": "news.web.nhk",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 320,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x320_1",
+                        "width": 569
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 202,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                        "width": 386
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 1080,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                        "width": 1920
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "site",
+                    "value": {
+                      "scribeKey": "publisher_id",
+                      "type": "USER",
+                      "userValue": {
+                        "idStr": "204245399"
+                      }
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 202,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                        "width": 386
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 419,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                        "width": 800
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 81,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=144x144",
+                        "width": 144
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "creator",
+                    "value": {
+                      "type": "USER",
+                      "userValue": {
+                        "idStr": "204245399"
+                      }
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 1080,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                        "width": 1920
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 1080,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                        "width": 1920
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "vanity_url",
+                    "value": {
+                      "scribeKey": "vanity_url",
+                      "stringValue": "news.web.nhk",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size",
+                    "value": {
+                      "imageValue": {
+                        "height": 314,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                        "width": 600
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 50.82,
+                            "rgb": {
+                              "blue": 59,
+                              "green": 57,
+                              "red": 57
+                            }
+                          },
+                          {
+                            "percentage": 21.53,
+                            "rgb": {
+                              "blue": 202,
+                              "green": 207,
+                              "red": 188
+                            }
+                          },
+                          {
+                            "percentage": 18.71,
+                            "rgb": {
+                              "blue": 81,
+                              "green": 95,
+                              "red": 118
+                            }
+                          },
+                          {
+                            "percentage": 3.14,
+                            "rgb": {
+                              "blue": 112,
+                              "green": 118,
+                              "red": 149
+                            }
+                          },
+                          {
+                            "percentage": 1.2,
+                            "rgb": {
+                              "blue": 158,
+                              "green": 36,
+                              "red": 24
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "title",
+                    "value": {
+                      "stringValue": "高市首相 28日にAI指導受ける 講師はチームみらい安野党首ら | NHKニュース",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 50.82,
+                            "rgb": {
+                              "blue": 59,
+                              "green": 57,
+                              "red": 57
+                            }
+                          },
+                          {
+                            "percentage": 21.53,
+                            "rgb": {
+                              "blue": 202,
+                              "green": 207,
+                              "red": 188
+                            }
+                          },
+                          {
+                            "percentage": 18.71,
+                            "rgb": {
+                              "blue": 81,
+                              "green": 95,
+                              "red": 118
+                            }
+                          },
+                          {
+                            "percentage": 3.14,
+                            "rgb": {
+                              "blue": 112,
+                              "green": 118,
+                              "red": 149
+                            }
+                          },
+                          {
+                            "percentage": 1.2,
+                            "rgb": {
+                              "blue": 158,
+                              "green": 36,
+                              "red": 24
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 1080,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                        "width": 1920
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image",
+                    "value": {
+                      "imageValue": {
+                        "height": 314,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                        "width": 600
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 50.82,
+                            "rgb": {
+                              "blue": 59,
+                              "green": 57,
+                              "red": 57
+                            }
+                          },
+                          {
+                            "percentage": 21.53,
+                            "rgb": {
+                              "blue": 202,
+                              "green": 207,
+                              "red": 188
+                            }
+                          },
+                          {
+                            "percentage": 18.71,
+                            "rgb": {
+                              "blue": 81,
+                              "green": 95,
+                              "red": 118
+                            }
+                          },
+                          {
+                            "percentage": 3.14,
+                            "rgb": {
+                              "blue": 112,
+                              "green": 118,
+                              "red": 149
+                            }
+                          },
+                          {
+                            "percentage": 1.2,
+                            "rgb": {
+                              "blue": 158,
+                              "green": 36,
+                              "red": 24
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 1080,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                        "width": 1920
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "card_url",
+                    "value": {
+                      "scribeKey": "card_url",
+                      "stringValue": "https://t.co/JqQj8SGLWs",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 1080,
+                        "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                        "width": 1920
+                      },
+                      "type": "IMAGE"
+                    }
+                  }
+                ],
+                "cardPlatform": {
+                  "platform": {
+                    "audience": {
+                      "name": "production"
+                    },
+                    "device": {
+                      "name": "Swift",
+                      "version": "12"
+                    }
+                  }
+                },
+                "name": "summary_large_image",
+                "url": "https://t.co/JqQj8SGLWs",
+                "userRefsResults": [
+                  {
+                    "result": {
+                      "typename": "User",
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                      },
+                      "core": {
+                        "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                        "name": "NHKニュース",
+                        "screenName": "nhk_news"
+                      },
+                      "dmPermissions": {
+                        "canDm": false
+                      },
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjoyMDQyNDUzOTk=",
+                      "isBlueVerified": true,
+                      "legacy": {
+                        "defaultProfile": false,
+                        "defaultProfileImage": false,
+                        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                        "entities": {
+                          "description": {
+                            "urls": [
+                              {
+                                "display_url": "nhk.jp/rules",
+                                "expanded_url": "http://nhk.jp/rules",
+                                "indices": [
+                                  42,
+                                  65
+                                ],
+                                "url": "https://t.co/X9ExoZ8ao6"
+                              },
+                              {
+                                "display_url": "nhk.or.jp/css/",
+                                "expanded_url": "http://www.nhk.or.jp/css/",
+                                "indices": [
+                                  86,
+                                  109
+                                ],
+                                "url": "https://t.co/fMCPIt2S57"
+                              }
+                            ]
+                          },
+                          "url": {
+                            "urls": [
+                              {
+                                "display_url": "nhk.jp/news",
+                                "expanded_url": "http://nhk.jp/news",
+                                "indices": [
+                                  0,
+                                  23
+                                ],
+                                "url": "https://t.co/bM6wmxNKVo"
+                              }
+                            ]
+                          }
+                        },
+                        "fastFollowersCount": 0,
+                        "favouritesCount": 6,
+                        "followRequestSent": false,
+                        "followersCount": 3463711,
+                        "friendsCount": 19,
+                        "hasCustomTimelines": false,
+                        "isTranslator": false,
+                        "listedCount": 66227,
+                        "mediaCount": 21107,
+                        "normalFollowersCount": 3463711,
+                        "notifications": false,
+                        "pinnedTweetIdsStr": [
+                          "895196466859450368"
+                        ],
+                        "possiblySensitive": false,
+                        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                        "profileInterstitialType": "",
+                        "statusesCount": 740869,
+                        "timeZone": "",
+                        "translatorType": "none",
+                        "url": "https://t.co/bM6wmxNKVo",
+                        "utcOffset": 0,
+                        "withheldDescription": "",
+                        "withheldScope": ""
+                      },
+                      "location": {
+                        "location": "東京都渋谷区神南2-2-1"
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "privacy": {
+                        "_protected": false
+                      },
+                      "profileBio": {
+                        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                      },
+                      "profileDescriptionLanguage": "ja",
+                      "profileImageShape": "Circle",
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false
+                      },
+                      "restId": "204245399",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tipjarSettings": {
+                        "bandcampHandle": "",
+                        "bitcoinHandle": "",
+                        "cashAppHandle": "",
+                        "ethereumHandle": "",
+                        "gofundmeHandle": "",
+                        "isEnabled": false,
+                        "patreonHandle": "",
+                        "payPalHandle": "",
+                        "venmoHandle": ""
+                      },
+                      "verification": {
+                        "verified": false
+                      }
+                    }
+                  },
+                  {
+                    "result": {
+                      "typename": "User",
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                      },
+                      "core": {
+                        "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                        "name": "NHKニュース",
+                        "screenName": "nhk_news"
+                      },
+                      "dmPermissions": {
+                        "canDm": false
+                      },
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjoyMDQyNDUzOTk=",
+                      "isBlueVerified": true,
+                      "legacy": {
+                        "defaultProfile": false,
+                        "defaultProfileImage": false,
+                        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                        "entities": {
+                          "description": {
+                            "urls": [
+                              {
+                                "display_url": "nhk.jp/rules",
+                                "expanded_url": "http://nhk.jp/rules",
+                                "indices": [
+                                  42,
+                                  65
+                                ],
+                                "url": "https://t.co/X9ExoZ8ao6"
+                              },
+                              {
+                                "display_url": "nhk.or.jp/css/",
+                                "expanded_url": "http://www.nhk.or.jp/css/",
+                                "indices": [
+                                  86,
+                                  109
+                                ],
+                                "url": "https://t.co/fMCPIt2S57"
+                              }
+                            ]
+                          },
+                          "url": {
+                            "urls": [
+                              {
+                                "display_url": "nhk.jp/news",
+                                "expanded_url": "http://nhk.jp/news",
+                                "indices": [
+                                  0,
+                                  23
+                                ],
+                                "url": "https://t.co/bM6wmxNKVo"
+                              }
+                            ]
+                          }
+                        },
+                        "fastFollowersCount": 0,
+                        "favouritesCount": 6,
+                        "followRequestSent": false,
+                        "followersCount": 3463711,
+                        "friendsCount": 19,
+                        "hasCustomTimelines": false,
+                        "isTranslator": false,
+                        "listedCount": 66227,
+                        "mediaCount": 21107,
+                        "normalFollowersCount": 3463711,
+                        "notifications": false,
+                        "pinnedTweetIdsStr": [
+                          "895196466859450368"
+                        ],
+                        "possiblySensitive": false,
+                        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                        "profileInterstitialType": "",
+                        "statusesCount": 740869,
+                        "timeZone": "",
+                        "translatorType": "none",
+                        "url": "https://t.co/bM6wmxNKVo",
+                        "utcOffset": 0,
+                        "withheldDescription": "",
+                        "withheldScope": ""
+                      },
+                      "location": {
+                        "location": "東京都渋谷区神南2-2-1"
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "privacy": {
+                        "_protected": false
+                      },
+                      "profileBio": {
+                        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                      },
+                      "profileDescriptionLanguage": "ja",
+                      "profileImageShape": "Circle",
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false
+                      },
+                      "restId": "204245399",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tipjarSettings": {
+                        "bandcampHandle": "",
+                        "bitcoinHandle": "",
+                        "cashAppHandle": "",
+                        "ethereumHandle": "",
+                        "gofundmeHandle": "",
+                        "isEnabled": false,
+                        "patreonHandle": "",
+                        "payPalHandle": "",
+                        "venmoHandle": ""
+                      },
+                      "verification": {
+                        "verified": false
+                      }
+                    }
+                  }
+                ]
+              },
+              "restId": "https://t.co/JqQj8SGLWs"
+            },
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                    "name": "NHKニュース",
+                    "screenName": "nhk_news"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoyMDQyNDUzOTk=",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": false,
+                    "defaultProfileImage": false,
+                    "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "display_url": "nhk.jp/rules",
+                            "expanded_url": "http://nhk.jp/rules",
+                            "indices": [
+                              42,
+                              65
+                            ],
+                            "url": "https://t.co/X9ExoZ8ao6"
+                          },
+                          {
+                            "display_url": "nhk.or.jp/css/",
+                            "expanded_url": "http://www.nhk.or.jp/css/",
+                            "indices": [
+                              86,
+                              109
+                            ],
+                            "url": "https://t.co/fMCPIt2S57"
+                          }
+                        ]
+                      },
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "nhk.jp/news",
+                            "expanded_url": "http://nhk.jp/news",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/bM6wmxNKVo"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 6,
+                    "followRequestSent": false,
+                    "followersCount": 3463711,
+                    "friendsCount": 19,
+                    "hasCustomTimelines": false,
+                    "isTranslator": false,
+                    "listedCount": 66227,
+                    "mediaCount": 21107,
+                    "normalFollowersCount": 3463711,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "895196466859450368"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                    "profileInterstitialType": "",
+                    "statusesCount": 740869,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/bM6wmxNKVo",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "東京都渋谷区神南2-2-1"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "204245399",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2092958826496749945"
+              ],
+              "editableUntilMsecs": "1787838844000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 461,
+              "bookmarked": false,
+              "conversationIdStr": "2092958826496749945",
+              "createdAt": "Thu Aug 27 12:54:04 +0000 2026",
+              "displayTextRange": [
+                0,
+                63
+              ],
+              "entities": {
+                "hashtags": [
+                  {
+                    "indices": [
+                      54,
+                      63
+                    ],
+                    "text": "nhk_news"
+                  }
+                ],
+                "urls": [
+                  {
+                    "displayUrl": "news.web.nhk/newsweb/na/nd-…",
+                    "expandedUrl": "https://news.web.nhk/newsweb/na/nd-20260827de46827",
+                    "indices": [
+                      30,
+                      53
+                    ],
+                    "url": "https://t.co/JqQj8SGLWs"
+                  }
+                ]
+              },
+              "favoriteCount": 5447,
+              "favorited": false,
+              "fullText": "高市首相 あすAI指導受ける 講師はチームみらい安野党首ら\nhttps://t.co/JqQj8SGLWs #nhk_news",
+              "idStr": "2092958826496749945",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "possiblySensitive": false,
+              "possiblySensitiveEditable": true,
+              "quoteCount": 839,
+              "replyCount": 436,
+              "retweetCount": 752,
+              "retweeted": false,
+              "userIdStr": "204245399"
+            },
+            "restId": "2092958826496749945",
+            "source": "<a href=\"https://nhk.jp/news\" rel=\"nofollow\">NHK NEWS APP NEW</a>",
+            "unmentionData": {},
+            "views": {
+              "count": "1374612",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2093188697319682069",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "1",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "card": {
+      "legacy": {
+        "bindingValues": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "imageValue": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "imageValue": {
+                "height": 150,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=280x150",
+                "width": 267
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "stringValue": "【NHK】高市総理大臣は28日、AIについて指導を受けることになりました。チームみらいの安野党首らが講師を務めるということです。 政府は28日午後、総理大臣官邸で、高市総理大臣がAIについて指導を受ける「A",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "stringValue": "news.web.nhk",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "imageValue": {
+                "height": 320,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x320_1",
+                "width": 569
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "imageValue": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "imageValue": {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                "width": 1920
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribeKey": "publisher_id",
+              "type": "USER",
+              "userValue": {
+                "idStr": "204245399"
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "imageValue": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "imageValue": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "imageValue": {
+                "height": 81,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "creator",
+            "value": {
+              "type": "USER",
+              "userValue": {
+                "idStr": "204245399"
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "imageValue": {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                "width": 1920
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "imageValue": {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                "width": 1920
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribeKey": "vanity_url",
+              "stringValue": "news.web.nhk",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 50.82,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 57,
+                      "red": 57
+                    }
+                  },
+                  {
+                    "percentage": 21.53,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 207,
+                      "red": 188
+                    }
+                  },
+                  {
+                    "percentage": 18.71,
+                    "rgb": {
+                      "blue": 81,
+                      "green": 95,
+                      "red": 118
+                    }
+                  },
+                  {
+                    "percentage": 3.14,
+                    "rgb": {
+                      "blue": 112,
+                      "green": 118,
+                      "red": 149
+                    }
+                  },
+                  {
+                    "percentage": 1.2,
+                    "rgb": {
+                      "blue": 158,
+                      "green": 36,
+                      "red": 24
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "stringValue": "高市首相 28日にAI指導受ける 講師はチームみらい安野党首ら | NHKニュース",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 50.82,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 57,
+                      "red": 57
+                    }
+                  },
+                  {
+                    "percentage": 21.53,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 207,
+                      "red": 188
+                    }
+                  },
+                  {
+                    "percentage": 18.71,
+                    "rgb": {
+                      "blue": 81,
+                      "green": 95,
+                      "red": 118
+                    }
+                  },
+                  {
+                    "percentage": 3.14,
+                    "rgb": {
+                      "blue": 112,
+                      "green": 118,
+                      "red": 149
+                    }
+                  },
+                  {
+                    "percentage": 1.2,
+                    "rgb": {
+                      "blue": 158,
+                      "green": 36,
+                      "red": 24
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "imageValue": {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                "width": 1920
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 50.82,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 57,
+                      "red": 57
+                    }
+                  },
+                  {
+                    "percentage": 21.53,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 207,
+                      "red": 188
+                    }
+                  },
+                  {
+                    "percentage": 18.71,
+                    "rgb": {
+                      "blue": 81,
+                      "green": 95,
+                      "red": 118
+                    }
+                  },
+                  {
+                    "percentage": 3.14,
+                    "rgb": {
+                      "blue": 112,
+                      "green": 118,
+                      "red": 149
+                    }
+                  },
+                  {
+                    "percentage": 1.2,
+                    "rgb": {
+                      "blue": 158,
+                      "green": 36,
+                      "red": 24
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "imageValue": {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                "width": 1920
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribeKey": "card_url",
+              "stringValue": "https://t.co/JqQj8SGLWs",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "imageValue": {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                "width": 1920
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "cardPlatform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/JqQj8SGLWs",
+        "userRefsResults": [
+          {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+              },
+              "core": {
+                "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                "name": "NHKニュース",
+                "screenName": "nhk_news"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyMDQyNDUzOTk=",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "nhk.jp/rules",
+                        "expanded_url": "http://nhk.jp/rules",
+                        "indices": [
+                          42,
+                          65
+                        ],
+                        "url": "https://t.co/X9ExoZ8ao6"
+                      },
+                      {
+                        "display_url": "nhk.or.jp/css/",
+                        "expanded_url": "http://www.nhk.or.jp/css/",
+                        "indices": [
+                          86,
+                          109
+                        ],
+                        "url": "https://t.co/fMCPIt2S57"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "nhk.jp/news",
+                        "expanded_url": "http://nhk.jp/news",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/bM6wmxNKVo"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 6,
+                "followRequestSent": false,
+                "followersCount": 3463711,
+                "friendsCount": 19,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 66227,
+                "mediaCount": 21107,
+                "normalFollowersCount": 3463711,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "895196466859450368"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                "profileInterstitialType": "",
+                "statusesCount": 740869,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/bM6wmxNKVo",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "東京都渋谷区神南2-2-1"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "204245399",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          },
+          {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+              },
+              "core": {
+                "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                "name": "NHKニュース",
+                "screenName": "nhk_news"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyMDQyNDUzOTk=",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "nhk.jp/rules",
+                        "expanded_url": "http://nhk.jp/rules",
+                        "indices": [
+                          42,
+                          65
+                        ],
+                        "url": "https://t.co/X9ExoZ8ao6"
+                      },
+                      {
+                        "display_url": "nhk.or.jp/css/",
+                        "expanded_url": "http://www.nhk.or.jp/css/",
+                        "indices": [
+                          86,
+                          109
+                        ],
+                        "url": "https://t.co/fMCPIt2S57"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "nhk.jp/news",
+                        "expanded_url": "http://nhk.jp/news",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/bM6wmxNKVo"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 6,
+                "followRequestSent": false,
+                "followersCount": 3463711,
+                "friendsCount": 19,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 66227,
+                "mediaCount": 21107,
+                "normalFollowersCount": 3463711,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "895196466859450368"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                "profileInterstitialType": "",
+                "statusesCount": 740869,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/bM6wmxNKVo",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "東京都渋谷区神南2-2-1"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "204245399",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        ]
+      },
+      "restId": "https://t.co/JqQj8SGLWs"
+    },
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 418,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 44,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 151,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2093188697319682069"
+      ],
+      "editableUntilMsecs": "1787893649663",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2093188697319682069",
+      "createdAt": "Fri Aug 28 04:07:29 +0000 2026",
+      "displayTextRange": [
+        0,
+        77
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              68,
+              77
+            ],
+            "text": "nhk_news"
+          }
+        ],
+        "urls": [
+          {
+            "displayUrl": "news.web.nhk/newsweb/na/nd-…",
+            "expandedUrl": "https://news.web.nhk/newsweb/na/nd-20260827de46827",
+            "indices": [
+              44,
+              67
+            ],
+            "url": "https://t.co/JqQj8SGLWs"
+          }
+        ],
+        "userMentions": [
+          {
+            "id_str": "204245399",
+            "indices": [
+              3,
+              12
+            ],
+            "name": "NHKニュース",
+            "screen_name": "nhk_news"
+          }
+        ]
+      },
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "RT @nhk_news: 高市首相 あすAI指導受ける 講師はチームみらい安野党首ら\nhttps://t.co/JqQj8SGLWs #nhk_news",
+      "idStr": "2093188697319682069",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 752,
+      "retweeted": false,
+      "retweetedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "card": {
+            "legacy": {
+              "bindingValues": [
+                {
+                  "key": "photo_image_full_size_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 419,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                      "width": 800
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image",
+                  "value": {
+                    "imageValue": {
+                      "height": 150,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=280x150",
+                      "width": 267
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "description",
+                  "value": {
+                    "stringValue": "【NHK】高市総理大臣は28日、AIについて指導を受けることになりました。チームみらいの安野党首らが講師を務めるということです。 政府は28日午後、総理大臣官邸で、高市総理大臣がAIについて指導を受ける「A",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "domain",
+                  "value": {
+                    "stringValue": "news.web.nhk",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 320,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x320_1",
+                      "width": 569
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 202,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                      "width": 386
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 1080,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                      "width": 1920
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "site",
+                  "value": {
+                    "scribeKey": "publisher_id",
+                    "type": "USER",
+                    "userValue": {
+                      "idStr": "204245399"
+                    }
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 202,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                      "width": 386
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 419,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                      "width": 800
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 81,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=144x144",
+                      "width": 144
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "creator",
+                  "value": {
+                    "type": "USER",
+                    "userValue": {
+                      "idStr": "204245399"
+                    }
+                  }
+                },
+                {
+                  "key": "thumbnail_image_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 1080,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                      "width": 1920
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 1080,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                      "width": 1920
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "vanity_url",
+                  "value": {
+                    "scribeKey": "vanity_url",
+                    "stringValue": "news.web.nhk",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size",
+                  "value": {
+                    "imageValue": {
+                      "height": 314,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                      "width": 600
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 50.82,
+                          "rgb": {
+                            "blue": 59,
+                            "green": 57,
+                            "red": 57
+                          }
+                        },
+                        {
+                          "percentage": 21.53,
+                          "rgb": {
+                            "blue": 202,
+                            "green": 207,
+                            "red": 188
+                          }
+                        },
+                        {
+                          "percentage": 18.71,
+                          "rgb": {
+                            "blue": 81,
+                            "green": 95,
+                            "red": 118
+                          }
+                        },
+                        {
+                          "percentage": 3.14,
+                          "rgb": {
+                            "blue": 112,
+                            "green": 118,
+                            "red": 149
+                          }
+                        },
+                        {
+                          "percentage": 1.2,
+                          "rgb": {
+                            "blue": 158,
+                            "green": 36,
+                            "red": 24
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "title",
+                  "value": {
+                    "stringValue": "高市首相 28日にAI指導受ける 講師はチームみらい安野党首ら | NHKニュース",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 50.82,
+                          "rgb": {
+                            "blue": 59,
+                            "green": 57,
+                            "red": 57
+                          }
+                        },
+                        {
+                          "percentage": 21.53,
+                          "rgb": {
+                            "blue": 202,
+                            "green": 207,
+                            "red": 188
+                          }
+                        },
+                        {
+                          "percentage": 18.71,
+                          "rgb": {
+                            "blue": 81,
+                            "green": 95,
+                            "red": 118
+                          }
+                        },
+                        {
+                          "percentage": 3.14,
+                          "rgb": {
+                            "blue": 112,
+                            "green": 118,
+                            "red": 149
+                          }
+                        },
+                        {
+                          "percentage": 1.2,
+                          "rgb": {
+                            "blue": 158,
+                            "green": 36,
+                            "red": 24
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 1080,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                      "width": 1920
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image",
+                  "value": {
+                    "imageValue": {
+                      "height": 314,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                      "width": 600
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 50.82,
+                          "rgb": {
+                            "blue": 59,
+                            "green": 57,
+                            "red": 57
+                          }
+                        },
+                        {
+                          "percentage": 21.53,
+                          "rgb": {
+                            "blue": 202,
+                            "green": 207,
+                            "red": 188
+                          }
+                        },
+                        {
+                          "percentage": 18.71,
+                          "rgb": {
+                            "blue": 81,
+                            "green": 95,
+                            "red": 118
+                          }
+                        },
+                        {
+                          "percentage": 3.14,
+                          "rgb": {
+                            "blue": 112,
+                            "green": 118,
+                            "red": 149
+                          }
+                        },
+                        {
+                          "percentage": 1.2,
+                          "rgb": {
+                            "blue": 158,
+                            "green": 36,
+                            "red": 24
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 1080,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                      "width": 1920
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "card_url",
+                  "value": {
+                    "scribeKey": "card_url",
+                    "stringValue": "https://t.co/JqQj8SGLWs",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 1080,
+                      "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                      "width": 1920
+                    },
+                    "type": "IMAGE"
+                  }
+                }
+              ],
+              "cardPlatform": {
+                "platform": {
+                  "audience": {
+                    "name": "production"
+                  },
+                  "device": {
+                    "name": "Swift",
+                    "version": "12"
+                  }
+                }
+              },
+              "name": "summary_large_image",
+              "url": "https://t.co/JqQj8SGLWs",
+              "userRefsResults": [
+                {
+                  "result": {
+                    "typename": "User",
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                    },
+                    "core": {
+                      "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                      "name": "NHKニュース",
+                      "screenName": "nhk_news"
+                    },
+                    "dmPermissions": {
+                      "canDm": false
+                    },
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjoyMDQyNDUzOTk=",
+                    "isBlueVerified": true,
+                    "legacy": {
+                      "defaultProfile": false,
+                      "defaultProfileImage": false,
+                      "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                      "entities": {
+                        "description": {
+                          "urls": [
+                            {
+                              "display_url": "nhk.jp/rules",
+                              "expanded_url": "http://nhk.jp/rules",
+                              "indices": [
+                                42,
+                                65
+                              ],
+                              "url": "https://t.co/X9ExoZ8ao6"
+                            },
+                            {
+                              "display_url": "nhk.or.jp/css/",
+                              "expanded_url": "http://www.nhk.or.jp/css/",
+                              "indices": [
+                                86,
+                                109
+                              ],
+                              "url": "https://t.co/fMCPIt2S57"
+                            }
+                          ]
+                        },
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "nhk.jp/news",
+                              "expanded_url": "http://nhk.jp/news",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/bM6wmxNKVo"
+                            }
+                          ]
+                        }
+                      },
+                      "fastFollowersCount": 0,
+                      "favouritesCount": 6,
+                      "followRequestSent": false,
+                      "followersCount": 3463711,
+                      "friendsCount": 19,
+                      "hasCustomTimelines": false,
+                      "isTranslator": false,
+                      "listedCount": 66227,
+                      "mediaCount": 21107,
+                      "normalFollowersCount": 3463711,
+                      "notifications": false,
+                      "pinnedTweetIdsStr": [
+                        "895196466859450368"
+                      ],
+                      "possiblySensitive": false,
+                      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                      "profileInterstitialType": "",
+                      "statusesCount": 740869,
+                      "timeZone": "",
+                      "translatorType": "none",
+                      "url": "https://t.co/bM6wmxNKVo",
+                      "utcOffset": 0,
+                      "withheldDescription": "",
+                      "withheldScope": ""
+                    },
+                    "location": {
+                      "location": "東京都渋谷区神南2-2-1"
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "privacy": {
+                      "_protected": false
+                    },
+                    "profileBio": {
+                      "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                    },
+                    "profileDescriptionLanguage": "ja",
+                    "profileImageShape": "Circle",
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false
+                    },
+                    "restId": "204245399",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tipjarSettings": {
+                      "bandcampHandle": "",
+                      "bitcoinHandle": "",
+                      "cashAppHandle": "",
+                      "ethereumHandle": "",
+                      "gofundmeHandle": "",
+                      "isEnabled": false,
+                      "patreonHandle": "",
+                      "payPalHandle": "",
+                      "venmoHandle": ""
+                    },
+                    "verification": {
+                      "verified": false
+                    }
+                  }
+                },
+                {
+                  "result": {
+                    "typename": "User",
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                    },
+                    "core": {
+                      "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                      "name": "NHKニュース",
+                      "screenName": "nhk_news"
+                    },
+                    "dmPermissions": {
+                      "canDm": false
+                    },
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjoyMDQyNDUzOTk=",
+                    "isBlueVerified": true,
+                    "legacy": {
+                      "defaultProfile": false,
+                      "defaultProfileImage": false,
+                      "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                      "entities": {
+                        "description": {
+                          "urls": [
+                            {
+                              "display_url": "nhk.jp/rules",
+                              "expanded_url": "http://nhk.jp/rules",
+                              "indices": [
+                                42,
+                                65
+                              ],
+                              "url": "https://t.co/X9ExoZ8ao6"
+                            },
+                            {
+                              "display_url": "nhk.or.jp/css/",
+                              "expanded_url": "http://www.nhk.or.jp/css/",
+                              "indices": [
+                                86,
+                                109
+                              ],
+                              "url": "https://t.co/fMCPIt2S57"
+                            }
+                          ]
+                        },
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "nhk.jp/news",
+                              "expanded_url": "http://nhk.jp/news",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/bM6wmxNKVo"
+                            }
+                          ]
+                        }
+                      },
+                      "fastFollowersCount": 0,
+                      "favouritesCount": 6,
+                      "followRequestSent": false,
+                      "followersCount": 3463711,
+                      "friendsCount": 19,
+                      "hasCustomTimelines": false,
+                      "isTranslator": false,
+                      "listedCount": 66227,
+                      "mediaCount": 21107,
+                      "normalFollowersCount": 3463711,
+                      "notifications": false,
+                      "pinnedTweetIdsStr": [
+                        "895196466859450368"
+                      ],
+                      "possiblySensitive": false,
+                      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                      "profileInterstitialType": "",
+                      "statusesCount": 740869,
+                      "timeZone": "",
+                      "translatorType": "none",
+                      "url": "https://t.co/bM6wmxNKVo",
+                      "utcOffset": 0,
+                      "withheldDescription": "",
+                      "withheldScope": ""
+                    },
+                    "location": {
+                      "location": "東京都渋谷区神南2-2-1"
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "privacy": {
+                      "_protected": false
+                    },
+                    "profileBio": {
+                      "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                    },
+                    "profileDescriptionLanguage": "ja",
+                    "profileImageShape": "Circle",
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false
+                    },
+                    "restId": "204245399",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tipjarSettings": {
+                      "bandcampHandle": "",
+                      "bitcoinHandle": "",
+                      "cashAppHandle": "",
+                      "ethereumHandle": "",
+                      "gofundmeHandle": "",
+                      "isEnabled": false,
+                      "patreonHandle": "",
+                      "payPalHandle": "",
+                      "venmoHandle": ""
+                    },
+                    "verification": {
+                      "verified": false
+                    }
+                  }
+                }
+              ]
+            },
+            "restId": "https://t.co/JqQj8SGLWs"
+          },
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                  "name": "NHKニュース",
+                  "screenName": "nhk_news"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyMDQyNDUzOTk=",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "nhk.jp/rules",
+                          "expanded_url": "http://nhk.jp/rules",
+                          "indices": [
+                            42,
+                            65
+                          ],
+                          "url": "https://t.co/X9ExoZ8ao6"
+                        },
+                        {
+                          "display_url": "nhk.or.jp/css/",
+                          "expanded_url": "http://www.nhk.or.jp/css/",
+                          "indices": [
+                            86,
+                            109
+                          ],
+                          "url": "https://t.co/fMCPIt2S57"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "nhk.jp/news",
+                          "expanded_url": "http://nhk.jp/news",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/bM6wmxNKVo"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 6,
+                  "followRequestSent": false,
+                  "followersCount": 3463711,
+                  "friendsCount": 19,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 66227,
+                  "mediaCount": 21107,
+                  "normalFollowersCount": 3463711,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "895196466859450368"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                  "profileInterstitialType": "",
+                  "statusesCount": 740869,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/bM6wmxNKVo",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "東京都渋谷区神南2-2-1"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "204245399",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2092958826496749945"
+            ],
+            "editableUntilMsecs": "1787838844000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 461,
+            "bookmarked": false,
+            "conversationIdStr": "2092958826496749945",
+            "createdAt": "Thu Aug 27 12:54:04 +0000 2026",
+            "displayTextRange": [
+              0,
+              63
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    54,
+                    63
+                  ],
+                  "text": "nhk_news"
+                }
+              ],
+              "urls": [
+                {
+                  "displayUrl": "news.web.nhk/newsweb/na/nd-…",
+                  "expandedUrl": "https://news.web.nhk/newsweb/na/nd-20260827de46827",
+                  "indices": [
+                    30,
+                    53
+                  ],
+                  "url": "https://t.co/JqQj8SGLWs"
+                }
+              ]
+            },
+            "favoriteCount": 5447,
+            "favorited": false,
+            "fullText": "高市首相 あすAI指導受ける 講師はチームみらい安野党首ら\nhttps://t.co/JqQj8SGLWs #nhk_news",
+            "idStr": "2092958826496749945",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 839,
+            "replyCount": 436,
+            "retweetCount": 752,
+            "retweeted": false,
+            "userIdStr": "204245399"
+          },
+          "restId": "2092958826496749945",
+          "source": "<a href=\"https://nhk.jp/news\" rel=\"nofollow\">NHK NEWS APP NEW</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "1374612",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2093188697319682069",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "1",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 418,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 44,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 151,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "retweeted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "card": {
+          "legacy": {
+            "bindingValues": [
+              {
+                "key": "photo_image_full_size_large",
+                "value": {
+                  "imageValue": {
+                    "height": 419,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                    "width": 800
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image",
+                "value": {
+                  "imageValue": {
+                    "height": 150,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=280x150",
+                    "width": 267
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "description",
+                "value": {
+                  "stringValue": "【NHK】高市総理大臣は28日、AIについて指導を受けることになりました。チームみらいの安野党首らが講師を務めるということです。 政府は28日午後、総理大臣官邸で、高市総理大臣がAIについて指導を受ける「A",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "domain",
+                "value": {
+                  "stringValue": "news.web.nhk",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "thumbnail_image_large",
+                "value": {
+                  "imageValue": {
+                    "height": 320,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x320_1",
+                    "width": 569
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image_small",
+                "value": {
+                  "imageValue": {
+                    "height": 202,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                    "width": 386
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_original",
+                "value": {
+                  "imageValue": {
+                    "height": 1080,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                    "width": 1920
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "site",
+                "value": {
+                  "scribeKey": "publisher_id",
+                  "type": "USER",
+                  "userValue": {
+                    "idStr": "204245399"
+                  }
+                }
+              },
+              {
+                "key": "photo_image_full_size_small",
+                "value": {
+                  "imageValue": {
+                    "height": 202,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                    "width": 386
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image_large",
+                "value": {
+                  "imageValue": {
+                    "height": 419,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                    "width": 800
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_small",
+                "value": {
+                  "imageValue": {
+                    "height": 81,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=144x144",
+                    "width": 144
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "creator",
+                "value": {
+                  "type": "USER",
+                  "userValue": {
+                    "idStr": "204245399"
+                  }
+                }
+              },
+              {
+                "key": "thumbnail_image_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 1080,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                    "width": 1920
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_original",
+                "value": {
+                  "imageValue": {
+                    "height": 1080,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                    "width": 1920
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "vanity_url",
+                "value": {
+                  "scribeKey": "vanity_url",
+                  "stringValue": "news.web.nhk",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "photo_image_full_size",
+                "value": {
+                  "imageValue": {
+                    "height": 314,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                    "width": 600
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 50.82,
+                        "rgb": {
+                          "blue": 59,
+                          "green": 57,
+                          "red": 57
+                        }
+                      },
+                      {
+                        "percentage": 21.53,
+                        "rgb": {
+                          "blue": 202,
+                          "green": 207,
+                          "red": 188
+                        }
+                      },
+                      {
+                        "percentage": 18.71,
+                        "rgb": {
+                          "blue": 81,
+                          "green": 95,
+                          "red": 118
+                        }
+                      },
+                      {
+                        "percentage": 3.14,
+                        "rgb": {
+                          "blue": 112,
+                          "green": 118,
+                          "red": 149
+                        }
+                      },
+                      {
+                        "percentage": 1.2,
+                        "rgb": {
+                          "blue": 158,
+                          "green": 36,
+                          "red": 24
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "title",
+                "value": {
+                  "stringValue": "高市首相 28日にAI指導受ける 講師はチームみらい安野党首ら | NHKニュース",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "summary_photo_image_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 50.82,
+                        "rgb": {
+                          "blue": 59,
+                          "green": 57,
+                          "red": 57
+                        }
+                      },
+                      {
+                        "percentage": 21.53,
+                        "rgb": {
+                          "blue": 202,
+                          "green": 207,
+                          "red": 188
+                        }
+                      },
+                      {
+                        "percentage": 18.71,
+                        "rgb": {
+                          "blue": 81,
+                          "green": 95,
+                          "red": 118
+                        }
+                      },
+                      {
+                        "percentage": 3.14,
+                        "rgb": {
+                          "blue": 112,
+                          "green": 118,
+                          "red": 149
+                        }
+                      },
+                      {
+                        "percentage": 1.2,
+                        "rgb": {
+                          "blue": 158,
+                          "green": 36,
+                          "red": 24
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "summary_photo_image_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 1080,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                    "width": 1920
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image",
+                "value": {
+                  "imageValue": {
+                    "height": 314,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                    "width": 600
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 50.82,
+                        "rgb": {
+                          "blue": 59,
+                          "green": 57,
+                          "red": 57
+                        }
+                      },
+                      {
+                        "percentage": 21.53,
+                        "rgb": {
+                          "blue": 202,
+                          "green": 207,
+                          "red": 188
+                        }
+                      },
+                      {
+                        "percentage": 18.71,
+                        "rgb": {
+                          "blue": 81,
+                          "green": 95,
+                          "red": 118
+                        }
+                      },
+                      {
+                        "percentage": 3.14,
+                        "rgb": {
+                          "blue": 112,
+                          "green": 118,
+                          "red": 149
+                        }
+                      },
+                      {
+                        "percentage": 1.2,
+                        "rgb": {
+                          "blue": 158,
+                          "green": 36,
+                          "red": 24
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "photo_image_full_size_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 1080,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                    "width": 1920
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "card_url",
+                "value": {
+                  "scribeKey": "card_url",
+                  "stringValue": "https://t.co/JqQj8SGLWs",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "summary_photo_image_original",
+                "value": {
+                  "imageValue": {
+                    "height": 1080,
+                    "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                    "width": 1920
+                  },
+                  "type": "IMAGE"
+                }
+              }
+            ],
+            "cardPlatform": {
+              "platform": {
+                "audience": {
+                  "name": "production"
+                },
+                "device": {
+                  "name": "Swift",
+                  "version": "12"
+                }
+              }
+            },
+            "name": "summary_large_image",
+            "url": "https://t.co/JqQj8SGLWs",
+            "userRefsResults": [
+              {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                    "name": "NHKニュース",
+                    "screenName": "nhk_news"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoyMDQyNDUzOTk=",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": false,
+                    "defaultProfileImage": false,
+                    "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "display_url": "nhk.jp/rules",
+                            "expanded_url": "http://nhk.jp/rules",
+                            "indices": [
+                              42,
+                              65
+                            ],
+                            "url": "https://t.co/X9ExoZ8ao6"
+                          },
+                          {
+                            "display_url": "nhk.or.jp/css/",
+                            "expanded_url": "http://www.nhk.or.jp/css/",
+                            "indices": [
+                              86,
+                              109
+                            ],
+                            "url": "https://t.co/fMCPIt2S57"
+                          }
+                        ]
+                      },
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "nhk.jp/news",
+                            "expanded_url": "http://nhk.jp/news",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/bM6wmxNKVo"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 6,
+                    "followRequestSent": false,
+                    "followersCount": 3463711,
+                    "friendsCount": 19,
+                    "hasCustomTimelines": false,
+                    "isTranslator": false,
+                    "listedCount": 66227,
+                    "mediaCount": 21107,
+                    "normalFollowersCount": 3463711,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "895196466859450368"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                    "profileInterstitialType": "",
+                    "statusesCount": 740869,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/bM6wmxNKVo",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "東京都渋谷区神南2-2-1"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "204245399",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              },
+              {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                    "name": "NHKニュース",
+                    "screenName": "nhk_news"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoyMDQyNDUzOTk=",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": false,
+                    "defaultProfileImage": false,
+                    "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "display_url": "nhk.jp/rules",
+                            "expanded_url": "http://nhk.jp/rules",
+                            "indices": [
+                              42,
+                              65
+                            ],
+                            "url": "https://t.co/X9ExoZ8ao6"
+                          },
+                          {
+                            "display_url": "nhk.or.jp/css/",
+                            "expanded_url": "http://www.nhk.or.jp/css/",
+                            "indices": [
+                              86,
+                              109
+                            ],
+                            "url": "https://t.co/fMCPIt2S57"
+                          }
+                        ]
+                      },
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "nhk.jp/news",
+                            "expanded_url": "http://nhk.jp/news",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/bM6wmxNKVo"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 6,
+                    "followRequestSent": false,
+                    "followersCount": 3463711,
+                    "friendsCount": 19,
+                    "hasCustomTimelines": false,
+                    "isTranslator": false,
+                    "listedCount": 66227,
+                    "mediaCount": 21107,
+                    "normalFollowersCount": 3463711,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "895196466859450368"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                    "profileInterstitialType": "",
+                    "statusesCount": 740869,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/bM6wmxNKVo",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "東京都渋谷区神南2-2-1"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "204245399",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            ]
+          },
+          "restId": "https://t.co/JqQj8SGLWs"
+        },
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+              },
+              "core": {
+                "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                "name": "NHKニュース",
+                "screenName": "nhk_news"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyMDQyNDUzOTk=",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "nhk.jp/rules",
+                        "expanded_url": "http://nhk.jp/rules",
+                        "indices": [
+                          42,
+                          65
+                        ],
+                        "url": "https://t.co/X9ExoZ8ao6"
+                      },
+                      {
+                        "display_url": "nhk.or.jp/css/",
+                        "expanded_url": "http://www.nhk.or.jp/css/",
+                        "indices": [
+                          86,
+                          109
+                        ],
+                        "url": "https://t.co/fMCPIt2S57"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "nhk.jp/news",
+                        "expanded_url": "http://nhk.jp/news",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/bM6wmxNKVo"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 6,
+                "followRequestSent": false,
+                "followersCount": 3463711,
+                "friendsCount": 19,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 66227,
+                "mediaCount": 21107,
+                "normalFollowersCount": 3463711,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "895196466859450368"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                "profileInterstitialType": "",
+                "statusesCount": 740869,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/bM6wmxNKVo",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "東京都渋谷区神南2-2-1"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "204245399",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2092958826496749945"
+          ],
+          "editableUntilMsecs": "1787838844000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 461,
+          "bookmarked": false,
+          "conversationIdStr": "2092958826496749945",
+          "createdAt": "Thu Aug 27 12:54:04 +0000 2026",
+          "displayTextRange": [
+            0,
+            63
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  54,
+                  63
+                ],
+                "text": "nhk_news"
+              }
+            ],
+            "urls": [
+              {
+                "displayUrl": "news.web.nhk/newsweb/na/nd-…",
+                "expandedUrl": "https://news.web.nhk/newsweb/na/nd-20260827de46827",
+                "indices": [
+                  30,
+                  53
+                ],
+                "url": "https://t.co/JqQj8SGLWs"
+              }
+            ]
+          },
+          "favoriteCount": 5447,
+          "favorited": false,
+          "fullText": "高市首相 あすAI指導受ける 講師はチームみらい安野党首ら\nhttps://t.co/JqQj8SGLWs #nhk_news",
+          "idStr": "2092958826496749945",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 839,
+          "replyCount": 436,
+          "retweetCount": 752,
+          "retweeted": false,
+          "userIdStr": "204245399"
+        },
+        "restId": "2092958826496749945",
+        "source": "<a href=\"https://nhk.jp/news\" rel=\"nofollow\">NHK NEWS APP NEW</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "1374612",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "imageValue": {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=280x150",
+                  "width": 267
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "stringValue": "【NHK】高市総理大臣は28日、AIについて指導を受けることになりました。チームみらいの安野党首らが講師を務めるということです。 政府は28日午後、総理大臣官邸で、高市総理大臣がAIについて指導を受ける「A",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "stringValue": "news.web.nhk",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x320_1",
+                  "width": 569
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribeKey": "publisher_id",
+                "type": "USER",
+                "userValue": {
+                  "idStr": "204245399"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 81,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=144x144",
+                  "width": 144
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "creator",
+              "value": {
+                "type": "USER",
+                "userValue": {
+                  "idStr": "204245399"
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribeKey": "vanity_url",
+                "stringValue": "news.web.nhk",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 50.82,
+                      "rgb": {
+                        "blue": 59,
+                        "green": 57,
+                        "red": 57
+                      }
+                    },
+                    {
+                      "percentage": 21.53,
+                      "rgb": {
+                        "blue": 202,
+                        "green": 207,
+                        "red": 188
+                      }
+                    },
+                    {
+                      "percentage": 18.71,
+                      "rgb": {
+                        "blue": 81,
+                        "green": 95,
+                        "red": 118
+                      }
+                    },
+                    {
+                      "percentage": 3.14,
+                      "rgb": {
+                        "blue": 112,
+                        "green": 118,
+                        "red": 149
+                      }
+                    },
+                    {
+                      "percentage": 1.2,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 36,
+                        "red": 24
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "stringValue": "高市首相 28日にAI指導受ける 講師はチームみらい安野党首ら | NHKニュース",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 50.82,
+                      "rgb": {
+                        "blue": 59,
+                        "green": 57,
+                        "red": 57
+                      }
+                    },
+                    {
+                      "percentage": 21.53,
+                      "rgb": {
+                        "blue": 202,
+                        "green": 207,
+                        "red": 188
+                      }
+                    },
+                    {
+                      "percentage": 18.71,
+                      "rgb": {
+                        "blue": 81,
+                        "green": 95,
+                        "red": 118
+                      }
+                    },
+                    {
+                      "percentage": 3.14,
+                      "rgb": {
+                        "blue": 112,
+                        "green": 118,
+                        "red": 149
+                      }
+                    },
+                    {
+                      "percentage": 1.2,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 36,
+                        "red": 24
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 50.82,
+                      "rgb": {
+                        "blue": 59,
+                        "green": 57,
+                        "red": 57
+                      }
+                    },
+                    {
+                      "percentage": 21.53,
+                      "rgb": {
+                        "blue": 202,
+                        "green": 207,
+                        "red": 188
+                      }
+                    },
+                    {
+                      "percentage": 18.71,
+                      "rgb": {
+                        "blue": 81,
+                        "green": 95,
+                        "red": 118
+                      }
+                    },
+                    {
+                      "percentage": 3.14,
+                      "rgb": {
+                        "blue": 112,
+                        "green": 118,
+                        "red": 149
+                      }
+                    },
+                    {
+                      "percentage": 1.2,
+                      "rgb": {
+                        "blue": 158,
+                        "green": 36,
+                        "red": 24
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=png&name=2048x2048_2_exp",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://t.co/JqQj8SGLWs",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/card_img/2092958831471104000/ITk9LjMs?format=jpg&name=orig",
+                  "width": 1920
+                },
+                "type": "IMAGE"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/JqQj8SGLWs",
+          "userRefsResults": [
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                  "name": "NHKニュース",
+                  "screenName": "nhk_news"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyMDQyNDUzOTk=",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "nhk.jp/rules",
+                          "expanded_url": "http://nhk.jp/rules",
+                          "indices": [
+                            42,
+                            65
+                          ],
+                          "url": "https://t.co/X9ExoZ8ao6"
+                        },
+                        {
+                          "display_url": "nhk.or.jp/css/",
+                          "expanded_url": "http://www.nhk.or.jp/css/",
+                          "indices": [
+                            86,
+                            109
+                          ],
+                          "url": "https://t.co/fMCPIt2S57"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "nhk.jp/news",
+                          "expanded_url": "http://nhk.jp/news",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/bM6wmxNKVo"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 6,
+                  "followRequestSent": false,
+                  "followersCount": 3463711,
+                  "friendsCount": 19,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 66227,
+                  "mediaCount": 21107,
+                  "normalFollowersCount": 3463711,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "895196466859450368"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                  "profileInterstitialType": "",
+                  "statusesCount": 740869,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/bM6wmxNKVo",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "東京都渋谷区神南2-2-1"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "204245399",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            },
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+                  "name": "NHKニュース",
+                  "screenName": "nhk_news"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyMDQyNDUzOTk=",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "nhk.jp/rules",
+                          "expanded_url": "http://nhk.jp/rules",
+                          "indices": [
+                            42,
+                            65
+                          ],
+                          "url": "https://t.co/X9ExoZ8ao6"
+                        },
+                        {
+                          "display_url": "nhk.or.jp/css/",
+                          "expanded_url": "http://www.nhk.or.jp/css/",
+                          "indices": [
+                            86,
+                            109
+                          ],
+                          "url": "https://t.co/fMCPIt2S57"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "nhk.jp/news",
+                          "expanded_url": "http://nhk.jp/news",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/bM6wmxNKVo"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 6,
+                  "followRequestSent": false,
+                  "followersCount": 3463711,
+                  "friendsCount": 19,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 66227,
+                  "mediaCount": 21107,
+                  "normalFollowersCount": 3463711,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "895196466859450368"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+                  "profileInterstitialType": "",
+                  "statusesCount": 740869,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/bM6wmxNKVo",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "東京都渋谷区神南2-2-1"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "204245399",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          ]
+        },
+        "restId": "https://t.co/JqQj8SGLWs"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+            },
+            "core": {
+              "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+              "name": "NHKニュース",
+              "screenName": "nhk_news"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoyMDQyNDUzOTk=",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": false,
+              "defaultProfileImage": false,
+              "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "nhk.jp/rules",
+                      "expanded_url": "http://nhk.jp/rules",
+                      "indices": [
+                        42,
+                        65
+                      ],
+                      "url": "https://t.co/X9ExoZ8ao6"
+                    },
+                    {
+                      "display_url": "nhk.or.jp/css/",
+                      "expanded_url": "http://www.nhk.or.jp/css/",
+                      "indices": [
+                        86,
+                        109
+                      ],
+                      "url": "https://t.co/fMCPIt2S57"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "nhk.jp/news",
+                      "expanded_url": "http://nhk.jp/news",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/bM6wmxNKVo"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 6,
+              "followRequestSent": false,
+              "followersCount": 3463711,
+              "friendsCount": 19,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 66227,
+              "mediaCount": 21107,
+              "normalFollowersCount": 3463711,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "895196466859450368"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+              "profileInterstitialType": "",
+              "statusesCount": 740869,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/bM6wmxNKVo",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "東京都渋谷区神南2-2-1"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "204245399",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2092958826496749945"
+        ],
+        "editableUntilMsecs": "1787838844000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 461,
+        "bookmarked": false,
+        "conversationIdStr": "2092958826496749945",
+        "createdAt": "Thu Aug 27 12:54:04 +0000 2026",
+        "displayTextRange": [
+          0,
+          63
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                54,
+                63
+              ],
+              "text": "nhk_news"
+            }
+          ],
+          "urls": [
+            {
+              "displayUrl": "news.web.nhk/newsweb/na/nd-…",
+              "expandedUrl": "https://news.web.nhk/newsweb/na/nd-20260827de46827",
+              "indices": [
+                30,
+                53
+              ],
+              "url": "https://t.co/JqQj8SGLWs"
+            }
+          ]
+        },
+        "favoriteCount": 5447,
+        "favorited": false,
+        "fullText": "高市首相 あすAI指導受ける 講師はチームみらい安野党首ら\nhttps://t.co/JqQj8SGLWs #nhk_news",
+        "idStr": "2092958826496749945",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 839,
+        "replyCount": 436,
+        "retweetCount": 752,
+        "retweeted": false,
+        "userIdStr": "204245399"
+      },
+      "restId": "2092958826496749945",
+      "source": "<a href=\"https://nhk.jp/news\" rel=\"nofollow\">NHK NEWS APP NEW</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "1374612",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg"
+      },
+      "core": {
+        "createdAt": "Mon Oct 18 08:15:29 +0000 2010",
+        "name": "NHKニュース",
+        "screenName": "nhk_news"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoyMDQyNDUzOTk=",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": false,
+        "defaultProfileImage": false,
+        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "expanded_url": "http://nhk.jp/rules",
+                "indices": [
+                  42,
+                  65
+                ],
+                "url": "https://t.co/X9ExoZ8ao6"
+              },
+              {
+                "display_url": "nhk.or.jp/css/",
+                "expanded_url": "http://www.nhk.or.jp/css/",
+                "indices": [
+                  86,
+                  109
+                ],
+                "url": "https://t.co/fMCPIt2S57"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/news",
+                "expanded_url": "http://nhk.jp/news",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/bM6wmxNKVo"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 6,
+        "followRequestSent": false,
+        "followersCount": 3463711,
+        "friendsCount": 19,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 66227,
+        "mediaCount": 21107,
+        "normalFollowersCount": 3463711,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "895196466859450368"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+        "profileInterstitialType": "",
+        "statusesCount": 740869,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/bM6wmxNKVo",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "東京都渋谷区神南2-2-1"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "204245399",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}
