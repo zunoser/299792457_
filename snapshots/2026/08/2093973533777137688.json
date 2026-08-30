@@ -1,0 +1,2019 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 426,
+              "followRequestSent": false,
+              "followersCount": 38,
+              "friendsCount": 44,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 38,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 154,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2093973533777137688"
+        ],
+        "editableUntilMsecs": "1788080769256",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2093973533777137688",
+        "createdAt": "Sun Aug 30 08:06:09 +0000 2026",
+        "displayTextRange": [
+          0,
+          27
+        ],
+        "entities": {
+          "userMentions": [
+            {
+              "id_str": "1608625702836011009",
+              "indices": [
+                3,
+                13
+              ],
+              "name": "nakasyou",
+              "screen_name": "nakasyou0"
+            }
+          ]
+        },
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "RT @nakasyou0: 宿題あるある\n・なくした",
+        "idStr": "2093973533777137688",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2093963452159242423",
+        "quotedStatusPermalink": {
+          "display": "x.com/299792457_/sta…",
+          "expanded": "https://twitter.com/299792457_/status/2093963452159242423",
+          "url": "https://t.co/0GmKeScSp7"
+        },
+        "replyCount": 0,
+        "retweetCount": 5,
+        "retweeted": false,
+        "retweetedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                    "name": "nakasyou",
+                    "screenName": "nakasyou0"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": true,
+                    "defaultProfileImage": false,
+                    "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                    "entities": {
+                      "description": {},
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "nakasyou.how",
+                            "expanded_url": "http://nakasyou.how",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/Vu0PfgrsvW"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 168473,
+                    "followRequestSent": false,
+                    "followersCount": 4005,
+                    "friendsCount": 1100,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "listedCount": 23,
+                    "mediaCount": 995,
+                    "normalFollowersCount": 4005,
+                    "notifications": false,
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                    "profileInterstitialType": "",
+                    "statusesCount": 14566,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/Vu0PfgrsvW",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "Tokyo, Japan/🇯🇵"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                  },
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "1608625702836011009",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2093973190515335441"
+              ],
+              "editableUntilMsecs": "1788080687000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 0,
+              "bookmarked": false,
+              "conversationIdStr": "2093973190515335441",
+              "createdAt": "Sun Aug 30 08:04:47 +0000 2026",
+              "displayTextRange": [
+                0,
+                12
+              ],
+              "entities": {},
+              "favoriteCount": 51,
+              "favorited": false,
+              "fullText": "宿題あるある\n・なくした",
+              "idStr": "2093973190515335441",
+              "isQuoteStatus": true,
+              "lang": "ja",
+              "quoteCount": 2,
+              "quotedStatusIdStr": "2093963452159242423",
+              "quotedStatusPermalink": {
+                "display": "x.com/299792457_/sta…",
+                "expanded": "https://twitter.com/299792457_/status/2093963452159242423",
+                "url": "https://t.co/0GmKeScSp7"
+              },
+              "replyCount": 0,
+              "retweetCount": 5,
+              "retweeted": false,
+              "userIdStr": "1608625702836011009"
+            },
+            "quotedStatusResult": {
+              "result": {
+                "typename": "Tweet",
+                "core": {
+                  "userResults": {
+                    "result": {
+                      "typename": "User",
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+                      },
+                      "core": {
+                        "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+                        "name": "教養人",
+                        "screenName": "299792457_"
+                      },
+                      "dmPermissions": {
+                        "canDm": false
+                      },
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+                      "isBlueVerified": false,
+                      "legacy": {
+                        "defaultProfile": true,
+                        "defaultProfileImage": false,
+                        "description": "愛知県一宮市のキチガイLJK",
+                        "entities": {
+                          "description": {}
+                        },
+                        "fastFollowersCount": 0,
+                        "favouritesCount": 426,
+                        "followRequestSent": false,
+                        "followersCount": 38,
+                        "friendsCount": 44,
+                        "hasCustomTimelines": false,
+                        "isTranslator": false,
+                        "listedCount": 1,
+                        "mediaCount": 15,
+                        "normalFollowersCount": 38,
+                        "notifications": false,
+                        "pinnedTweetIdsStr": [
+                          "2083383324878471254"
+                        ],
+                        "possiblySensitive": false,
+                        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+                        "profileInterstitialType": "",
+                        "statusesCount": 154,
+                        "timeZone": "",
+                        "translatorType": "none",
+                        "url": "",
+                        "utcOffset": 0,
+                        "withheldDescription": "",
+                        "withheldScope": ""
+                      },
+                      "location": {
+                        "location": ""
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "privacy": {
+                        "_protected": false
+                      },
+                      "profileBio": {
+                        "description": "愛知県一宮市のキチガイLJK"
+                      },
+                      "profileDescriptionLanguage": "ja",
+                      "profileImageShape": "Circle",
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false
+                      },
+                      "restId": "1966785609529483264",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tipjarSettings": {
+                        "bandcampHandle": "",
+                        "bitcoinHandle": "",
+                        "cashAppHandle": "",
+                        "ethereumHandle": "",
+                        "gofundmeHandle": "",
+                        "isEnabled": false,
+                        "patreonHandle": "",
+                        "payPalHandle": "",
+                        "venmoHandle": ""
+                      },
+                      "verification": {
+                        "verified": false
+                      }
+                    }
+                  }
+                },
+                "editControl": {
+                  "editTweetIds": [
+                    "2093963452159242423"
+                  ],
+                  "editableUntilMsecs": "1788078365000",
+                  "editsRemaining": "5",
+                  "isEditEligible": true
+                },
+                "grokAnalysisButton": true,
+                "isTranslatable": true,
+                "legacy": {
+                  "bookmarkCount": 0,
+                  "bookmarked": false,
+                  "conversationIdStr": "2093963452159242423",
+                  "createdAt": "Sun Aug 30 07:26:05 +0000 2026",
+                  "displayTextRange": [
+                    0,
+                    13
+                  ],
+                  "entities": {},
+                  "favoriteCount": 9,
+                  "favorited": false,
+                  "fullText": "宿題あるある\n・やってない",
+                  "idStr": "2093963452159242423",
+                  "isQuoteStatus": false,
+                  "lang": "ja",
+                  "quoteCount": 1,
+                  "replyCount": 0,
+                  "retweetCount": 0,
+                  "retweeted": false,
+                  "userIdStr": "1966785609529483264"
+                },
+                "restId": "2093963452159242423",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "unmentionData": {},
+                "views": {
+                  "count": "1507",
+                  "state": "EnabledWithCount"
+                }
+              }
+            },
+            "restId": "2093973190515335441",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "unmentionData": {},
+            "views": {
+              "count": "1920",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2093973533777137688",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "1",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 426,
+            "followRequestSent": false,
+            "followersCount": 38,
+            "friendsCount": 44,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 38,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 154,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2093973533777137688"
+      ],
+      "editableUntilMsecs": "1788080769256",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2093973533777137688",
+      "createdAt": "Sun Aug 30 08:06:09 +0000 2026",
+      "displayTextRange": [
+        0,
+        27
+      ],
+      "entities": {
+        "userMentions": [
+          {
+            "id_str": "1608625702836011009",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "nakasyou",
+            "screen_name": "nakasyou0"
+          }
+        ]
+      },
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "RT @nakasyou0: 宿題あるある\n・なくした",
+      "idStr": "2093973533777137688",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2093963452159242423",
+      "quotedStatusPermalink": {
+        "display": "x.com/299792457_/sta…",
+        "expanded": "https://twitter.com/299792457_/status/2093963452159242423",
+        "url": "https://t.co/0GmKeScSp7"
+      },
+      "replyCount": 0,
+      "retweetCount": 5,
+      "retweeted": false,
+      "retweetedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                  "name": "nakasyou",
+                  "screenName": "nakasyou0"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "nakasyou.how",
+                          "expanded_url": "http://nakasyou.how",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/Vu0PfgrsvW"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 168473,
+                  "followRequestSent": false,
+                  "followersCount": 4005,
+                  "friendsCount": 1100,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 23,
+                  "mediaCount": 995,
+                  "normalFollowersCount": 4005,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                  "profileInterstitialType": "",
+                  "statusesCount": 14566,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/Vu0PfgrsvW",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "Tokyo, Japan/🇯🇵"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                },
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1608625702836011009",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2093973190515335441"
+            ],
+            "editableUntilMsecs": "1788080687000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 0,
+            "bookmarked": false,
+            "conversationIdStr": "2093973190515335441",
+            "createdAt": "Sun Aug 30 08:04:47 +0000 2026",
+            "displayTextRange": [
+              0,
+              12
+            ],
+            "entities": {},
+            "favoriteCount": 51,
+            "favorited": false,
+            "fullText": "宿題あるある\n・なくした",
+            "idStr": "2093973190515335441",
+            "isQuoteStatus": true,
+            "lang": "ja",
+            "quoteCount": 2,
+            "quotedStatusIdStr": "2093963452159242423",
+            "quotedStatusPermalink": {
+              "display": "x.com/299792457_/sta…",
+              "expanded": "https://twitter.com/299792457_/status/2093963452159242423",
+              "url": "https://t.co/0GmKeScSp7"
+            },
+            "replyCount": 0,
+            "retweetCount": 5,
+            "retweeted": false,
+            "userIdStr": "1608625702836011009"
+          },
+          "quotedStatusResult": {
+            "result": {
+              "typename": "Tweet",
+              "core": {
+                "userResults": {
+                  "result": {
+                    "typename": "User",
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+                    },
+                    "core": {
+                      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+                      "name": "教養人",
+                      "screenName": "299792457_"
+                    },
+                    "dmPermissions": {
+                      "canDm": false
+                    },
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+                    "isBlueVerified": false,
+                    "legacy": {
+                      "defaultProfile": true,
+                      "defaultProfileImage": false,
+                      "description": "愛知県一宮市のキチガイLJK",
+                      "entities": {
+                        "description": {}
+                      },
+                      "fastFollowersCount": 0,
+                      "favouritesCount": 426,
+                      "followRequestSent": false,
+                      "followersCount": 38,
+                      "friendsCount": 44,
+                      "hasCustomTimelines": false,
+                      "isTranslator": false,
+                      "listedCount": 1,
+                      "mediaCount": 15,
+                      "normalFollowersCount": 38,
+                      "notifications": false,
+                      "pinnedTweetIdsStr": [
+                        "2083383324878471254"
+                      ],
+                      "possiblySensitive": false,
+                      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+                      "profileInterstitialType": "",
+                      "statusesCount": 154,
+                      "timeZone": "",
+                      "translatorType": "none",
+                      "url": "",
+                      "utcOffset": 0,
+                      "withheldDescription": "",
+                      "withheldScope": ""
+                    },
+                    "location": {
+                      "location": ""
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "privacy": {
+                      "_protected": false
+                    },
+                    "profileBio": {
+                      "description": "愛知県一宮市のキチガイLJK"
+                    },
+                    "profileDescriptionLanguage": "ja",
+                    "profileImageShape": "Circle",
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false
+                    },
+                    "restId": "1966785609529483264",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tipjarSettings": {
+                      "bandcampHandle": "",
+                      "bitcoinHandle": "",
+                      "cashAppHandle": "",
+                      "ethereumHandle": "",
+                      "gofundmeHandle": "",
+                      "isEnabled": false,
+                      "patreonHandle": "",
+                      "payPalHandle": "",
+                      "venmoHandle": ""
+                    },
+                    "verification": {
+                      "verified": false
+                    }
+                  }
+                }
+              },
+              "editControl": {
+                "editTweetIds": [
+                  "2093963452159242423"
+                ],
+                "editableUntilMsecs": "1788078365000",
+                "editsRemaining": "5",
+                "isEditEligible": true
+              },
+              "grokAnalysisButton": true,
+              "isTranslatable": true,
+              "legacy": {
+                "bookmarkCount": 0,
+                "bookmarked": false,
+                "conversationIdStr": "2093963452159242423",
+                "createdAt": "Sun Aug 30 07:26:05 +0000 2026",
+                "displayTextRange": [
+                  0,
+                  13
+                ],
+                "entities": {},
+                "favoriteCount": 9,
+                "favorited": false,
+                "fullText": "宿題あるある\n・やってない",
+                "idStr": "2093963452159242423",
+                "isQuoteStatus": false,
+                "lang": "ja",
+                "quoteCount": 1,
+                "replyCount": 0,
+                "retweetCount": 0,
+                "retweeted": false,
+                "userIdStr": "1966785609529483264"
+              },
+              "restId": "2093963452159242423",
+              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+              "unmentionData": {},
+              "views": {
+                "count": "1507",
+                "state": "EnabledWithCount"
+              }
+            }
+          },
+          "restId": "2093973190515335441",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "1920",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2093973533777137688",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "1",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 426,
+      "followRequestSent": false,
+      "followersCount": 38,
+      "friendsCount": 44,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 38,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 154,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "retweeted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                "name": "nakasyou",
+                "screenName": "nakasyou0"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "nakasyou.how",
+                        "expanded_url": "http://nakasyou.how",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/Vu0PfgrsvW"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 168473,
+                "followRequestSent": false,
+                "followersCount": 4005,
+                "friendsCount": 1100,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 23,
+                "mediaCount": 995,
+                "normalFollowersCount": 4005,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                "profileInterstitialType": "",
+                "statusesCount": 14566,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/Vu0PfgrsvW",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "Tokyo, Japan/🇯🇵"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+              },
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1608625702836011009",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2093973190515335441"
+          ],
+          "editableUntilMsecs": "1788080687000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 0,
+          "bookmarked": false,
+          "conversationIdStr": "2093973190515335441",
+          "createdAt": "Sun Aug 30 08:04:47 +0000 2026",
+          "displayTextRange": [
+            0,
+            12
+          ],
+          "entities": {},
+          "favoriteCount": 51,
+          "favorited": false,
+          "fullText": "宿題あるある\n・なくした",
+          "idStr": "2093973190515335441",
+          "isQuoteStatus": true,
+          "lang": "ja",
+          "quoteCount": 2,
+          "quotedStatusIdStr": "2093963452159242423",
+          "quotedStatusPermalink": {
+            "display": "x.com/299792457_/sta…",
+            "expanded": "https://twitter.com/299792457_/status/2093963452159242423",
+            "url": "https://t.co/0GmKeScSp7"
+          },
+          "replyCount": 0,
+          "retweetCount": 5,
+          "retweeted": false,
+          "userIdStr": "1608625702836011009"
+        },
+        "quotedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+                    "name": "教養人",
+                    "screenName": "299792457_"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+                  "isBlueVerified": false,
+                  "legacy": {
+                    "defaultProfile": true,
+                    "defaultProfileImage": false,
+                    "description": "愛知県一宮市のキチガイLJK",
+                    "entities": {
+                      "description": {}
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 426,
+                    "followRequestSent": false,
+                    "followersCount": 38,
+                    "friendsCount": 44,
+                    "hasCustomTimelines": false,
+                    "isTranslator": false,
+                    "listedCount": 1,
+                    "mediaCount": 15,
+                    "normalFollowersCount": 38,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "2083383324878471254"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+                    "profileInterstitialType": "",
+                    "statusesCount": 154,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": ""
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "愛知県一宮市のキチガイLJK"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "1966785609529483264",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2093963452159242423"
+              ],
+              "editableUntilMsecs": "1788078365000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 0,
+              "bookmarked": false,
+              "conversationIdStr": "2093963452159242423",
+              "createdAt": "Sun Aug 30 07:26:05 +0000 2026",
+              "displayTextRange": [
+                0,
+                13
+              ],
+              "entities": {},
+              "favoriteCount": 9,
+              "favorited": false,
+              "fullText": "宿題あるある\n・やってない",
+              "idStr": "2093963452159242423",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "quoteCount": 1,
+              "replyCount": 0,
+              "retweetCount": 0,
+              "retweeted": false,
+              "userIdStr": "1966785609529483264"
+            },
+            "restId": "2093963452159242423",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "unmentionData": {},
+            "views": {
+              "count": "1507",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "restId": "2093973190515335441",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "1920",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+              "name": "nakasyou",
+              "screenName": "nakasyou0"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "nakasyou.how",
+                      "expanded_url": "http://nakasyou.how",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Vu0PfgrsvW"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 168473,
+              "followRequestSent": false,
+              "followersCount": 4005,
+              "friendsCount": 1100,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "listedCount": 23,
+              "mediaCount": 995,
+              "normalFollowersCount": 4005,
+              "notifications": false,
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+              "profileInterstitialType": "",
+              "statusesCount": 14566,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/Vu0PfgrsvW",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "Tokyo, Japan/🇯🇵"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+            },
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1608625702836011009",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2093973190515335441"
+        ],
+        "editableUntilMsecs": "1788080687000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2093973190515335441",
+        "createdAt": "Sun Aug 30 08:04:47 +0000 2026",
+        "displayTextRange": [
+          0,
+          12
+        ],
+        "entities": {},
+        "favoriteCount": 51,
+        "favorited": false,
+        "fullText": "宿題あるある\n・なくした",
+        "idStr": "2093973190515335441",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 2,
+        "quotedStatusIdStr": "2093963452159242423",
+        "quotedStatusPermalink": {
+          "display": "x.com/299792457_/sta…",
+          "expanded": "https://twitter.com/299792457_/status/2093963452159242423",
+          "url": "https://t.co/0GmKeScSp7"
+        },
+        "replyCount": 0,
+        "retweetCount": 5,
+        "retweeted": false,
+        "userIdStr": "1608625702836011009"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+                  "name": "教養人",
+                  "screenName": "299792457_"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "愛知県一宮市のキチガイLJK",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 426,
+                  "followRequestSent": false,
+                  "followersCount": 38,
+                  "friendsCount": 44,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 1,
+                  "mediaCount": 15,
+                  "normalFollowersCount": 38,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2083383324878471254"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+                  "profileInterstitialType": "",
+                  "statusesCount": 154,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "愛知県一宮市のキチガイLJK"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1966785609529483264",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2093963452159242423"
+            ],
+            "editableUntilMsecs": "1788078365000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 0,
+            "bookmarked": false,
+            "conversationIdStr": "2093963452159242423",
+            "createdAt": "Sun Aug 30 07:26:05 +0000 2026",
+            "displayTextRange": [
+              0,
+              13
+            ],
+            "entities": {},
+            "favoriteCount": 9,
+            "favorited": false,
+            "fullText": "宿題あるある\n・やってない",
+            "idStr": "2093963452159242423",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "quoteCount": 1,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "retweeted": false,
+            "userIdStr": "1966785609529483264"
+          },
+          "restId": "2093963452159242423",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "1507",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2093973190515335441",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "1920",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+        "name": "nakasyou",
+        "screenName": "nakasyou0"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "nakasyou.how",
+                "expanded_url": "http://nakasyou.how",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Vu0PfgrsvW"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 168473,
+        "followRequestSent": false,
+        "followersCount": 4005,
+        "friendsCount": 1100,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "listedCount": 23,
+        "mediaCount": 995,
+        "normalFollowersCount": 4005,
+        "notifications": false,
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+        "profileInterstitialType": "",
+        "statusesCount": 14566,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/Vu0PfgrsvW",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "Tokyo, Japan/🇯🇵"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+      },
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1608625702836011009",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": [],
+    "quoted": {
+      "raw": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+                  "name": "教養人",
+                  "screenName": "299792457_"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "愛知県一宮市のキチガイLJK",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 426,
+                  "followRequestSent": false,
+                  "followersCount": 38,
+                  "friendsCount": 44,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 1,
+                  "mediaCount": 15,
+                  "normalFollowersCount": 38,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2083383324878471254"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+                  "profileInterstitialType": "",
+                  "statusesCount": 154,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "愛知県一宮市のキチガイLJK"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1966785609529483264",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2093963452159242423"
+            ],
+            "editableUntilMsecs": "1788078365000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 0,
+            "bookmarked": false,
+            "conversationIdStr": "2093963452159242423",
+            "createdAt": "Sun Aug 30 07:26:05 +0000 2026",
+            "displayTextRange": [
+              0,
+              13
+            ],
+            "entities": {},
+            "favoriteCount": 9,
+            "favorited": false,
+            "fullText": "宿題あるある\n・やってない",
+            "idStr": "2093963452159242423",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "quoteCount": 1,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "retweeted": false,
+            "userIdStr": "1966785609529483264"
+          },
+          "restId": "2093963452159242423",
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "1507",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "tweet": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+                "name": "教養人",
+                "screenName": "299792457_"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "愛知県一宮市のキチガイLJK",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 426,
+                "followRequestSent": false,
+                "followersCount": 38,
+                "friendsCount": 44,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 1,
+                "mediaCount": 15,
+                "normalFollowersCount": 38,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2083383324878471254"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+                "profileInterstitialType": "",
+                "statusesCount": 154,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "愛知県一宮市のキチガイLJK"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1966785609529483264",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2093963452159242423"
+          ],
+          "editableUntilMsecs": "1788078365000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 0,
+          "bookmarked": false,
+          "conversationIdStr": "2093963452159242423",
+          "createdAt": "Sun Aug 30 07:26:05 +0000 2026",
+          "displayTextRange": [
+            0,
+            13
+          ],
+          "entities": {},
+          "favoriteCount": 9,
+          "favorited": false,
+          "fullText": "宿題あるある\n・やってない",
+          "idStr": "2093963452159242423",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "quoteCount": 1,
+          "replyCount": 0,
+          "retweetCount": 0,
+          "retweeted": false,
+          "userIdStr": "1966785609529483264"
+        },
+        "restId": "2093963452159242423",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "1507",
+          "state": "EnabledWithCount"
+        }
+      },
+      "user": {
+        "typename": "User",
+        "affiliatesHighlightedLabel": {},
+        "avatar": {
+          "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+        },
+        "core": {
+          "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+          "name": "教養人",
+          "screenName": "299792457_"
+        },
+        "dmPermissions": {
+          "canDm": false
+        },
+        "hasGraduatedAccess": true,
+        "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+        "isBlueVerified": false,
+        "legacy": {
+          "defaultProfile": true,
+          "defaultProfileImage": false,
+          "description": "愛知県一宮市のキチガイLJK",
+          "entities": {
+            "description": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 426,
+          "followRequestSent": false,
+          "followersCount": 38,
+          "friendsCount": 44,
+          "hasCustomTimelines": false,
+          "isTranslator": false,
+          "listedCount": 1,
+          "mediaCount": 15,
+          "normalFollowersCount": 38,
+          "notifications": false,
+          "pinnedTweetIdsStr": [
+            "2083383324878471254"
+          ],
+          "possiblySensitive": false,
+          "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+          "profileInterstitialType": "",
+          "statusesCount": 154,
+          "timeZone": "",
+          "translatorType": "none",
+          "url": "",
+          "utcOffset": 0,
+          "withheldDescription": "",
+          "withheldScope": ""
+        },
+        "location": {
+          "location": ""
+        },
+        "mediaPermissions": {
+          "canMediaTag": false
+        },
+        "parodyCommentaryFanLabel": "None",
+        "privacy": {
+          "_protected": false
+        },
+        "profileBio": {
+          "description": "愛知県一宮市のキチガイLJK"
+        },
+        "profileDescriptionLanguage": "ja",
+        "profileImageShape": "Circle",
+        "relationshipPerspectives": {
+          "blockedBy": false,
+          "blocking": false,
+          "followedBy": false,
+          "following": false
+        },
+        "restId": "1966785609529483264",
+        "superFollowEligible": false,
+        "superFollowedBy": false,
+        "superFollowing": false,
+        "tipjarSettings": {
+          "bandcampHandle": "",
+          "bitcoinHandle": "",
+          "cashAppHandle": "",
+          "ethereumHandle": "",
+          "gofundmeHandle": "",
+          "isEnabled": false,
+          "patreonHandle": "",
+          "payPalHandle": "",
+          "venmoHandle": ""
+        },
+        "verification": {
+          "verified": false
+        }
+      },
+      "replies": []
+    }
+  }
+}
