@@ -1,0 +1,4645 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "app_star_rating",
+              "value": {
+                "stringValue": "4.74074",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "imageValue": {
+                  "height": 147,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=280x150",
+                  "width": 280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "stringValue": "広告業界に身をおいていると、広告費をふんだんにムダ遣いするクライアントとたくさん巡り合う。明らかに費用対効果の悪い広告出稿があまりにも多い。ほとんど効果がない広告に数百万突っ込むクライアントは、陰で「富の再分配」と呼ばれる。御社はなぜ、政府の仕事を肩代わりしているのですか？ 広告費の無駄遣いで特に多いのは、「リスクを嫌った結果、意味のある広告ができない」みたいな事例だ。 そして、僕はその典型...",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "stringValue": "note.com",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "app_is_free",
+              "value": {
+                "stringValue": "true",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x600",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribeKey": "publisher_id",
+                "type": "USER",
+                "userValue": {
+                  "idStr": "2426595726"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 75,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=144x144",
+                  "width": 144
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "app_num_ratings",
+              "value": {
+                "stringValue": "189",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "app_price_amount",
+              "value": {
+                "stringValue": "0.0",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribeKey": "vanity_url",
+                "stringValue": "note.com",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "app_name",
+              "value": {
+                "stringValue": "note（ノート）",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 70.32,
+                      "rgb": {
+                        "blue": 0,
+                        "green": 0,
+                        "red": 0
+                      }
+                    },
+                    {
+                      "percentage": 9.03,
+                      "rgb": {
+                        "blue": 29,
+                        "green": 62,
+                        "red": 186
+                      }
+                    },
+                    {
+                      "percentage": 7.51,
+                      "rgb": {
+                        "blue": 10,
+                        "green": 34,
+                        "red": 95
+                      }
+                    },
+                    {
+                      "percentage": 4.49,
+                      "rgb": {
+                        "blue": 65,
+                        "green": 166,
+                        "red": 238
+                      }
+                    },
+                    {
+                      "percentage": 2.62,
+                      "rgb": {
+                        "blue": 28,
+                        "green": 71,
+                        "red": 244
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "stringValue": "リスクを嫌って広告費をドブに捨てる大企業の観察日記｜堀元 見",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "app_price_currency",
+              "value": {
+                "stringValue": "USD",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 70.32,
+                      "rgb": {
+                        "blue": 0,
+                        "green": 0,
+                        "red": 0
+                      }
+                    },
+                    {
+                      "percentage": 9.03,
+                      "rgb": {
+                        "blue": 29,
+                        "green": 62,
+                        "red": 186
+                      }
+                    },
+                    {
+                      "percentage": 7.51,
+                      "rgb": {
+                        "blue": 10,
+                        "green": 34,
+                        "red": 95
+                      }
+                    },
+                    {
+                      "percentage": 4.49,
+                      "rgb": {
+                        "blue": 65,
+                        "green": 166,
+                        "red": 238
+                      }
+                    },
+                    {
+                      "percentage": 2.62,
+                      "rgb": {
+                        "blue": 28,
+                        "green": 71,
+                        "red": 244
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 70.32,
+                      "rgb": {
+                        "blue": 0,
+                        "green": 0,
+                        "red": 0
+                      }
+                    },
+                    {
+                      "percentage": 9.03,
+                      "rgb": {
+                        "blue": 29,
+                        "green": 62,
+                        "red": 186
+                      }
+                    },
+                    {
+                      "percentage": 7.51,
+                      "rgb": {
+                        "blue": 10,
+                        "green": 34,
+                        "red": 95
+                      }
+                    },
+                    {
+                      "percentage": 4.49,
+                      "rgb": {
+                        "blue": 65,
+                        "green": 166,
+                        "red": 238
+                      }
+                    },
+                    {
+                      "percentage": 2.62,
+                      "rgb": {
+                        "blue": 28,
+                        "green": 71,
+                        "red": 244
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://t.co/wVM3wI0Qn7",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/wVM3wI0Qn7",
+          "userRefsResults": [
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1650311140818419712/gjNmcVIA_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Apr 04 03:41:50 +0000 2014",
+                  "name": "note",
+                  "screenName": "note_PR"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyNDI2NTk1NzI2",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "instagram.com/note_ig_offici…",
+                          "expanded_url": "https://www.instagram.com/note_ig_official",
+                          "indices": [
+                            110,
+                            133
+                          ],
+                          "url": "https://t.co/ueLBLPbWlr"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "note.com",
+                          "expanded_url": "http://note.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/I9n2ZLr4YM"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 47158,
+                  "followRequestSent": false,
+                  "followersCount": 124769,
+                  "friendsCount": 1154,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 798,
+                  "mediaCount": 5539,
+                  "normalFollowersCount": 124769,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2080510787467252145"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2426595726/1713748031",
+                  "profileInterstitialType": "",
+                  "statusesCount": 82698,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/I9n2ZLr4YM",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "professional": {
+                  "category": [
+                    {
+                      "iconName": "IconBriefcaseStroke",
+                      "id": 724,
+                      "name": "Internet Company"
+                    }
+                  ],
+                  "professionalType": "Business",
+                  "restId": "1456127582991106050"
+                },
+                "profileBio": {
+                  "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Square",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "2426595726",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false,
+                  "verifiedType": "Business"
+                }
+              }
+            }
+          ]
+        },
+        "restId": "https://t.co/wVM3wI0Qn7"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 436,
+              "followRequestSent": false,
+              "followersCount": 39,
+              "friendsCount": 44,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 15,
+              "normalFollowersCount": 39,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 154,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2098726723986784378"
+        ],
+        "editableUntilMsecs": "1789214018112",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2098726723986784378",
+        "createdAt": "Sat Sep 12 10:53:38 +0000 2026",
+        "displayTextRange": [
+          0,
+          116
+        ],
+        "entities": {
+          "urls": [
+            {
+              "displayUrl": "note.com/kenhori2/n/naa…",
+              "expandedUrl": "https://note.com/kenhori2/n/naae95dc9a1fb",
+              "indices": [
+                93,
+                116
+              ],
+              "url": "https://t.co/wVM3wI0Qn7"
+            }
+          ],
+          "userMentions": [
+            {
+              "id_str": "1659686322",
+              "indices": [
+                3,
+                12
+              ],
+              "name": "堀元 見",
+              "screen_name": "kenhori2"
+            }
+          ]
+        },
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "RT @kenhori2: note更新！\nゼロリスクにこだわるあまりお金をドブに捨てる企業をよく見るので、観察日記を書きました。\n\nリスクを嫌って広告費をドブに捨てる大企業の観察日記\nhttps://t.co/wVM3wI0Qn7",
+        "idStr": "2098726723986784378",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 8,
+        "retweeted": false,
+        "retweetedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "card": {
+              "legacy": {
+                "bindingValues": [
+                  {
+                    "key": "photo_image_full_size_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 419,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                        "width": 800
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "app_star_rating",
+                    "value": {
+                      "stringValue": "4.74074",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image",
+                    "value": {
+                      "imageValue": {
+                        "height": 147,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=280x150",
+                        "width": 280
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "description",
+                    "value": {
+                      "stringValue": "広告業界に身をおいていると、広告費をふんだんにムダ遣いするクライアントとたくさん巡り合う。明らかに費用対効果の悪い広告出稿があまりにも多い。ほとんど効果がない広告に数百万突っ込むクライアントは、陰で「富の再分配」と呼ばれる。御社はなぜ、政府の仕事を肩代わりしているのですか？ 広告費の無駄遣いで特に多いのは、「リスクを嫌った結果、意味のある広告ができない」みたいな事例だ。 そして、僕はその典型...",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "domain",
+                    "value": {
+                      "stringValue": "note.com",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "app_is_free",
+                    "value": {
+                      "stringValue": "true",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 314,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x600",
+                        "width": 600
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 202,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                        "width": 386
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 670,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                        "width": 1280
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "site",
+                    "value": {
+                      "scribeKey": "publisher_id",
+                      "type": "USER",
+                      "userValue": {
+                        "idStr": "2426595726"
+                      }
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 202,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                        "width": 386
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 419,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                        "width": 800
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 75,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=144x144",
+                        "width": 144
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "app_num_ratings",
+                    "value": {
+                      "stringValue": "189",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "app_price_amount",
+                    "value": {
+                      "stringValue": "0.0",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 670,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                        "width": 1280
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 670,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                        "width": 1280
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "vanity_url",
+                    "value": {
+                      "scribeKey": "vanity_url",
+                      "stringValue": "note.com",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size",
+                    "value": {
+                      "imageValue": {
+                        "height": 314,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                        "width": 600
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "app_name",
+                    "value": {
+                      "stringValue": "note（ノート）",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 70.32,
+                            "rgb": {
+                              "blue": 0,
+                              "green": 0,
+                              "red": 0
+                            }
+                          },
+                          {
+                            "percentage": 9.03,
+                            "rgb": {
+                              "blue": 29,
+                              "green": 62,
+                              "red": 186
+                            }
+                          },
+                          {
+                            "percentage": 7.51,
+                            "rgb": {
+                              "blue": 10,
+                              "green": 34,
+                              "red": 95
+                            }
+                          },
+                          {
+                            "percentage": 4.49,
+                            "rgb": {
+                              "blue": 65,
+                              "green": 166,
+                              "red": 238
+                            }
+                          },
+                          {
+                            "percentage": 2.62,
+                            "rgb": {
+                              "blue": 28,
+                              "green": 71,
+                              "red": 244
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "title",
+                    "value": {
+                      "stringValue": "リスクを嫌って広告費をドブに捨てる大企業の観察日記｜堀元 見",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "app_price_currency",
+                    "value": {
+                      "stringValue": "USD",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 70.32,
+                            "rgb": {
+                              "blue": 0,
+                              "green": 0,
+                              "red": 0
+                            }
+                          },
+                          {
+                            "percentage": 9.03,
+                            "rgb": {
+                              "blue": 29,
+                              "green": 62,
+                              "red": 186
+                            }
+                          },
+                          {
+                            "percentage": 7.51,
+                            "rgb": {
+                              "blue": 10,
+                              "green": 34,
+                              "red": 95
+                            }
+                          },
+                          {
+                            "percentage": 4.49,
+                            "rgb": {
+                              "blue": 65,
+                              "green": 166,
+                              "red": 238
+                            }
+                          },
+                          {
+                            "percentage": 2.62,
+                            "rgb": {
+                              "blue": 28,
+                              "green": 71,
+                              "red": 244
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 670,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                        "width": 1280
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image",
+                    "value": {
+                      "imageValue": {
+                        "height": 314,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                        "width": 600
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 70.32,
+                            "rgb": {
+                              "blue": 0,
+                              "green": 0,
+                              "red": 0
+                            }
+                          },
+                          {
+                            "percentage": 9.03,
+                            "rgb": {
+                              "blue": 29,
+                              "green": 62,
+                              "red": 186
+                            }
+                          },
+                          {
+                            "percentage": 7.51,
+                            "rgb": {
+                              "blue": 10,
+                              "green": 34,
+                              "red": 95
+                            }
+                          },
+                          {
+                            "percentage": 4.49,
+                            "rgb": {
+                              "blue": 65,
+                              "green": 166,
+                              "red": 238
+                            }
+                          },
+                          {
+                            "percentage": 2.62,
+                            "rgb": {
+                              "blue": 28,
+                              "green": 71,
+                              "red": 244
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "photo_image_full_size_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 670,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                        "width": 1280
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "card_url",
+                    "value": {
+                      "scribeKey": "card_url",
+                      "stringValue": "https://t.co/wVM3wI0Qn7",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "summary_photo_image_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 670,
+                        "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                        "width": 1280
+                      },
+                      "type": "IMAGE"
+                    }
+                  }
+                ],
+                "cardPlatform": {
+                  "platform": {
+                    "audience": {
+                      "name": "production"
+                    },
+                    "device": {
+                      "name": "Swift",
+                      "version": "12"
+                    }
+                  }
+                },
+                "name": "summary_large_image",
+                "url": "https://t.co/wVM3wI0Qn7",
+                "userRefsResults": [
+                  {
+                    "result": {
+                      "typename": "User",
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/1650311140818419712/gjNmcVIA_normal.jpg"
+                      },
+                      "core": {
+                        "createdAt": "Fri Apr 04 03:41:50 +0000 2014",
+                        "name": "note",
+                        "screenName": "note_PR"
+                      },
+                      "dmPermissions": {
+                        "canDm": false
+                      },
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjoyNDI2NTk1NzI2",
+                      "isBlueVerified": true,
+                      "legacy": {
+                        "defaultProfile": false,
+                        "defaultProfileImage": false,
+                        "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr",
+                        "entities": {
+                          "description": {
+                            "urls": [
+                              {
+                                "display_url": "instagram.com/note_ig_offici…",
+                                "expanded_url": "https://www.instagram.com/note_ig_official",
+                                "indices": [
+                                  110,
+                                  133
+                                ],
+                                "url": "https://t.co/ueLBLPbWlr"
+                              }
+                            ]
+                          },
+                          "url": {
+                            "urls": [
+                              {
+                                "display_url": "note.com",
+                                "expanded_url": "http://note.com",
+                                "indices": [
+                                  0,
+                                  23
+                                ],
+                                "url": "https://t.co/I9n2ZLr4YM"
+                              }
+                            ]
+                          }
+                        },
+                        "fastFollowersCount": 0,
+                        "favouritesCount": 47158,
+                        "followRequestSent": false,
+                        "followersCount": 124769,
+                        "friendsCount": 1154,
+                        "hasCustomTimelines": true,
+                        "isTranslator": false,
+                        "listedCount": 798,
+                        "mediaCount": 5539,
+                        "normalFollowersCount": 124769,
+                        "notifications": false,
+                        "pinnedTweetIdsStr": [
+                          "2080510787467252145"
+                        ],
+                        "possiblySensitive": false,
+                        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2426595726/1713748031",
+                        "profileInterstitialType": "",
+                        "statusesCount": 82698,
+                        "timeZone": "",
+                        "translatorType": "none",
+                        "url": "https://t.co/I9n2ZLr4YM",
+                        "utcOffset": 0,
+                        "withheldDescription": "",
+                        "withheldScope": ""
+                      },
+                      "location": {
+                        "location": ""
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "privacy": {
+                        "_protected": false
+                      },
+                      "professional": {
+                        "category": [
+                          {
+                            "iconName": "IconBriefcaseStroke",
+                            "id": 724,
+                            "name": "Internet Company"
+                          }
+                        ],
+                        "professionalType": "Business",
+                        "restId": "1456127582991106050"
+                      },
+                      "profileBio": {
+                        "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr"
+                      },
+                      "profileDescriptionLanguage": "ja",
+                      "profileImageShape": "Square",
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false
+                      },
+                      "restId": "2426595726",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tipjarSettings": {
+                        "bandcampHandle": "",
+                        "bitcoinHandle": "",
+                        "cashAppHandle": "",
+                        "ethereumHandle": "",
+                        "gofundmeHandle": "",
+                        "isEnabled": false,
+                        "patreonHandle": "",
+                        "payPalHandle": "",
+                        "venmoHandle": ""
+                      },
+                      "verification": {
+                        "verified": false,
+                        "verifiedType": "Business"
+                      }
+                    }
+                  }
+                ]
+              },
+              "restId": "https://t.co/wVM3wI0Qn7"
+            },
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1776168016931442688/ct2lOXDA_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Sat Aug 10 09:39:05 +0000 2013",
+                    "name": "堀元 見",
+                    "screenName": "kenhori2"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoxNjU5Njg2MzIy",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": false,
+                    "defaultProfileImage": false,
+                    "description": "作家/YouTuber。理屈っぽいものを作ります。\n\n【YouTube】\n・ゆる言語学ラジオ→https://t.co/Bap5OAZvIy\n・ゆるコンピュータ科学ラジオ→https://t.co/kjCMK0Dlh1\n\n【著書】\nhttps://t.co/LTYwXW4Ncj",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "display_url": "bit.ly/3D3tRQ1",
+                            "expanded_url": "http://bit.ly/3D3tRQ1",
+                            "indices": [
+                              47,
+                              70
+                            ],
+                            "url": "https://t.co/Bap5OAZvIy"
+                          },
+                          {
+                            "display_url": "bit.ly/3PkjXBX",
+                            "expanded_url": "http://bit.ly/3PkjXBX",
+                            "indices": [
+                              86,
+                              109
+                            ],
+                            "url": "https://t.co/kjCMK0Dlh1"
+                          },
+                          {
+                            "display_url": "amzn.to/3qKFSI9",
+                            "expanded_url": "https://amzn.to/3qKFSI9",
+                            "indices": [
+                              116,
+                              139
+                            ],
+                            "url": "https://t.co/LTYwXW4Ncj"
+                          }
+                        ]
+                      },
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "yurugakuto.studio.site",
+                            "expanded_url": "https://yurugakuto.studio.site/",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/LmPD8LgsIB"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 9916,
+                    "followRequestSent": false,
+                    "followersCount": 85379,
+                    "friendsCount": 1822,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "listedCount": 415,
+                    "mediaCount": 3307,
+                    "normalFollowersCount": 85379,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "2096964994449776966"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1659686322/1670334905",
+                    "profileInterstitialType": "",
+                    "statusesCount": 23602,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/LmPD8LgsIB",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "ゆる学徒カフェ https://bit.ly/3NzkWwU"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "作家/YouTuber。理屈っぽいものを作ります。\n\n【YouTube】\n・ゆる言語学ラジオ→https://t.co/Bap5OAZvIy\n・ゆるコンピュータ科学ラジオ→https://t.co/kjCMK0Dlh1\n\n【著書】\nhttps://t.co/LTYwXW4Ncj"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "1659686322",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2096964994449776966"
+              ],
+              "editableUntilMsecs": "1788793989000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 20,
+              "bookmarked": false,
+              "conversationIdStr": "2096964994449776966",
+              "createdAt": "Mon Sep 07 14:13:09 +0000 2026",
+              "displayTextRange": [
+                0,
+                102
+              ],
+              "entities": {
+                "urls": [
+                  {
+                    "displayUrl": "note.com/kenhori2/n/naa…",
+                    "expandedUrl": "https://note.com/kenhori2/n/naae95dc9a1fb",
+                    "indices": [
+                      79,
+                      102
+                    ],
+                    "url": "https://t.co/wVM3wI0Qn7"
+                  }
+                ]
+              },
+              "favoriteCount": 124,
+              "favorited": false,
+              "fullText": "note更新！\nゼロリスクにこだわるあまりお金をドブに捨てる企業をよく見るので、観察日記を書きました。\n\nリスクを嫌って広告費をドブに捨てる大企業の観察日記\nhttps://t.co/wVM3wI0Qn7",
+              "idStr": "2096964994449776966",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "possiblySensitive": false,
+              "possiblySensitiveEditable": true,
+              "quoteCount": 4,
+              "replyCount": 1,
+              "retweetCount": 8,
+              "retweeted": false,
+              "userIdStr": "1659686322"
+            },
+            "restId": "2096964994449776966",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "unmentionData": {},
+            "views": {
+              "count": "45185",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2098726723986784378",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "state": "Enabled"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "card": {
+      "legacy": {
+        "bindingValues": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "imageValue": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_star_rating",
+            "value": {
+              "stringValue": "4.74074",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "imageValue": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "stringValue": "広告業界に身をおいていると、広告費をふんだんにムダ遣いするクライアントとたくさん巡り合う。明らかに費用対効果の悪い広告出稿があまりにも多い。ほとんど効果がない広告に数百万突っ込むクライアントは、陰で「富の再分配」と呼ばれる。御社はなぜ、政府の仕事を肩代わりしているのですか？ 広告費の無駄遣いで特に多いのは、「リスクを嫌った結果、意味のある広告ができない」みたいな事例だ。 そして、僕はその典型...",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "stringValue": "note.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_is_free",
+            "value": {
+              "stringValue": "true",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "imageValue": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "imageValue": {
+                "height": 670,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                "width": 1280
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribeKey": "publisher_id",
+              "type": "USER",
+              "userValue": {
+                "idStr": "2426595726"
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "imageValue": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "imageValue": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "imageValue": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_num_ratings",
+            "value": {
+              "stringValue": "189",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_amount",
+            "value": {
+              "stringValue": "0.0",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "imageValue": {
+                "height": 670,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                "width": 1280
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "imageValue": {
+                "height": 670,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                "width": 1280
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribeKey": "vanity_url",
+              "stringValue": "note.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_name",
+            "value": {
+              "stringValue": "note（ノート）",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 70.32,
+                    "rgb": {
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    }
+                  },
+                  {
+                    "percentage": 9.03,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 62,
+                      "red": 186
+                    }
+                  },
+                  {
+                    "percentage": 7.51,
+                    "rgb": {
+                      "blue": 10,
+                      "green": 34,
+                      "red": 95
+                    }
+                  },
+                  {
+                    "percentage": 4.49,
+                    "rgb": {
+                      "blue": 65,
+                      "green": 166,
+                      "red": 238
+                    }
+                  },
+                  {
+                    "percentage": 2.62,
+                    "rgb": {
+                      "blue": 28,
+                      "green": 71,
+                      "red": 244
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "stringValue": "リスクを嫌って広告費をドブに捨てる大企業の観察日記｜堀元 見",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_currency",
+            "value": {
+              "stringValue": "USD",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 70.32,
+                    "rgb": {
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    }
+                  },
+                  {
+                    "percentage": 9.03,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 62,
+                      "red": 186
+                    }
+                  },
+                  {
+                    "percentage": 7.51,
+                    "rgb": {
+                      "blue": 10,
+                      "green": 34,
+                      "red": 95
+                    }
+                  },
+                  {
+                    "percentage": 4.49,
+                    "rgb": {
+                      "blue": 65,
+                      "green": 166,
+                      "red": 238
+                    }
+                  },
+                  {
+                    "percentage": 2.62,
+                    "rgb": {
+                      "blue": 28,
+                      "green": 71,
+                      "red": 244
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "imageValue": {
+                "height": 670,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                "width": 1280
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 70.32,
+                    "rgb": {
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    }
+                  },
+                  {
+                    "percentage": 9.03,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 62,
+                      "red": 186
+                    }
+                  },
+                  {
+                    "percentage": 7.51,
+                    "rgb": {
+                      "blue": 10,
+                      "green": 34,
+                      "red": 95
+                    }
+                  },
+                  {
+                    "percentage": 4.49,
+                    "rgb": {
+                      "blue": 65,
+                      "green": 166,
+                      "red": 238
+                    }
+                  },
+                  {
+                    "percentage": 2.62,
+                    "rgb": {
+                      "blue": 28,
+                      "green": 71,
+                      "red": 244
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "imageValue": {
+                "height": 670,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                "width": 1280
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribeKey": "card_url",
+              "stringValue": "https://t.co/wVM3wI0Qn7",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "imageValue": {
+                "height": 670,
+                "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                "width": 1280
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "cardPlatform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/wVM3wI0Qn7",
+        "userRefsResults": [
+          {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1650311140818419712/gjNmcVIA_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Apr 04 03:41:50 +0000 2014",
+                "name": "note",
+                "screenName": "note_PR"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyNDI2NTk1NzI2",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "instagram.com/note_ig_offici…",
+                        "expanded_url": "https://www.instagram.com/note_ig_official",
+                        "indices": [
+                          110,
+                          133
+                        ],
+                        "url": "https://t.co/ueLBLPbWlr"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "note.com",
+                        "expanded_url": "http://note.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/I9n2ZLr4YM"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 47158,
+                "followRequestSent": false,
+                "followersCount": 124769,
+                "friendsCount": 1154,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 798,
+                "mediaCount": 5539,
+                "normalFollowersCount": 124769,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2080510787467252145"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2426595726/1713748031",
+                "profileInterstitialType": "",
+                "statusesCount": 82698,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/I9n2ZLr4YM",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "professional": {
+                "category": [
+                  {
+                    "iconName": "IconBriefcaseStroke",
+                    "id": 724,
+                    "name": "Internet Company"
+                  }
+                ],
+                "professionalType": "Business",
+                "restId": "1456127582991106050"
+              },
+              "profileBio": {
+                "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Square",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "2426595726",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false,
+                "verifiedType": "Business"
+              }
+            }
+          }
+        ]
+      },
+      "restId": "https://t.co/wVM3wI0Qn7"
+    },
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 436,
+            "followRequestSent": false,
+            "followersCount": 39,
+            "friendsCount": 44,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 15,
+            "normalFollowersCount": 39,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 154,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2098726723986784378"
+      ],
+      "editableUntilMsecs": "1789214018112",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2098726723986784378",
+      "createdAt": "Sat Sep 12 10:53:38 +0000 2026",
+      "displayTextRange": [
+        0,
+        116
+      ],
+      "entities": {
+        "urls": [
+          {
+            "displayUrl": "note.com/kenhori2/n/naa…",
+            "expandedUrl": "https://note.com/kenhori2/n/naae95dc9a1fb",
+            "indices": [
+              93,
+              116
+            ],
+            "url": "https://t.co/wVM3wI0Qn7"
+          }
+        ],
+        "userMentions": [
+          {
+            "id_str": "1659686322",
+            "indices": [
+              3,
+              12
+            ],
+            "name": "堀元 見",
+            "screen_name": "kenhori2"
+          }
+        ]
+      },
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "RT @kenhori2: note更新！\nゼロリスクにこだわるあまりお金をドブに捨てる企業をよく見るので、観察日記を書きました。\n\nリスクを嫌って広告費をドブに捨てる大企業の観察日記\nhttps://t.co/wVM3wI0Qn7",
+      "idStr": "2098726723986784378",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 8,
+      "retweeted": false,
+      "retweetedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "card": {
+            "legacy": {
+              "bindingValues": [
+                {
+                  "key": "photo_image_full_size_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 419,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                      "width": 800
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "app_star_rating",
+                  "value": {
+                    "stringValue": "4.74074",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image",
+                  "value": {
+                    "imageValue": {
+                      "height": 147,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=280x150",
+                      "width": 280
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "description",
+                  "value": {
+                    "stringValue": "広告業界に身をおいていると、広告費をふんだんにムダ遣いするクライアントとたくさん巡り合う。明らかに費用対効果の悪い広告出稿があまりにも多い。ほとんど効果がない広告に数百万突っ込むクライアントは、陰で「富の再分配」と呼ばれる。御社はなぜ、政府の仕事を肩代わりしているのですか？ 広告費の無駄遣いで特に多いのは、「リスクを嫌った結果、意味のある広告ができない」みたいな事例だ。 そして、僕はその典型...",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "domain",
+                  "value": {
+                    "stringValue": "note.com",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "app_is_free",
+                  "value": {
+                    "stringValue": "true",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 314,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x600",
+                      "width": 600
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 202,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                      "width": 386
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 670,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                      "width": 1280
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "site",
+                  "value": {
+                    "scribeKey": "publisher_id",
+                    "type": "USER",
+                    "userValue": {
+                      "idStr": "2426595726"
+                    }
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 202,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                      "width": 386
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 419,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                      "width": 800
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 75,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=144x144",
+                      "width": 144
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "app_num_ratings",
+                  "value": {
+                    "stringValue": "189",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "app_price_amount",
+                  "value": {
+                    "stringValue": "0.0",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 670,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                      "width": 1280
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 670,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                      "width": 1280
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "vanity_url",
+                  "value": {
+                    "scribeKey": "vanity_url",
+                    "stringValue": "note.com",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size",
+                  "value": {
+                    "imageValue": {
+                      "height": 314,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                      "width": 600
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "app_name",
+                  "value": {
+                    "stringValue": "note（ノート）",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 70.32,
+                          "rgb": {
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        },
+                        {
+                          "percentage": 9.03,
+                          "rgb": {
+                            "blue": 29,
+                            "green": 62,
+                            "red": 186
+                          }
+                        },
+                        {
+                          "percentage": 7.51,
+                          "rgb": {
+                            "blue": 10,
+                            "green": 34,
+                            "red": 95
+                          }
+                        },
+                        {
+                          "percentage": 4.49,
+                          "rgb": {
+                            "blue": 65,
+                            "green": 166,
+                            "red": 238
+                          }
+                        },
+                        {
+                          "percentage": 2.62,
+                          "rgb": {
+                            "blue": 28,
+                            "green": 71,
+                            "red": 244
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "title",
+                  "value": {
+                    "stringValue": "リスクを嫌って広告費をドブに捨てる大企業の観察日記｜堀元 見",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "app_price_currency",
+                  "value": {
+                    "stringValue": "USD",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 70.32,
+                          "rgb": {
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        },
+                        {
+                          "percentage": 9.03,
+                          "rgb": {
+                            "blue": 29,
+                            "green": 62,
+                            "red": 186
+                          }
+                        },
+                        {
+                          "percentage": 7.51,
+                          "rgb": {
+                            "blue": 10,
+                            "green": 34,
+                            "red": 95
+                          }
+                        },
+                        {
+                          "percentage": 4.49,
+                          "rgb": {
+                            "blue": 65,
+                            "green": 166,
+                            "red": 238
+                          }
+                        },
+                        {
+                          "percentage": 2.62,
+                          "rgb": {
+                            "blue": 28,
+                            "green": 71,
+                            "red": 244
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 670,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                      "width": 1280
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image",
+                  "value": {
+                    "imageValue": {
+                      "height": 314,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                      "width": 600
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 70.32,
+                          "rgb": {
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        },
+                        {
+                          "percentage": 9.03,
+                          "rgb": {
+                            "blue": 29,
+                            "green": 62,
+                            "red": 186
+                          }
+                        },
+                        {
+                          "percentage": 7.51,
+                          "rgb": {
+                            "blue": 10,
+                            "green": 34,
+                            "red": 95
+                          }
+                        },
+                        {
+                          "percentage": 4.49,
+                          "rgb": {
+                            "blue": 65,
+                            "green": 166,
+                            "red": 238
+                          }
+                        },
+                        {
+                          "percentage": 2.62,
+                          "rgb": {
+                            "blue": 28,
+                            "green": 71,
+                            "red": 244
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 670,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                      "width": 1280
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "card_url",
+                  "value": {
+                    "scribeKey": "card_url",
+                    "stringValue": "https://t.co/wVM3wI0Qn7",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 670,
+                      "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                      "width": 1280
+                    },
+                    "type": "IMAGE"
+                  }
+                }
+              ],
+              "cardPlatform": {
+                "platform": {
+                  "audience": {
+                    "name": "production"
+                  },
+                  "device": {
+                    "name": "Swift",
+                    "version": "12"
+                  }
+                }
+              },
+              "name": "summary_large_image",
+              "url": "https://t.co/wVM3wI0Qn7",
+              "userRefsResults": [
+                {
+                  "result": {
+                    "typename": "User",
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/1650311140818419712/gjNmcVIA_normal.jpg"
+                    },
+                    "core": {
+                      "createdAt": "Fri Apr 04 03:41:50 +0000 2014",
+                      "name": "note",
+                      "screenName": "note_PR"
+                    },
+                    "dmPermissions": {
+                      "canDm": false
+                    },
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjoyNDI2NTk1NzI2",
+                    "isBlueVerified": true,
+                    "legacy": {
+                      "defaultProfile": false,
+                      "defaultProfileImage": false,
+                      "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr",
+                      "entities": {
+                        "description": {
+                          "urls": [
+                            {
+                              "display_url": "instagram.com/note_ig_offici…",
+                              "expanded_url": "https://www.instagram.com/note_ig_official",
+                              "indices": [
+                                110,
+                                133
+                              ],
+                              "url": "https://t.co/ueLBLPbWlr"
+                            }
+                          ]
+                        },
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "note.com",
+                              "expanded_url": "http://note.com",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/I9n2ZLr4YM"
+                            }
+                          ]
+                        }
+                      },
+                      "fastFollowersCount": 0,
+                      "favouritesCount": 47158,
+                      "followRequestSent": false,
+                      "followersCount": 124769,
+                      "friendsCount": 1154,
+                      "hasCustomTimelines": true,
+                      "isTranslator": false,
+                      "listedCount": 798,
+                      "mediaCount": 5539,
+                      "normalFollowersCount": 124769,
+                      "notifications": false,
+                      "pinnedTweetIdsStr": [
+                        "2080510787467252145"
+                      ],
+                      "possiblySensitive": false,
+                      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2426595726/1713748031",
+                      "profileInterstitialType": "",
+                      "statusesCount": 82698,
+                      "timeZone": "",
+                      "translatorType": "none",
+                      "url": "https://t.co/I9n2ZLr4YM",
+                      "utcOffset": 0,
+                      "withheldDescription": "",
+                      "withheldScope": ""
+                    },
+                    "location": {
+                      "location": ""
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "privacy": {
+                      "_protected": false
+                    },
+                    "professional": {
+                      "category": [
+                        {
+                          "iconName": "IconBriefcaseStroke",
+                          "id": 724,
+                          "name": "Internet Company"
+                        }
+                      ],
+                      "professionalType": "Business",
+                      "restId": "1456127582991106050"
+                    },
+                    "profileBio": {
+                      "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr"
+                    },
+                    "profileDescriptionLanguage": "ja",
+                    "profileImageShape": "Square",
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false
+                    },
+                    "restId": "2426595726",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tipjarSettings": {
+                      "bandcampHandle": "",
+                      "bitcoinHandle": "",
+                      "cashAppHandle": "",
+                      "ethereumHandle": "",
+                      "gofundmeHandle": "",
+                      "isEnabled": false,
+                      "patreonHandle": "",
+                      "payPalHandle": "",
+                      "venmoHandle": ""
+                    },
+                    "verification": {
+                      "verified": false,
+                      "verifiedType": "Business"
+                    }
+                  }
+                }
+              ]
+            },
+            "restId": "https://t.co/wVM3wI0Qn7"
+          },
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1776168016931442688/ct2lOXDA_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Sat Aug 10 09:39:05 +0000 2013",
+                  "name": "堀元 見",
+                  "screenName": "kenhori2"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNjU5Njg2MzIy",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "作家/YouTuber。理屈っぽいものを作ります。\n\n【YouTube】\n・ゆる言語学ラジオ→https://t.co/Bap5OAZvIy\n・ゆるコンピュータ科学ラジオ→https://t.co/kjCMK0Dlh1\n\n【著書】\nhttps://t.co/LTYwXW4Ncj",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "bit.ly/3D3tRQ1",
+                          "expanded_url": "http://bit.ly/3D3tRQ1",
+                          "indices": [
+                            47,
+                            70
+                          ],
+                          "url": "https://t.co/Bap5OAZvIy"
+                        },
+                        {
+                          "display_url": "bit.ly/3PkjXBX",
+                          "expanded_url": "http://bit.ly/3PkjXBX",
+                          "indices": [
+                            86,
+                            109
+                          ],
+                          "url": "https://t.co/kjCMK0Dlh1"
+                        },
+                        {
+                          "display_url": "amzn.to/3qKFSI9",
+                          "expanded_url": "https://amzn.to/3qKFSI9",
+                          "indices": [
+                            116,
+                            139
+                          ],
+                          "url": "https://t.co/LTYwXW4Ncj"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "yurugakuto.studio.site",
+                          "expanded_url": "https://yurugakuto.studio.site/",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/LmPD8LgsIB"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 9916,
+                  "followRequestSent": false,
+                  "followersCount": 85379,
+                  "friendsCount": 1822,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 415,
+                  "mediaCount": 3307,
+                  "normalFollowersCount": 85379,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2096964994449776966"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1659686322/1670334905",
+                  "profileInterstitialType": "",
+                  "statusesCount": 23602,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/LmPD8LgsIB",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "ゆる学徒カフェ https://bit.ly/3NzkWwU"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "作家/YouTuber。理屈っぽいものを作ります。\n\n【YouTube】\n・ゆる言語学ラジオ→https://t.co/Bap5OAZvIy\n・ゆるコンピュータ科学ラジオ→https://t.co/kjCMK0Dlh1\n\n【著書】\nhttps://t.co/LTYwXW4Ncj"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1659686322",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2096964994449776966"
+            ],
+            "editableUntilMsecs": "1788793989000",
+            "editsRemaining": "5",
+            "isEditEligible": false
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 20,
+            "bookmarked": false,
+            "conversationIdStr": "2096964994449776966",
+            "createdAt": "Mon Sep 07 14:13:09 +0000 2026",
+            "displayTextRange": [
+              0,
+              102
+            ],
+            "entities": {
+              "urls": [
+                {
+                  "displayUrl": "note.com/kenhori2/n/naa…",
+                  "expandedUrl": "https://note.com/kenhori2/n/naae95dc9a1fb",
+                  "indices": [
+                    79,
+                    102
+                  ],
+                  "url": "https://t.co/wVM3wI0Qn7"
+                }
+              ]
+            },
+            "favoriteCount": 124,
+            "favorited": false,
+            "fullText": "note更新！\nゼロリスクにこだわるあまりお金をドブに捨てる企業をよく見るので、観察日記を書きました。\n\nリスクを嫌って広告費をドブに捨てる大企業の観察日記\nhttps://t.co/wVM3wI0Qn7",
+            "idStr": "2096964994449776966",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 4,
+            "replyCount": 1,
+            "retweetCount": 8,
+            "retweeted": false,
+            "userIdStr": "1659686322"
+          },
+          "restId": "2096964994449776966",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "45185",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2098726723986784378",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmentionData": {},
+    "views": {
+      "state": "Enabled"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 436,
+      "followRequestSent": false,
+      "followersCount": 39,
+      "friendsCount": 44,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 15,
+      "normalFollowersCount": 39,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 154,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "retweeted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "card": {
+          "legacy": {
+            "bindingValues": [
+              {
+                "key": "photo_image_full_size_large",
+                "value": {
+                  "imageValue": {
+                    "height": 419,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                    "width": 800
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "app_star_rating",
+                "value": {
+                  "stringValue": "4.74074",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "thumbnail_image",
+                "value": {
+                  "imageValue": {
+                    "height": 147,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=280x150",
+                    "width": 280
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "description",
+                "value": {
+                  "stringValue": "広告業界に身をおいていると、広告費をふんだんにムダ遣いするクライアントとたくさん巡り合う。明らかに費用対効果の悪い広告出稿があまりにも多い。ほとんど効果がない広告に数百万突っ込むクライアントは、陰で「富の再分配」と呼ばれる。御社はなぜ、政府の仕事を肩代わりしているのですか？ 広告費の無駄遣いで特に多いのは、「リスクを嫌った結果、意味のある広告ができない」みたいな事例だ。 そして、僕はその典型...",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "domain",
+                "value": {
+                  "stringValue": "note.com",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "app_is_free",
+                "value": {
+                  "stringValue": "true",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "thumbnail_image_large",
+                "value": {
+                  "imageValue": {
+                    "height": 314,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x600",
+                    "width": 600
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image_small",
+                "value": {
+                  "imageValue": {
+                    "height": 202,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                    "width": 386
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_original",
+                "value": {
+                  "imageValue": {
+                    "height": 670,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                    "width": 1280
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "site",
+                "value": {
+                  "scribeKey": "publisher_id",
+                  "type": "USER",
+                  "userValue": {
+                    "idStr": "2426595726"
+                  }
+                }
+              },
+              {
+                "key": "photo_image_full_size_small",
+                "value": {
+                  "imageValue": {
+                    "height": 202,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                    "width": 386
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image_large",
+                "value": {
+                  "imageValue": {
+                    "height": 419,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                    "width": 800
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "thumbnail_image_small",
+                "value": {
+                  "imageValue": {
+                    "height": 75,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=144x144",
+                    "width": 144
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "app_num_ratings",
+                "value": {
+                  "stringValue": "189",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "app_price_amount",
+                "value": {
+                  "stringValue": "0.0",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "thumbnail_image_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 670,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                    "width": 1280
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_original",
+                "value": {
+                  "imageValue": {
+                    "height": 670,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                    "width": 1280
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "vanity_url",
+                "value": {
+                  "scribeKey": "vanity_url",
+                  "stringValue": "note.com",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "photo_image_full_size",
+                "value": {
+                  "imageValue": {
+                    "height": 314,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                    "width": 600
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "app_name",
+                "value": {
+                  "stringValue": "note（ノート）",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "thumbnail_image_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 70.32,
+                        "rgb": {
+                          "blue": 0,
+                          "green": 0,
+                          "red": 0
+                        }
+                      },
+                      {
+                        "percentage": 9.03,
+                        "rgb": {
+                          "blue": 29,
+                          "green": 62,
+                          "red": 186
+                        }
+                      },
+                      {
+                        "percentage": 7.51,
+                        "rgb": {
+                          "blue": 10,
+                          "green": 34,
+                          "red": 95
+                        }
+                      },
+                      {
+                        "percentage": 4.49,
+                        "rgb": {
+                          "blue": 65,
+                          "green": 166,
+                          "red": 238
+                        }
+                      },
+                      {
+                        "percentage": 2.62,
+                        "rgb": {
+                          "blue": 28,
+                          "green": 71,
+                          "red": 244
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "title",
+                "value": {
+                  "stringValue": "リスクを嫌って広告費をドブに捨てる大企業の観察日記｜堀元 見",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "app_price_currency",
+                "value": {
+                  "stringValue": "USD",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "summary_photo_image_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 70.32,
+                        "rgb": {
+                          "blue": 0,
+                          "green": 0,
+                          "red": 0
+                        }
+                      },
+                      {
+                        "percentage": 9.03,
+                        "rgb": {
+                          "blue": 29,
+                          "green": 62,
+                          "red": 186
+                        }
+                      },
+                      {
+                        "percentage": 7.51,
+                        "rgb": {
+                          "blue": 10,
+                          "green": 34,
+                          "red": 95
+                        }
+                      },
+                      {
+                        "percentage": 4.49,
+                        "rgb": {
+                          "blue": 65,
+                          "green": 166,
+                          "red": 238
+                        }
+                      },
+                      {
+                        "percentage": 2.62,
+                        "rgb": {
+                          "blue": 28,
+                          "green": 71,
+                          "red": 244
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "summary_photo_image_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 670,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                    "width": 1280
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "summary_photo_image",
+                "value": {
+                  "imageValue": {
+                    "height": 314,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                    "width": 600
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "photo_image_full_size_color",
+                "value": {
+                  "imageColorValue": {
+                    "palette": [
+                      {
+                        "percentage": 70.32,
+                        "rgb": {
+                          "blue": 0,
+                          "green": 0,
+                          "red": 0
+                        }
+                      },
+                      {
+                        "percentage": 9.03,
+                        "rgb": {
+                          "blue": 29,
+                          "green": 62,
+                          "red": 186
+                        }
+                      },
+                      {
+                        "percentage": 7.51,
+                        "rgb": {
+                          "blue": 10,
+                          "green": 34,
+                          "red": 95
+                        }
+                      },
+                      {
+                        "percentage": 4.49,
+                        "rgb": {
+                          "blue": 65,
+                          "green": 166,
+                          "red": 238
+                        }
+                      },
+                      {
+                        "percentage": 2.62,
+                        "rgb": {
+                          "blue": 28,
+                          "green": 71,
+                          "red": 244
+                        }
+                      }
+                    ]
+                  },
+                  "type": "IMAGE_COLOR"
+                }
+              },
+              {
+                "key": "photo_image_full_size_x_large",
+                "value": {
+                  "imageValue": {
+                    "height": 670,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                    "width": 1280
+                  },
+                  "type": "IMAGE"
+                }
+              },
+              {
+                "key": "card_url",
+                "value": {
+                  "scribeKey": "card_url",
+                  "stringValue": "https://t.co/wVM3wI0Qn7",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "summary_photo_image_original",
+                "value": {
+                  "imageValue": {
+                    "height": 670,
+                    "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                    "width": 1280
+                  },
+                  "type": "IMAGE"
+                }
+              }
+            ],
+            "cardPlatform": {
+              "platform": {
+                "audience": {
+                  "name": "production"
+                },
+                "device": {
+                  "name": "Swift",
+                  "version": "12"
+                }
+              }
+            },
+            "name": "summary_large_image",
+            "url": "https://t.co/wVM3wI0Qn7",
+            "userRefsResults": [
+              {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1650311140818419712/gjNmcVIA_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Fri Apr 04 03:41:50 +0000 2014",
+                    "name": "note",
+                    "screenName": "note_PR"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoyNDI2NTk1NzI2",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": false,
+                    "defaultProfileImage": false,
+                    "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr",
+                    "entities": {
+                      "description": {
+                        "urls": [
+                          {
+                            "display_url": "instagram.com/note_ig_offici…",
+                            "expanded_url": "https://www.instagram.com/note_ig_official",
+                            "indices": [
+                              110,
+                              133
+                            ],
+                            "url": "https://t.co/ueLBLPbWlr"
+                          }
+                        ]
+                      },
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "note.com",
+                            "expanded_url": "http://note.com",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/I9n2ZLr4YM"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 47158,
+                    "followRequestSent": false,
+                    "followersCount": 124769,
+                    "friendsCount": 1154,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "listedCount": 798,
+                    "mediaCount": 5539,
+                    "normalFollowersCount": 124769,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "2080510787467252145"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2426595726/1713748031",
+                    "profileInterstitialType": "",
+                    "statusesCount": 82698,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/I9n2ZLr4YM",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": ""
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "professional": {
+                    "category": [
+                      {
+                        "iconName": "IconBriefcaseStroke",
+                        "id": 724,
+                        "name": "Internet Company"
+                      }
+                    ],
+                    "professionalType": "Business",
+                    "restId": "1456127582991106050"
+                  },
+                  "profileBio": {
+                    "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Square",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "2426595726",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false,
+                    "verifiedType": "Business"
+                  }
+                }
+              }
+            ]
+          },
+          "restId": "https://t.co/wVM3wI0Qn7"
+        },
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1776168016931442688/ct2lOXDA_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sat Aug 10 09:39:05 +0000 2013",
+                "name": "堀元 見",
+                "screenName": "kenhori2"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNjU5Njg2MzIy",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "作家/YouTuber。理屈っぽいものを作ります。\n\n【YouTube】\n・ゆる言語学ラジオ→https://t.co/Bap5OAZvIy\n・ゆるコンピュータ科学ラジオ→https://t.co/kjCMK0Dlh1\n\n【著書】\nhttps://t.co/LTYwXW4Ncj",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "bit.ly/3D3tRQ1",
+                        "expanded_url": "http://bit.ly/3D3tRQ1",
+                        "indices": [
+                          47,
+                          70
+                        ],
+                        "url": "https://t.co/Bap5OAZvIy"
+                      },
+                      {
+                        "display_url": "bit.ly/3PkjXBX",
+                        "expanded_url": "http://bit.ly/3PkjXBX",
+                        "indices": [
+                          86,
+                          109
+                        ],
+                        "url": "https://t.co/kjCMK0Dlh1"
+                      },
+                      {
+                        "display_url": "amzn.to/3qKFSI9",
+                        "expanded_url": "https://amzn.to/3qKFSI9",
+                        "indices": [
+                          116,
+                          139
+                        ],
+                        "url": "https://t.co/LTYwXW4Ncj"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "yurugakuto.studio.site",
+                        "expanded_url": "https://yurugakuto.studio.site/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/LmPD8LgsIB"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 9916,
+                "followRequestSent": false,
+                "followersCount": 85379,
+                "friendsCount": 1822,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 415,
+                "mediaCount": 3307,
+                "normalFollowersCount": 85379,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2096964994449776966"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1659686322/1670334905",
+                "profileInterstitialType": "",
+                "statusesCount": 23602,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/LmPD8LgsIB",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "ゆる学徒カフェ https://bit.ly/3NzkWwU"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "作家/YouTuber。理屈っぽいものを作ります。\n\n【YouTube】\n・ゆる言語学ラジオ→https://t.co/Bap5OAZvIy\n・ゆるコンピュータ科学ラジオ→https://t.co/kjCMK0Dlh1\n\n【著書】\nhttps://t.co/LTYwXW4Ncj"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1659686322",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2096964994449776966"
+          ],
+          "editableUntilMsecs": "1788793989000",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 20,
+          "bookmarked": false,
+          "conversationIdStr": "2096964994449776966",
+          "createdAt": "Mon Sep 07 14:13:09 +0000 2026",
+          "displayTextRange": [
+            0,
+            102
+          ],
+          "entities": {
+            "urls": [
+              {
+                "displayUrl": "note.com/kenhori2/n/naa…",
+                "expandedUrl": "https://note.com/kenhori2/n/naae95dc9a1fb",
+                "indices": [
+                  79,
+                  102
+                ],
+                "url": "https://t.co/wVM3wI0Qn7"
+              }
+            ]
+          },
+          "favoriteCount": 124,
+          "favorited": false,
+          "fullText": "note更新！\nゼロリスクにこだわるあまりお金をドブに捨てる企業をよく見るので、観察日記を書きました。\n\nリスクを嫌って広告費をドブに捨てる大企業の観察日記\nhttps://t.co/wVM3wI0Qn7",
+          "idStr": "2096964994449776966",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 4,
+          "replyCount": 1,
+          "retweetCount": 8,
+          "retweeted": false,
+          "userIdStr": "1659686322"
+        },
+        "restId": "2096964994449776966",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "45185",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "app_star_rating",
+              "value": {
+                "stringValue": "4.74074",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "imageValue": {
+                  "height": 147,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=280x150",
+                  "width": 280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "stringValue": "広告業界に身をおいていると、広告費をふんだんにムダ遣いするクライアントとたくさん巡り合う。明らかに費用対効果の悪い広告出稿があまりにも多い。ほとんど効果がない広告に数百万突っ込むクライアントは、陰で「富の再分配」と呼ばれる。御社はなぜ、政府の仕事を肩代わりしているのですか？ 広告費の無駄遣いで特に多いのは、「リスクを嫌った結果、意味のある広告ができない」みたいな事例だ。 そして、僕はその典型...",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "stringValue": "note.com",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "app_is_free",
+              "value": {
+                "stringValue": "true",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x600",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribeKey": "publisher_id",
+                "type": "USER",
+                "userValue": {
+                  "idStr": "2426595726"
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=800x419",
+                  "width": 800
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 75,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=144x144",
+                  "width": 144
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "app_num_ratings",
+              "value": {
+                "stringValue": "189",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "app_price_amount",
+              "value": {
+                "stringValue": "0.0",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribeKey": "vanity_url",
+                "stringValue": "note.com",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "app_name",
+              "value": {
+                "stringValue": "note（ノート）",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 70.32,
+                      "rgb": {
+                        "blue": 0,
+                        "green": 0,
+                        "red": 0
+                      }
+                    },
+                    {
+                      "percentage": 9.03,
+                      "rgb": {
+                        "blue": 29,
+                        "green": 62,
+                        "red": 186
+                      }
+                    },
+                    {
+                      "percentage": 7.51,
+                      "rgb": {
+                        "blue": 10,
+                        "green": 34,
+                        "red": 95
+                      }
+                    },
+                    {
+                      "percentage": 4.49,
+                      "rgb": {
+                        "blue": 65,
+                        "green": 166,
+                        "red": 238
+                      }
+                    },
+                    {
+                      "percentage": 2.62,
+                      "rgb": {
+                        "blue": 28,
+                        "green": 71,
+                        "red": 244
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "stringValue": "リスクを嫌って広告費をドブに捨てる大企業の観察日記｜堀元 見",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "app_price_currency",
+              "value": {
+                "stringValue": "USD",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 70.32,
+                      "rgb": {
+                        "blue": 0,
+                        "green": 0,
+                        "red": 0
+                      }
+                    },
+                    {
+                      "percentage": 9.03,
+                      "rgb": {
+                        "blue": 29,
+                        "green": 62,
+                        "red": 186
+                      }
+                    },
+                    {
+                      "percentage": 7.51,
+                      "rgb": {
+                        "blue": 10,
+                        "green": 34,
+                        "red": 95
+                      }
+                    },
+                    {
+                      "percentage": 4.49,
+                      "rgb": {
+                        "blue": 65,
+                        "green": 166,
+                        "red": 238
+                      }
+                    },
+                    {
+                      "percentage": 2.62,
+                      "rgb": {
+                        "blue": 28,
+                        "green": 71,
+                        "red": 244
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 70.32,
+                      "rgb": {
+                        "blue": 0,
+                        "green": 0,
+                        "red": 0
+                      }
+                    },
+                    {
+                      "percentage": 9.03,
+                      "rgb": {
+                        "blue": 29,
+                        "green": 62,
+                        "red": 186
+                      }
+                    },
+                    {
+                      "percentage": 7.51,
+                      "rgb": {
+                        "blue": 10,
+                        "green": 34,
+                        "red": 95
+                      }
+                    },
+                    {
+                      "percentage": 4.49,
+                      "rgb": {
+                        "blue": 65,
+                        "green": 166,
+                        "red": 238
+                      }
+                    },
+                    {
+                      "percentage": 2.62,
+                      "rgb": {
+                        "blue": 28,
+                        "green": 71,
+                        "red": 244
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=png&name=2048x2048_2_exp",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://t.co/wVM3wI0Qn7",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 670,
+                  "url": "https://pbs.twimg.com/card_img/2096964996848816128/6-R74dx1?format=jpg&name=orig",
+                  "width": 1280
+                },
+                "type": "IMAGE"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/wVM3wI0Qn7",
+          "userRefsResults": [
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1650311140818419712/gjNmcVIA_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Apr 04 03:41:50 +0000 2014",
+                  "name": "note",
+                  "screenName": "note_PR"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyNDI2NTk1NzI2",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "instagram.com/note_ig_offici…",
+                          "expanded_url": "https://www.instagram.com/note_ig_official",
+                          "indices": [
+                            110,
+                            133
+                          ],
+                          "url": "https://t.co/ueLBLPbWlr"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "note.com",
+                          "expanded_url": "http://note.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/I9n2ZLr4YM"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 47158,
+                  "followRequestSent": false,
+                  "followersCount": 124769,
+                  "friendsCount": 1154,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 798,
+                  "mediaCount": 5539,
+                  "normalFollowersCount": 124769,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2080510787467252145"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2426595726/1713748031",
+                  "profileInterstitialType": "",
+                  "statusesCount": 82698,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/I9n2ZLr4YM",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "professional": {
+                  "category": [
+                    {
+                      "iconName": "IconBriefcaseStroke",
+                      "id": 724,
+                      "name": "Internet Company"
+                    }
+                  ],
+                  "professionalType": "Business",
+                  "restId": "1456127582991106050"
+                },
+                "profileBio": {
+                  "description": "noteは、1000万人が創作をたのしむプラットフォームです。\n経験談やノウハウ、好きなものやひとへの熱い想い、小説や漫画などを毎日ご紹介。#創作大賞2026 の情報はハイライトから👇\nInstagramもやってます▶︎https://t.co/ueLBLPbWlr"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Square",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "2426595726",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false,
+                  "verifiedType": "Business"
+                }
+              }
+            }
+          ]
+        },
+        "restId": "https://t.co/wVM3wI0Qn7"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1776168016931442688/ct2lOXDA_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Aug 10 09:39:05 +0000 2013",
+              "name": "堀元 見",
+              "screenName": "kenhori2"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxNjU5Njg2MzIy",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": false,
+              "defaultProfileImage": false,
+              "description": "作家/YouTuber。理屈っぽいものを作ります。\n\n【YouTube】\n・ゆる言語学ラジオ→https://t.co/Bap5OAZvIy\n・ゆるコンピュータ科学ラジオ→https://t.co/kjCMK0Dlh1\n\n【著書】\nhttps://t.co/LTYwXW4Ncj",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "bit.ly/3D3tRQ1",
+                      "expanded_url": "http://bit.ly/3D3tRQ1",
+                      "indices": [
+                        47,
+                        70
+                      ],
+                      "url": "https://t.co/Bap5OAZvIy"
+                    },
+                    {
+                      "display_url": "bit.ly/3PkjXBX",
+                      "expanded_url": "http://bit.ly/3PkjXBX",
+                      "indices": [
+                        86,
+                        109
+                      ],
+                      "url": "https://t.co/kjCMK0Dlh1"
+                    },
+                    {
+                      "display_url": "amzn.to/3qKFSI9",
+                      "expanded_url": "https://amzn.to/3qKFSI9",
+                      "indices": [
+                        116,
+                        139
+                      ],
+                      "url": "https://t.co/LTYwXW4Ncj"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "yurugakuto.studio.site",
+                      "expanded_url": "https://yurugakuto.studio.site/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/LmPD8LgsIB"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 9916,
+              "followRequestSent": false,
+              "followersCount": 85379,
+              "friendsCount": 1822,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "listedCount": 415,
+              "mediaCount": 3307,
+              "normalFollowersCount": 85379,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2096964994449776966"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1659686322/1670334905",
+              "profileInterstitialType": "",
+              "statusesCount": 23602,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/LmPD8LgsIB",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "ゆる学徒カフェ https://bit.ly/3NzkWwU"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "作家/YouTuber。理屈っぽいものを作ります。\n\n【YouTube】\n・ゆる言語学ラジオ→https://t.co/Bap5OAZvIy\n・ゆるコンピュータ科学ラジオ→https://t.co/kjCMK0Dlh1\n\n【著書】\nhttps://t.co/LTYwXW4Ncj"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1659686322",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2096964994449776966"
+        ],
+        "editableUntilMsecs": "1788793989000",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 20,
+        "bookmarked": false,
+        "conversationIdStr": "2096964994449776966",
+        "createdAt": "Mon Sep 07 14:13:09 +0000 2026",
+        "displayTextRange": [
+          0,
+          102
+        ],
+        "entities": {
+          "urls": [
+            {
+              "displayUrl": "note.com/kenhori2/n/naa…",
+              "expandedUrl": "https://note.com/kenhori2/n/naae95dc9a1fb",
+              "indices": [
+                79,
+                102
+              ],
+              "url": "https://t.co/wVM3wI0Qn7"
+            }
+          ]
+        },
+        "favoriteCount": 124,
+        "favorited": false,
+        "fullText": "note更新！\nゼロリスクにこだわるあまりお金をドブに捨てる企業をよく見るので、観察日記を書きました。\n\nリスクを嫌って広告費をドブに捨てる大企業の観察日記\nhttps://t.co/wVM3wI0Qn7",
+        "idStr": "2096964994449776966",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 4,
+        "replyCount": 1,
+        "retweetCount": 8,
+        "retweeted": false,
+        "userIdStr": "1659686322"
+      },
+      "restId": "2096964994449776966",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "45185",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1776168016931442688/ct2lOXDA_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Sat Aug 10 09:39:05 +0000 2013",
+        "name": "堀元 見",
+        "screenName": "kenhori2"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxNjU5Njg2MzIy",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": false,
+        "defaultProfileImage": false,
+        "description": "作家/YouTuber。理屈っぽいものを作ります。\n\n【YouTube】\n・ゆる言語学ラジオ→https://t.co/Bap5OAZvIy\n・ゆるコンピュータ科学ラジオ→https://t.co/kjCMK0Dlh1\n\n【著書】\nhttps://t.co/LTYwXW4Ncj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3D3tRQ1",
+                "expanded_url": "http://bit.ly/3D3tRQ1",
+                "indices": [
+                  47,
+                  70
+                ],
+                "url": "https://t.co/Bap5OAZvIy"
+              },
+              {
+                "display_url": "bit.ly/3PkjXBX",
+                "expanded_url": "http://bit.ly/3PkjXBX",
+                "indices": [
+                  86,
+                  109
+                ],
+                "url": "https://t.co/kjCMK0Dlh1"
+              },
+              {
+                "display_url": "amzn.to/3qKFSI9",
+                "expanded_url": "https://amzn.to/3qKFSI9",
+                "indices": [
+                  116,
+                  139
+                ],
+                "url": "https://t.co/LTYwXW4Ncj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yurugakuto.studio.site",
+                "expanded_url": "https://yurugakuto.studio.site/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/LmPD8LgsIB"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 9916,
+        "followRequestSent": false,
+        "followersCount": 85379,
+        "friendsCount": 1822,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "listedCount": 415,
+        "mediaCount": 3307,
+        "normalFollowersCount": 85379,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "2096964994449776966"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1659686322/1670334905",
+        "profileInterstitialType": "",
+        "statusesCount": 23602,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/LmPD8LgsIB",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "ゆる学徒カフェ https://bit.ly/3NzkWwU"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "作家/YouTuber。理屈っぽいものを作ります。\n\n【YouTube】\n・ゆる言語学ラジオ→https://t.co/Bap5OAZvIy\n・ゆるコンピュータ科学ラジオ→https://t.co/kjCMK0Dlh1\n\n【著書】\nhttps://t.co/LTYwXW4Ncj"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1659686322",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}
