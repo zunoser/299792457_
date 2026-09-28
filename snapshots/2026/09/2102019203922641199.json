@@ -1,0 +1,1906 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 468,
+              "followRequestSent": false,
+              "followersCount": 41,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 16,
+              "normalFollowersCount": 41,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 167,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2102019203922641199"
+        ],
+        "editableUntilMsecs": "1789999006000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 1,
+        "bookmarked": false,
+        "conversationIdStr": "2102019203922641199",
+        "createdAt": "Mon Sep 21 12:56:46 +0000 2026",
+        "displayTextRange": [
+          0,
+          22
+        ],
+        "entities": {},
+        "favoriteCount": 31,
+        "favorited": false,
+        "fullText": "ほぼOCRの性能だしもはやJev関係ないだろ",
+        "idStr": "2102019203922641199",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2101949659988267205",
+        "quotedStatusPermalink": {
+          "display": "x.com/Mutsumix_dev/s…",
+          "expanded": "https://twitter.com/Mutsumix_dev/status/2101949659988267205",
+          "url": "https://t.co/Vvt4NkNreq"
+        },
+        "replyCount": 0,
+        "retweetCount": 2,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1905054023763558400/aKOWNtAj_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Sun Feb 13 09:31:06 +0000 2022",
+                  "name": "ムツミックス",
+                  "screenName": "Mutsumix_dev"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNDkyNzkzMzMxNDc0MDcxNTUy",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "池袋と沖縄で働くプログラマ\n水耕栽培の記録を本にまとめています\n📚https://t.co/J0l3uOobKF\n登壇資料\n🗣️ https://t.co/eQ0USruN3D\nイケブクロ電脳組運営\n🦉https://t.co/0wz6sHJPZS",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "623x.booth.pm",
+                          "expanded_url": "https://623x.booth.pm/",
+                          "indices": [
+                            33,
+                            56
+                          ],
+                          "url": "https://t.co/J0l3uOobKF"
+                        },
+                        {
+                          "display_url": "speakerdeck.com/mutsumix",
+                          "expanded_url": "https://speakerdeck.com/mutsumix",
+                          "indices": [
+                            65,
+                            88
+                          ],
+                          "url": "https://t.co/eQ0USruN3D"
+                        },
+                        {
+                          "display_url": "sysmac.connpass.com",
+                          "expanded_url": "https://sysmac.connpass.com/",
+                          "indices": [
+                            101,
+                            124
+                          ],
+                          "url": "https://t.co/0wz6sHJPZS"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "mutsumikajihara.com",
+                          "expanded_url": "http://mutsumikajihara.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/J8dwHgrpCG"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 6137,
+                  "followRequestSent": false,
+                  "followersCount": 611,
+                  "friendsCount": 587,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 2,
+                  "mediaCount": 1248,
+                  "normalFollowersCount": 611,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1492793331474071552/1749635485",
+                  "profileInterstitialType": "",
+                  "statusesCount": 3509,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/J8dwHgrpCG",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "豊島区"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "池袋と沖縄で働くプログラマ\n水耕栽培の記録を本にまとめています\n📚https://t.co/J0l3uOobKF\n登壇資料\n🗣️ https://t.co/eQ0USruN3D\nイケブクロ電脳組運営\n🦉https://t.co/0wz6sHJPZS"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1492793331474071552",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2101949659988267205"
+            ],
+            "editableUntilMsecs": "1789982425000",
+            "editsRemaining": "5",
+            "isEditEligible": false
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 868,
+            "bookmarked": false,
+            "conversationIdStr": "2101949659988267205",
+            "createdAt": "Mon Sep 21 08:20:25 +0000 2026",
+            "displayTextRange": [
+              0,
+              11
+            ],
+            "entities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/0XKzSwuahA",
+                  "expandedUrl": "https://x.com/Mutsumix_dev/status/2101949659988267205/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2101949584717361153",
+                  "indices": [
+                    12,
+                    35
+                  ],
+                  "mediaKey": "13_2101949584717361153",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2101949584717361153"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2101949584717361153/img/lkwFD-Hg56zz7ZjM.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/0XKzSwuahA",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      16,
+                      9
+                    ],
+                    "durationMillis": 19536,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2101949584717361153/pl/xv05gWqQaUFUupqk.m3u8?tag=14"
+                      },
+                      {
+                        "bitrate": 288000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/480x270/HEu7qxoso9lGgOFL.mp4?tag=14"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/640x360/S-XPBhC1xQVrL2g5.mp4?tag=14"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/1280x720/ZjU_koRlDmf_RoUO.mp4?tag=14"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/0XKzSwuahA",
+                  "expandedUrl": "https://x.com/Mutsumix_dev/status/2101949659988267205/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2101949584717361153",
+                  "indices": [
+                    12,
+                    35
+                  ],
+                  "mediaKey": "13_2101949584717361153",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2101949584717361153"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2101949584717361153/img/lkwFD-Hg56zz7ZjM.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/0XKzSwuahA",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      16,
+                      9
+                    ],
+                    "durationMillis": 19536,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2101949584717361153/pl/xv05gWqQaUFUupqk.m3u8?tag=14"
+                      },
+                      {
+                        "bitrate": 288000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/480x270/HEu7qxoso9lGgOFL.mp4?tag=14"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/640x360/S-XPBhC1xQVrL2g5.mp4?tag=14"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/1280x720/ZjU_koRlDmf_RoUO.mp4?tag=14"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favoriteCount": 3484,
+            "favorited": false,
+            "fullText": "やはりJevは速いな… https://t.co/0XKzSwuahA",
+            "idStr": "2101949659988267205",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 142,
+            "replyCount": 25,
+            "retweetCount": 318,
+            "retweeted": false,
+            "userIdStr": "1492793331474071552"
+          },
+          "restId": "2101949659988267205",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmentionData": {},
+          "views": {
+            "count": "2080675",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2102019203922641199",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "1711",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 468,
+            "followRequestSent": false,
+            "followersCount": 41,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 16,
+            "normalFollowersCount": 41,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 167,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2102019203922641199"
+      ],
+      "editableUntilMsecs": "1789999006000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 1,
+      "bookmarked": false,
+      "conversationIdStr": "2102019203922641199",
+      "createdAt": "Mon Sep 21 12:56:46 +0000 2026",
+      "displayTextRange": [
+        0,
+        22
+      ],
+      "entities": {},
+      "favoriteCount": 31,
+      "favorited": false,
+      "fullText": "ほぼOCRの性能だしもはやJev関係ないだろ",
+      "idStr": "2102019203922641199",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2101949659988267205",
+      "quotedStatusPermalink": {
+        "display": "x.com/Mutsumix_dev/s…",
+        "expanded": "https://twitter.com/Mutsumix_dev/status/2101949659988267205",
+        "url": "https://t.co/Vvt4NkNreq"
+      },
+      "replyCount": 0,
+      "retweetCount": 2,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1905054023763558400/aKOWNtAj_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sun Feb 13 09:31:06 +0000 2022",
+                "name": "ムツミックス",
+                "screenName": "Mutsumix_dev"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNDkyNzkzMzMxNDc0MDcxNTUy",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "池袋と沖縄で働くプログラマ\n水耕栽培の記録を本にまとめています\n📚https://t.co/J0l3uOobKF\n登壇資料\n🗣️ https://t.co/eQ0USruN3D\nイケブクロ電脳組運営\n🦉https://t.co/0wz6sHJPZS",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "623x.booth.pm",
+                        "expanded_url": "https://623x.booth.pm/",
+                        "indices": [
+                          33,
+                          56
+                        ],
+                        "url": "https://t.co/J0l3uOobKF"
+                      },
+                      {
+                        "display_url": "speakerdeck.com/mutsumix",
+                        "expanded_url": "https://speakerdeck.com/mutsumix",
+                        "indices": [
+                          65,
+                          88
+                        ],
+                        "url": "https://t.co/eQ0USruN3D"
+                      },
+                      {
+                        "display_url": "sysmac.connpass.com",
+                        "expanded_url": "https://sysmac.connpass.com/",
+                        "indices": [
+                          101,
+                          124
+                        ],
+                        "url": "https://t.co/0wz6sHJPZS"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "mutsumikajihara.com",
+                        "expanded_url": "http://mutsumikajihara.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/J8dwHgrpCG"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 6137,
+                "followRequestSent": false,
+                "followersCount": 611,
+                "friendsCount": 587,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 2,
+                "mediaCount": 1248,
+                "normalFollowersCount": 611,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1492793331474071552/1749635485",
+                "profileInterstitialType": "",
+                "statusesCount": 3509,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/J8dwHgrpCG",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "豊島区"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "池袋と沖縄で働くプログラマ\n水耕栽培の記録を本にまとめています\n📚https://t.co/J0l3uOobKF\n登壇資料\n🗣️ https://t.co/eQ0USruN3D\nイケブクロ電脳組運営\n🦉https://t.co/0wz6sHJPZS"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1492793331474071552",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2101949659988267205"
+          ],
+          "editableUntilMsecs": "1789982425000",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 868,
+          "bookmarked": false,
+          "conversationIdStr": "2101949659988267205",
+          "createdAt": "Mon Sep 21 08:20:25 +0000 2026",
+          "displayTextRange": [
+            0,
+            11
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/0XKzSwuahA",
+                "expandedUrl": "https://x.com/Mutsumix_dev/status/2101949659988267205/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2101949584717361153",
+                "indices": [
+                  12,
+                  35
+                ],
+                "mediaKey": "13_2101949584717361153",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2101949584717361153"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2101949584717361153/img/lkwFD-Hg56zz7ZjM.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "resize": "fit",
+                    "w": 1920
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/0XKzSwuahA",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 19536,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/pl/xv05gWqQaUFUupqk.m3u8?tag=14"
+                    },
+                    {
+                      "bitrate": 288000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/480x270/HEu7qxoso9lGgOFL.mp4?tag=14"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/640x360/S-XPBhC1xQVrL2g5.mp4?tag=14"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/1280x720/ZjU_koRlDmf_RoUO.mp4?tag=14"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/0XKzSwuahA",
+                "expandedUrl": "https://x.com/Mutsumix_dev/status/2101949659988267205/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2101949584717361153",
+                "indices": [
+                  12,
+                  35
+                ],
+                "mediaKey": "13_2101949584717361153",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2101949584717361153"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2101949584717361153/img/lkwFD-Hg56zz7ZjM.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "resize": "fit",
+                    "w": 1920
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/0XKzSwuahA",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 19536,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/pl/xv05gWqQaUFUupqk.m3u8?tag=14"
+                    },
+                    {
+                      "bitrate": 288000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/480x270/HEu7qxoso9lGgOFL.mp4?tag=14"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/640x360/S-XPBhC1xQVrL2g5.mp4?tag=14"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/1280x720/ZjU_koRlDmf_RoUO.mp4?tag=14"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 3484,
+          "favorited": false,
+          "fullText": "やはりJevは速いな… https://t.co/0XKzSwuahA",
+          "idStr": "2101949659988267205",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 142,
+          "replyCount": 25,
+          "retweetCount": 318,
+          "retweeted": false,
+          "userIdStr": "1492793331474071552"
+        },
+        "restId": "2101949659988267205",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "2080675",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2102019203922641199",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "1711",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 468,
+      "followRequestSent": false,
+      "followersCount": 41,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 16,
+      "normalFollowersCount": 41,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 167,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1905054023763558400/aKOWNtAj_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sun Feb 13 09:31:06 +0000 2022",
+                "name": "ムツミックス",
+                "screenName": "Mutsumix_dev"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNDkyNzkzMzMxNDc0MDcxNTUy",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "池袋と沖縄で働くプログラマ\n水耕栽培の記録を本にまとめています\n📚https://t.co/J0l3uOobKF\n登壇資料\n🗣️ https://t.co/eQ0USruN3D\nイケブクロ電脳組運営\n🦉https://t.co/0wz6sHJPZS",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "623x.booth.pm",
+                        "expanded_url": "https://623x.booth.pm/",
+                        "indices": [
+                          33,
+                          56
+                        ],
+                        "url": "https://t.co/J0l3uOobKF"
+                      },
+                      {
+                        "display_url": "speakerdeck.com/mutsumix",
+                        "expanded_url": "https://speakerdeck.com/mutsumix",
+                        "indices": [
+                          65,
+                          88
+                        ],
+                        "url": "https://t.co/eQ0USruN3D"
+                      },
+                      {
+                        "display_url": "sysmac.connpass.com",
+                        "expanded_url": "https://sysmac.connpass.com/",
+                        "indices": [
+                          101,
+                          124
+                        ],
+                        "url": "https://t.co/0wz6sHJPZS"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "mutsumikajihara.com",
+                        "expanded_url": "http://mutsumikajihara.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/J8dwHgrpCG"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 6137,
+                "followRequestSent": false,
+                "followersCount": 611,
+                "friendsCount": 587,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 2,
+                "mediaCount": 1248,
+                "normalFollowersCount": 611,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1492793331474071552/1749635485",
+                "profileInterstitialType": "",
+                "statusesCount": 3509,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/J8dwHgrpCG",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "豊島区"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "池袋と沖縄で働くプログラマ\n水耕栽培の記録を本にまとめています\n📚https://t.co/J0l3uOobKF\n登壇資料\n🗣️ https://t.co/eQ0USruN3D\nイケブクロ電脳組運営\n🦉https://t.co/0wz6sHJPZS"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1492793331474071552",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2101949659988267205"
+          ],
+          "editableUntilMsecs": "1789982425000",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 868,
+          "bookmarked": false,
+          "conversationIdStr": "2101949659988267205",
+          "createdAt": "Mon Sep 21 08:20:25 +0000 2026",
+          "displayTextRange": [
+            0,
+            11
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/0XKzSwuahA",
+                "expandedUrl": "https://x.com/Mutsumix_dev/status/2101949659988267205/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2101949584717361153",
+                "indices": [
+                  12,
+                  35
+                ],
+                "mediaKey": "13_2101949584717361153",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2101949584717361153"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2101949584717361153/img/lkwFD-Hg56zz7ZjM.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "resize": "fit",
+                    "w": 1920
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/0XKzSwuahA",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 19536,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/pl/xv05gWqQaUFUupqk.m3u8?tag=14"
+                    },
+                    {
+                      "bitrate": 288000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/480x270/HEu7qxoso9lGgOFL.mp4?tag=14"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/640x360/S-XPBhC1xQVrL2g5.mp4?tag=14"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/1280x720/ZjU_koRlDmf_RoUO.mp4?tag=14"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/0XKzSwuahA",
+                "expandedUrl": "https://x.com/Mutsumix_dev/status/2101949659988267205/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2101949584717361153",
+                "indices": [
+                  12,
+                  35
+                ],
+                "mediaKey": "13_2101949584717361153",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2101949584717361153"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2101949584717361153/img/lkwFD-Hg56zz7ZjM.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "resize": "fit",
+                    "w": 1920
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/0XKzSwuahA",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 19536,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/pl/xv05gWqQaUFUupqk.m3u8?tag=14"
+                    },
+                    {
+                      "bitrate": 288000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/480x270/HEu7qxoso9lGgOFL.mp4?tag=14"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/640x360/S-XPBhC1xQVrL2g5.mp4?tag=14"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/1280x720/ZjU_koRlDmf_RoUO.mp4?tag=14"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 3484,
+          "favorited": false,
+          "fullText": "やはりJevは速いな… https://t.co/0XKzSwuahA",
+          "idStr": "2101949659988267205",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 142,
+          "replyCount": 25,
+          "retweetCount": 318,
+          "retweeted": false,
+          "userIdStr": "1492793331474071552"
+        },
+        "restId": "2101949659988267205",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "unmentionData": {},
+        "views": {
+          "count": "2080675",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1905054023763558400/aKOWNtAj_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sun Feb 13 09:31:06 +0000 2022",
+              "name": "ムツミックス",
+              "screenName": "Mutsumix_dev"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxNDkyNzkzMzMxNDc0MDcxNTUy",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "池袋と沖縄で働くプログラマ\n水耕栽培の記録を本にまとめています\n📚https://t.co/J0l3uOobKF\n登壇資料\n🗣️ https://t.co/eQ0USruN3D\nイケブクロ電脳組運営\n🦉https://t.co/0wz6sHJPZS",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "623x.booth.pm",
+                      "expanded_url": "https://623x.booth.pm/",
+                      "indices": [
+                        33,
+                        56
+                      ],
+                      "url": "https://t.co/J0l3uOobKF"
+                    },
+                    {
+                      "display_url": "speakerdeck.com/mutsumix",
+                      "expanded_url": "https://speakerdeck.com/mutsumix",
+                      "indices": [
+                        65,
+                        88
+                      ],
+                      "url": "https://t.co/eQ0USruN3D"
+                    },
+                    {
+                      "display_url": "sysmac.connpass.com",
+                      "expanded_url": "https://sysmac.connpass.com/",
+                      "indices": [
+                        101,
+                        124
+                      ],
+                      "url": "https://t.co/0wz6sHJPZS"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "mutsumikajihara.com",
+                      "expanded_url": "http://mutsumikajihara.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/J8dwHgrpCG"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 6137,
+              "followRequestSent": false,
+              "followersCount": 611,
+              "friendsCount": 587,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "listedCount": 2,
+              "mediaCount": 1248,
+              "normalFollowersCount": 611,
+              "notifications": false,
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1492793331474071552/1749635485",
+              "profileInterstitialType": "",
+              "statusesCount": 3509,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/J8dwHgrpCG",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "豊島区"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "池袋と沖縄で働くプログラマ\n水耕栽培の記録を本にまとめています\n📚https://t.co/J0l3uOobKF\n登壇資料\n🗣️ https://t.co/eQ0USruN3D\nイケブクロ電脳組運営\n🦉https://t.co/0wz6sHJPZS"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1492793331474071552",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2101949659988267205"
+        ],
+        "editableUntilMsecs": "1789982425000",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 868,
+        "bookmarked": false,
+        "conversationIdStr": "2101949659988267205",
+        "createdAt": "Mon Sep 21 08:20:25 +0000 2026",
+        "displayTextRange": [
+          0,
+          11
+        ],
+        "entities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/0XKzSwuahA",
+              "expandedUrl": "https://x.com/Mutsumix_dev/status/2101949659988267205/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2101949584717361153",
+              "indices": [
+                12,
+                35
+              ],
+              "mediaKey": "13_2101949584717361153",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2101949584717361153"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2101949584717361153/img/lkwFD-Hg56zz7ZjM.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "resize": "fit",
+                  "w": 1920
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/0XKzSwuahA",
+              "videoInfo": {
+                "aspectRatio": [
+                  16,
+                  9
+                ],
+                "durationMillis": 19536,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2101949584717361153/pl/xv05gWqQaUFUupqk.m3u8?tag=14"
+                  },
+                  {
+                    "bitrate": 288000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/480x270/HEu7qxoso9lGgOFL.mp4?tag=14"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/640x360/S-XPBhC1xQVrL2g5.mp4?tag=14"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/1280x720/ZjU_koRlDmf_RoUO.mp4?tag=14"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/0XKzSwuahA",
+              "expandedUrl": "https://x.com/Mutsumix_dev/status/2101949659988267205/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2101949584717361153",
+              "indices": [
+                12,
+                35
+              ],
+              "mediaKey": "13_2101949584717361153",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2101949584717361153"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2101949584717361153/img/lkwFD-Hg56zz7ZjM.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "resize": "fit",
+                  "w": 1920
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/0XKzSwuahA",
+              "videoInfo": {
+                "aspectRatio": [
+                  16,
+                  9
+                ],
+                "durationMillis": 19536,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2101949584717361153/pl/xv05gWqQaUFUupqk.m3u8?tag=14"
+                  },
+                  {
+                    "bitrate": 288000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/480x270/HEu7qxoso9lGgOFL.mp4?tag=14"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/640x360/S-XPBhC1xQVrL2g5.mp4?tag=14"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2101949584717361153/vid/avc1/1280x720/ZjU_koRlDmf_RoUO.mp4?tag=14"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favoriteCount": 3484,
+        "favorited": false,
+        "fullText": "やはりJevは速いな… https://t.co/0XKzSwuahA",
+        "idStr": "2101949659988267205",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 142,
+        "replyCount": 25,
+        "retweetCount": 318,
+        "retweeted": false,
+        "userIdStr": "1492793331474071552"
+      },
+      "restId": "2101949659988267205",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "2080675",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1905054023763558400/aKOWNtAj_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Sun Feb 13 09:31:06 +0000 2022",
+        "name": "ムツミックス",
+        "screenName": "Mutsumix_dev"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxNDkyNzkzMzMxNDc0MDcxNTUy",
+      "isBlueVerified": false,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "池袋と沖縄で働くプログラマ\n水耕栽培の記録を本にまとめています\n📚https://t.co/J0l3uOobKF\n登壇資料\n🗣️ https://t.co/eQ0USruN3D\nイケブクロ電脳組運営\n🦉https://t.co/0wz6sHJPZS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "623x.booth.pm",
+                "expanded_url": "https://623x.booth.pm/",
+                "indices": [
+                  33,
+                  56
+                ],
+                "url": "https://t.co/J0l3uOobKF"
+              },
+              {
+                "display_url": "speakerdeck.com/mutsumix",
+                "expanded_url": "https://speakerdeck.com/mutsumix",
+                "indices": [
+                  65,
+                  88
+                ],
+                "url": "https://t.co/eQ0USruN3D"
+              },
+              {
+                "display_url": "sysmac.connpass.com",
+                "expanded_url": "https://sysmac.connpass.com/",
+                "indices": [
+                  101,
+                  124
+                ],
+                "url": "https://t.co/0wz6sHJPZS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mutsumikajihara.com",
+                "expanded_url": "http://mutsumikajihara.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/J8dwHgrpCG"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 6137,
+        "followRequestSent": false,
+        "followersCount": 611,
+        "friendsCount": 587,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "listedCount": 2,
+        "mediaCount": 1248,
+        "normalFollowersCount": 611,
+        "notifications": false,
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1492793331474071552/1749635485",
+        "profileInterstitialType": "",
+        "statusesCount": 3509,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/J8dwHgrpCG",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "豊島区"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "池袋と沖縄で働くプログラマ\n水耕栽培の記録を本にまとめています\n📚https://t.co/J0l3uOobKF\n登壇資料\n🗣️ https://t.co/eQ0USruN3D\nイケブクロ電脳組運営\n🦉https://t.co/0wz6sHJPZS"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1492793331474071552",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}
