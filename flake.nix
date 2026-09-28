@@ -38,6 +38,7 @@
             packages = with pkgs; [
               nodejs
               pnpm
+              ffmpeg
               python3
               uv
               yarn

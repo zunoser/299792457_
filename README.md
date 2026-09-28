@@ -34,7 +34,8 @@ or replies per run.
 
 ## Setup
 
-Enter the Nix development shell to get Node.js, pnpm, Python, and uv:
+Enter the Nix development shell to get Node.js, pnpm, FFmpeg, Python, and uv.
+FFmpeg is required to render video posts and is also installed by GitHub Actions:
 
 ```sh
 nix develop
