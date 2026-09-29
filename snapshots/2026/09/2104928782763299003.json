@@ -1,0 +1,766 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 471,
+              "followRequestSent": false,
+              "followersCount": 41,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 17,
+              "normalFollowersCount": 41,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 169,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2104928782763299003"
+        ],
+        "editableUntilMsecs": "1790692704000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2104928782763299003",
+        "createdAt": "Tue Sep 29 13:38:24 +0000 2026",
+        "displayTextRange": [
+          0,
+          6
+        ],
+        "entities": {
+          "media": [
+            {
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/7hC8BL3PuF",
+              "expandedUrl": "https://x.com/299792457_/status/2104928782763299003/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2104928768808914945",
+              "indices": [
+                7,
+                30
+              ],
+              "mediaKey": "3_2104928768808914945",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2104928768808914945"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HTY1kBZbEAE3jX7.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 483,
+                    "w": 862,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 862,
+                    "w": 862,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 983,
+                    "w": 862,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1039,
+                    "w": 520,
+                    "x": 337,
+                    "y": 0
+                  },
+                  {
+                    "h": 1039,
+                    "w": 862,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1039,
+                "width": 862
+              },
+              "sizes": {
+                "large": {
+                  "h": 1039,
+                  "resize": "fit",
+                  "w": 862
+                },
+                "medium": {
+                  "h": 1039,
+                  "resize": "fit",
+                  "w": 862
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 564
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/7hC8BL3PuF"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/7hC8BL3PuF",
+              "expandedUrl": "https://x.com/299792457_/status/2104928782763299003/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2104928768808914945",
+              "indices": [
+                7,
+                30
+              ],
+              "mediaKey": "3_2104928768808914945",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2104928768808914945"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HTY1kBZbEAE3jX7.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 483,
+                    "w": 862,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 862,
+                    "w": 862,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 983,
+                    "w": 862,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1039,
+                    "w": 520,
+                    "x": 337,
+                    "y": 0
+                  },
+                  {
+                    "h": 1039,
+                    "w": 862,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1039,
+                "width": 862
+              },
+              "sizes": {
+                "large": {
+                  "h": 1039,
+                  "resize": "fit",
+                  "w": 862
+                },
+                "medium": {
+                  "h": 1039,
+                  "resize": "fit",
+                  "w": 862
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 564
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/7hC8BL3PuF"
+            }
+          ]
+        },
+        "favoriteCount": 3,
+        "favorited": false,
+        "fullText": "虫歯なのか？ https://t.co/7hC8BL3PuF",
+        "idStr": "2104928782763299003",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "replyCount": 1,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2104928782763299003",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "24",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 471,
+            "followRequestSent": false,
+            "followersCount": 41,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 17,
+            "normalFollowersCount": 41,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 169,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2104928782763299003"
+      ],
+      "editableUntilMsecs": "1790692704000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2104928782763299003",
+      "createdAt": "Tue Sep 29 13:38:24 +0000 2026",
+      "displayTextRange": [
+        0,
+        6
+      ],
+      "entities": {
+        "media": [
+          {
+            "allowDownloadStatus": {
+              "allowDownload": true
+            },
+            "displayUrl": "pic.x.com/7hC8BL3PuF",
+            "expandedUrl": "https://x.com/299792457_/status/2104928782763299003/photo/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "idStr": "2104928768808914945",
+            "indices": [
+              7,
+              30
+            ],
+            "mediaKey": "3_2104928768808914945",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "3_2104928768808914945"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/media/HTY1kBZbEAE3jX7.jpg",
+            "originalInfo": {
+              "focusRects": [
+                {
+                  "h": 483,
+                  "w": 862,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 862,
+                  "w": 862,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 983,
+                  "w": 862,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1039,
+                  "w": 520,
+                  "x": 337,
+                  "y": 0
+                },
+                {
+                  "h": 1039,
+                  "w": 862,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1039,
+              "width": 862
+            },
+            "sizes": {
+              "large": {
+                "h": 1039,
+                "resize": "fit",
+                "w": 862
+              },
+              "medium": {
+                "h": 1039,
+                "resize": "fit",
+                "w": 862
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 564
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7hC8BL3PuF"
+          }
+        ]
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allowDownloadStatus": {
+              "allowDownload": true
+            },
+            "displayUrl": "pic.x.com/7hC8BL3PuF",
+            "expandedUrl": "https://x.com/299792457_/status/2104928782763299003/photo/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "idStr": "2104928768808914945",
+            "indices": [
+              7,
+              30
+            ],
+            "mediaKey": "3_2104928768808914945",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "3_2104928768808914945"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/media/HTY1kBZbEAE3jX7.jpg",
+            "originalInfo": {
+              "focusRects": [
+                {
+                  "h": 483,
+                  "w": 862,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 862,
+                  "w": 862,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 983,
+                  "w": 862,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1039,
+                  "w": 520,
+                  "x": 337,
+                  "y": 0
+                },
+                {
+                  "h": 1039,
+                  "w": 862,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1039,
+              "width": 862
+            },
+            "sizes": {
+              "large": {
+                "h": 1039,
+                "resize": "fit",
+                "w": 862
+              },
+              "medium": {
+                "h": 1039,
+                "resize": "fit",
+                "w": 862
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 564
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7hC8BL3PuF"
+          }
+        ]
+      },
+      "favoriteCount": 3,
+      "favorited": false,
+      "fullText": "虫歯なのか？ https://t.co/7hC8BL3PuF",
+      "idStr": "2104928782763299003",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "replyCount": 1,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2104928782763299003",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "24",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 471,
+      "followRequestSent": false,
+      "followersCount": 41,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 17,
+      "normalFollowersCount": 41,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 169,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": []
+}
