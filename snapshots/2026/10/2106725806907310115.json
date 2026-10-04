@@ -1,0 +1,1006 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "imageValue": {
+                  "height": 380,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=800x419",
+                  "width": 726
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "imageValue": {
+                  "height": 146,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=280x150",
+                  "width": 280
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "stringValue": "web.archive.org",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 313,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=600x600",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 380,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=orig",
+                  "width": 728
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "imageValue": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=386x202",
+                  "width": 386
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "imageValue": {
+                  "height": 380,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=800x419",
+                  "width": 726
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "imageValue": {
+                  "height": 75,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=144x144",
+                  "width": 144
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 380,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=2048x2048_2_exp",
+                  "width": 728
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "imageValue": {
+                  "height": 380,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=orig",
+                  "width": 728
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribeKey": "vanity_url",
+                "stringValue": "web.archive.org",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 94.92,
+                      "rgb": {
+                        "blue": 243,
+                        "green": 233,
+                        "red": 203
+                      }
+                    },
+                    {
+                      "percentage": 5.08,
+                      "rgb": {
+                        "blue": 227,
+                        "green": 172,
+                        "red": 54
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "stringValue": "wakatte.tv |",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 94.92,
+                      "rgb": {
+                        "blue": 243,
+                        "green": 233,
+                        "red": 203
+                      }
+                    },
+                    {
+                      "percentage": 5.08,
+                      "rgb": {
+                        "blue": 227,
+                        "green": 172,
+                        "red": 54
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 380,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=2048x2048_2_exp",
+                  "width": 728
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "imageValue": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=600x314",
+                  "width": 600
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "imageColorValue": {
+                  "palette": [
+                    {
+                      "percentage": 94.92,
+                      "rgb": {
+                        "blue": 243,
+                        "green": 233,
+                        "red": 203
+                      }
+                    },
+                    {
+                      "percentage": 5.08,
+                      "rgb": {
+                        "blue": 227,
+                        "green": 172,
+                        "red": 54
+                      }
+                    }
+                  ]
+                },
+                "type": "IMAGE_COLOR"
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "imageValue": {
+                  "height": 380,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=2048x2048_2_exp",
+                  "width": 728
+                },
+                "type": "IMAGE"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://t.co/9Fzj8eimEZ",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "imageValue": {
+                  "height": 380,
+                  "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=orig",
+                  "width": 728
+                },
+                "type": "IMAGE"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/9Fzj8eimEZ",
+          "userRefsResults": []
+        },
+        "restId": "https://t.co/9Fzj8eimEZ"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 523,
+              "followRequestSent": false,
+              "followersCount": 41,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 18,
+              "normalFollowersCount": 41,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 174,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2106725806907310115"
+        ],
+        "editableUntilMsecs": "1791121148000",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": false,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2106710913441223134",
+        "createdAt": "Sun Oct 04 12:39:08 +0000 2026",
+        "displayTextRange": [
+          14,
+          37
+        ],
+        "entities": {
+          "urls": [
+            {
+              "displayUrl": "web.archive.org/web/2025031022…",
+              "expandedUrl": "https://web.archive.org/web/20250310221642/https://wakatte.tv/",
+              "indices": [
+                14,
+                37
+              ],
+              "url": "https://t.co/9Fzj8eimEZ"
+            }
+          ],
+          "userMentions": [
+            {
+              "id_str": "1929100857154666496",
+              "indices": [
+                0,
+                13
+              ],
+              "name": "524",
+              "screen_name": "0b1000001100"
+            }
+          ]
+        },
+        "favoriteCount": 1,
+        "favorited": false,
+        "fullText": "@0b1000001100 https://t.co/9Fzj8eimEZ",
+        "idStr": "2106725806907310115",
+        "inReplyToScreenName": "0b1000001100",
+        "inReplyToStatusIdStr": "2106710913441223134",
+        "inReplyToUserIdStr": "1929100857154666496",
+        "isQuoteStatus": false,
+        "lang": "qme",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "replyCount": 1,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2106725806907310115",
+      "unmentionData": {},
+      "views": {
+        "count": "13",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "card": {
+      "legacy": {
+        "bindingValues": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "imageValue": {
+                "height": 380,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=800x419",
+                "width": 726
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "imageValue": {
+                "height": 146,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "stringValue": "web.archive.org",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "imageValue": {
+                "height": 313,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "imageValue": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "imageValue": {
+                "height": 380,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=orig",
+                "width": 728
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "imageValue": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "imageValue": {
+                "height": 380,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=800x419",
+                "width": 726
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "imageValue": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "imageValue": {
+                "height": 380,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=2048x2048_2_exp",
+                "width": 728
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "imageValue": {
+                "height": 380,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=orig",
+                "width": 728
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribeKey": "vanity_url",
+              "stringValue": "web.archive.org",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 94.92,
+                    "rgb": {
+                      "blue": 243,
+                      "green": 233,
+                      "red": 203
+                    }
+                  },
+                  {
+                    "percentage": 5.08,
+                    "rgb": {
+                      "blue": 227,
+                      "green": 172,
+                      "red": 54
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "stringValue": "wakatte.tv |",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 94.92,
+                    "rgb": {
+                      "blue": 243,
+                      "green": 233,
+                      "red": 203
+                    }
+                  },
+                  {
+                    "percentage": 5.08,
+                    "rgb": {
+                      "blue": 227,
+                      "green": 172,
+                      "red": 54
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "imageValue": {
+                "height": 380,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=2048x2048_2_exp",
+                "width": 728
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "imageValue": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "imageColorValue": {
+                "palette": [
+                  {
+                    "percentage": 94.92,
+                    "rgb": {
+                      "blue": 243,
+                      "green": 233,
+                      "red": 203
+                    }
+                  },
+                  {
+                    "percentage": 5.08,
+                    "rgb": {
+                      "blue": 227,
+                      "green": 172,
+                      "red": 54
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "imageValue": {
+                "height": 380,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=2048x2048_2_exp",
+                "width": 728
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribeKey": "card_url",
+              "stringValue": "https://t.co/9Fzj8eimEZ",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "imageValue": {
+                "height": 380,
+                "url": "https://pbs.twimg.com/card_img/2106725849282281472/gHZSASRC?format=png&name=orig",
+                "width": 728
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "cardPlatform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/9Fzj8eimEZ",
+        "userRefsResults": []
+      },
+      "restId": "https://t.co/9Fzj8eimEZ"
+    },
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 523,
+            "followRequestSent": false,
+            "followersCount": 41,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 18,
+            "normalFollowersCount": 41,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 174,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2106725806907310115"
+      ],
+      "editableUntilMsecs": "1791121148000",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": false,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2106710913441223134",
+      "createdAt": "Sun Oct 04 12:39:08 +0000 2026",
+      "displayTextRange": [
+        14,
+        37
+      ],
+      "entities": {
+        "urls": [
+          {
+            "displayUrl": "web.archive.org/web/2025031022…",
+            "expandedUrl": "https://web.archive.org/web/20250310221642/https://wakatte.tv/",
+            "indices": [
+              14,
+              37
+            ],
+            "url": "https://t.co/9Fzj8eimEZ"
+          }
+        ],
+        "userMentions": [
+          {
+            "id_str": "1929100857154666496",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "524",
+            "screen_name": "0b1000001100"
+          }
+        ]
+      },
+      "favoriteCount": 1,
+      "favorited": false,
+      "fullText": "@0b1000001100 https://t.co/9Fzj8eimEZ",
+      "idStr": "2106725806907310115",
+      "inReplyToScreenName": "0b1000001100",
+      "inReplyToStatusIdStr": "2106710913441223134",
+      "inReplyToUserIdStr": "1929100857154666496",
+      "isQuoteStatus": false,
+      "lang": "qme",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "replyCount": 1,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2106725806907310115",
+    "unmentionData": {},
+    "views": {
+      "count": "13",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 523,
+      "followRequestSent": false,
+      "followersCount": 41,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 18,
+      "normalFollowersCount": 41,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 174,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": []
+}
