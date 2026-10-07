@@ -1,0 +1,2036 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 527,
+              "followRequestSent": false,
+              "followersCount": 40,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 18,
+              "normalFollowersCount": 40,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 175,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2107801291128996250"
+        ],
+        "editableUntilMsecs": "1791377563000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2107801291128996250",
+        "createdAt": "Wed Oct 07 11:52:43 +0000 2026",
+        "displayTextRange": [
+          0,
+          15
+        ],
+        "entities": {},
+        "favoriteCount": 5,
+        "favorited": false,
+        "fullText": "俺も恋愛のQRコード欲しいでー",
+        "idStr": "2107801291128996250",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2105846940009386149",
+        "quotedStatusPermalink": {
+          "display": "x.com/rairin_vtol/st…",
+          "expanded": "https://twitter.com/rairin_vtol/status/2105846940009386149",
+          "url": "https://t.co/mKmLUwHvMD"
+        },
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1366020659604676616/LZDKJ_DN_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Mon Jan 13 03:09:39 +0000 2020",
+                  "name": "雷臨",
+                  "screenName": "rairin_vtol"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxMjE2NTU3NzUxMjQyOTM2MzIz",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "焼き方を知らなくてもパンは食える",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 8660,
+                  "followRequestSent": false,
+                  "followersCount": 224,
+                  "friendsCount": 227,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 0,
+                  "mediaCount": 508,
+                  "normalFollowersCount": 224,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "1909447784517804428"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1216557751242936323/1670755555",
+                  "profileInterstitialType": "",
+                  "statusesCount": 3783,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "焼き方を知らなくてもパンは食える"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1216557751242936323",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2105846940009386149"
+            ],
+            "editableUntilMsecs": "1790911609000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 233,
+            "bookmarked": false,
+            "conversationIdStr": "2105846940009386149",
+            "createdAt": "Fri Oct 02 02:26:49 +0000 2026",
+            "displayTextRange": [
+              0,
+              11
+            ],
+            "entities": {
+              "media": [
+                {
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/4GjOERM9Fo",
+                  "expandedUrl": "https://x.com/rairin_vtol/status/2105846940009386149/photo/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "h": 38,
+                          "w": 38,
+                          "x": 423,
+                          "y": 533
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "h": 38,
+                          "w": 38,
+                          "x": 423,
+                          "y": 533
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "h": 38,
+                          "w": 38,
+                          "x": 423,
+                          "y": 533
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "h": 25,
+                          "w": 25,
+                          "x": 281,
+                          "y": 354
+                        }
+                      ]
+                    }
+                  },
+                  "idStr": "2105846934640771073",
+                  "indices": [
+                    12,
+                    35
+                  ],
+                  "mediaKey": "3_2105846934640771073",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "3_2105846934640771073"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/media/HTl4oTqbwAECzRT.jpg",
+                  "originalInfo": {
+                    "focusRects": [
+                      {
+                        "h": 573,
+                        "w": 1023,
+                        "x": 0,
+                        "y": 302
+                      },
+                      {
+                        "h": 899,
+                        "w": 899,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 899,
+                        "w": 789,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 899,
+                        "w": 450,
+                        "x": 56,
+                        "y": 0
+                      },
+                      {
+                        "h": 899,
+                        "w": 1023,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 899,
+                    "width": 1023
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 899,
+                      "resize": "fit",
+                      "w": 1023
+                    },
+                    "medium": {
+                      "h": 899,
+                      "resize": "fit",
+                      "w": 1023
+                    },
+                    "small": {
+                      "h": 598,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/4GjOERM9Fo"
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/4GjOERM9Fo",
+                  "expandedUrl": "https://x.com/rairin_vtol/status/2105846940009386149/photo/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "h": 38,
+                          "w": 38,
+                          "x": 423,
+                          "y": 533
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "h": 38,
+                          "w": 38,
+                          "x": 423,
+                          "y": 533
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "h": 38,
+                          "w": 38,
+                          "x": 423,
+                          "y": 533
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "h": 25,
+                          "w": 25,
+                          "x": 281,
+                          "y": 354
+                        }
+                      ]
+                    }
+                  },
+                  "idStr": "2105846934640771073",
+                  "indices": [
+                    12,
+                    35
+                  ],
+                  "mediaKey": "3_2105846934640771073",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "3_2105846934640771073"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/media/HTl4oTqbwAECzRT.jpg",
+                  "originalInfo": {
+                    "focusRects": [
+                      {
+                        "h": 573,
+                        "w": 1023,
+                        "x": 0,
+                        "y": 302
+                      },
+                      {
+                        "h": 899,
+                        "w": 899,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 899,
+                        "w": 789,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 899,
+                        "w": 450,
+                        "x": 56,
+                        "y": 0
+                      },
+                      {
+                        "h": 899,
+                        "w": 1023,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 899,
+                    "width": 1023
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 899,
+                      "resize": "fit",
+                      "w": 1023
+                    },
+                    "medium": {
+                      "h": 899,
+                      "resize": "fit",
+                      "w": 1023
+                    },
+                    "small": {
+                      "h": 598,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/4GjOERM9Fo"
+                }
+              ]
+            },
+            "favoriteCount": 3212,
+            "favorited": false,
+            "fullText": "俺の大学生活始まったわ https://t.co/4GjOERM9Fo",
+            "idStr": "2105846940009386149",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 68,
+            "replyCount": 11,
+            "retweetCount": 14,
+            "retweeted": false,
+            "userIdStr": "1216557751242936323"
+          },
+          "restId": "2105846940009386149",
+          "unmentionData": {},
+          "views": {
+            "count": "9471640",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2107801291128996250",
+      "unmentionData": {},
+      "views": {
+        "count": "4219",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 527,
+            "followRequestSent": false,
+            "followersCount": 40,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 18,
+            "normalFollowersCount": 40,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 175,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2107801291128996250"
+      ],
+      "editableUntilMsecs": "1791377563000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2107801291128996250",
+      "createdAt": "Wed Oct 07 11:52:43 +0000 2026",
+      "displayTextRange": [
+        0,
+        15
+      ],
+      "entities": {},
+      "favoriteCount": 5,
+      "favorited": false,
+      "fullText": "俺も恋愛のQRコード欲しいでー",
+      "idStr": "2107801291128996250",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2105846940009386149",
+      "quotedStatusPermalink": {
+        "display": "x.com/rairin_vtol/st…",
+        "expanded": "https://twitter.com/rairin_vtol/status/2105846940009386149",
+        "url": "https://t.co/mKmLUwHvMD"
+      },
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1366020659604676616/LZDKJ_DN_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Mon Jan 13 03:09:39 +0000 2020",
+                "name": "雷臨",
+                "screenName": "rairin_vtol"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxMjE2NTU3NzUxMjQyOTM2MzIz",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "焼き方を知らなくてもパンは食える",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 8660,
+                "followRequestSent": false,
+                "followersCount": 224,
+                "friendsCount": 227,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 0,
+                "mediaCount": 508,
+                "normalFollowersCount": 224,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "1909447784517804428"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1216557751242936323/1670755555",
+                "profileInterstitialType": "",
+                "statusesCount": 3783,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "焼き方を知らなくてもパンは食える"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1216557751242936323",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2105846940009386149"
+          ],
+          "editableUntilMsecs": "1790911609000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 233,
+          "bookmarked": false,
+          "conversationIdStr": "2105846940009386149",
+          "createdAt": "Fri Oct 02 02:26:49 +0000 2026",
+          "displayTextRange": [
+            0,
+            11
+          ],
+          "entities": {
+            "media": [
+              {
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/4GjOERM9Fo",
+                "expandedUrl": "https://x.com/rairin_vtol/status/2105846940009386149/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "h": 25,
+                        "w": 25,
+                        "x": 281,
+                        "y": 354
+                      }
+                    ]
+                  }
+                },
+                "idStr": "2105846934640771073",
+                "indices": [
+                  12,
+                  35
+                ],
+                "mediaKey": "3_2105846934640771073",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2105846934640771073"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HTl4oTqbwAECzRT.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 573,
+                      "w": 1023,
+                      "x": 0,
+                      "y": 302
+                    },
+                    {
+                      "h": 899,
+                      "w": 899,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 789,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 450,
+                      "x": 56,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 1023,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 899,
+                  "width": 1023
+                },
+                "sizes": {
+                  "large": {
+                    "h": 899,
+                    "resize": "fit",
+                    "w": 1023
+                  },
+                  "medium": {
+                    "h": 899,
+                    "resize": "fit",
+                    "w": 1023
+                  },
+                  "small": {
+                    "h": 598,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/4GjOERM9Fo"
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/4GjOERM9Fo",
+                "expandedUrl": "https://x.com/rairin_vtol/status/2105846940009386149/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "h": 25,
+                        "w": 25,
+                        "x": 281,
+                        "y": 354
+                      }
+                    ]
+                  }
+                },
+                "idStr": "2105846934640771073",
+                "indices": [
+                  12,
+                  35
+                ],
+                "mediaKey": "3_2105846934640771073",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2105846934640771073"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HTl4oTqbwAECzRT.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 573,
+                      "w": 1023,
+                      "x": 0,
+                      "y": 302
+                    },
+                    {
+                      "h": 899,
+                      "w": 899,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 789,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 450,
+                      "x": 56,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 1023,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 899,
+                  "width": 1023
+                },
+                "sizes": {
+                  "large": {
+                    "h": 899,
+                    "resize": "fit",
+                    "w": 1023
+                  },
+                  "medium": {
+                    "h": 899,
+                    "resize": "fit",
+                    "w": 1023
+                  },
+                  "small": {
+                    "h": 598,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/4GjOERM9Fo"
+              }
+            ]
+          },
+          "favoriteCount": 3212,
+          "favorited": false,
+          "fullText": "俺の大学生活始まったわ https://t.co/4GjOERM9Fo",
+          "idStr": "2105846940009386149",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 68,
+          "replyCount": 11,
+          "retweetCount": 14,
+          "retweeted": false,
+          "userIdStr": "1216557751242936323"
+        },
+        "restId": "2105846940009386149",
+        "unmentionData": {},
+        "views": {
+          "count": "9471640",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2107801291128996250",
+    "unmentionData": {},
+    "views": {
+      "count": "4219",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 527,
+      "followRequestSent": false,
+      "followersCount": 40,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 18,
+      "normalFollowersCount": 40,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 175,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1366020659604676616/LZDKJ_DN_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Mon Jan 13 03:09:39 +0000 2020",
+                "name": "雷臨",
+                "screenName": "rairin_vtol"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxMjE2NTU3NzUxMjQyOTM2MzIz",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "焼き方を知らなくてもパンは食える",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 8660,
+                "followRequestSent": false,
+                "followersCount": 224,
+                "friendsCount": 227,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 0,
+                "mediaCount": 508,
+                "normalFollowersCount": 224,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "1909447784517804428"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1216557751242936323/1670755555",
+                "profileInterstitialType": "",
+                "statusesCount": 3783,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "焼き方を知らなくてもパンは食える"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1216557751242936323",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2105846940009386149"
+          ],
+          "editableUntilMsecs": "1790911609000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 233,
+          "bookmarked": false,
+          "conversationIdStr": "2105846940009386149",
+          "createdAt": "Fri Oct 02 02:26:49 +0000 2026",
+          "displayTextRange": [
+            0,
+            11
+          ],
+          "entities": {
+            "media": [
+              {
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/4GjOERM9Fo",
+                "expandedUrl": "https://x.com/rairin_vtol/status/2105846940009386149/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "h": 25,
+                        "w": 25,
+                        "x": 281,
+                        "y": 354
+                      }
+                    ]
+                  }
+                },
+                "idStr": "2105846934640771073",
+                "indices": [
+                  12,
+                  35
+                ],
+                "mediaKey": "3_2105846934640771073",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2105846934640771073"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HTl4oTqbwAECzRT.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 573,
+                      "w": 1023,
+                      "x": 0,
+                      "y": 302
+                    },
+                    {
+                      "h": 899,
+                      "w": 899,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 789,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 450,
+                      "x": 56,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 1023,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 899,
+                  "width": 1023
+                },
+                "sizes": {
+                  "large": {
+                    "h": 899,
+                    "resize": "fit",
+                    "w": 1023
+                  },
+                  "medium": {
+                    "h": 899,
+                    "resize": "fit",
+                    "w": 1023
+                  },
+                  "small": {
+                    "h": 598,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/4GjOERM9Fo"
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/4GjOERM9Fo",
+                "expandedUrl": "https://x.com/rairin_vtol/status/2105846940009386149/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 38,
+                        "w": 38,
+                        "x": 423,
+                        "y": 533
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "h": 25,
+                        "w": 25,
+                        "x": 281,
+                        "y": 354
+                      }
+                    ]
+                  }
+                },
+                "idStr": "2105846934640771073",
+                "indices": [
+                  12,
+                  35
+                ],
+                "mediaKey": "3_2105846934640771073",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2105846934640771073"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HTl4oTqbwAECzRT.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 573,
+                      "w": 1023,
+                      "x": 0,
+                      "y": 302
+                    },
+                    {
+                      "h": 899,
+                      "w": 899,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 789,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 450,
+                      "x": 56,
+                      "y": 0
+                    },
+                    {
+                      "h": 899,
+                      "w": 1023,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 899,
+                  "width": 1023
+                },
+                "sizes": {
+                  "large": {
+                    "h": 899,
+                    "resize": "fit",
+                    "w": 1023
+                  },
+                  "medium": {
+                    "h": 899,
+                    "resize": "fit",
+                    "w": 1023
+                  },
+                  "small": {
+                    "h": 598,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/4GjOERM9Fo"
+              }
+            ]
+          },
+          "favoriteCount": 3212,
+          "favorited": false,
+          "fullText": "俺の大学生活始まったわ https://t.co/4GjOERM9Fo",
+          "idStr": "2105846940009386149",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 68,
+          "replyCount": 11,
+          "retweetCount": 14,
+          "retweeted": false,
+          "userIdStr": "1216557751242936323"
+        },
+        "restId": "2105846940009386149",
+        "unmentionData": {},
+        "views": {
+          "count": "9471640",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1366020659604676616/LZDKJ_DN_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Mon Jan 13 03:09:39 +0000 2020",
+              "name": "雷臨",
+              "screenName": "rairin_vtol"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxMjE2NTU3NzUxMjQyOTM2MzIz",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "焼き方を知らなくてもパンは食える",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 8660,
+              "followRequestSent": false,
+              "followersCount": 224,
+              "friendsCount": 227,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 0,
+              "mediaCount": 508,
+              "normalFollowersCount": 224,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "1909447784517804428"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1216557751242936323/1670755555",
+              "profileInterstitialType": "",
+              "statusesCount": 3783,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "焼き方を知らなくてもパンは食える"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1216557751242936323",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2105846940009386149"
+        ],
+        "editableUntilMsecs": "1790911609000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 233,
+        "bookmarked": false,
+        "conversationIdStr": "2105846940009386149",
+        "createdAt": "Fri Oct 02 02:26:49 +0000 2026",
+        "displayTextRange": [
+          0,
+          11
+        ],
+        "entities": {
+          "media": [
+            {
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/4GjOERM9Fo",
+              "expandedUrl": "https://x.com/rairin_vtol/status/2105846940009386149/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 38,
+                      "w": 38,
+                      "x": 423,
+                      "y": 533
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 38,
+                      "w": 38,
+                      "x": 423,
+                      "y": 533
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 38,
+                      "w": 38,
+                      "x": 423,
+                      "y": 533
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 25,
+                      "w": 25,
+                      "x": 281,
+                      "y": 354
+                    }
+                  ]
+                }
+              },
+              "idStr": "2105846934640771073",
+              "indices": [
+                12,
+                35
+              ],
+              "mediaKey": "3_2105846934640771073",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2105846934640771073"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HTl4oTqbwAECzRT.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 573,
+                    "w": 1023,
+                    "x": 0,
+                    "y": 302
+                  },
+                  {
+                    "h": 899,
+                    "w": 899,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 899,
+                    "w": 789,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 899,
+                    "w": 450,
+                    "x": 56,
+                    "y": 0
+                  },
+                  {
+                    "h": 899,
+                    "w": 1023,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 899,
+                "width": 1023
+              },
+              "sizes": {
+                "large": {
+                  "h": 899,
+                  "resize": "fit",
+                  "w": 1023
+                },
+                "medium": {
+                  "h": 899,
+                  "resize": "fit",
+                  "w": 1023
+                },
+                "small": {
+                  "h": 598,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/4GjOERM9Fo"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/4GjOERM9Fo",
+              "expandedUrl": "https://x.com/rairin_vtol/status/2105846940009386149/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 38,
+                      "w": 38,
+                      "x": 423,
+                      "y": 533
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 38,
+                      "w": 38,
+                      "x": 423,
+                      "y": 533
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 38,
+                      "w": 38,
+                      "x": 423,
+                      "y": 533
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 25,
+                      "w": 25,
+                      "x": 281,
+                      "y": 354
+                    }
+                  ]
+                }
+              },
+              "idStr": "2105846934640771073",
+              "indices": [
+                12,
+                35
+              ],
+              "mediaKey": "3_2105846934640771073",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2105846934640771073"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HTl4oTqbwAECzRT.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 573,
+                    "w": 1023,
+                    "x": 0,
+                    "y": 302
+                  },
+                  {
+                    "h": 899,
+                    "w": 899,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 899,
+                    "w": 789,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 899,
+                    "w": 450,
+                    "x": 56,
+                    "y": 0
+                  },
+                  {
+                    "h": 899,
+                    "w": 1023,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 899,
+                "width": 1023
+              },
+              "sizes": {
+                "large": {
+                  "h": 899,
+                  "resize": "fit",
+                  "w": 1023
+                },
+                "medium": {
+                  "h": 899,
+                  "resize": "fit",
+                  "w": 1023
+                },
+                "small": {
+                  "h": 598,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/4GjOERM9Fo"
+            }
+          ]
+        },
+        "favoriteCount": 3212,
+        "favorited": false,
+        "fullText": "俺の大学生活始まったわ https://t.co/4GjOERM9Fo",
+        "idStr": "2105846940009386149",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 68,
+        "replyCount": 11,
+        "retweetCount": 14,
+        "retweeted": false,
+        "userIdStr": "1216557751242936323"
+      },
+      "restId": "2105846940009386149",
+      "unmentionData": {},
+      "views": {
+        "count": "9471640",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1366020659604676616/LZDKJ_DN_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Mon Jan 13 03:09:39 +0000 2020",
+        "name": "雷臨",
+        "screenName": "rairin_vtol"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxMjE2NTU3NzUxMjQyOTM2MzIz",
+      "isBlueVerified": false,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "焼き方を知らなくてもパンは食える",
+        "entities": {
+          "description": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8660,
+        "followRequestSent": false,
+        "followersCount": 224,
+        "friendsCount": 227,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 0,
+        "mediaCount": 508,
+        "normalFollowersCount": 224,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "1909447784517804428"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1216557751242936323/1670755555",
+        "profileInterstitialType": "",
+        "statusesCount": 3783,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": ""
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "焼き方を知らなくてもパンは食える"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1216557751242936323",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}
