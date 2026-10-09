@@ -1,0 +1,1142 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 535,
+              "followRequestSent": false,
+              "followersCount": 40,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 19,
+              "normalFollowersCount": 40,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 177,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2108429147345400278"
+        ],
+        "editableUntilMsecs": "1791527256103",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2108429147345400278",
+        "createdAt": "Fri Oct 09 05:27:36 +0000 2026",
+        "displayTextRange": [
+          0,
+          38
+        ],
+        "entities": {
+          "userMentions": [
+            {
+              "id_str": "1206328990446653440",
+              "indices": [
+                3,
+                10
+              ],
+              "name": "roiipy",
+              "screen_name": "roiipy"
+            }
+          ]
+        },
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "RT @roiipy: 男の子ってキンタマの色自由に変えられなくてかわいそう",
+        "idStr": "2108429147345400278",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "retweetedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/2040448761282093056/iiXFHh6G_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Sun Dec 15 21:43:54 +0000 2019",
+                    "name": "roiipy",
+                    "screenName": "roiipy"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoxMjA2MzI4OTkwNDQ2NjUzNDQw",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": true,
+                    "defaultProfileImage": false,
+                    "description": "のんびりプログラマー / @valotownJP (VALORANT関連サービス）\nアイコン @chaotu_619 🙏 ヘッダー @Hibiki_BellFox 🙏",
+                    "entities": {
+                      "description": {},
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "r0i.me",
+                            "expanded_url": "http://www.r0i.me",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/SfcRILvb7Y"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 14297,
+                    "followRequestSent": false,
+                    "followersCount": 1006,
+                    "friendsCount": 2634,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "listedCount": 10,
+                    "mediaCount": 973,
+                    "normalFollowersCount": 1006,
+                    "notifications": false,
+                    "pinnedTweetIdsStr": [
+                      "1844920917857796451"
+                    ],
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1206328990446653440/1775329806",
+                    "profileInterstitialType": "",
+                    "statusesCount": 3060,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/SfcRILvb7Y",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": ""
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "Parody",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "professional": {
+                    "category": [
+                      {
+                        "iconName": "IconBriefcaseStroke",
+                        "id": 962,
+                        "name": "Mobile Application"
+                      }
+                    ],
+                    "professionalType": "Creator",
+                    "restId": "1784569436604956987"
+                  },
+                  "profileBio": {
+                    "description": "のんびりプログラマー / @valotownJP (VALORANT関連サービス）\nアイコン @chaotu_619 🙏 ヘッダー @Hibiki_BellFox 🙏"
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "1206328990446653440",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2108247258697527657"
+              ],
+              "editableUntilMsecs": "1791483890000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 0,
+              "bookmarked": false,
+              "conversationIdStr": "2108247258697527657",
+              "createdAt": "Thu Oct 08 17:24:50 +0000 2026",
+              "displayTextRange": [
+                0,
+                26
+              ],
+              "entities": {},
+              "favoriteCount": 6,
+              "favorited": false,
+              "fullText": "男の子ってキンタマの色自由に変えられなくてかわいそう",
+              "idStr": "2108247258697527657",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "quoteCount": 0,
+              "replyCount": 0,
+              "retweetCount": 0,
+              "retweeted": false,
+              "userIdStr": "1206328990446653440"
+            },
+            "restId": "2108247258697527657",
+            "unmentionData": {},
+            "views": {
+              "count": "164",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2108429147345400278",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "2",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 535,
+            "followRequestSent": false,
+            "followersCount": 40,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 19,
+            "normalFollowersCount": 40,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 177,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2108429147345400278"
+      ],
+      "editableUntilMsecs": "1791527256103",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2108429147345400278",
+      "createdAt": "Fri Oct 09 05:27:36 +0000 2026",
+      "displayTextRange": [
+        0,
+        38
+      ],
+      "entities": {
+        "userMentions": [
+          {
+            "id_str": "1206328990446653440",
+            "indices": [
+              3,
+              10
+            ],
+            "name": "roiipy",
+            "screen_name": "roiipy"
+          }
+        ]
+      },
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "RT @roiipy: 男の子ってキンタマの色自由に変えられなくてかわいそう",
+      "idStr": "2108429147345400278",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "retweetedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2040448761282093056/iiXFHh6G_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Sun Dec 15 21:43:54 +0000 2019",
+                  "name": "roiipy",
+                  "screenName": "roiipy"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxMjA2MzI4OTkwNDQ2NjUzNDQw",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "のんびりプログラマー / @valotownJP (VALORANT関連サービス）\nアイコン @chaotu_619 🙏 ヘッダー @Hibiki_BellFox 🙏",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "r0i.me",
+                          "expanded_url": "http://www.r0i.me",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/SfcRILvb7Y"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 14297,
+                  "followRequestSent": false,
+                  "followersCount": 1006,
+                  "friendsCount": 2634,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 10,
+                  "mediaCount": 973,
+                  "normalFollowersCount": 1006,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "1844920917857796451"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1206328990446653440/1775329806",
+                  "profileInterstitialType": "",
+                  "statusesCount": 3060,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/SfcRILvb7Y",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "Parody",
+                "privacy": {
+                  "_protected": false
+                },
+                "professional": {
+                  "category": [
+                    {
+                      "iconName": "IconBriefcaseStroke",
+                      "id": 962,
+                      "name": "Mobile Application"
+                    }
+                  ],
+                  "professionalType": "Creator",
+                  "restId": "1784569436604956987"
+                },
+                "profileBio": {
+                  "description": "のんびりプログラマー / @valotownJP (VALORANT関連サービス）\nアイコン @chaotu_619 🙏 ヘッダー @Hibiki_BellFox 🙏"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1206328990446653440",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2108247258697527657"
+            ],
+            "editableUntilMsecs": "1791483890000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 0,
+            "bookmarked": false,
+            "conversationIdStr": "2108247258697527657",
+            "createdAt": "Thu Oct 08 17:24:50 +0000 2026",
+            "displayTextRange": [
+              0,
+              26
+            ],
+            "entities": {},
+            "favoriteCount": 6,
+            "favorited": false,
+            "fullText": "男の子ってキンタマの色自由に変えられなくてかわいそう",
+            "idStr": "2108247258697527657",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "retweeted": false,
+            "userIdStr": "1206328990446653440"
+          },
+          "restId": "2108247258697527657",
+          "unmentionData": {},
+          "views": {
+            "count": "164",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2108429147345400278",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "2",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 535,
+      "followRequestSent": false,
+      "followersCount": 40,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 19,
+      "normalFollowersCount": 40,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 177,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "retweeted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2040448761282093056/iiXFHh6G_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sun Dec 15 21:43:54 +0000 2019",
+                "name": "roiipy",
+                "screenName": "roiipy"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxMjA2MzI4OTkwNDQ2NjUzNDQw",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "のんびりプログラマー / @valotownJP (VALORANT関連サービス）\nアイコン @chaotu_619 🙏 ヘッダー @Hibiki_BellFox 🙏",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "r0i.me",
+                        "expanded_url": "http://www.r0i.me",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/SfcRILvb7Y"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 14297,
+                "followRequestSent": false,
+                "followersCount": 1006,
+                "friendsCount": 2634,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 10,
+                "mediaCount": 973,
+                "normalFollowersCount": 1006,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "1844920917857796451"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1206328990446653440/1775329806",
+                "profileInterstitialType": "",
+                "statusesCount": 3060,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/SfcRILvb7Y",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "Parody",
+              "privacy": {
+                "_protected": false
+              },
+              "professional": {
+                "category": [
+                  {
+                    "iconName": "IconBriefcaseStroke",
+                    "id": 962,
+                    "name": "Mobile Application"
+                  }
+                ],
+                "professionalType": "Creator",
+                "restId": "1784569436604956987"
+              },
+              "profileBio": {
+                "description": "のんびりプログラマー / @valotownJP (VALORANT関連サービス）\nアイコン @chaotu_619 🙏 ヘッダー @Hibiki_BellFox 🙏"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1206328990446653440",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2108247258697527657"
+          ],
+          "editableUntilMsecs": "1791483890000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 0,
+          "bookmarked": false,
+          "conversationIdStr": "2108247258697527657",
+          "createdAt": "Thu Oct 08 17:24:50 +0000 2026",
+          "displayTextRange": [
+            0,
+            26
+          ],
+          "entities": {},
+          "favoriteCount": 6,
+          "favorited": false,
+          "fullText": "男の子ってキンタマの色自由に変えられなくてかわいそう",
+          "idStr": "2108247258697527657",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "quoteCount": 0,
+          "replyCount": 0,
+          "retweetCount": 0,
+          "retweeted": false,
+          "userIdStr": "1206328990446653440"
+        },
+        "restId": "2108247258697527657",
+        "unmentionData": {},
+        "views": {
+          "count": "164",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2040448761282093056/iiXFHh6G_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sun Dec 15 21:43:54 +0000 2019",
+              "name": "roiipy",
+              "screenName": "roiipy"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxMjA2MzI4OTkwNDQ2NjUzNDQw",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "のんびりプログラマー / @valotownJP (VALORANT関連サービス）\nアイコン @chaotu_619 🙏 ヘッダー @Hibiki_BellFox 🙏",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "r0i.me",
+                      "expanded_url": "http://www.r0i.me",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/SfcRILvb7Y"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 14297,
+              "followRequestSent": false,
+              "followersCount": 1006,
+              "friendsCount": 2634,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "listedCount": 10,
+              "mediaCount": 973,
+              "normalFollowersCount": 1006,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "1844920917857796451"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1206328990446653440/1775329806",
+              "profileInterstitialType": "",
+              "statusesCount": 3060,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/SfcRILvb7Y",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "Parody",
+            "privacy": {
+              "_protected": false
+            },
+            "professional": {
+              "category": [
+                {
+                  "iconName": "IconBriefcaseStroke",
+                  "id": 962,
+                  "name": "Mobile Application"
+                }
+              ],
+              "professionalType": "Creator",
+              "restId": "1784569436604956987"
+            },
+            "profileBio": {
+              "description": "のんびりプログラマー / @valotownJP (VALORANT関連サービス）\nアイコン @chaotu_619 🙏 ヘッダー @Hibiki_BellFox 🙏"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1206328990446653440",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2108247258697527657"
+        ],
+        "editableUntilMsecs": "1791483890000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2108247258697527657",
+        "createdAt": "Thu Oct 08 17:24:50 +0000 2026",
+        "displayTextRange": [
+          0,
+          26
+        ],
+        "entities": {},
+        "favoriteCount": 6,
+        "favorited": false,
+        "fullText": "男の子ってキンタマの色自由に変えられなくてかわいそう",
+        "idStr": "2108247258697527657",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1206328990446653440"
+      },
+      "restId": "2108247258697527657",
+      "unmentionData": {},
+      "views": {
+        "count": "164",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/2040448761282093056/iiXFHh6G_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Sun Dec 15 21:43:54 +0000 2019",
+        "name": "roiipy",
+        "screenName": "roiipy"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxMjA2MzI4OTkwNDQ2NjUzNDQw",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "のんびりプログラマー / @valotownJP (VALORANT関連サービス）\nアイコン @chaotu_619 🙏 ヘッダー @Hibiki_BellFox 🙏",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "r0i.me",
+                "expanded_url": "http://www.r0i.me",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/SfcRILvb7Y"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 14297,
+        "followRequestSent": false,
+        "followersCount": 1006,
+        "friendsCount": 2634,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "listedCount": 10,
+        "mediaCount": 973,
+        "normalFollowersCount": 1006,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "1844920917857796451"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1206328990446653440/1775329806",
+        "profileInterstitialType": "",
+        "statusesCount": 3060,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/SfcRILvb7Y",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": ""
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "Parody",
+      "privacy": {
+        "_protected": false
+      },
+      "professional": {
+        "category": [
+          {
+            "iconName": "IconBriefcaseStroke",
+            "id": 962,
+            "name": "Mobile Application"
+          }
+        ],
+        "professionalType": "Creator",
+        "restId": "1784569436604956987"
+      },
+      "profileBio": {
+        "description": "のんびりプログラマー / @valotownJP (VALORANT関連サービス）\nアイコン @chaotu_619 🙏 ヘッダー @Hibiki_BellFox 🙏"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1206328990446653440",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}

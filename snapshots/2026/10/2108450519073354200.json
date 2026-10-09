@@ -1,0 +1,2362 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 535,
+              "followRequestSent": false,
+              "followersCount": 40,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 19,
+              "normalFollowersCount": 40,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 177,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2108450519073354200"
+        ],
+        "editableUntilMsecs": "1791532351000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2108450519073354200",
+        "createdAt": "Fri Oct 09 06:52:31 +0000 2026",
+        "displayTextRange": [
+          0,
+          6
+        ],
+        "entities": {
+          "media": [
+            {
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/iwjliVIj8i",
+              "expandedUrl": "https://x.com/299792457_/status/2108450519073354200/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 45,
+                      "w": 45,
+                      "x": 39,
+                      "y": 582
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 45,
+                      "w": 45,
+                      "x": 39,
+                      "y": 582
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 45,
+                      "w": 45,
+                      "x": 39,
+                      "y": 582
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 29,
+                      "w": 29,
+                      "x": 25,
+                      "y": 386
+                    }
+                  ]
+                }
+              },
+              "idStr": "2108450515151659008",
+              "indices": [
+                7,
+                30
+              ],
+              "mediaKey": "3_2108450515151659008",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2108450515151659008"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HUK4ko4aoAAeDjd.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 430,
+                    "w": 768,
+                    "x": 0,
+                    "y": 373
+                  },
+                  {
+                    "h": 768,
+                    "w": 768,
+                    "x": 0,
+                    "y": 204
+                  },
+                  {
+                    "h": 876,
+                    "w": 768,
+                    "x": 0,
+                    "y": 148
+                  },
+                  {
+                    "h": 1024,
+                    "w": 512,
+                    "x": 76,
+                    "y": 0
+                  },
+                  {
+                    "h": 1024,
+                    "w": 768,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1024,
+                "width": 768
+              },
+              "sizes": {
+                "large": {
+                  "h": 1024,
+                  "resize": "fit",
+                  "w": 768
+                },
+                "medium": {
+                  "h": 1024,
+                  "resize": "fit",
+                  "w": 768
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 510
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/iwjliVIj8i"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/iwjliVIj8i",
+              "expandedUrl": "https://x.com/299792457_/status/2108450519073354200/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 45,
+                      "w": 45,
+                      "x": 39,
+                      "y": 582
+                    }
+                  ]
+                },
+                "medium": {
+                  "faces": [
+                    {
+                      "h": 45,
+                      "w": 45,
+                      "x": 39,
+                      "y": 582
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 45,
+                      "w": 45,
+                      "x": 39,
+                      "y": 582
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "h": 29,
+                      "w": 29,
+                      "x": 25,
+                      "y": 386
+                    }
+                  ]
+                }
+              },
+              "idStr": "2108450515151659008",
+              "indices": [
+                7,
+                30
+              ],
+              "mediaKey": "3_2108450515151659008",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2108450515151659008"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HUK4ko4aoAAeDjd.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 430,
+                    "w": 768,
+                    "x": 0,
+                    "y": 373
+                  },
+                  {
+                    "h": 768,
+                    "w": 768,
+                    "x": 0,
+                    "y": 204
+                  },
+                  {
+                    "h": 876,
+                    "w": 768,
+                    "x": 0,
+                    "y": 148
+                  },
+                  {
+                    "h": 1024,
+                    "w": 512,
+                    "x": 76,
+                    "y": 0
+                  },
+                  {
+                    "h": 1024,
+                    "w": 768,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1024,
+                "width": 768
+              },
+              "sizes": {
+                "large": {
+                  "h": 1024,
+                  "resize": "fit",
+                  "w": 768
+                },
+                "medium": {
+                  "h": 1024,
+                  "resize": "fit",
+                  "w": 768
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 510
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/iwjliVIj8i"
+            }
+          ]
+        },
+        "favoriteCount": 5,
+        "favorited": false,
+        "fullText": "いただきます https://t.co/iwjliVIj8i",
+        "idStr": "2108450519073354200",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2062639534949437948",
+        "quotedStatusPermalink": {
+          "display": "x.com/galileo_fun/st…",
+          "expanded": "https://twitter.com/galileo_fun/status/2062639534949437948",
+          "url": "https://t.co/58qI6FUAbC"
+        },
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2037128831170174976/Wu-PA1_h_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Thu Mar 26 11:21:22 +0000 2026",
+                  "name": "がりれお",
+                  "screenName": "galileo_fun"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyMDM3MTI3NjQyOTM2NDE4MzA0",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "宇宙・人体・AI・脳科学・生き物…面白い科学を毎日届けます｜知的好奇心は最高の娯楽｜知った瞬間、誰かに話したくなる｜疑問・相談はリプまで｜3ポスト読んで面白いと思ったらフォローして下さい",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 8256,
+                  "followRequestSent": false,
+                  "followersCount": 27836,
+                  "friendsCount": 1,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 90,
+                  "mediaCount": 141,
+                  "normalFollowersCount": 27836,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2092717729417461881"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2037127642936418304/1785138906",
+                  "profileInterstitialType": "",
+                  "statusesCount": 18030,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "宇宙・人体・AI・脳科学・生き物…面白い科学を毎日届けます｜知的好奇心は最高の娯楽｜知った瞬間、誰かに話したくなる｜疑問・相談はリプまで｜3ポスト読んで面白いと思ったらフォローして下さい"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "2037127642936418304",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2062639534949437948"
+            ],
+            "editableUntilMsecs": "1780610161000",
+            "editsRemaining": "5",
+            "isEditEligible": false
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 3552,
+            "bookmarked": false,
+            "conversationIdStr": "2062639534949437948",
+            "createdAt": "Thu Jun 04 20:56:01 +0000 2026",
+            "displayTextRange": [
+              0,
+              142
+            ],
+            "entities": {
+              "media": [
+                {
+                  "displayUrl": "pic.x.com/a7j254za3U",
+                  "expandedUrl": "https://x.com/galileo_fun/status/2062639534949437948/photo/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "idStr": "2062639532432830464",
+                  "indices": [
+                    143,
+                    166
+                  ],
+                  "mediaKey": "3_2062639532432830464",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "3_2062639532432830464"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/media/HJ_3ufZWMAAKNG4.jpg",
+                  "originalInfo": {
+                    "focusRects": [
+                      {
+                        "h": 768,
+                        "w": 1371,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 768,
+                        "w": 768,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 768,
+                        "w": 674,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 768,
+                        "w": 384,
+                        "x": 116,
+                        "y": 0
+                      },
+                      {
+                        "h": 768,
+                        "w": 1376,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 768,
+                    "width": 1376
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 768,
+                      "resize": "fit",
+                      "w": 1376
+                    },
+                    "medium": {
+                      "h": 670,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 380,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/a7j254za3U"
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "displayUrl": "pic.x.com/a7j254za3U",
+                  "expandedUrl": "https://x.com/galileo_fun/status/2062639534949437948/photo/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "idStr": "2062639532432830464",
+                  "indices": [
+                    143,
+                    166
+                  ],
+                  "mediaKey": "3_2062639532432830464",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "3_2062639532432830464"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/media/HJ_3ufZWMAAKNG4.jpg",
+                  "originalInfo": {
+                    "focusRects": [
+                      {
+                        "h": 768,
+                        "w": 1371,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 768,
+                        "w": 768,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 768,
+                        "w": 674,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 768,
+                        "w": 384,
+                        "x": 116,
+                        "y": 0
+                      },
+                      {
+                        "h": 768,
+                        "w": 1376,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 768,
+                    "width": 1376
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 768,
+                      "resize": "fit",
+                      "w": 1376
+                    },
+                    "medium": {
+                      "h": 670,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 380,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/a7j254za3U"
+                }
+              ]
+            },
+            "favoriteCount": 6601,
+            "favorited": false,
+            "fullText": "実は今、うつ病の原因が「脳」ではないかもしれないとわかってきました。今まで「セロトニンが足りないから」と言われてきたあの病気が、実は腸の細菌と、毎日使っているシャンプーや洗剤の化学物質が引き起こしていた可能性がある。そして2025年、ハーバード医学大学院がその仕組みを世界で初めて分子 https://t.co/a7j254za3U",
+            "idStr": "2062639534949437948",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 254,
+            "replyCount": 81,
+            "retweetCount": 1516,
+            "retweeted": false,
+            "userIdStr": "2037127642936418304"
+          },
+          "noteTweet": {
+            "isExpandable": true,
+            "noteTweetResults": {
+              "result": {
+                "entitySet": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "userMentions": []
+                },
+                "id": "Tm90ZVR3ZWV0OjIwNjI2Mzk1MzQ4ODY1ODAyMjQ=",
+                "text": "実は今、うつ病の原因が「脳」ではないかもしれないとわかってきました。今まで「セロトニンが足りないから」と言われてきたあの病気が、実は腸の細菌と、毎日使っているシャンプーや洗剤の化学物質が引き起こしていた可能性がある。そして2025年、ハーバード医学大学院がその仕組みを世界で初めて分子レベルで解明。「うつ病は脳ではなく、腸から始まる」その意味とは..."
+              }
+            }
+          },
+          "restId": "2062639534949437948",
+          "unmentionData": {},
+          "views": {
+            "count": "734963",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2108450519073354200",
+      "unmentionData": {},
+      "views": {
+        "count": "33",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 535,
+            "followRequestSent": false,
+            "followersCount": 40,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 19,
+            "normalFollowersCount": 40,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 177,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2108450519073354200"
+      ],
+      "editableUntilMsecs": "1791532351000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2108450519073354200",
+      "createdAt": "Fri Oct 09 06:52:31 +0000 2026",
+      "displayTextRange": [
+        0,
+        6
+      ],
+      "entities": {
+        "media": [
+          {
+            "allowDownloadStatus": {
+              "allowDownload": true
+            },
+            "displayUrl": "pic.x.com/iwjliVIj8i",
+            "expandedUrl": "https://x.com/299792457_/status/2108450519073354200/photo/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 45,
+                    "w": 45,
+                    "x": 39,
+                    "y": 582
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "h": 45,
+                    "w": 45,
+                    "x": 39,
+                    "y": 582
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 45,
+                    "w": 45,
+                    "x": 39,
+                    "y": 582
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "h": 29,
+                    "w": 29,
+                    "x": 25,
+                    "y": 386
+                  }
+                ]
+              }
+            },
+            "idStr": "2108450515151659008",
+            "indices": [
+              7,
+              30
+            ],
+            "mediaKey": "3_2108450515151659008",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "3_2108450515151659008"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/media/HUK4ko4aoAAeDjd.jpg",
+            "originalInfo": {
+              "focusRects": [
+                {
+                  "h": 430,
+                  "w": 768,
+                  "x": 0,
+                  "y": 373
+                },
+                {
+                  "h": 768,
+                  "w": 768,
+                  "x": 0,
+                  "y": 204
+                },
+                {
+                  "h": 876,
+                  "w": 768,
+                  "x": 0,
+                  "y": 148
+                },
+                {
+                  "h": 1024,
+                  "w": 512,
+                  "x": 76,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 768,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1024,
+              "width": 768
+            },
+            "sizes": {
+              "large": {
+                "h": 1024,
+                "resize": "fit",
+                "w": 768
+              },
+              "medium": {
+                "h": 1024,
+                "resize": "fit",
+                "w": 768
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iwjliVIj8i"
+          }
+        ]
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allowDownloadStatus": {
+              "allowDownload": true
+            },
+            "displayUrl": "pic.x.com/iwjliVIj8i",
+            "expandedUrl": "https://x.com/299792457_/status/2108450519073354200/photo/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 45,
+                    "w": 45,
+                    "x": 39,
+                    "y": 582
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "h": 45,
+                    "w": 45,
+                    "x": 39,
+                    "y": 582
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 45,
+                    "w": 45,
+                    "x": 39,
+                    "y": 582
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "h": 29,
+                    "w": 29,
+                    "x": 25,
+                    "y": 386
+                  }
+                ]
+              }
+            },
+            "idStr": "2108450515151659008",
+            "indices": [
+              7,
+              30
+            ],
+            "mediaKey": "3_2108450515151659008",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "3_2108450515151659008"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/media/HUK4ko4aoAAeDjd.jpg",
+            "originalInfo": {
+              "focusRects": [
+                {
+                  "h": 430,
+                  "w": 768,
+                  "x": 0,
+                  "y": 373
+                },
+                {
+                  "h": 768,
+                  "w": 768,
+                  "x": 0,
+                  "y": 204
+                },
+                {
+                  "h": 876,
+                  "w": 768,
+                  "x": 0,
+                  "y": 148
+                },
+                {
+                  "h": 1024,
+                  "w": 512,
+                  "x": 76,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 768,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1024,
+              "width": 768
+            },
+            "sizes": {
+              "large": {
+                "h": 1024,
+                "resize": "fit",
+                "w": 768
+              },
+              "medium": {
+                "h": 1024,
+                "resize": "fit",
+                "w": 768
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iwjliVIj8i"
+          }
+        ]
+      },
+      "favoriteCount": 5,
+      "favorited": false,
+      "fullText": "いただきます https://t.co/iwjliVIj8i",
+      "idStr": "2108450519073354200",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2062639534949437948",
+      "quotedStatusPermalink": {
+        "display": "x.com/galileo_fun/st…",
+        "expanded": "https://twitter.com/galileo_fun/status/2062639534949437948",
+        "url": "https://t.co/58qI6FUAbC"
+      },
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2037128831170174976/Wu-PA1_h_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Thu Mar 26 11:21:22 +0000 2026",
+                "name": "がりれお",
+                "screenName": "galileo_fun"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyMDM3MTI3NjQyOTM2NDE4MzA0",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "宇宙・人体・AI・脳科学・生き物…面白い科学を毎日届けます｜知的好奇心は最高の娯楽｜知った瞬間、誰かに話したくなる｜疑問・相談はリプまで｜3ポスト読んで面白いと思ったらフォローして下さい",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 8256,
+                "followRequestSent": false,
+                "followersCount": 27836,
+                "friendsCount": 1,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 90,
+                "mediaCount": 141,
+                "normalFollowersCount": 27836,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2092717729417461881"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2037127642936418304/1785138906",
+                "profileInterstitialType": "",
+                "statusesCount": 18030,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "宇宙・人体・AI・脳科学・生き物…面白い科学を毎日届けます｜知的好奇心は最高の娯楽｜知った瞬間、誰かに話したくなる｜疑問・相談はリプまで｜3ポスト読んで面白いと思ったらフォローして下さい"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "2037127642936418304",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2062639534949437948"
+          ],
+          "editableUntilMsecs": "1780610161000",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 3552,
+          "bookmarked": false,
+          "conversationIdStr": "2062639534949437948",
+          "createdAt": "Thu Jun 04 20:56:01 +0000 2026",
+          "displayTextRange": [
+            0,
+            142
+          ],
+          "entities": {
+            "media": [
+              {
+                "displayUrl": "pic.x.com/a7j254za3U",
+                "expandedUrl": "https://x.com/galileo_fun/status/2062639534949437948/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2062639532432830464",
+                "indices": [
+                  143,
+                  166
+                ],
+                "mediaKey": "3_2062639532432830464",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2062639532432830464"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HJ_3ufZWMAAKNG4.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 768,
+                      "w": 1371,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 768,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 674,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 384,
+                      "x": 116,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 1376,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 768,
+                  "width": 1376
+                },
+                "sizes": {
+                  "large": {
+                    "h": 768,
+                    "resize": "fit",
+                    "w": 1376
+                  },
+                  "medium": {
+                    "h": 670,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 380,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/a7j254za3U"
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "displayUrl": "pic.x.com/a7j254za3U",
+                "expandedUrl": "https://x.com/galileo_fun/status/2062639534949437948/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2062639532432830464",
+                "indices": [
+                  143,
+                  166
+                ],
+                "mediaKey": "3_2062639532432830464",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2062639532432830464"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HJ_3ufZWMAAKNG4.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 768,
+                      "w": 1371,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 768,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 674,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 384,
+                      "x": 116,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 1376,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 768,
+                  "width": 1376
+                },
+                "sizes": {
+                  "large": {
+                    "h": 768,
+                    "resize": "fit",
+                    "w": 1376
+                  },
+                  "medium": {
+                    "h": 670,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 380,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/a7j254za3U"
+              }
+            ]
+          },
+          "favoriteCount": 6601,
+          "favorited": false,
+          "fullText": "実は今、うつ病の原因が「脳」ではないかもしれないとわかってきました。今まで「セロトニンが足りないから」と言われてきたあの病気が、実は腸の細菌と、毎日使っているシャンプーや洗剤の化学物質が引き起こしていた可能性がある。そして2025年、ハーバード医学大学院がその仕組みを世界で初めて分子 https://t.co/a7j254za3U",
+          "idStr": "2062639534949437948",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 254,
+          "replyCount": 81,
+          "retweetCount": 1516,
+          "retweeted": false,
+          "userIdStr": "2037127642936418304"
+        },
+        "noteTweet": {
+          "isExpandable": true,
+          "noteTweetResults": {
+            "result": {
+              "entitySet": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "userMentions": []
+              },
+              "id": "Tm90ZVR3ZWV0OjIwNjI2Mzk1MzQ4ODY1ODAyMjQ=",
+              "text": "実は今、うつ病の原因が「脳」ではないかもしれないとわかってきました。今まで「セロトニンが足りないから」と言われてきたあの病気が、実は腸の細菌と、毎日使っているシャンプーや洗剤の化学物質が引き起こしていた可能性がある。そして2025年、ハーバード医学大学院がその仕組みを世界で初めて分子レベルで解明。「うつ病は脳ではなく、腸から始まる」その意味とは..."
+            }
+          }
+        },
+        "restId": "2062639534949437948",
+        "unmentionData": {},
+        "views": {
+          "count": "734963",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2108450519073354200",
+    "unmentionData": {},
+    "views": {
+      "count": "33",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 535,
+      "followRequestSent": false,
+      "followersCount": 40,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 19,
+      "normalFollowersCount": 40,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 177,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2037128831170174976/Wu-PA1_h_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Thu Mar 26 11:21:22 +0000 2026",
+                "name": "がりれお",
+                "screenName": "galileo_fun"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyMDM3MTI3NjQyOTM2NDE4MzA0",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "宇宙・人体・AI・脳科学・生き物…面白い科学を毎日届けます｜知的好奇心は最高の娯楽｜知った瞬間、誰かに話したくなる｜疑問・相談はリプまで｜3ポスト読んで面白いと思ったらフォローして下さい",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 8256,
+                "followRequestSent": false,
+                "followersCount": 27836,
+                "friendsCount": 1,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 90,
+                "mediaCount": 141,
+                "normalFollowersCount": 27836,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2092717729417461881"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2037127642936418304/1785138906",
+                "profileInterstitialType": "",
+                "statusesCount": 18030,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "宇宙・人体・AI・脳科学・生き物…面白い科学を毎日届けます｜知的好奇心は最高の娯楽｜知った瞬間、誰かに話したくなる｜疑問・相談はリプまで｜3ポスト読んで面白いと思ったらフォローして下さい"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "2037127642936418304",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2062639534949437948"
+          ],
+          "editableUntilMsecs": "1780610161000",
+          "editsRemaining": "5",
+          "isEditEligible": false
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 3552,
+          "bookmarked": false,
+          "conversationIdStr": "2062639534949437948",
+          "createdAt": "Thu Jun 04 20:56:01 +0000 2026",
+          "displayTextRange": [
+            0,
+            142
+          ],
+          "entities": {
+            "media": [
+              {
+                "displayUrl": "pic.x.com/a7j254za3U",
+                "expandedUrl": "https://x.com/galileo_fun/status/2062639534949437948/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2062639532432830464",
+                "indices": [
+                  143,
+                  166
+                ],
+                "mediaKey": "3_2062639532432830464",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2062639532432830464"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HJ_3ufZWMAAKNG4.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 768,
+                      "w": 1371,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 768,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 674,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 384,
+                      "x": 116,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 1376,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 768,
+                  "width": 1376
+                },
+                "sizes": {
+                  "large": {
+                    "h": 768,
+                    "resize": "fit",
+                    "w": 1376
+                  },
+                  "medium": {
+                    "h": 670,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 380,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/a7j254za3U"
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "displayUrl": "pic.x.com/a7j254za3U",
+                "expandedUrl": "https://x.com/galileo_fun/status/2062639534949437948/photo/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2062639532432830464",
+                "indices": [
+                  143,
+                  166
+                ],
+                "mediaKey": "3_2062639532432830464",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2062639532432830464"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HJ_3ufZWMAAKNG4.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 768,
+                      "w": 1371,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 768,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 674,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 384,
+                      "x": 116,
+                      "y": 0
+                    },
+                    {
+                      "h": 768,
+                      "w": 1376,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 768,
+                  "width": 1376
+                },
+                "sizes": {
+                  "large": {
+                    "h": 768,
+                    "resize": "fit",
+                    "w": 1376
+                  },
+                  "medium": {
+                    "h": 670,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 380,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/a7j254za3U"
+              }
+            ]
+          },
+          "favoriteCount": 6601,
+          "favorited": false,
+          "fullText": "実は今、うつ病の原因が「脳」ではないかもしれないとわかってきました。今まで「セロトニンが足りないから」と言われてきたあの病気が、実は腸の細菌と、毎日使っているシャンプーや洗剤の化学物質が引き起こしていた可能性がある。そして2025年、ハーバード医学大学院がその仕組みを世界で初めて分子 https://t.co/a7j254za3U",
+          "idStr": "2062639534949437948",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 254,
+          "replyCount": 81,
+          "retweetCount": 1516,
+          "retweeted": false,
+          "userIdStr": "2037127642936418304"
+        },
+        "noteTweet": {
+          "isExpandable": true,
+          "noteTweetResults": {
+            "result": {
+              "entitySet": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "userMentions": []
+              },
+              "id": "Tm90ZVR3ZWV0OjIwNjI2Mzk1MzQ4ODY1ODAyMjQ=",
+              "text": "実は今、うつ病の原因が「脳」ではないかもしれないとわかってきました。今まで「セロトニンが足りないから」と言われてきたあの病気が、実は腸の細菌と、毎日使っているシャンプーや洗剤の化学物質が引き起こしていた可能性がある。そして2025年、ハーバード医学大学院がその仕組みを世界で初めて分子レベルで解明。「うつ病は脳ではなく、腸から始まる」その意味とは..."
+            }
+          }
+        },
+        "restId": "2062639534949437948",
+        "unmentionData": {},
+        "views": {
+          "count": "734963",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2037128831170174976/Wu-PA1_h_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Thu Mar 26 11:21:22 +0000 2026",
+              "name": "がりれお",
+              "screenName": "galileo_fun"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoyMDM3MTI3NjQyOTM2NDE4MzA0",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "宇宙・人体・AI・脳科学・生き物…面白い科学を毎日届けます｜知的好奇心は最高の娯楽｜知った瞬間、誰かに話したくなる｜疑問・相談はリプまで｜3ポスト読んで面白いと思ったらフォローして下さい",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 8256,
+              "followRequestSent": false,
+              "followersCount": 27836,
+              "friendsCount": 1,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 90,
+              "mediaCount": 141,
+              "normalFollowersCount": 27836,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2092717729417461881"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2037127642936418304/1785138906",
+              "profileInterstitialType": "",
+              "statusesCount": 18030,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "宇宙・人体・AI・脳科学・生き物…面白い科学を毎日届けます｜知的好奇心は最高の娯楽｜知った瞬間、誰かに話したくなる｜疑問・相談はリプまで｜3ポスト読んで面白いと思ったらフォローして下さい"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "2037127642936418304",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2062639534949437948"
+        ],
+        "editableUntilMsecs": "1780610161000",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 3552,
+        "bookmarked": false,
+        "conversationIdStr": "2062639534949437948",
+        "createdAt": "Thu Jun 04 20:56:01 +0000 2026",
+        "displayTextRange": [
+          0,
+          142
+        ],
+        "entities": {
+          "media": [
+            {
+              "displayUrl": "pic.x.com/a7j254za3U",
+              "expandedUrl": "https://x.com/galileo_fun/status/2062639534949437948/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2062639532432830464",
+              "indices": [
+                143,
+                166
+              ],
+              "mediaKey": "3_2062639532432830464",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2062639532432830464"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HJ_3ufZWMAAKNG4.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 768,
+                    "w": 1371,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 768,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 674,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 384,
+                    "x": 116,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 1376,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 768,
+                "width": 1376
+              },
+              "sizes": {
+                "large": {
+                  "h": 768,
+                  "resize": "fit",
+                  "w": 1376
+                },
+                "medium": {
+                  "h": 670,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 380,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/a7j254za3U"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "displayUrl": "pic.x.com/a7j254za3U",
+              "expandedUrl": "https://x.com/galileo_fun/status/2062639534949437948/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2062639532432830464",
+              "indices": [
+                143,
+                166
+              ],
+              "mediaKey": "3_2062639532432830464",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2062639532432830464"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HJ_3ufZWMAAKNG4.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 768,
+                    "w": 1371,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 768,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 674,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 384,
+                    "x": 116,
+                    "y": 0
+                  },
+                  {
+                    "h": 768,
+                    "w": 1376,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 768,
+                "width": 1376
+              },
+              "sizes": {
+                "large": {
+                  "h": 768,
+                  "resize": "fit",
+                  "w": 1376
+                },
+                "medium": {
+                  "h": 670,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 380,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/a7j254za3U"
+            }
+          ]
+        },
+        "favoriteCount": 6601,
+        "favorited": false,
+        "fullText": "実は今、うつ病の原因が「脳」ではないかもしれないとわかってきました。今まで「セロトニンが足りないから」と言われてきたあの病気が、実は腸の細菌と、毎日使っているシャンプーや洗剤の化学物質が引き起こしていた可能性がある。そして2025年、ハーバード医学大学院がその仕組みを世界で初めて分子 https://t.co/a7j254za3U",
+        "idStr": "2062639534949437948",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 254,
+        "replyCount": 81,
+        "retweetCount": 1516,
+        "retweeted": false,
+        "userIdStr": "2037127642936418304"
+      },
+      "noteTweet": {
+        "isExpandable": true,
+        "noteTweetResults": {
+          "result": {
+            "entitySet": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "userMentions": []
+            },
+            "id": "Tm90ZVR3ZWV0OjIwNjI2Mzk1MzQ4ODY1ODAyMjQ=",
+            "text": "実は今、うつ病の原因が「脳」ではないかもしれないとわかってきました。今まで「セロトニンが足りないから」と言われてきたあの病気が、実は腸の細菌と、毎日使っているシャンプーや洗剤の化学物質が引き起こしていた可能性がある。そして2025年、ハーバード医学大学院がその仕組みを世界で初めて分子レベルで解明。「うつ病は脳ではなく、腸から始まる」その意味とは..."
+          }
+        }
+      },
+      "restId": "2062639534949437948",
+      "unmentionData": {},
+      "views": {
+        "count": "734963",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/2037128831170174976/Wu-PA1_h_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Thu Mar 26 11:21:22 +0000 2026",
+        "name": "がりれお",
+        "screenName": "galileo_fun"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoyMDM3MTI3NjQyOTM2NDE4MzA0",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "宇宙・人体・AI・脳科学・生き物…面白い科学を毎日届けます｜知的好奇心は最高の娯楽｜知った瞬間、誰かに話したくなる｜疑問・相談はリプまで｜3ポスト読んで面白いと思ったらフォローして下さい",
+        "entities": {
+          "description": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8256,
+        "followRequestSent": false,
+        "followersCount": 27836,
+        "friendsCount": 1,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 90,
+        "mediaCount": 141,
+        "normalFollowersCount": 27836,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "2092717729417461881"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2037127642936418304/1785138906",
+        "profileInterstitialType": "",
+        "statusesCount": 18030,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": ""
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "宇宙・人体・AI・脳科学・生き物…面白い科学を毎日届けます｜知的好奇心は最高の娯楽｜知った瞬間、誰かに話したくなる｜疑問・相談はリプまで｜3ポスト読んで面白いと思ったらフォローして下さい"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "2037127642936418304",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}
