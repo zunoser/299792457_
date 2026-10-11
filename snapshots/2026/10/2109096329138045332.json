@@ -1,0 +1,993 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 538,
+              "followRequestSent": false,
+              "followersCount": 40,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 19,
+              "normalFollowersCount": 40,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 178,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2109096329138045332"
+        ],
+        "editableUntilMsecs": "1791686324000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2109096329138045332",
+        "createdAt": "Sun Oct 11 01:38:44 +0000 2026",
+        "displayTextRange": [
+          0,
+          24
+        ],
+        "entities": {},
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "FizzでもBuzzでもFizzBuzzでもない",
+        "idStr": "2109096329138045332",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2108881063028380159",
+        "quotedStatusPermalink": {
+          "display": "x.com/mitsu_mm3/stat…",
+          "expanded": "https://twitter.com/mitsu_mm3/status/2108881063028380159",
+          "url": "https://t.co/fjRXwnZIwW"
+        },
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2039733783306653697/Il7u-PeR_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Mon Nov 10 11:47:25 +0000 2025",
+                  "name": "りっぽーみり",
+                  "screenName": "mitsu_mm3"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxOTg3ODQ5NTM3NjgwMjQwNjQw",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "どれほど",
+                  "entities": {
+                    "description": {}
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 6280,
+                  "followRequestSent": false,
+                  "followersCount": 140,
+                  "friendsCount": 130,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 1,
+                  "mediaCount": 89,
+                  "normalFollowersCount": 140,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1987849537680240640/1762776636",
+                  "profileInterstitialType": "",
+                  "statusesCount": 951,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "どれほど"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1987849537680240640",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2108881063028380159"
+            ],
+            "editableUntilMsecs": "1791635001000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 52,
+            "bookmarked": false,
+            "conversationIdStr": "2108881063028380159",
+            "createdAt": "Sat Oct 10 11:23:21 +0000 2026",
+            "displayTextRange": [
+              0,
+              103
+            ],
+            "entities": {},
+            "favoriteCount": 290,
+            "favorited": false,
+            "fullText": "数学の定義を見かけの上ではできるだけ弱く述べる慣習があると思うけど、あれ嫌い\n\nそれよりも整合性がある方がいい\n\n例えば正三角形の定義は「すべての辺の長さが等しく、すべての内角の大きさも等しい三角形」が好き",
+            "idStr": "2108881063028380159",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "quoteCount": 17,
+            "replyCount": 15,
+            "retweetCount": 7,
+            "retweeted": false,
+            "userIdStr": "1987849537680240640"
+          },
+          "restId": "2108881063028380159",
+          "unmentionData": {},
+          "views": {
+            "count": "67556",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2109096329138045332",
+      "unmentionData": {},
+      "views": {
+        "count": "28",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 538,
+            "followRequestSent": false,
+            "followersCount": 40,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 19,
+            "normalFollowersCount": 40,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 178,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2109096329138045332"
+      ],
+      "editableUntilMsecs": "1791686324000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2109096329138045332",
+      "createdAt": "Sun Oct 11 01:38:44 +0000 2026",
+      "displayTextRange": [
+        0,
+        24
+      ],
+      "entities": {},
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "FizzでもBuzzでもFizzBuzzでもない",
+      "idStr": "2109096329138045332",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2108881063028380159",
+      "quotedStatusPermalink": {
+        "display": "x.com/mitsu_mm3/stat…",
+        "expanded": "https://twitter.com/mitsu_mm3/status/2108881063028380159",
+        "url": "https://t.co/fjRXwnZIwW"
+      },
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2039733783306653697/Il7u-PeR_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Mon Nov 10 11:47:25 +0000 2025",
+                "name": "りっぽーみり",
+                "screenName": "mitsu_mm3"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxOTg3ODQ5NTM3NjgwMjQwNjQw",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "どれほど",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 6280,
+                "followRequestSent": false,
+                "followersCount": 140,
+                "friendsCount": 130,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 1,
+                "mediaCount": 89,
+                "normalFollowersCount": 140,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1987849537680240640/1762776636",
+                "profileInterstitialType": "",
+                "statusesCount": 951,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "どれほど"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1987849537680240640",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2108881063028380159"
+          ],
+          "editableUntilMsecs": "1791635001000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 52,
+          "bookmarked": false,
+          "conversationIdStr": "2108881063028380159",
+          "createdAt": "Sat Oct 10 11:23:21 +0000 2026",
+          "displayTextRange": [
+            0,
+            103
+          ],
+          "entities": {},
+          "favoriteCount": 290,
+          "favorited": false,
+          "fullText": "数学の定義を見かけの上ではできるだけ弱く述べる慣習があると思うけど、あれ嫌い\n\nそれよりも整合性がある方がいい\n\n例えば正三角形の定義は「すべての辺の長さが等しく、すべての内角の大きさも等しい三角形」が好き",
+          "idStr": "2108881063028380159",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "quoteCount": 17,
+          "replyCount": 15,
+          "retweetCount": 7,
+          "retweeted": false,
+          "userIdStr": "1987849537680240640"
+        },
+        "restId": "2108881063028380159",
+        "unmentionData": {},
+        "views": {
+          "count": "67556",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2109096329138045332",
+    "unmentionData": {},
+    "views": {
+      "count": "28",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 538,
+      "followRequestSent": false,
+      "followersCount": 40,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 19,
+      "normalFollowersCount": 40,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 178,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2039733783306653697/Il7u-PeR_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Mon Nov 10 11:47:25 +0000 2025",
+                "name": "りっぽーみり",
+                "screenName": "mitsu_mm3"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxOTg3ODQ5NTM3NjgwMjQwNjQw",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "どれほど",
+                "entities": {
+                  "description": {}
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 6280,
+                "followRequestSent": false,
+                "followersCount": 140,
+                "friendsCount": 130,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 1,
+                "mediaCount": 89,
+                "normalFollowersCount": 140,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1987849537680240640/1762776636",
+                "profileInterstitialType": "",
+                "statusesCount": 951,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "どれほど"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1987849537680240640",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2108881063028380159"
+          ],
+          "editableUntilMsecs": "1791635001000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 52,
+          "bookmarked": false,
+          "conversationIdStr": "2108881063028380159",
+          "createdAt": "Sat Oct 10 11:23:21 +0000 2026",
+          "displayTextRange": [
+            0,
+            103
+          ],
+          "entities": {},
+          "favoriteCount": 290,
+          "favorited": false,
+          "fullText": "数学の定義を見かけの上ではできるだけ弱く述べる慣習があると思うけど、あれ嫌い\n\nそれよりも整合性がある方がいい\n\n例えば正三角形の定義は「すべての辺の長さが等しく、すべての内角の大きさも等しい三角形」が好き",
+          "idStr": "2108881063028380159",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "quoteCount": 17,
+          "replyCount": 15,
+          "retweetCount": 7,
+          "retweeted": false,
+          "userIdStr": "1987849537680240640"
+        },
+        "restId": "2108881063028380159",
+        "unmentionData": {},
+        "views": {
+          "count": "67556",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2039733783306653697/Il7u-PeR_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Mon Nov 10 11:47:25 +0000 2025",
+              "name": "りっぽーみり",
+              "screenName": "mitsu_mm3"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTg3ODQ5NTM3NjgwMjQwNjQw",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "どれほど",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 6280,
+              "followRequestSent": false,
+              "followersCount": 140,
+              "friendsCount": 130,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 89,
+              "normalFollowersCount": 140,
+              "notifications": false,
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1987849537680240640/1762776636",
+              "profileInterstitialType": "",
+              "statusesCount": 951,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "どれほど"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1987849537680240640",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2108881063028380159"
+        ],
+        "editableUntilMsecs": "1791635001000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 52,
+        "bookmarked": false,
+        "conversationIdStr": "2108881063028380159",
+        "createdAt": "Sat Oct 10 11:23:21 +0000 2026",
+        "displayTextRange": [
+          0,
+          103
+        ],
+        "entities": {},
+        "favoriteCount": 290,
+        "favorited": false,
+        "fullText": "数学の定義を見かけの上ではできるだけ弱く述べる慣習があると思うけど、あれ嫌い\n\nそれよりも整合性がある方がいい\n\n例えば正三角形の定義は「すべての辺の長さが等しく、すべての内角の大きさも等しい三角形」が好き",
+        "idStr": "2108881063028380159",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 17,
+        "replyCount": 15,
+        "retweetCount": 7,
+        "retweeted": false,
+        "userIdStr": "1987849537680240640"
+      },
+      "restId": "2108881063028380159",
+      "unmentionData": {},
+      "views": {
+        "count": "67556",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/2039733783306653697/Il7u-PeR_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Mon Nov 10 11:47:25 +0000 2025",
+        "name": "りっぽーみり",
+        "screenName": "mitsu_mm3"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxOTg3ODQ5NTM3NjgwMjQwNjQw",
+      "isBlueVerified": false,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "どれほど",
+        "entities": {
+          "description": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 6280,
+        "followRequestSent": false,
+        "followersCount": 140,
+        "friendsCount": 130,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 1,
+        "mediaCount": 89,
+        "normalFollowersCount": 140,
+        "notifications": false,
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1987849537680240640/1762776636",
+        "profileInterstitialType": "",
+        "statusesCount": 951,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": ""
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "どれほど"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1987849537680240640",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}
