@@ -1,0 +1,4646 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 539,
+              "followRequestSent": false,
+              "followersCount": 40,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 19,
+              "normalFollowersCount": 40,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 181,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2109636213137404371"
+        ],
+        "editableUntilMsecs": "1791815043014",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": false,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2109636213137404371",
+        "createdAt": "Mon Oct 12 13:24:03 +0000 2026",
+        "displayTextRange": [
+          0,
+          38
+        ],
+        "entities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false,
+                "sourceUser": {
+                  "userResults": {
+                    "result": {
+                      "typename": "User",
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                      },
+                      "core": {
+                        "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                        "name": "nakasyou",
+                        "screenName": "nakasyou0"
+                      },
+                      "dmPermissions": {
+                        "canDm": false
+                      },
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                      "isBlueVerified": true,
+                      "legacy": {
+                        "defaultProfile": true,
+                        "defaultProfileImage": false,
+                        "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                        "entities": {
+                          "description": {},
+                          "url": {
+                            "urls": [
+                              {
+                                "display_url": "nakasyou.how",
+                                "expanded_url": "http://nakasyou.how",
+                                "indices": [
+                                  0,
+                                  23
+                                ],
+                                "url": "https://t.co/Vu0PfgrsvW"
+                              }
+                            ]
+                          }
+                        },
+                        "fastFollowersCount": 0,
+                        "favouritesCount": 173966,
+                        "followRequestSent": false,
+                        "followersCount": 4234,
+                        "friendsCount": 1129,
+                        "hasCustomTimelines": true,
+                        "isTranslator": false,
+                        "listedCount": 27,
+                        "mediaCount": 1054,
+                        "normalFollowersCount": 4234,
+                        "notifications": false,
+                        "possiblySensitive": false,
+                        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                        "profileInterstitialType": "",
+                        "statusesCount": 15209,
+                        "timeZone": "",
+                        "translatorType": "none",
+                        "url": "https://t.co/Vu0PfgrsvW",
+                        "utcOffset": 0,
+                        "withheldDescription": "",
+                        "withheldScope": ""
+                      },
+                      "location": {
+                        "location": "Tokyo, Japan/🇯🇵"
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "privacy": {
+                        "_protected": false
+                      },
+                      "profileBio": {
+                        "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                      },
+                      "profileImageShape": "Circle",
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false
+                      },
+                      "restId": "1608625702836011009",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tipjarSettings": {
+                        "bandcampHandle": "",
+                        "bitcoinHandle": "",
+                        "cashAppHandle": "",
+                        "ethereumHandle": "",
+                        "gofundmeHandle": "",
+                        "isEnabled": false,
+                        "patreonHandle": "",
+                        "payPalHandle": "",
+                        "venmoHandle": ""
+                      },
+                      "verification": {
+                        "verified": false
+                      }
+                    }
+                  }
+                }
+              },
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/lqVAImSp57",
+              "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2109635583488512000",
+              "indices": [
+                15,
+                38
+              ],
+              "mediaKey": "13_2109635583488512000",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2109635583488512000"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1920,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1920,
+                  "resize": "fit",
+                  "w": 1080
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 675
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 383
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "sourceStatusIdStr": "2109635634893930521",
+              "sourceUserIdStr": "1608625702836011009",
+              "type": "video",
+              "url": "https://t.co/lqVAImSp57",
+              "videoInfo": {
+                "aspectRatio": [
+                  9,
+                  16
+                ],
+                "durationMillis": 62521,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ],
+          "userMentions": [
+            {
+              "id_str": "1608625702836011009",
+              "indices": [
+                3,
+                13
+              ],
+              "name": "nakasyou",
+              "screen_name": "nakasyou0"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false,
+                "sourceUser": {
+                  "userResults": {
+                    "result": {
+                      "typename": "User",
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                      },
+                      "core": {
+                        "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                        "name": "nakasyou",
+                        "screenName": "nakasyou0"
+                      },
+                      "dmPermissions": {
+                        "canDm": false
+                      },
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                      "isBlueVerified": true,
+                      "legacy": {
+                        "defaultProfile": true,
+                        "defaultProfileImage": false,
+                        "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                        "entities": {
+                          "description": {},
+                          "url": {
+                            "urls": [
+                              {
+                                "display_url": "nakasyou.how",
+                                "expanded_url": "http://nakasyou.how",
+                                "indices": [
+                                  0,
+                                  23
+                                ],
+                                "url": "https://t.co/Vu0PfgrsvW"
+                              }
+                            ]
+                          }
+                        },
+                        "fastFollowersCount": 0,
+                        "favouritesCount": 173966,
+                        "followRequestSent": false,
+                        "followersCount": 4234,
+                        "friendsCount": 1129,
+                        "hasCustomTimelines": true,
+                        "isTranslator": false,
+                        "listedCount": 27,
+                        "mediaCount": 1054,
+                        "normalFollowersCount": 4234,
+                        "notifications": false,
+                        "possiblySensitive": false,
+                        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                        "profileInterstitialType": "",
+                        "statusesCount": 15209,
+                        "timeZone": "",
+                        "translatorType": "none",
+                        "url": "https://t.co/Vu0PfgrsvW",
+                        "utcOffset": 0,
+                        "withheldDescription": "",
+                        "withheldScope": ""
+                      },
+                      "location": {
+                        "location": "Tokyo, Japan/🇯🇵"
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "privacy": {
+                        "_protected": false
+                      },
+                      "profileBio": {
+                        "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                      },
+                      "profileImageShape": "Circle",
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false
+                      },
+                      "restId": "1608625702836011009",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tipjarSettings": {
+                        "bandcampHandle": "",
+                        "bitcoinHandle": "",
+                        "cashAppHandle": "",
+                        "ethereumHandle": "",
+                        "gofundmeHandle": "",
+                        "isEnabled": false,
+                        "patreonHandle": "",
+                        "payPalHandle": "",
+                        "venmoHandle": ""
+                      },
+                      "verification": {
+                        "verified": false
+                      }
+                    }
+                  }
+                }
+              },
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/lqVAImSp57",
+              "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2109635583488512000",
+              "indices": [
+                15,
+                38
+              ],
+              "mediaKey": "13_2109635583488512000",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2109635583488512000"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1920,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1920,
+                  "resize": "fit",
+                  "w": 1080
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 675
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 383
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "sourceStatusIdStr": "2109635634893930521",
+              "sourceUserIdStr": "1608625702836011009",
+              "type": "video",
+              "url": "https://t.co/lqVAImSp57",
+              "videoInfo": {
+                "aspectRatio": [
+                  9,
+                  16
+                ],
+                "durationMillis": 62521,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "RT @nakasyou0: https://t.co/lqVAImSp57",
+        "idStr": "2109636213137404371",
+        "isQuoteStatus": true,
+        "lang": "zxx",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2109633677630357799",
+        "quotedStatusPermalink": {
+          "display": "x.com/nakasyou0/stat…",
+          "expanded": "https://twitter.com/nakasyou0/status/2109633677630357799",
+          "url": "https://t.co/FFI6bdMWqJ"
+        },
+        "replyCount": 0,
+        "retweetCount": 302,
+        "retweeted": false,
+        "retweetedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                    "name": "nakasyou",
+                    "screenName": "nakasyou0"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": true,
+                    "defaultProfileImage": false,
+                    "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                    "entities": {
+                      "description": {},
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "nakasyou.how",
+                            "expanded_url": "http://nakasyou.how",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/Vu0PfgrsvW"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 173966,
+                    "followRequestSent": false,
+                    "followersCount": 4234,
+                    "friendsCount": 1129,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "listedCount": 27,
+                    "mediaCount": 1054,
+                    "normalFollowersCount": 4234,
+                    "notifications": false,
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                    "profileInterstitialType": "",
+                    "statusesCount": 15209,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/Vu0PfgrsvW",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "Tokyo, Japan/🇯🇵"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                  },
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "1608625702836011009",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2109635634893930521"
+              ],
+              "editableUntilMsecs": "1791814905000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": false,
+            "legacy": {
+              "bookmarkCount": 608,
+              "bookmarked": false,
+              "conversationIdStr": "2109635634893930521",
+              "createdAt": "Mon Oct 12 13:21:45 +0000 2026",
+              "displayTextRange": [
+                0,
+                0
+              ],
+              "entities": {
+                "media": [
+                  {
+                    "additionalMediaInfo": {
+                      "monetizable": false
+                    },
+                    "allowDownloadStatus": {
+                      "allowDownload": true
+                    },
+                    "displayUrl": "pic.x.com/lqVAImSp57",
+                    "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+                    "extMediaAvailability": {
+                      "status": "Available"
+                    },
+                    "idStr": "2109635583488512000",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "mediaKey": "13_2109635583488512000",
+                    "mediaResults": {
+                      "result": {
+                        "mediaKey": "13_2109635583488512000"
+                      }
+                    },
+                    "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+                    "originalInfo": {
+                      "focusRects": [],
+                      "height": 1920,
+                      "width": 1080
+                    },
+                    "sizes": {
+                      "large": {
+                        "h": 1920,
+                        "resize": "fit",
+                        "w": 1080
+                      },
+                      "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 675
+                      },
+                      "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                      },
+                      "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                      }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/lqVAImSp57",
+                    "videoInfo": {
+                      "aspectRatio": [
+                        9,
+                        16
+                      ],
+                      "durationMillis": 62521,
+                      "variants": [
+                        {
+                          "contentType": "application/x-mpegURL",
+                          "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                        },
+                        {
+                          "bitrate": 632000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 950000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 2176000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 10368000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              "extendedEntities": {
+                "media": [
+                  {
+                    "additionalMediaInfo": {
+                      "monetizable": false
+                    },
+                    "allowDownloadStatus": {
+                      "allowDownload": true
+                    },
+                    "displayUrl": "pic.x.com/lqVAImSp57",
+                    "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+                    "extMediaAvailability": {
+                      "status": "Available"
+                    },
+                    "idStr": "2109635583488512000",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "mediaKey": "13_2109635583488512000",
+                    "mediaResults": {
+                      "result": {
+                        "mediaKey": "13_2109635583488512000"
+                      }
+                    },
+                    "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+                    "originalInfo": {
+                      "focusRects": [],
+                      "height": 1920,
+                      "width": 1080
+                    },
+                    "sizes": {
+                      "large": {
+                        "h": 1920,
+                        "resize": "fit",
+                        "w": 1080
+                      },
+                      "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 675
+                      },
+                      "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 383
+                      },
+                      "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                      }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/lqVAImSp57",
+                    "videoInfo": {
+                      "aspectRatio": [
+                        9,
+                        16
+                      ],
+                      "durationMillis": 62521,
+                      "variants": [
+                        {
+                          "contentType": "application/x-mpegURL",
+                          "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                        },
+                        {
+                          "bitrate": 632000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 950000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 2176000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 10368000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              "favoriteCount": 2046,
+              "favorited": false,
+              "fullText": "https://t.co/lqVAImSp57",
+              "idStr": "2109635634893930521",
+              "isQuoteStatus": true,
+              "lang": "zxx",
+              "possiblySensitive": false,
+              "possiblySensitiveEditable": true,
+              "quoteCount": 47,
+              "quotedStatusIdStr": "2109633677630357799",
+              "quotedStatusPermalink": {
+                "display": "x.com/nakasyou0/stat…",
+                "expanded": "https://twitter.com/nakasyou0/status/2109633677630357799",
+                "url": "https://t.co/FFI6bdMWqJ"
+              },
+              "replyCount": 9,
+              "retweetCount": 302,
+              "retweeted": false,
+              "userIdStr": "1608625702836011009"
+            },
+            "quotedStatusResult": {
+              "result": {
+                "typename": "Tweet",
+                "core": {
+                  "userResults": {
+                    "result": {
+                      "typename": "User",
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                      },
+                      "core": {
+                        "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                        "name": "nakasyou",
+                        "screenName": "nakasyou0"
+                      },
+                      "dmPermissions": {
+                        "canDm": false
+                      },
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                      "isBlueVerified": true,
+                      "legacy": {
+                        "defaultProfile": true,
+                        "defaultProfileImage": false,
+                        "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                        "entities": {
+                          "description": {},
+                          "url": {
+                            "urls": [
+                              {
+                                "display_url": "nakasyou.how",
+                                "expanded_url": "http://nakasyou.how",
+                                "indices": [
+                                  0,
+                                  23
+                                ],
+                                "url": "https://t.co/Vu0PfgrsvW"
+                              }
+                            ]
+                          }
+                        },
+                        "fastFollowersCount": 0,
+                        "favouritesCount": 173966,
+                        "followRequestSent": false,
+                        "followersCount": 4234,
+                        "friendsCount": 1129,
+                        "hasCustomTimelines": true,
+                        "isTranslator": false,
+                        "listedCount": 27,
+                        "mediaCount": 1054,
+                        "normalFollowersCount": 4234,
+                        "notifications": false,
+                        "possiblySensitive": false,
+                        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                        "profileInterstitialType": "",
+                        "statusesCount": 15209,
+                        "timeZone": "",
+                        "translatorType": "none",
+                        "url": "https://t.co/Vu0PfgrsvW",
+                        "utcOffset": 0,
+                        "withheldDescription": "",
+                        "withheldScope": ""
+                      },
+                      "location": {
+                        "location": "Tokyo, Japan/🇯🇵"
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "privacy": {
+                        "_protected": false
+                      },
+                      "profileBio": {
+                        "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                      },
+                      "profileImageShape": "Circle",
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false
+                      },
+                      "restId": "1608625702836011009",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tipjarSettings": {
+                        "bandcampHandle": "",
+                        "bitcoinHandle": "",
+                        "cashAppHandle": "",
+                        "ethereumHandle": "",
+                        "gofundmeHandle": "",
+                        "isEnabled": false,
+                        "patreonHandle": "",
+                        "payPalHandle": "",
+                        "venmoHandle": ""
+                      },
+                      "verification": {
+                        "verified": false
+                      }
+                    }
+                  }
+                },
+                "editControl": {
+                  "editTweetIds": [
+                    "2109633677630357799"
+                  ],
+                  "editableUntilMsecs": "1791814438000",
+                  "editsRemaining": "5",
+                  "isEditEligible": true
+                },
+                "grokAnalysisButton": true,
+                "isTranslatable": true,
+                "legacy": {
+                  "bookmarkCount": 48,
+                  "bookmarked": false,
+                  "conversationIdStr": "2109633677630357799",
+                  "createdAt": "Mon Oct 12 13:13:58 +0000 2026",
+                  "displayTextRange": [
+                    0,
+                    52
+                  ],
+                  "entities": {
+                    "media": [
+                      {
+                        "additionalMediaInfo": {
+                          "monetizable": false
+                        },
+                        "displayUrl": "pic.x.com/A6jP52hvFe",
+                        "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                        "extMediaAvailability": {
+                          "status": "Available"
+                        },
+                        "idStr": "2109633625813884928",
+                        "indices": [
+                          53,
+                          76
+                        ],
+                        "mediaKey": "13_2109633625813884928",
+                        "mediaResults": {
+                          "result": {
+                            "mediaKey": "13_2109633625813884928"
+                          }
+                        },
+                        "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                        "originalInfo": {
+                          "focusRects": [],
+                          "height": 1440,
+                          "width": 1080
+                        },
+                        "sizes": {
+                          "large": {
+                            "h": 1440,
+                            "resize": "fit",
+                            "w": 1080
+                          },
+                          "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 900
+                          },
+                          "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 510
+                          },
+                          "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                          }
+                        },
+                        "type": "video",
+                        "url": "https://t.co/A6jP52hvFe",
+                        "videoInfo": {
+                          "aspectRatio": [
+                            3,
+                            4
+                          ],
+                          "durationMillis": 19161,
+                          "variants": [
+                            {
+                              "contentType": "application/x-mpegURL",
+                              "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                            },
+                            {
+                              "bitrate": 632000,
+                              "contentType": "video/mp4",
+                              "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                            },
+                            {
+                              "bitrate": 950000,
+                              "contentType": "video/mp4",
+                              "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                            },
+                            {
+                              "bitrate": 2176000,
+                              "contentType": "video/mp4",
+                              "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                            },
+                            {
+                              "bitrate": 10368000,
+                              "contentType": "video/mp4",
+                              "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "extendedEntities": {
+                    "media": [
+                      {
+                        "additionalMediaInfo": {
+                          "monetizable": false
+                        },
+                        "displayUrl": "pic.x.com/A6jP52hvFe",
+                        "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                        "extMediaAvailability": {
+                          "status": "Available"
+                        },
+                        "idStr": "2109633625813884928",
+                        "indices": [
+                          53,
+                          76
+                        ],
+                        "mediaKey": "13_2109633625813884928",
+                        "mediaResults": {
+                          "result": {
+                            "mediaKey": "13_2109633625813884928"
+                          }
+                        },
+                        "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                        "originalInfo": {
+                          "focusRects": [],
+                          "height": 1440,
+                          "width": 1080
+                        },
+                        "sizes": {
+                          "large": {
+                            "h": 1440,
+                            "resize": "fit",
+                            "w": 1080
+                          },
+                          "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 900
+                          },
+                          "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 510
+                          },
+                          "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                          }
+                        },
+                        "type": "video",
+                        "url": "https://t.co/A6jP52hvFe",
+                        "videoInfo": {
+                          "aspectRatio": [
+                            3,
+                            4
+                          ],
+                          "durationMillis": 19161,
+                          "variants": [
+                            {
+                              "contentType": "application/x-mpegURL",
+                              "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                            },
+                            {
+                              "bitrate": 632000,
+                              "contentType": "video/mp4",
+                              "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                            },
+                            {
+                              "bitrate": 950000,
+                              "contentType": "video/mp4",
+                              "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                            },
+                            {
+                              "bitrate": 2176000,
+                              "contentType": "video/mp4",
+                              "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                            },
+                            {
+                              "bitrate": 10368000,
+                              "contentType": "video/mp4",
+                              "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "favoriteCount": 212,
+                  "favorited": false,
+                  "fullText": "妖怪ウォッチ U プロトタイプの更新ファイル改造してメダル 3D プリントすることで任意の音声流せた！！ https://t.co/A6jP52hvFe",
+                  "idStr": "2109633677630357799",
+                  "isQuoteStatus": false,
+                  "lang": "ja",
+                  "possiblySensitive": false,
+                  "possiblySensitiveEditable": true,
+                  "quoteCount": 3,
+                  "replyCount": 1,
+                  "retweetCount": 17,
+                  "retweeted": false,
+                  "userIdStr": "1608625702836011009"
+                },
+                "restId": "2109633677630357799",
+                "unmentionData": {},
+                "views": {
+                  "count": "115315",
+                  "state": "EnabledWithCount"
+                }
+              }
+            },
+            "restId": "2109635634893930521",
+            "unmentionData": {},
+            "views": {
+              "count": "113223",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2109636213137404371",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "unmentionData": {},
+      "views": {
+        "count": "1",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 539,
+            "followRequestSent": false,
+            "followersCount": 40,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 19,
+            "normalFollowersCount": 40,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 181,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2109636213137404371"
+      ],
+      "editableUntilMsecs": "1791815043014",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": false,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2109636213137404371",
+      "createdAt": "Mon Oct 12 13:24:03 +0000 2026",
+      "displayTextRange": [
+        0,
+        38
+      ],
+      "entities": {
+        "media": [
+          {
+            "additionalMediaInfo": {
+              "monetizable": false,
+              "sourceUser": {
+                "userResults": {
+                  "result": {
+                    "typename": "User",
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                    },
+                    "core": {
+                      "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                      "name": "nakasyou",
+                      "screenName": "nakasyou0"
+                    },
+                    "dmPermissions": {
+                      "canDm": false
+                    },
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                    "isBlueVerified": true,
+                    "legacy": {
+                      "defaultProfile": true,
+                      "defaultProfileImage": false,
+                      "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                      "entities": {
+                        "description": {},
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "nakasyou.how",
+                              "expanded_url": "http://nakasyou.how",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/Vu0PfgrsvW"
+                            }
+                          ]
+                        }
+                      },
+                      "fastFollowersCount": 0,
+                      "favouritesCount": 173966,
+                      "followRequestSent": false,
+                      "followersCount": 4234,
+                      "friendsCount": 1129,
+                      "hasCustomTimelines": true,
+                      "isTranslator": false,
+                      "listedCount": 27,
+                      "mediaCount": 1054,
+                      "normalFollowersCount": 4234,
+                      "notifications": false,
+                      "possiblySensitive": false,
+                      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                      "profileInterstitialType": "",
+                      "statusesCount": 15209,
+                      "timeZone": "",
+                      "translatorType": "none",
+                      "url": "https://t.co/Vu0PfgrsvW",
+                      "utcOffset": 0,
+                      "withheldDescription": "",
+                      "withheldScope": ""
+                    },
+                    "location": {
+                      "location": "Tokyo, Japan/🇯🇵"
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "privacy": {
+                      "_protected": false
+                    },
+                    "profileBio": {
+                      "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                    },
+                    "profileImageShape": "Circle",
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false
+                    },
+                    "restId": "1608625702836011009",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tipjarSettings": {
+                      "bandcampHandle": "",
+                      "bitcoinHandle": "",
+                      "cashAppHandle": "",
+                      "ethereumHandle": "",
+                      "gofundmeHandle": "",
+                      "isEnabled": false,
+                      "patreonHandle": "",
+                      "payPalHandle": "",
+                      "venmoHandle": ""
+                    },
+                    "verification": {
+                      "verified": false
+                    }
+                  }
+                }
+              }
+            },
+            "allowDownloadStatus": {
+              "allowDownload": true
+            },
+            "displayUrl": "pic.x.com/lqVAImSp57",
+            "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "idStr": "2109635583488512000",
+            "indices": [
+              15,
+              38
+            ],
+            "mediaKey": "13_2109635583488512000",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "13_2109635583488512000"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+            "originalInfo": {
+              "focusRects": [],
+              "height": 1920,
+              "width": 1080
+            },
+            "sizes": {
+              "large": {
+                "h": 1920,
+                "resize": "fit",
+                "w": 1080
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "sourceStatusIdStr": "2109635634893930521",
+            "sourceUserIdStr": "1608625702836011009",
+            "type": "video",
+            "url": "https://t.co/lqVAImSp57",
+            "videoInfo": {
+              "aspectRatio": [
+                9,
+                16
+              ],
+              "durationMillis": 62521,
+              "variants": [
+                {
+                  "contentType": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 632000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                },
+                {
+                  "bitrate": 950000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                }
+              ]
+            }
+          }
+        ],
+        "userMentions": [
+          {
+            "id_str": "1608625702836011009",
+            "indices": [
+              3,
+              13
+            ],
+            "name": "nakasyou",
+            "screen_name": "nakasyou0"
+          }
+        ]
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additionalMediaInfo": {
+              "monetizable": false,
+              "sourceUser": {
+                "userResults": {
+                  "result": {
+                    "typename": "User",
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                    },
+                    "core": {
+                      "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                      "name": "nakasyou",
+                      "screenName": "nakasyou0"
+                    },
+                    "dmPermissions": {
+                      "canDm": false
+                    },
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                    "isBlueVerified": true,
+                    "legacy": {
+                      "defaultProfile": true,
+                      "defaultProfileImage": false,
+                      "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                      "entities": {
+                        "description": {},
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "nakasyou.how",
+                              "expanded_url": "http://nakasyou.how",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/Vu0PfgrsvW"
+                            }
+                          ]
+                        }
+                      },
+                      "fastFollowersCount": 0,
+                      "favouritesCount": 173966,
+                      "followRequestSent": false,
+                      "followersCount": 4234,
+                      "friendsCount": 1129,
+                      "hasCustomTimelines": true,
+                      "isTranslator": false,
+                      "listedCount": 27,
+                      "mediaCount": 1054,
+                      "normalFollowersCount": 4234,
+                      "notifications": false,
+                      "possiblySensitive": false,
+                      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                      "profileInterstitialType": "",
+                      "statusesCount": 15209,
+                      "timeZone": "",
+                      "translatorType": "none",
+                      "url": "https://t.co/Vu0PfgrsvW",
+                      "utcOffset": 0,
+                      "withheldDescription": "",
+                      "withheldScope": ""
+                    },
+                    "location": {
+                      "location": "Tokyo, Japan/🇯🇵"
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "privacy": {
+                      "_protected": false
+                    },
+                    "profileBio": {
+                      "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                    },
+                    "profileImageShape": "Circle",
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false
+                    },
+                    "restId": "1608625702836011009",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tipjarSettings": {
+                      "bandcampHandle": "",
+                      "bitcoinHandle": "",
+                      "cashAppHandle": "",
+                      "ethereumHandle": "",
+                      "gofundmeHandle": "",
+                      "isEnabled": false,
+                      "patreonHandle": "",
+                      "payPalHandle": "",
+                      "venmoHandle": ""
+                    },
+                    "verification": {
+                      "verified": false
+                    }
+                  }
+                }
+              }
+            },
+            "allowDownloadStatus": {
+              "allowDownload": true
+            },
+            "displayUrl": "pic.x.com/lqVAImSp57",
+            "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "idStr": "2109635583488512000",
+            "indices": [
+              15,
+              38
+            ],
+            "mediaKey": "13_2109635583488512000",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "13_2109635583488512000"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+            "originalInfo": {
+              "focusRects": [],
+              "height": 1920,
+              "width": 1080
+            },
+            "sizes": {
+              "large": {
+                "h": 1920,
+                "resize": "fit",
+                "w": 1080
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "sourceStatusIdStr": "2109635634893930521",
+            "sourceUserIdStr": "1608625702836011009",
+            "type": "video",
+            "url": "https://t.co/lqVAImSp57",
+            "videoInfo": {
+              "aspectRatio": [
+                9,
+                16
+              ],
+              "durationMillis": 62521,
+              "variants": [
+                {
+                  "contentType": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 632000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                },
+                {
+                  "bitrate": 950000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "RT @nakasyou0: https://t.co/lqVAImSp57",
+      "idStr": "2109636213137404371",
+      "isQuoteStatus": true,
+      "lang": "zxx",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2109633677630357799",
+      "quotedStatusPermalink": {
+        "display": "x.com/nakasyou0/stat…",
+        "expanded": "https://twitter.com/nakasyou0/status/2109633677630357799",
+        "url": "https://t.co/FFI6bdMWqJ"
+      },
+      "replyCount": 0,
+      "retweetCount": 302,
+      "retweeted": false,
+      "retweetedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                  "name": "nakasyou",
+                  "screenName": "nakasyou0"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "nakasyou.how",
+                          "expanded_url": "http://nakasyou.how",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/Vu0PfgrsvW"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 173966,
+                  "followRequestSent": false,
+                  "followersCount": 4234,
+                  "friendsCount": 1129,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 27,
+                  "mediaCount": 1054,
+                  "normalFollowersCount": 4234,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                  "profileInterstitialType": "",
+                  "statusesCount": 15209,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/Vu0PfgrsvW",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "Tokyo, Japan/🇯🇵"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                },
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1608625702836011009",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2109635634893930521"
+            ],
+            "editableUntilMsecs": "1791814905000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": false,
+          "legacy": {
+            "bookmarkCount": 608,
+            "bookmarked": false,
+            "conversationIdStr": "2109635634893930521",
+            "createdAt": "Mon Oct 12 13:21:45 +0000 2026",
+            "displayTextRange": [
+              0,
+              0
+            ],
+            "entities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/lqVAImSp57",
+                  "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2109635583488512000",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "mediaKey": "13_2109635583488512000",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2109635583488512000"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1920,
+                    "width": 1080
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1920,
+                      "resize": "fit",
+                      "w": 1080
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "resize": "fit",
+                      "w": 675
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 383
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/lqVAImSp57",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      9,
+                      16
+                    ],
+                    "durationMillis": 62521,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                      },
+                      {
+                        "bitrate": 632000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 950000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/lqVAImSp57",
+                  "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2109635583488512000",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "mediaKey": "13_2109635583488512000",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2109635583488512000"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1920,
+                    "width": 1080
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1920,
+                      "resize": "fit",
+                      "w": 1080
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "resize": "fit",
+                      "w": 675
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 383
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/lqVAImSp57",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      9,
+                      16
+                    ],
+                    "durationMillis": 62521,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                      },
+                      {
+                        "bitrate": 632000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 950000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favoriteCount": 2046,
+            "favorited": false,
+            "fullText": "https://t.co/lqVAImSp57",
+            "idStr": "2109635634893930521",
+            "isQuoteStatus": true,
+            "lang": "zxx",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 47,
+            "quotedStatusIdStr": "2109633677630357799",
+            "quotedStatusPermalink": {
+              "display": "x.com/nakasyou0/stat…",
+              "expanded": "https://twitter.com/nakasyou0/status/2109633677630357799",
+              "url": "https://t.co/FFI6bdMWqJ"
+            },
+            "replyCount": 9,
+            "retweetCount": 302,
+            "retweeted": false,
+            "userIdStr": "1608625702836011009"
+          },
+          "quotedStatusResult": {
+            "result": {
+              "typename": "Tweet",
+              "core": {
+                "userResults": {
+                  "result": {
+                    "typename": "User",
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                    },
+                    "core": {
+                      "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                      "name": "nakasyou",
+                      "screenName": "nakasyou0"
+                    },
+                    "dmPermissions": {
+                      "canDm": false
+                    },
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                    "isBlueVerified": true,
+                    "legacy": {
+                      "defaultProfile": true,
+                      "defaultProfileImage": false,
+                      "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                      "entities": {
+                        "description": {},
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "nakasyou.how",
+                              "expanded_url": "http://nakasyou.how",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/Vu0PfgrsvW"
+                            }
+                          ]
+                        }
+                      },
+                      "fastFollowersCount": 0,
+                      "favouritesCount": 173966,
+                      "followRequestSent": false,
+                      "followersCount": 4234,
+                      "friendsCount": 1129,
+                      "hasCustomTimelines": true,
+                      "isTranslator": false,
+                      "listedCount": 27,
+                      "mediaCount": 1054,
+                      "normalFollowersCount": 4234,
+                      "notifications": false,
+                      "possiblySensitive": false,
+                      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                      "profileInterstitialType": "",
+                      "statusesCount": 15209,
+                      "timeZone": "",
+                      "translatorType": "none",
+                      "url": "https://t.co/Vu0PfgrsvW",
+                      "utcOffset": 0,
+                      "withheldDescription": "",
+                      "withheldScope": ""
+                    },
+                    "location": {
+                      "location": "Tokyo, Japan/🇯🇵"
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "privacy": {
+                      "_protected": false
+                    },
+                    "profileBio": {
+                      "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                    },
+                    "profileImageShape": "Circle",
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false
+                    },
+                    "restId": "1608625702836011009",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tipjarSettings": {
+                      "bandcampHandle": "",
+                      "bitcoinHandle": "",
+                      "cashAppHandle": "",
+                      "ethereumHandle": "",
+                      "gofundmeHandle": "",
+                      "isEnabled": false,
+                      "patreonHandle": "",
+                      "payPalHandle": "",
+                      "venmoHandle": ""
+                    },
+                    "verification": {
+                      "verified": false
+                    }
+                  }
+                }
+              },
+              "editControl": {
+                "editTweetIds": [
+                  "2109633677630357799"
+                ],
+                "editableUntilMsecs": "1791814438000",
+                "editsRemaining": "5",
+                "isEditEligible": true
+              },
+              "grokAnalysisButton": true,
+              "isTranslatable": true,
+              "legacy": {
+                "bookmarkCount": 48,
+                "bookmarked": false,
+                "conversationIdStr": "2109633677630357799",
+                "createdAt": "Mon Oct 12 13:13:58 +0000 2026",
+                "displayTextRange": [
+                  0,
+                  52
+                ],
+                "entities": {
+                  "media": [
+                    {
+                      "additionalMediaInfo": {
+                        "monetizable": false
+                      },
+                      "displayUrl": "pic.x.com/A6jP52hvFe",
+                      "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                      "extMediaAvailability": {
+                        "status": "Available"
+                      },
+                      "idStr": "2109633625813884928",
+                      "indices": [
+                        53,
+                        76
+                      ],
+                      "mediaKey": "13_2109633625813884928",
+                      "mediaResults": {
+                        "result": {
+                          "mediaKey": "13_2109633625813884928"
+                        }
+                      },
+                      "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                      "originalInfo": {
+                        "focusRects": [],
+                        "height": 1440,
+                        "width": 1080
+                      },
+                      "sizes": {
+                        "large": {
+                          "h": 1440,
+                          "resize": "fit",
+                          "w": 1080
+                        },
+                        "medium": {
+                          "h": 1200,
+                          "resize": "fit",
+                          "w": 900
+                        },
+                        "small": {
+                          "h": 680,
+                          "resize": "fit",
+                          "w": 510
+                        },
+                        "thumb": {
+                          "h": 150,
+                          "resize": "crop",
+                          "w": 150
+                        }
+                      },
+                      "type": "video",
+                      "url": "https://t.co/A6jP52hvFe",
+                      "videoInfo": {
+                        "aspectRatio": [
+                          3,
+                          4
+                        ],
+                        "durationMillis": 19161,
+                        "variants": [
+                          {
+                            "contentType": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                          },
+                          {
+                            "bitrate": 632000,
+                            "contentType": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                          },
+                          {
+                            "bitrate": 950000,
+                            "contentType": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                          },
+                          {
+                            "bitrate": 2176000,
+                            "contentType": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                          },
+                          {
+                            "bitrate": 10368000,
+                            "contentType": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "extendedEntities": {
+                  "media": [
+                    {
+                      "additionalMediaInfo": {
+                        "monetizable": false
+                      },
+                      "displayUrl": "pic.x.com/A6jP52hvFe",
+                      "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                      "extMediaAvailability": {
+                        "status": "Available"
+                      },
+                      "idStr": "2109633625813884928",
+                      "indices": [
+                        53,
+                        76
+                      ],
+                      "mediaKey": "13_2109633625813884928",
+                      "mediaResults": {
+                        "result": {
+                          "mediaKey": "13_2109633625813884928"
+                        }
+                      },
+                      "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                      "originalInfo": {
+                        "focusRects": [],
+                        "height": 1440,
+                        "width": 1080
+                      },
+                      "sizes": {
+                        "large": {
+                          "h": 1440,
+                          "resize": "fit",
+                          "w": 1080
+                        },
+                        "medium": {
+                          "h": 1200,
+                          "resize": "fit",
+                          "w": 900
+                        },
+                        "small": {
+                          "h": 680,
+                          "resize": "fit",
+                          "w": 510
+                        },
+                        "thumb": {
+                          "h": 150,
+                          "resize": "crop",
+                          "w": 150
+                        }
+                      },
+                      "type": "video",
+                      "url": "https://t.co/A6jP52hvFe",
+                      "videoInfo": {
+                        "aspectRatio": [
+                          3,
+                          4
+                        ],
+                        "durationMillis": 19161,
+                        "variants": [
+                          {
+                            "contentType": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                          },
+                          {
+                            "bitrate": 632000,
+                            "contentType": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                          },
+                          {
+                            "bitrate": 950000,
+                            "contentType": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                          },
+                          {
+                            "bitrate": 2176000,
+                            "contentType": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                          },
+                          {
+                            "bitrate": 10368000,
+                            "contentType": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "favoriteCount": 212,
+                "favorited": false,
+                "fullText": "妖怪ウォッチ U プロトタイプの更新ファイル改造してメダル 3D プリントすることで任意の音声流せた！！ https://t.co/A6jP52hvFe",
+                "idStr": "2109633677630357799",
+                "isQuoteStatus": false,
+                "lang": "ja",
+                "possiblySensitive": false,
+                "possiblySensitiveEditable": true,
+                "quoteCount": 3,
+                "replyCount": 1,
+                "retweetCount": 17,
+                "retweeted": false,
+                "userIdStr": "1608625702836011009"
+              },
+              "restId": "2109633677630357799",
+              "unmentionData": {},
+              "views": {
+                "count": "115315",
+                "state": "EnabledWithCount"
+              }
+            }
+          },
+          "restId": "2109635634893930521",
+          "unmentionData": {},
+          "views": {
+            "count": "113223",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2109636213137404371",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmentionData": {},
+    "views": {
+      "count": "1",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 539,
+      "followRequestSent": false,
+      "followersCount": 40,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 19,
+      "normalFollowersCount": 40,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 181,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "retweeted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                "name": "nakasyou",
+                "screenName": "nakasyou0"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "nakasyou.how",
+                        "expanded_url": "http://nakasyou.how",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/Vu0PfgrsvW"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 173966,
+                "followRequestSent": false,
+                "followersCount": 4234,
+                "friendsCount": 1129,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 27,
+                "mediaCount": 1054,
+                "normalFollowersCount": 4234,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                "profileInterstitialType": "",
+                "statusesCount": 15209,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/Vu0PfgrsvW",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "Tokyo, Japan/🇯🇵"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+              },
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1608625702836011009",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2109635634893930521"
+          ],
+          "editableUntilMsecs": "1791814905000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": false,
+        "legacy": {
+          "bookmarkCount": 608,
+          "bookmarked": false,
+          "conversationIdStr": "2109635634893930521",
+          "createdAt": "Mon Oct 12 13:21:45 +0000 2026",
+          "displayTextRange": [
+            0,
+            0
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/lqVAImSp57",
+                "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2109635583488512000",
+                "indices": [
+                  0,
+                  23
+                ],
+                "mediaKey": "13_2109635583488512000",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2109635583488512000"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1920,
+                  "width": 1080
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1920,
+                    "resize": "fit",
+                    "w": 1080
+                  },
+                  "medium": {
+                    "h": 1200,
+                    "resize": "fit",
+                    "w": 675
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 383
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/lqVAImSp57",
+                "videoInfo": {
+                  "aspectRatio": [
+                    9,
+                    16
+                  ],
+                  "durationMillis": 62521,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                    },
+                    {
+                      "bitrate": 632000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 950000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/lqVAImSp57",
+                "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2109635583488512000",
+                "indices": [
+                  0,
+                  23
+                ],
+                "mediaKey": "13_2109635583488512000",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2109635583488512000"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1920,
+                  "width": 1080
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1920,
+                    "resize": "fit",
+                    "w": 1080
+                  },
+                  "medium": {
+                    "h": 1200,
+                    "resize": "fit",
+                    "w": 675
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 383
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/lqVAImSp57",
+                "videoInfo": {
+                  "aspectRatio": [
+                    9,
+                    16
+                  ],
+                  "durationMillis": 62521,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                    },
+                    {
+                      "bitrate": 632000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 950000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 2046,
+          "favorited": false,
+          "fullText": "https://t.co/lqVAImSp57",
+          "idStr": "2109635634893930521",
+          "isQuoteStatus": true,
+          "lang": "zxx",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 47,
+          "quotedStatusIdStr": "2109633677630357799",
+          "quotedStatusPermalink": {
+            "display": "x.com/nakasyou0/stat…",
+            "expanded": "https://twitter.com/nakasyou0/status/2109633677630357799",
+            "url": "https://t.co/FFI6bdMWqJ"
+          },
+          "replyCount": 9,
+          "retweetCount": 302,
+          "retweeted": false,
+          "userIdStr": "1608625702836011009"
+        },
+        "quotedStatusResult": {
+          "result": {
+            "typename": "Tweet",
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                  },
+                  "core": {
+                    "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                    "name": "nakasyou",
+                    "screenName": "nakasyou0"
+                  },
+                  "dmPermissions": {
+                    "canDm": false
+                  },
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                  "isBlueVerified": true,
+                  "legacy": {
+                    "defaultProfile": true,
+                    "defaultProfileImage": false,
+                    "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                    "entities": {
+                      "description": {},
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "nakasyou.how",
+                            "expanded_url": "http://nakasyou.how",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/Vu0PfgrsvW"
+                          }
+                        ]
+                      }
+                    },
+                    "fastFollowersCount": 0,
+                    "favouritesCount": 173966,
+                    "followRequestSent": false,
+                    "followersCount": 4234,
+                    "friendsCount": 1129,
+                    "hasCustomTimelines": true,
+                    "isTranslator": false,
+                    "listedCount": 27,
+                    "mediaCount": 1054,
+                    "normalFollowersCount": 4234,
+                    "notifications": false,
+                    "possiblySensitive": false,
+                    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                    "profileInterstitialType": "",
+                    "statusesCount": 15209,
+                    "timeZone": "",
+                    "translatorType": "none",
+                    "url": "https://t.co/Vu0PfgrsvW",
+                    "utcOffset": 0,
+                    "withheldDescription": "",
+                    "withheldScope": ""
+                  },
+                  "location": {
+                    "location": "Tokyo, Japan/🇯🇵"
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                  },
+                  "profileImageShape": "Circle",
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false
+                  },
+                  "restId": "1608625702836011009",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tipjarSettings": {
+                    "bandcampHandle": "",
+                    "bitcoinHandle": "",
+                    "cashAppHandle": "",
+                    "ethereumHandle": "",
+                    "gofundmeHandle": "",
+                    "isEnabled": false,
+                    "patreonHandle": "",
+                    "payPalHandle": "",
+                    "venmoHandle": ""
+                  },
+                  "verification": {
+                    "verified": false
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2109633677630357799"
+              ],
+              "editableUntilMsecs": "1791814438000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            },
+            "grokAnalysisButton": true,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 48,
+              "bookmarked": false,
+              "conversationIdStr": "2109633677630357799",
+              "createdAt": "Mon Oct 12 13:13:58 +0000 2026",
+              "displayTextRange": [
+                0,
+                52
+              ],
+              "entities": {
+                "media": [
+                  {
+                    "additionalMediaInfo": {
+                      "monetizable": false
+                    },
+                    "displayUrl": "pic.x.com/A6jP52hvFe",
+                    "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                    "extMediaAvailability": {
+                      "status": "Available"
+                    },
+                    "idStr": "2109633625813884928",
+                    "indices": [
+                      53,
+                      76
+                    ],
+                    "mediaKey": "13_2109633625813884928",
+                    "mediaResults": {
+                      "result": {
+                        "mediaKey": "13_2109633625813884928"
+                      }
+                    },
+                    "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                    "originalInfo": {
+                      "focusRects": [],
+                      "height": 1440,
+                      "width": 1080
+                    },
+                    "sizes": {
+                      "large": {
+                        "h": 1440,
+                        "resize": "fit",
+                        "w": 1080
+                      },
+                      "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                      },
+                      "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                      },
+                      "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                      }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/A6jP52hvFe",
+                    "videoInfo": {
+                      "aspectRatio": [
+                        3,
+                        4
+                      ],
+                      "durationMillis": 19161,
+                      "variants": [
+                        {
+                          "contentType": "application/x-mpegURL",
+                          "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                        },
+                        {
+                          "bitrate": 632000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 950000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 2176000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 10368000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              "extendedEntities": {
+                "media": [
+                  {
+                    "additionalMediaInfo": {
+                      "monetizable": false
+                    },
+                    "displayUrl": "pic.x.com/A6jP52hvFe",
+                    "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                    "extMediaAvailability": {
+                      "status": "Available"
+                    },
+                    "idStr": "2109633625813884928",
+                    "indices": [
+                      53,
+                      76
+                    ],
+                    "mediaKey": "13_2109633625813884928",
+                    "mediaResults": {
+                      "result": {
+                        "mediaKey": "13_2109633625813884928"
+                      }
+                    },
+                    "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                    "originalInfo": {
+                      "focusRects": [],
+                      "height": 1440,
+                      "width": 1080
+                    },
+                    "sizes": {
+                      "large": {
+                        "h": 1440,
+                        "resize": "fit",
+                        "w": 1080
+                      },
+                      "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                      },
+                      "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                      },
+                      "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                      }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/A6jP52hvFe",
+                    "videoInfo": {
+                      "aspectRatio": [
+                        3,
+                        4
+                      ],
+                      "durationMillis": 19161,
+                      "variants": [
+                        {
+                          "contentType": "application/x-mpegURL",
+                          "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                        },
+                        {
+                          "bitrate": 632000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 950000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 2176000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                        },
+                        {
+                          "bitrate": 10368000,
+                          "contentType": "video/mp4",
+                          "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              "favoriteCount": 212,
+              "favorited": false,
+              "fullText": "妖怪ウォッチ U プロトタイプの更新ファイル改造してメダル 3D プリントすることで任意の音声流せた！！ https://t.co/A6jP52hvFe",
+              "idStr": "2109633677630357799",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "possiblySensitive": false,
+              "possiblySensitiveEditable": true,
+              "quoteCount": 3,
+              "replyCount": 1,
+              "retweetCount": 17,
+              "retweeted": false,
+              "userIdStr": "1608625702836011009"
+            },
+            "restId": "2109633677630357799",
+            "unmentionData": {},
+            "views": {
+              "count": "115315",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "restId": "2109635634893930521",
+        "unmentionData": {},
+        "views": {
+          "count": "113223",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+              "name": "nakasyou",
+              "screenName": "nakasyou0"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "nakasyou.how",
+                      "expanded_url": "http://nakasyou.how",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Vu0PfgrsvW"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 173966,
+              "followRequestSent": false,
+              "followersCount": 4234,
+              "friendsCount": 1129,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "listedCount": 27,
+              "mediaCount": 1054,
+              "normalFollowersCount": 4234,
+              "notifications": false,
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+              "profileInterstitialType": "",
+              "statusesCount": 15209,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/Vu0PfgrsvW",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "Tokyo, Japan/🇯🇵"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+            },
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1608625702836011009",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2109635634893930521"
+        ],
+        "editableUntilMsecs": "1791814905000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": false,
+      "legacy": {
+        "bookmarkCount": 608,
+        "bookmarked": false,
+        "conversationIdStr": "2109635634893930521",
+        "createdAt": "Mon Oct 12 13:21:45 +0000 2026",
+        "displayTextRange": [
+          0,
+          0
+        ],
+        "entities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/lqVAImSp57",
+              "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2109635583488512000",
+              "indices": [
+                0,
+                23
+              ],
+              "mediaKey": "13_2109635583488512000",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2109635583488512000"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1920,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1920,
+                  "resize": "fit",
+                  "w": 1080
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 675
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 383
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/lqVAImSp57",
+              "videoInfo": {
+                "aspectRatio": [
+                  9,
+                  16
+                ],
+                "durationMillis": 62521,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/lqVAImSp57",
+              "expandedUrl": "https://x.com/nakasyou0/status/2109635634893930521/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2109635583488512000",
+              "indices": [
+                0,
+                23
+              ],
+              "mediaKey": "13_2109635583488512000",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2109635583488512000"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109635583488512000/img/pNdkSlfJIU6jBEP3.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1920,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1920,
+                  "resize": "fit",
+                  "w": 1080
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 675
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 383
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/lqVAImSp57",
+              "videoInfo": {
+                "aspectRatio": [
+                  9,
+                  16
+                ],
+                "durationMillis": 62521,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/pl/Fxfplz34rPqNPiGB.m3u8?tag=29"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/320x568/Og2g6v4vrTadZCKx.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/480x852/BXtOtQk84p9mNpiv.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/720x1280/NKa86g5ywQRW3YxT.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2109635583488512000/vid/avc1/1080x1920/WPSSL9UK9MGGzNYd.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favoriteCount": 2046,
+        "favorited": false,
+        "fullText": "https://t.co/lqVAImSp57",
+        "idStr": "2109635634893930521",
+        "isQuoteStatus": true,
+        "lang": "zxx",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 47,
+        "quotedStatusIdStr": "2109633677630357799",
+        "quotedStatusPermalink": {
+          "display": "x.com/nakasyou0/stat…",
+          "expanded": "https://twitter.com/nakasyou0/status/2109633677630357799",
+          "url": "https://t.co/FFI6bdMWqJ"
+        },
+        "replyCount": 9,
+        "retweetCount": 302,
+        "retweeted": false,
+        "userIdStr": "1608625702836011009"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                  "name": "nakasyou",
+                  "screenName": "nakasyou0"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "nakasyou.how",
+                          "expanded_url": "http://nakasyou.how",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/Vu0PfgrsvW"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 173966,
+                  "followRequestSent": false,
+                  "followersCount": 4234,
+                  "friendsCount": 1129,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 27,
+                  "mediaCount": 1054,
+                  "normalFollowersCount": 4234,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                  "profileInterstitialType": "",
+                  "statusesCount": 15209,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/Vu0PfgrsvW",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "Tokyo, Japan/🇯🇵"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                },
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1608625702836011009",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2109633677630357799"
+            ],
+            "editableUntilMsecs": "1791814438000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 48,
+            "bookmarked": false,
+            "conversationIdStr": "2109633677630357799",
+            "createdAt": "Mon Oct 12 13:13:58 +0000 2026",
+            "displayTextRange": [
+              0,
+              52
+            ],
+            "entities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "displayUrl": "pic.x.com/A6jP52hvFe",
+                  "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2109633625813884928",
+                  "indices": [
+                    53,
+                    76
+                  ],
+                  "mediaKey": "13_2109633625813884928",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2109633625813884928"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1440,
+                    "width": 1080
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1440,
+                      "resize": "fit",
+                      "w": 1080
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "resize": "fit",
+                      "w": 900
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 510
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/A6jP52hvFe",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      3,
+                      4
+                    ],
+                    "durationMillis": 19161,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                      },
+                      {
+                        "bitrate": 632000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 950000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "displayUrl": "pic.x.com/A6jP52hvFe",
+                  "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2109633625813884928",
+                  "indices": [
+                    53,
+                    76
+                  ],
+                  "mediaKey": "13_2109633625813884928",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2109633625813884928"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1440,
+                    "width": 1080
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1440,
+                      "resize": "fit",
+                      "w": 1080
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "resize": "fit",
+                      "w": 900
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 510
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/A6jP52hvFe",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      3,
+                      4
+                    ],
+                    "durationMillis": 19161,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                      },
+                      {
+                        "bitrate": 632000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 950000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favoriteCount": 212,
+            "favorited": false,
+            "fullText": "妖怪ウォッチ U プロトタイプの更新ファイル改造してメダル 3D プリントすることで任意の音声流せた！！ https://t.co/A6jP52hvFe",
+            "idStr": "2109633677630357799",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 3,
+            "replyCount": 1,
+            "retweetCount": 17,
+            "retweeted": false,
+            "userIdStr": "1608625702836011009"
+          },
+          "restId": "2109633677630357799",
+          "unmentionData": {},
+          "views": {
+            "count": "115315",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2109635634893930521",
+      "unmentionData": {},
+      "views": {
+        "count": "113223",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+        "name": "nakasyou",
+        "screenName": "nakasyou0"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "nakasyou.how",
+                "expanded_url": "http://nakasyou.how",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Vu0PfgrsvW"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 173966,
+        "followRequestSent": false,
+        "followersCount": 4234,
+        "friendsCount": 1129,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "listedCount": 27,
+        "mediaCount": 1054,
+        "normalFollowersCount": 4234,
+        "notifications": false,
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+        "profileInterstitialType": "",
+        "statusesCount": 15209,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/Vu0PfgrsvW",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "Tokyo, Japan/🇯🇵"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+      },
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "1608625702836011009",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": [],
+    "quoted": {
+      "raw": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                  "name": "nakasyou",
+                  "screenName": "nakasyou0"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "nakasyou.how",
+                          "expanded_url": "http://nakasyou.how",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/Vu0PfgrsvW"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 173966,
+                  "followRequestSent": false,
+                  "followersCount": 4234,
+                  "friendsCount": 1129,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 27,
+                  "mediaCount": 1054,
+                  "normalFollowersCount": 4234,
+                  "notifications": false,
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                  "profileInterstitialType": "",
+                  "statusesCount": 15209,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/Vu0PfgrsvW",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "Tokyo, Japan/🇯🇵"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+                },
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "1608625702836011009",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2109633677630357799"
+            ],
+            "editableUntilMsecs": "1791814438000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 48,
+            "bookmarked": false,
+            "conversationIdStr": "2109633677630357799",
+            "createdAt": "Mon Oct 12 13:13:58 +0000 2026",
+            "displayTextRange": [
+              0,
+              52
+            ],
+            "entities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "displayUrl": "pic.x.com/A6jP52hvFe",
+                  "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2109633625813884928",
+                  "indices": [
+                    53,
+                    76
+                  ],
+                  "mediaKey": "13_2109633625813884928",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2109633625813884928"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1440,
+                    "width": 1080
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1440,
+                      "resize": "fit",
+                      "w": 1080
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "resize": "fit",
+                      "w": 900
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 510
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/A6jP52hvFe",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      3,
+                      4
+                    ],
+                    "durationMillis": 19161,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                      },
+                      {
+                        "bitrate": 632000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 950000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "displayUrl": "pic.x.com/A6jP52hvFe",
+                  "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2109633625813884928",
+                  "indices": [
+                    53,
+                    76
+                  ],
+                  "mediaKey": "13_2109633625813884928",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2109633625813884928"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1440,
+                    "width": 1080
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1440,
+                      "resize": "fit",
+                      "w": 1080
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "resize": "fit",
+                      "w": 900
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 510
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/A6jP52hvFe",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      3,
+                      4
+                    ],
+                    "durationMillis": 19161,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                      },
+                      {
+                        "bitrate": 632000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 950000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favoriteCount": 212,
+            "favorited": false,
+            "fullText": "妖怪ウォッチ U プロトタイプの更新ファイル改造してメダル 3D プリントすることで任意の音声流せた！！ https://t.co/A6jP52hvFe",
+            "idStr": "2109633677630357799",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 3,
+            "replyCount": 1,
+            "retweetCount": 17,
+            "retweeted": false,
+            "userIdStr": "1608625702836011009"
+          },
+          "restId": "2109633677630357799",
+          "unmentionData": {},
+          "views": {
+            "count": "115315",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "tweet": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                "name": "nakasyou",
+                "screenName": "nakasyou0"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "nakasyou.how",
+                        "expanded_url": "http://nakasyou.how",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/Vu0PfgrsvW"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 173966,
+                "followRequestSent": false,
+                "followersCount": 4234,
+                "friendsCount": 1129,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 27,
+                "mediaCount": 1054,
+                "normalFollowersCount": 4234,
+                "notifications": false,
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+                "profileInterstitialType": "",
+                "statusesCount": 15209,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/Vu0PfgrsvW",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "Tokyo, Japan/🇯🇵"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+              },
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "1608625702836011009",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2109633677630357799"
+          ],
+          "editableUntilMsecs": "1791814438000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 48,
+          "bookmarked": false,
+          "conversationIdStr": "2109633677630357799",
+          "createdAt": "Mon Oct 12 13:13:58 +0000 2026",
+          "displayTextRange": [
+            0,
+            52
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/A6jP52hvFe",
+                "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2109633625813884928",
+                "indices": [
+                  53,
+                  76
+                ],
+                "mediaKey": "13_2109633625813884928",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2109633625813884928"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1440,
+                  "width": 1080
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1440,
+                    "resize": "fit",
+                    "w": 1080
+                  },
+                  "medium": {
+                    "h": 1200,
+                    "resize": "fit",
+                    "w": 900
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 510
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/A6jP52hvFe",
+                "videoInfo": {
+                  "aspectRatio": [
+                    3,
+                    4
+                  ],
+                  "durationMillis": 19161,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                    },
+                    {
+                      "bitrate": 632000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 950000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/A6jP52hvFe",
+                "expandedUrl": "https://x.com/nakasyou0/status/2109633677630357799/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2109633625813884928",
+                "indices": [
+                  53,
+                  76
+                ],
+                "mediaKey": "13_2109633625813884928",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2109633625813884928"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2109633625813884928/img/yLR47x0HsF6lQ12M.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1440,
+                  "width": 1080
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1440,
+                    "resize": "fit",
+                    "w": 1080
+                  },
+                  "medium": {
+                    "h": 1200,
+                    "resize": "fit",
+                    "w": 900
+                  },
+                  "small": {
+                    "h": 680,
+                    "resize": "fit",
+                    "w": 510
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/A6jP52hvFe",
+                "videoInfo": {
+                  "aspectRatio": [
+                    3,
+                    4
+                  ],
+                  "durationMillis": 19161,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2109633625813884928/pl/1as3CUuGZze0w-kJ.m3u8?tag=29&v=cfc"
+                    },
+                    {
+                      "bitrate": 632000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/320x426/aLXblIdVscWqHGUN.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 950000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/480x640/F4rQNI-Hc3eV6-PJ.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/720x960/MJ3kf8xkfd-oRUUk.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2109633625813884928/vid/avc1/1080x1440/ZLWtWef3s6EhYKnl.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 212,
+          "favorited": false,
+          "fullText": "妖怪ウォッチ U プロトタイプの更新ファイル改造してメダル 3D プリントすることで任意の音声流せた！！ https://t.co/A6jP52hvFe",
+          "idStr": "2109633677630357799",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 3,
+          "replyCount": 1,
+          "retweetCount": 17,
+          "retweeted": false,
+          "userIdStr": "1608625702836011009"
+        },
+        "restId": "2109633677630357799",
+        "unmentionData": {},
+        "views": {
+          "count": "115315",
+          "state": "EnabledWithCount"
+        }
+      },
+      "user": {
+        "typename": "User",
+        "affiliatesHighlightedLabel": {},
+        "avatar": {
+          "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+        },
+        "core": {
+          "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+          "name": "nakasyou",
+          "screenName": "nakasyou0"
+        },
+        "dmPermissions": {
+          "canDm": false
+        },
+        "hasGraduatedAccess": true,
+        "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+        "isBlueVerified": true,
+        "legacy": {
+          "defaultProfile": true,
+          "defaultProfileImage": false,
+          "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "nakasyou.how",
+                  "expanded_url": "http://nakasyou.how",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/Vu0PfgrsvW"
+                }
+              ]
+            }
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 173966,
+          "followRequestSent": false,
+          "followersCount": 4234,
+          "friendsCount": 1129,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "listedCount": 27,
+          "mediaCount": 1054,
+          "normalFollowersCount": 4234,
+          "notifications": false,
+          "possiblySensitive": false,
+          "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293",
+          "profileInterstitialType": "",
+          "statusesCount": 15209,
+          "timeZone": "",
+          "translatorType": "none",
+          "url": "https://t.co/Vu0PfgrsvW",
+          "utcOffset": 0,
+          "withheldDescription": "",
+          "withheldScope": ""
+        },
+        "location": {
+          "location": "Tokyo, Japan/🇯🇵"
+        },
+        "mediaPermissions": {
+          "canMediaTag": false
+        },
+        "parodyCommentaryFanLabel": "None",
+        "privacy": {
+          "_protected": false
+        },
+        "profileBio": {
+          "description": "16y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp"
+        },
+        "profileImageShape": "Circle",
+        "relationshipPerspectives": {
+          "blockedBy": false,
+          "blocking": false,
+          "followedBy": false,
+          "following": false
+        },
+        "restId": "1608625702836011009",
+        "superFollowEligible": false,
+        "superFollowedBy": false,
+        "superFollowing": false,
+        "tipjarSettings": {
+          "bandcampHandle": "",
+          "bitcoinHandle": "",
+          "cashAppHandle": "",
+          "ethereumHandle": "",
+          "gofundmeHandle": "",
+          "isEnabled": false,
+          "patreonHandle": "",
+          "payPalHandle": "",
+          "venmoHandle": ""
+        },
+        "verification": {
+          "verified": false
+        }
+      },
+      "replies": []
+    }
+  }
+}

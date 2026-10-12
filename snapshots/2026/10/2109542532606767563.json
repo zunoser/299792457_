@@ -1,0 +1,736 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "card": {
+        "legacy": {
+          "bindingValues": [
+            {
+              "key": "description",
+              "value": {
+                "stringValue": "## Summary: An open redirect vulnerability was discovered on the website https://www.xnxx.com/todays-selection/1. This issue allows attackers to modify URLs to redirect users to arbitrary external...",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "stringValue": "hackerone.com",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribeKey": "publisher_id",
+                "type": "USER",
+                "userValue": {
+                  "idStr": "2177038028"
+                }
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribeKey": "vanity_url",
+                "stringValue": "hackerone.com",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "stringValue": "XVIDEOS disclosed on HackerOne: Open redirect",
+                "type": "STRING"
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribeKey": "card_url",
+                "stringValue": "https://t.co/zR7eSxJqJp",
+                "type": "STRING"
+              }
+            }
+          ],
+          "cardPlatform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "Swift",
+                "version": "12"
+              }
+            }
+          },
+          "name": "summary",
+          "url": "https://t.co/zR7eSxJqJp",
+          "userRefsResults": [
+            {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2029200288175783936/DQGNCQ7-_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Wed Nov 06 00:05:42 +0000 2013",
+                  "name": "HackerOne",
+                  "screenName": "Hacker0x01"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyMTc3MDM4MDI4",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "HackerOne makes security continuous.\nWe unite AI and human insight through a unified platform to expose risk and eliminate it.",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "hackerone.com",
+                          "expanded_url": "https://www.hackerone.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/Xfyqi3NNgu"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 15270,
+                  "followRequestSent": false,
+                  "followersCount": 343519,
+                  "friendsCount": 3263,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 2370,
+                  "mediaCount": 5214,
+                  "normalFollowersCount": 343519,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2107818290852610392"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2177038028/1772634025",
+                  "profileInterstitialType": "",
+                  "statusesCount": 9915,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/Xfyqi3NNgu",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "HackerOne makes security continuous.\nWe unite AI and human insight through a unified platform to expose risk and eliminate it."
+                },
+                "profileDescriptionLanguage": "en",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "2177038028",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          ]
+        },
+        "restId": "https://t.co/zR7eSxJqJp"
+      },
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "愛知県一宮市のキチガイLJK",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 539,
+              "followRequestSent": false,
+              "followersCount": 40,
+              "friendsCount": 45,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 19,
+              "normalFollowersCount": 40,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 181,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "愛知県一宮市のキチガイLJK"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2109542532606767563"
+        ],
+        "editableUntilMsecs": "1791792707000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": false,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2109542532606767563",
+        "createdAt": "Mon Oct 12 07:11:47 +0000 2026",
+        "displayTextRange": [
+          0,
+          23
+        ],
+        "entities": {
+          "urls": [
+            {
+              "displayUrl": "hackerone.com/reports/2957962",
+              "expandedUrl": "https://hackerone.com/reports/2957962",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/zR7eSxJqJp"
+            }
+          ]
+        },
+        "favoriteCount": 0,
+        "favorited": false,
+        "fullText": "https://t.co/zR7eSxJqJp",
+        "idStr": "2109542532606767563",
+        "isQuoteStatus": false,
+        "lang": "zxx",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2109542532606767563",
+      "unmentionData": {},
+      "views": {
+        "count": "20",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "card": {
+      "legacy": {
+        "bindingValues": [
+          {
+            "key": "description",
+            "value": {
+              "stringValue": "## Summary: An open redirect vulnerability was discovered on the website https://www.xnxx.com/todays-selection/1. This issue allows attackers to modify URLs to redirect users to arbitrary external...",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "stringValue": "hackerone.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribeKey": "publisher_id",
+              "type": "USER",
+              "userValue": {
+                "idStr": "2177038028"
+              }
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribeKey": "vanity_url",
+              "stringValue": "hackerone.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "stringValue": "XVIDEOS disclosed on HackerOne: Open redirect",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribeKey": "card_url",
+              "stringValue": "https://t.co/zR7eSxJqJp",
+              "type": "STRING"
+            }
+          }
+        ],
+        "cardPlatform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary",
+        "url": "https://t.co/zR7eSxJqJp",
+        "userRefsResults": [
+          {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2029200288175783936/DQGNCQ7-_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Wed Nov 06 00:05:42 +0000 2013",
+                "name": "HackerOne",
+                "screenName": "Hacker0x01"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyMTc3MDM4MDI4",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "HackerOne makes security continuous.\nWe unite AI and human insight through a unified platform to expose risk and eliminate it.",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "hackerone.com",
+                        "expanded_url": "https://www.hackerone.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/Xfyqi3NNgu"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 15270,
+                "followRequestSent": false,
+                "followersCount": 343519,
+                "friendsCount": 3263,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 2370,
+                "mediaCount": 5214,
+                "normalFollowersCount": 343519,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2107818290852610392"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2177038028/1772634025",
+                "profileInterstitialType": "",
+                "statusesCount": 9915,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/Xfyqi3NNgu",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "HackerOne makes security continuous.\nWe unite AI and human insight through a unified platform to expose risk and eliminate it."
+              },
+              "profileDescriptionLanguage": "en",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "2177038028",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        ]
+      },
+      "restId": "https://t.co/zR7eSxJqJp"
+    },
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "愛知県一宮市のキチガイLJK",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 539,
+            "followRequestSent": false,
+            "followersCount": 40,
+            "friendsCount": 45,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 19,
+            "normalFollowersCount": 40,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 181,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "愛知県一宮市のキチガイLJK"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2109542532606767563"
+      ],
+      "editableUntilMsecs": "1791792707000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": false,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2109542532606767563",
+      "createdAt": "Mon Oct 12 07:11:47 +0000 2026",
+      "displayTextRange": [
+        0,
+        23
+      ],
+      "entities": {
+        "urls": [
+          {
+            "displayUrl": "hackerone.com/reports/2957962",
+            "expandedUrl": "https://hackerone.com/reports/2957962",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/zR7eSxJqJp"
+          }
+        ]
+      },
+      "favoriteCount": 0,
+      "favorited": false,
+      "fullText": "https://t.co/zR7eSxJqJp",
+      "idStr": "2109542532606767563",
+      "isQuoteStatus": false,
+      "lang": "zxx",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2109542532606767563",
+    "unmentionData": {},
+    "views": {
+      "count": "20",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "愛知県一宮市のキチガイLJK",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 539,
+      "followRequestSent": false,
+      "followersCount": 40,
+      "friendsCount": 45,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 19,
+      "normalFollowersCount": 40,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 181,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "愛知県一宮市のキチガイLJK"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": []
+}
