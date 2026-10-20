@@ -1,0 +1,780 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "ゴミ箱",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 556,
+              "followRequestSent": false,
+              "followersCount": 40,
+              "friendsCount": 44,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 21,
+              "normalFollowersCount": 40,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 183,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "ゴミ箱"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2112512453716451698"
+        ],
+        "editableUntilMsecs": "1792500792000",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2112503730138652705",
+        "createdAt": "Tue Oct 20 11:53:12 +0000 2026",
+        "displayTextRange": [
+          11,
+          25
+        ],
+        "entities": {
+          "media": [
+            {
+              "displayUrl": "pic.x.com/vxysmwdFep",
+              "expandedUrl": "https://x.com/299792457_/status/2112512453716451698/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2112512449358569472",
+              "indices": [
+                26,
+                49
+              ],
+              "mediaKey": "3_2112512449358569472",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2112512449358569472"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HVEm4U-boAAG4ur.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 528,
+                    "w": 942,
+                    "x": 0,
+                    "y": 299
+                  },
+                  {
+                    "h": 942,
+                    "w": 942,
+                    "x": 0,
+                    "y": 92
+                  },
+                  {
+                    "h": 1074,
+                    "w": 942,
+                    "x": 0,
+                    "y": 26
+                  },
+                  {
+                    "h": 1884,
+                    "w": 942,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 942,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 942
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "resize": "fit",
+                  "w": 942
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 552
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 313
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/vxysmwdFep"
+            }
+          ],
+          "userMentions": [
+            {
+              "id_str": "1880318261298098177",
+              "indices": [
+                0,
+                10
+              ],
+              "name": "あかず",
+              "screen_name": "akazdango"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "displayUrl": "pic.x.com/vxysmwdFep",
+              "expandedUrl": "https://x.com/299792457_/status/2112512453716451698/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2112512449358569472",
+              "indices": [
+                26,
+                49
+              ],
+              "mediaKey": "3_2112512449358569472",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2112512449358569472"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HVEm4U-boAAG4ur.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 528,
+                    "w": 942,
+                    "x": 0,
+                    "y": 299
+                  },
+                  {
+                    "h": 942,
+                    "w": 942,
+                    "x": 0,
+                    "y": 92
+                  },
+                  {
+                    "h": 1074,
+                    "w": 942,
+                    "x": 0,
+                    "y": 26
+                  },
+                  {
+                    "h": 1884,
+                    "w": 942,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 2048,
+                    "w": 942,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 2048,
+                "width": 942
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "resize": "fit",
+                  "w": 942
+                },
+                "medium": {
+                  "h": 1200,
+                  "resize": "fit",
+                  "w": 552
+                },
+                "small": {
+                  "h": 680,
+                  "resize": "fit",
+                  "w": 313
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/vxysmwdFep"
+            }
+          ]
+        },
+        "favoriteCount": 1,
+        "favorited": false,
+        "fullText": "@akazdango サーバー落ちてるだけだった😄 https://t.co/vxysmwdFep",
+        "idStr": "2112512453716451698",
+        "inReplyToScreenName": "akazdango",
+        "inReplyToStatusIdStr": "2112510218177479130",
+        "inReplyToUserIdStr": "1880318261298098177",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2112512453716451698",
+      "unmentionData": {},
+      "views": {
+        "count": "10",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "ゴミ箱",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 556,
+            "followRequestSent": false,
+            "followersCount": 40,
+            "friendsCount": 44,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 21,
+            "normalFollowersCount": 40,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 183,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "ゴミ箱"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2112512453716451698"
+      ],
+      "editableUntilMsecs": "1792500792000",
+      "editsRemaining": "5",
+      "isEditEligible": false
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2112503730138652705",
+      "createdAt": "Tue Oct 20 11:53:12 +0000 2026",
+      "displayTextRange": [
+        11,
+        25
+      ],
+      "entities": {
+        "media": [
+          {
+            "displayUrl": "pic.x.com/vxysmwdFep",
+            "expandedUrl": "https://x.com/299792457_/status/2112512453716451698/photo/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "idStr": "2112512449358569472",
+            "indices": [
+              26,
+              49
+            ],
+            "mediaKey": "3_2112512449358569472",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "3_2112512449358569472"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/media/HVEm4U-boAAG4ur.jpg",
+            "originalInfo": {
+              "focusRects": [
+                {
+                  "h": 528,
+                  "w": 942,
+                  "x": 0,
+                  "y": 299
+                },
+                {
+                  "h": 942,
+                  "w": 942,
+                  "x": 0,
+                  "y": 92
+                },
+                {
+                  "h": 1074,
+                  "w": 942,
+                  "x": 0,
+                  "y": 26
+                },
+                {
+                  "h": 1884,
+                  "w": 942,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 942,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 942
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 942
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 552
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 313
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vxysmwdFep"
+          }
+        ],
+        "userMentions": [
+          {
+            "id_str": "1880318261298098177",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "あかず",
+            "screen_name": "akazdango"
+          }
+        ]
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "displayUrl": "pic.x.com/vxysmwdFep",
+            "expandedUrl": "https://x.com/299792457_/status/2112512453716451698/photo/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "idStr": "2112512449358569472",
+            "indices": [
+              26,
+              49
+            ],
+            "mediaKey": "3_2112512449358569472",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "3_2112512449358569472"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/media/HVEm4U-boAAG4ur.jpg",
+            "originalInfo": {
+              "focusRects": [
+                {
+                  "h": 528,
+                  "w": 942,
+                  "x": 0,
+                  "y": 299
+                },
+                {
+                  "h": 942,
+                  "w": 942,
+                  "x": 0,
+                  "y": 92
+                },
+                {
+                  "h": 1074,
+                  "w": 942,
+                  "x": 0,
+                  "y": 26
+                },
+                {
+                  "h": 1884,
+                  "w": 942,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 942,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 942
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 942
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 552
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 313
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vxysmwdFep"
+          }
+        ]
+      },
+      "favoriteCount": 1,
+      "favorited": false,
+      "fullText": "@akazdango サーバー落ちてるだけだった😄 https://t.co/vxysmwdFep",
+      "idStr": "2112512453716451698",
+      "inReplyToScreenName": "akazdango",
+      "inReplyToStatusIdStr": "2112510218177479130",
+      "inReplyToUserIdStr": "1880318261298098177",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2112512453716451698",
+    "unmentionData": {},
+    "views": {
+      "count": "10",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "ゴミ箱",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 556,
+      "followRequestSent": false,
+      "followersCount": 40,
+      "friendsCount": 44,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 21,
+      "normalFollowersCount": 40,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 183,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "ゴミ箱"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": []
+}
