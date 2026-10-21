@@ -1,0 +1,1830 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "ゴミ箱",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 556,
+              "followRequestSent": false,
+              "followersCount": 40,
+              "friendsCount": 44,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 21,
+              "normalFollowersCount": 40,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 184,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "ゴミ箱"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2112851219576475650"
+        ],
+        "editableUntilMsecs": "1792581560000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2112851219576475650",
+        "createdAt": "Wed Oct 21 10:19:20 +0000 2026",
+        "displayTextRange": [
+          0,
+          26
+        ],
+        "entities": {},
+        "favoriteCount": 2,
+        "favorited": false,
+        "fullText": "この投稿にいいね付けてる奴の学生証集めて大富豪したい",
+        "idStr": "2112851219576475650",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2112482533946642561",
+        "quotedStatusPermalink": {
+          "display": "x.com/kattu0403/stat…",
+          "expanded": "https://twitter.com/kattu0403/status/2112482533946642561",
+          "url": "https://t.co/V4CAufpV7V"
+        },
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1701496511551746048/gkV5Y3VL_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Sun Jul 09 11:46:19 +0000 2017",
+                  "name": "かっつー（平野勝也）",
+                  "screenName": "kattu0403"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjo4ODQwMTU4NTYzMDAxNTQ4ODE=",
+                "isBlueVerified": true,
+                "legacy": {
+                  "defaultProfile": false,
+                  "defaultProfileImage": false,
+                  "description": "エンタメYouTube登録者130万人→引退→今はSNS運用の会社をやっています。Xでは主にYouTuber時代の裏側やAIの記事を書いてます",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "note.com/kattu0403",
+                          "expanded_url": "https://note.com/kattu0403",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/018ogcBbK2"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 10997,
+                  "followRequestSent": false,
+                  "followersCount": 196409,
+                  "friendsCount": 633,
+                  "hasCustomTimelines": true,
+                  "isTranslator": false,
+                  "listedCount": 174,
+                  "mediaCount": 1377,
+                  "normalFollowersCount": 196409,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2053784125862199727"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/884015856300154881/1753341513",
+                  "profileInterstitialType": "",
+                  "statusesCount": 9920,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/018ogcBbK2",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": "お仕事のご相談はDMにて"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "professional": {
+                  "category": [],
+                  "professionalType": "Creator",
+                  "restId": "1550928577990131712"
+                },
+                "profileBio": {
+                  "description": "エンタメYouTube登録者130万人→引退→今はSNS運用の会社をやっています。Xでは主にYouTuber時代の裏側やAIの記事を書いてます"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "884015856300154881",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2112482533946642561"
+            ],
+            "editableUntilMsecs": "1792493658000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 3265,
+            "bookmarked": false,
+            "conversationIdStr": "2112482533946642561",
+            "createdAt": "Tue Oct 20 09:54:18 +0000 2026",
+            "displayTextRange": [
+              0,
+              19
+            ],
+            "entities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/JG5LhKySJO",
+                  "expandedUrl": "https://x.com/kattu0403/status/2112482533946642561/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2112482314353811456",
+                  "indices": [
+                    20,
+                    43
+                  ],
+                  "mediaKey": "13_2112482314353811456",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2112482314353811456"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2112482314353811456/img/GSLp0HS5LaKzILvO.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/JG5LhKySJO",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      16,
+                      9
+                    ],
+                    "durationMillis": 30930,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2112482314353811456/pl/mFu3gZezNN9BFjZ0.m3u8?tag=29&v=683"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/480x270/z8jNqwyf17XEwWIP.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/640x360/EZPsCVCmzVBWKG3v.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1280x720/Sl3OKydiPMyqfz7x.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1920x1080/iOpokNMncHAkpG2h.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "allowDownloadStatus": {
+                    "allowDownload": true
+                  },
+                  "displayUrl": "pic.x.com/JG5LhKySJO",
+                  "expandedUrl": "https://x.com/kattu0403/status/2112482533946642561/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2112482314353811456",
+                  "indices": [
+                    20,
+                    43
+                  ],
+                  "mediaKey": "13_2112482314353811456",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2112482314353811456"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2112482314353811456/img/GSLp0HS5LaKzILvO.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/JG5LhKySJO",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      16,
+                      9
+                    ],
+                    "durationMillis": 30930,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2112482314353811456/pl/mFu3gZezNN9BFjZ0.m3u8?tag=29&v=683"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/480x270/z8jNqwyf17XEwWIP.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/640x360/EZPsCVCmzVBWKG3v.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1280x720/Sl3OKydiPMyqfz7x.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1920x1080/iOpokNMncHAkpG2h.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favoriteCount": 22495,
+            "favorited": false,
+            "fullText": "理系にしか分からないINMU KING https://t.co/JG5LhKySJO",
+            "idStr": "2112482533946642561",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 564,
+            "replyCount": 94,
+            "retweetCount": 1797,
+            "retweeted": false,
+            "userIdStr": "884015856300154881"
+          },
+          "restId": "2112482533946642561",
+          "unmentionData": {},
+          "views": {
+            "count": "4273042",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2112851219576475650",
+      "unmentionData": {},
+      "views": {
+        "count": "8",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "ゴミ箱",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 556,
+            "followRequestSent": false,
+            "followersCount": 40,
+            "friendsCount": 44,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 21,
+            "normalFollowersCount": 40,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 184,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "ゴミ箱"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2112851219576475650"
+      ],
+      "editableUntilMsecs": "1792581560000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2112851219576475650",
+      "createdAt": "Wed Oct 21 10:19:20 +0000 2026",
+      "displayTextRange": [
+        0,
+        26
+      ],
+      "entities": {},
+      "favoriteCount": 2,
+      "favorited": false,
+      "fullText": "この投稿にいいね付けてる奴の学生証集めて大富豪したい",
+      "idStr": "2112851219576475650",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2112482533946642561",
+      "quotedStatusPermalink": {
+        "display": "x.com/kattu0403/stat…",
+        "expanded": "https://twitter.com/kattu0403/status/2112482533946642561",
+        "url": "https://t.co/V4CAufpV7V"
+      },
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1701496511551746048/gkV5Y3VL_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sun Jul 09 11:46:19 +0000 2017",
+                "name": "かっつー（平野勝也）",
+                "screenName": "kattu0403"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjo4ODQwMTU4NTYzMDAxNTQ4ODE=",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "エンタメYouTube登録者130万人→引退→今はSNS運用の会社をやっています。Xでは主にYouTuber時代の裏側やAIの記事を書いてます",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "note.com/kattu0403",
+                        "expanded_url": "https://note.com/kattu0403",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/018ogcBbK2"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 10997,
+                "followRequestSent": false,
+                "followersCount": 196409,
+                "friendsCount": 633,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 174,
+                "mediaCount": 1377,
+                "normalFollowersCount": 196409,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2053784125862199727"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/884015856300154881/1753341513",
+                "profileInterstitialType": "",
+                "statusesCount": 9920,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/018ogcBbK2",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "お仕事のご相談はDMにて"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "professional": {
+                "category": [],
+                "professionalType": "Creator",
+                "restId": "1550928577990131712"
+              },
+              "profileBio": {
+                "description": "エンタメYouTube登録者130万人→引退→今はSNS運用の会社をやっています。Xでは主にYouTuber時代の裏側やAIの記事を書いてます"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "884015856300154881",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2112482533946642561"
+          ],
+          "editableUntilMsecs": "1792493658000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 3265,
+          "bookmarked": false,
+          "conversationIdStr": "2112482533946642561",
+          "createdAt": "Tue Oct 20 09:54:18 +0000 2026",
+          "displayTextRange": [
+            0,
+            19
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/JG5LhKySJO",
+                "expandedUrl": "https://x.com/kattu0403/status/2112482533946642561/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2112482314353811456",
+                "indices": [
+                  20,
+                  43
+                ],
+                "mediaKey": "13_2112482314353811456",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2112482314353811456"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2112482314353811456/img/GSLp0HS5LaKzILvO.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "resize": "fit",
+                    "w": 1920
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/JG5LhKySJO",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 30930,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/pl/mFu3gZezNN9BFjZ0.m3u8?tag=29&v=683"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/480x270/z8jNqwyf17XEwWIP.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/640x360/EZPsCVCmzVBWKG3v.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1280x720/Sl3OKydiPMyqfz7x.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1920x1080/iOpokNMncHAkpG2h.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/JG5LhKySJO",
+                "expandedUrl": "https://x.com/kattu0403/status/2112482533946642561/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2112482314353811456",
+                "indices": [
+                  20,
+                  43
+                ],
+                "mediaKey": "13_2112482314353811456",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2112482314353811456"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2112482314353811456/img/GSLp0HS5LaKzILvO.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "resize": "fit",
+                    "w": 1920
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/JG5LhKySJO",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 30930,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/pl/mFu3gZezNN9BFjZ0.m3u8?tag=29&v=683"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/480x270/z8jNqwyf17XEwWIP.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/640x360/EZPsCVCmzVBWKG3v.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1280x720/Sl3OKydiPMyqfz7x.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1920x1080/iOpokNMncHAkpG2h.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 22495,
+          "favorited": false,
+          "fullText": "理系にしか分からないINMU KING https://t.co/JG5LhKySJO",
+          "idStr": "2112482533946642561",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 564,
+          "replyCount": 94,
+          "retweetCount": 1797,
+          "retweeted": false,
+          "userIdStr": "884015856300154881"
+        },
+        "restId": "2112482533946642561",
+        "unmentionData": {},
+        "views": {
+          "count": "4273042",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2112851219576475650",
+    "unmentionData": {},
+    "views": {
+      "count": "8",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "ゴミ箱",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 556,
+      "followRequestSent": false,
+      "followersCount": 40,
+      "friendsCount": 44,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 21,
+      "normalFollowersCount": 40,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 184,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "ゴミ箱"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1701496511551746048/gkV5Y3VL_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sun Jul 09 11:46:19 +0000 2017",
+                "name": "かっつー（平野勝也）",
+                "screenName": "kattu0403"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjo4ODQwMTU4NTYzMDAxNTQ4ODE=",
+              "isBlueVerified": true,
+              "legacy": {
+                "defaultProfile": false,
+                "defaultProfileImage": false,
+                "description": "エンタメYouTube登録者130万人→引退→今はSNS運用の会社をやっています。Xでは主にYouTuber時代の裏側やAIの記事を書いてます",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "note.com/kattu0403",
+                        "expanded_url": "https://note.com/kattu0403",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/018ogcBbK2"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 10997,
+                "followRequestSent": false,
+                "followersCount": 196409,
+                "friendsCount": 633,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "listedCount": 174,
+                "mediaCount": 1377,
+                "normalFollowersCount": 196409,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2053784125862199727"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/884015856300154881/1753341513",
+                "profileInterstitialType": "",
+                "statusesCount": 9920,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/018ogcBbK2",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": "お仕事のご相談はDMにて"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "professional": {
+                "category": [],
+                "professionalType": "Creator",
+                "restId": "1550928577990131712"
+              },
+              "profileBio": {
+                "description": "エンタメYouTube登録者130万人→引退→今はSNS運用の会社をやっています。Xでは主にYouTuber時代の裏側やAIの記事を書いてます"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "884015856300154881",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2112482533946642561"
+          ],
+          "editableUntilMsecs": "1792493658000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 3265,
+          "bookmarked": false,
+          "conversationIdStr": "2112482533946642561",
+          "createdAt": "Tue Oct 20 09:54:18 +0000 2026",
+          "displayTextRange": [
+            0,
+            19
+          ],
+          "entities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/JG5LhKySJO",
+                "expandedUrl": "https://x.com/kattu0403/status/2112482533946642561/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2112482314353811456",
+                "indices": [
+                  20,
+                  43
+                ],
+                "mediaKey": "13_2112482314353811456",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2112482314353811456"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2112482314353811456/img/GSLp0HS5LaKzILvO.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "resize": "fit",
+                    "w": 1920
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/JG5LhKySJO",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 30930,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/pl/mFu3gZezNN9BFjZ0.m3u8?tag=29&v=683"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/480x270/z8jNqwyf17XEwWIP.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/640x360/EZPsCVCmzVBWKG3v.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1280x720/Sl3OKydiPMyqfz7x.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1920x1080/iOpokNMncHAkpG2h.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "allowDownloadStatus": {
+                  "allowDownload": true
+                },
+                "displayUrl": "pic.x.com/JG5LhKySJO",
+                "expandedUrl": "https://x.com/kattu0403/status/2112482533946642561/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2112482314353811456",
+                "indices": [
+                  20,
+                  43
+                ],
+                "mediaKey": "13_2112482314353811456",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2112482314353811456"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2112482314353811456/img/GSLp0HS5LaKzILvO.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 1080,
+                  "width": 1920
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "resize": "fit",
+                    "w": 1920
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/JG5LhKySJO",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 30930,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/pl/mFu3gZezNN9BFjZ0.m3u8?tag=29&v=683"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/480x270/z8jNqwyf17XEwWIP.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/640x360/EZPsCVCmzVBWKG3v.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1280x720/Sl3OKydiPMyqfz7x.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1920x1080/iOpokNMncHAkpG2h.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 22495,
+          "favorited": false,
+          "fullText": "理系にしか分からないINMU KING https://t.co/JG5LhKySJO",
+          "idStr": "2112482533946642561",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 564,
+          "replyCount": 94,
+          "retweetCount": 1797,
+          "retweeted": false,
+          "userIdStr": "884015856300154881"
+        },
+        "restId": "2112482533946642561",
+        "unmentionData": {},
+        "views": {
+          "count": "4273042",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1701496511551746048/gkV5Y3VL_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sun Jul 09 11:46:19 +0000 2017",
+              "name": "かっつー（平野勝也）",
+              "screenName": "kattu0403"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjo4ODQwMTU4NTYzMDAxNTQ4ODE=",
+            "isBlueVerified": true,
+            "legacy": {
+              "defaultProfile": false,
+              "defaultProfileImage": false,
+              "description": "エンタメYouTube登録者130万人→引退→今はSNS運用の会社をやっています。Xでは主にYouTuber時代の裏側やAIの記事を書いてます",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "note.com/kattu0403",
+                      "expanded_url": "https://note.com/kattu0403",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/018ogcBbK2"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 10997,
+              "followRequestSent": false,
+              "followersCount": 196409,
+              "friendsCount": 633,
+              "hasCustomTimelines": true,
+              "isTranslator": false,
+              "listedCount": 174,
+              "mediaCount": 1377,
+              "normalFollowersCount": 196409,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2053784125862199727"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/884015856300154881/1753341513",
+              "profileInterstitialType": "",
+              "statusesCount": 9920,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/018ogcBbK2",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": "お仕事のご相談はDMにて"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "professional": {
+              "category": [],
+              "professionalType": "Creator",
+              "restId": "1550928577990131712"
+            },
+            "profileBio": {
+              "description": "エンタメYouTube登録者130万人→引退→今はSNS運用の会社をやっています。Xでは主にYouTuber時代の裏側やAIの記事を書いてます"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "884015856300154881",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2112482533946642561"
+        ],
+        "editableUntilMsecs": "1792493658000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 3265,
+        "bookmarked": false,
+        "conversationIdStr": "2112482533946642561",
+        "createdAt": "Tue Oct 20 09:54:18 +0000 2026",
+        "displayTextRange": [
+          0,
+          19
+        ],
+        "entities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/JG5LhKySJO",
+              "expandedUrl": "https://x.com/kattu0403/status/2112482533946642561/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2112482314353811456",
+              "indices": [
+                20,
+                43
+              ],
+              "mediaKey": "13_2112482314353811456",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2112482314353811456"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2112482314353811456/img/GSLp0HS5LaKzILvO.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "resize": "fit",
+                  "w": 1920
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/JG5LhKySJO",
+              "videoInfo": {
+                "aspectRatio": [
+                  16,
+                  9
+                ],
+                "durationMillis": 30930,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2112482314353811456/pl/mFu3gZezNN9BFjZ0.m3u8?tag=29&v=683"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/480x270/z8jNqwyf17XEwWIP.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/640x360/EZPsCVCmzVBWKG3v.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1280x720/Sl3OKydiPMyqfz7x.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1920x1080/iOpokNMncHAkpG2h.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "allowDownloadStatus": {
+                "allowDownload": true
+              },
+              "displayUrl": "pic.x.com/JG5LhKySJO",
+              "expandedUrl": "https://x.com/kattu0403/status/2112482533946642561/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2112482314353811456",
+              "indices": [
+                20,
+                43
+              ],
+              "mediaKey": "13_2112482314353811456",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2112482314353811456"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2112482314353811456/img/GSLp0HS5LaKzILvO.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 1080,
+                "width": 1920
+              },
+              "sizes": {
+                "large": {
+                  "h": 1080,
+                  "resize": "fit",
+                  "w": 1920
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/JG5LhKySJO",
+              "videoInfo": {
+                "aspectRatio": [
+                  16,
+                  9
+                ],
+                "durationMillis": 30930,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2112482314353811456/pl/mFu3gZezNN9BFjZ0.m3u8?tag=29&v=683"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/480x270/z8jNqwyf17XEwWIP.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/640x360/EZPsCVCmzVBWKG3v.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1280x720/Sl3OKydiPMyqfz7x.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2112482314353811456/vid/avc1/1920x1080/iOpokNMncHAkpG2h.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favoriteCount": 22495,
+        "favorited": false,
+        "fullText": "理系にしか分からないINMU KING https://t.co/JG5LhKySJO",
+        "idStr": "2112482533946642561",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 564,
+        "replyCount": 94,
+        "retweetCount": 1797,
+        "retweeted": false,
+        "userIdStr": "884015856300154881"
+      },
+      "restId": "2112482533946642561",
+      "unmentionData": {},
+      "views": {
+        "count": "4273042",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1701496511551746048/gkV5Y3VL_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Sun Jul 09 11:46:19 +0000 2017",
+        "name": "かっつー（平野勝也）",
+        "screenName": "kattu0403"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjo4ODQwMTU4NTYzMDAxNTQ4ODE=",
+      "isBlueVerified": true,
+      "legacy": {
+        "defaultProfile": false,
+        "defaultProfileImage": false,
+        "description": "エンタメYouTube登録者130万人→引退→今はSNS運用の会社をやっています。Xでは主にYouTuber時代の裏側やAIの記事を書いてます",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/kattu0403",
+                "expanded_url": "https://note.com/kattu0403",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/018ogcBbK2"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 10997,
+        "followRequestSent": false,
+        "followersCount": 196409,
+        "friendsCount": 633,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "listedCount": 174,
+        "mediaCount": 1377,
+        "normalFollowersCount": 196409,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "2053784125862199727"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/884015856300154881/1753341513",
+        "profileInterstitialType": "",
+        "statusesCount": 9920,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/018ogcBbK2",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": "お仕事のご相談はDMにて"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "professional": {
+        "category": [],
+        "professionalType": "Creator",
+        "restId": "1550928577990131712"
+      },
+      "profileBio": {
+        "description": "エンタメYouTube登録者130万人→引退→今はSNS運用の会社をやっています。Xでは主にYouTuber時代の裏側やAIの記事を書いてます"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "884015856300154881",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}
