@@ -41,9 +41,25 @@ FFmpeg is required to render video posts and is also installed by GitHub Actions
 nix develop
 ```
 
-Add the repository Actions secrets `TS_OAUTH_CLIENT_ID` and `TS_OAUTH_SECRET`.
-The OAuth client must allow `tag:ci` nodes to join the tailnet and reach
-`tw.home.yutakobayashi.com`.
+Add the repository Actions secret `TS_AUTHKEY`. Use the dedicated
+`tailscale_tailnet_key.ci["snapshots"]` enrollment key managed in dotnix:
+it must be reusable, ephemeral, pre-approved, and tagged `tag:ci`. Sign it on
+a trusted Tailnet Lock signing node before storing the resulting wrapped key
+in GitHub Secrets. The node must be allowed to reach `tw.home.yutakobayashi.com`.
+
+For cutover, disable this scheduled workflow and drain active runs, provision
+`TS_AUTHKEY`, then publish the workflow change and restore its previous enabled
+state. Verify the `Join the tailnet` step before diagnosing rendering failures.
+Remove the retired OAuth secrets only after successful migration.
+
+Rotate the Terraform-managed enrollment key before it expires, sign its
+replacement, update `TS_AUTHKEY`, and verify a fresh runner connects. Also
+remove the old wrapped key's trusted signing public key from Tailnet Lock when
+retiring it; revoking the enrollment key alone does not remove that trust.
+Wrapped keys contain a private signing key: never put them in logs or Git.
+The Action stores state outside the checkout at
+`${{ github.workspace }}/../tailscale-state`. Do not cache or upload that
+directory; it is discarded with the GitHub-hosted runner.
 
 Run a snapshot locally with:
 
