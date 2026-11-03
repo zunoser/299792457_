@@ -1,0 +1,2549 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "ゴミ箱",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 581,
+              "followRequestSent": false,
+              "followersCount": 42,
+              "friendsCount": 43,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 25,
+              "normalFollowersCount": 42,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 188,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "ゴミ箱"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2117423983197118507"
+        ],
+        "editableUntilMsecs": "1793671792000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2117423983197118507",
+        "createdAt": "Tue Nov 03 01:09:52 +0000 2026",
+        "displayTextRange": [
+          0,
+          16
+        ],
+        "entities": {},
+        "favoriteCount": 2,
+        "favorited": false,
+        "fullText": "こいつと同じ大学なの面白すぎる。",
+        "idStr": "2117423983197118507",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 0,
+        "quotedStatusIdStr": "2117182615069626801",
+        "quotedStatusPermalink": {
+          "display": "x.com/haruto_hoshimo…",
+          "expanded": "https://twitter.com/haruto_hoshimoo/status/2117182615069626801",
+          "url": "https://t.co/Nfb788iVGb"
+        },
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2117108910335336448/cPq2Njyk_normal.jpg"
+                },
+                "core": {
+                  "createdAt": "Sun May 03 06:24:01 +0000 2026",
+                  "name": "Hoshi Haruto",
+                  "screenName": "Haruto_hoshiMOO"
+                },
+                "dmPermissions": {
+                  "canDm": false
+                },
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoyMDUwODIzMzc0MDg4MzQzNTUy",
+                "isBlueVerified": false,
+                "legacy": {
+                  "defaultProfile": true,
+                  "defaultProfileImage": false,
+                  "description": "高校生起業家\n株式会社MOOSEI 代表取締役\nSkinU / ユア肌を開発\nデジタル大臣奨励賞受賞🏆\n慶應義塾大学総合政策学部\nAI × 美容 × ヘルスケア × 起業\n面白い人・技術・研究が大好きです。気になった方には積極的にDMさせていただきます！お話ししていただけたら嬉しいです🙇",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "my.prairie.cards/u/harutohoshi",
+                          "expanded_url": "https://my.prairie.cards/u/harutohoshi",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/aa38nGWe0O"
+                        }
+                      ]
+                    }
+                  },
+                  "fastFollowersCount": 0,
+                  "favouritesCount": 88,
+                  "followRequestSent": false,
+                  "followersCount": 108,
+                  "friendsCount": 100,
+                  "hasCustomTimelines": false,
+                  "isTranslator": false,
+                  "listedCount": 0,
+                  "mediaCount": 3,
+                  "normalFollowersCount": 108,
+                  "notifications": false,
+                  "pinnedTweetIdsStr": [
+                    "2117182615069626801"
+                  ],
+                  "possiblySensitive": false,
+                  "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2050823374088343552/1777789959",
+                  "profileInterstitialType": "",
+                  "statusesCount": 41,
+                  "timeZone": "",
+                  "translatorType": "none",
+                  "url": "https://t.co/aa38nGWe0O",
+                  "utcOffset": 0,
+                  "withheldDescription": "",
+                  "withheldScope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "高校生起業家\n株式会社MOOSEI 代表取締役\nSkinU / ユア肌を開発\nデジタル大臣奨励賞受賞🏆\n慶應義塾大学総合政策学部\nAI × 美容 × ヘルスケア × 起業\n面白い人・技術・研究が大好きです。気になった方には積極的にDMさせていただきます！お話ししていただけたら嬉しいです🙇"
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false
+                },
+                "restId": "2050823374088343552",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tipjarSettings": {
+                  "bandcampHandle": "",
+                  "bitcoinHandle": "",
+                  "cashAppHandle": "",
+                  "ethereumHandle": "",
+                  "gofundmeHandle": "",
+                  "isEnabled": false,
+                  "patreonHandle": "",
+                  "payPalHandle": "",
+                  "venmoHandle": ""
+                },
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2117182615069626801"
+            ],
+            "editableUntilMsecs": "1793614245000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 113,
+            "bookmarked": false,
+            "conversationIdStr": "2117182615069626801",
+            "createdAt": "Mon Nov 02 09:10:45 +0000 2026",
+            "displayTextRange": [
+              0,
+              151
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    138,
+                    144
+                  ],
+                  "text": "春から慶應"
+                },
+                {
+                  "indices": [
+                    145,
+                    151
+                  ],
+                  "text": "SFC27"
+                }
+              ],
+              "media": [
+                {
+                  "displayUrl": "pic.x.com/5PYKXnDh2U",
+                  "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "idStr": "2117182532789886977",
+                  "indices": [
+                    152,
+                    175
+                  ],
+                  "mediaKey": "3_2117182532789886977",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "3_2117182532789886977"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/media/HWG-S9eaYAE8Yqt.jpg",
+                  "originalInfo": {
+                    "focusRects": [
+                      {
+                        "h": 1084,
+                        "w": 1936,
+                        "x": 56,
+                        "y": 0
+                      },
+                      {
+                        "h": 1084,
+                        "w": 1084,
+                        "x": 482,
+                        "y": 0
+                      },
+                      {
+                        "h": 1084,
+                        "w": 951,
+                        "x": 549,
+                        "y": 0
+                      },
+                      {
+                        "h": 1084,
+                        "w": 542,
+                        "x": 753,
+                        "y": 0
+                      },
+                      {
+                        "h": 1084,
+                        "w": 2048,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1084,
+                    "width": 2048
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1084,
+                      "resize": "fit",
+                      "w": 2048
+                    },
+                    "medium": {
+                      "h": 635,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 360,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/5PYKXnDh2U"
+                },
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "displayUrl": "pic.x.com/5PYKXnDh2U",
+                  "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2117182532810887168",
+                  "indices": [
+                    152,
+                    175
+                  ],
+                  "mediaKey": "13_2117182532810887168",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2117182532810887168"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2117182532810887168/img/CLp4x8sAnbSb5nfI.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 720,
+                    "width": 1280
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 720,
+                      "resize": "fit",
+                      "w": 1280
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/5PYKXnDh2U",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      16,
+                      9
+                    ],
+                    "durationMillis": 37046,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2117182532810887168/pl/MhP21t4ftg3CRBD3.m3u8?tag=29&v=cfc"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/480x270/1jW1xbE8Nh3XwpDy.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/640x360/yYte9GmubeKktIsK.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/1280x720/auE3EkLcPdaU5agH.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "extendedEntities": {
+              "media": [
+                {
+                  "displayUrl": "pic.x.com/5PYKXnDh2U",
+                  "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "idStr": "2117182532789886977",
+                  "indices": [
+                    152,
+                    175
+                  ],
+                  "mediaKey": "3_2117182532789886977",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "3_2117182532789886977"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/media/HWG-S9eaYAE8Yqt.jpg",
+                  "originalInfo": {
+                    "focusRects": [
+                      {
+                        "h": 1084,
+                        "w": 1936,
+                        "x": 56,
+                        "y": 0
+                      },
+                      {
+                        "h": 1084,
+                        "w": 1084,
+                        "x": 482,
+                        "y": 0
+                      },
+                      {
+                        "h": 1084,
+                        "w": 951,
+                        "x": 549,
+                        "y": 0
+                      },
+                      {
+                        "h": 1084,
+                        "w": 542,
+                        "x": 753,
+                        "y": 0
+                      },
+                      {
+                        "h": 1084,
+                        "w": 2048,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1084,
+                    "width": 2048
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1084,
+                      "resize": "fit",
+                      "w": 2048
+                    },
+                    "medium": {
+                      "h": 635,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 360,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/5PYKXnDh2U"
+                },
+                {
+                  "additionalMediaInfo": {
+                    "monetizable": false
+                  },
+                  "displayUrl": "pic.x.com/5PYKXnDh2U",
+                  "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                  "extMediaAvailability": {
+                    "status": "Available"
+                  },
+                  "idStr": "2117182532810887168",
+                  "indices": [
+                    152,
+                    175
+                  ],
+                  "mediaKey": "13_2117182532810887168",
+                  "mediaResults": {
+                    "result": {
+                      "mediaKey": "13_2117182532810887168"
+                    }
+                  },
+                  "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2117182532810887168/img/CLp4x8sAnbSb5nfI.jpg",
+                  "originalInfo": {
+                    "focusRects": [],
+                    "height": 720,
+                    "width": 1280
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 720,
+                      "resize": "fit",
+                      "w": 1280
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/5PYKXnDh2U",
+                  "videoInfo": {
+                    "aspectRatio": [
+                      16,
+                      9
+                    ],
+                    "durationMillis": 37046,
+                    "variants": [
+                      {
+                        "contentType": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2117182532810887168/pl/MhP21t4ftg3CRBD3.m3u8?tag=29&v=cfc"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/480x270/1jW1xbE8Nh3XwpDy.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/640x360/yYte9GmubeKktIsK.mp4?tag=29"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "contentType": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/1280x720/auE3EkLcPdaU5agH.mp4?tag=29"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favoriteCount": 1032,
+            "favorited": false,
+            "fullText": "第一志望の慶應義塾大学総合政策学部に合格しました！\n\n大学という新たな環境で、自分の価値観をアップデートしながら、自分と向き合い最高の大学生活にします！\n\nこれまで僕のことを支えていただいた\n皆様、本当にありがとうございました🙇‍♂️\n\nこれからもよろしくお願いします‼️\n\n#春から慶應 #SFC27 https://t.co/5PYKXnDh2U",
+            "idStr": "2117182615069626801",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 43,
+            "replyCount": 124,
+            "retweetCount": 30,
+            "retweeted": false,
+            "userIdStr": "2050823374088343552"
+          },
+          "restId": "2117182615069626801",
+          "unmentionData": {},
+          "views": {
+            "count": "124567",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2117423983197118507",
+      "unmentionData": {},
+      "views": {
+        "count": "39",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "ゴミ箱",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 581,
+            "followRequestSent": false,
+            "followersCount": 42,
+            "friendsCount": 43,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 25,
+            "normalFollowersCount": 42,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 188,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "ゴミ箱"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2117423983197118507"
+      ],
+      "editableUntilMsecs": "1793671792000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2117423983197118507",
+      "createdAt": "Tue Nov 03 01:09:52 +0000 2026",
+      "displayTextRange": [
+        0,
+        16
+      ],
+      "entities": {},
+      "favoriteCount": 2,
+      "favorited": false,
+      "fullText": "こいつと同じ大学なの面白すぎる。",
+      "idStr": "2117423983197118507",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "quoteCount": 0,
+      "quotedStatusIdStr": "2117182615069626801",
+      "quotedStatusPermalink": {
+        "display": "x.com/haruto_hoshimo…",
+        "expanded": "https://twitter.com/haruto_hoshimoo/status/2117182615069626801",
+        "url": "https://t.co/Nfb788iVGb"
+      },
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2117108910335336448/cPq2Njyk_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sun May 03 06:24:01 +0000 2026",
+                "name": "Hoshi Haruto",
+                "screenName": "Haruto_hoshiMOO"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyMDUwODIzMzc0MDg4MzQzNTUy",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "高校生起業家\n株式会社MOOSEI 代表取締役\nSkinU / ユア肌を開発\nデジタル大臣奨励賞受賞🏆\n慶應義塾大学総合政策学部\nAI × 美容 × ヘルスケア × 起業\n面白い人・技術・研究が大好きです。気になった方には積極的にDMさせていただきます！お話ししていただけたら嬉しいです🙇",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "my.prairie.cards/u/harutohoshi",
+                        "expanded_url": "https://my.prairie.cards/u/harutohoshi",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/aa38nGWe0O"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 88,
+                "followRequestSent": false,
+                "followersCount": 108,
+                "friendsCount": 100,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 0,
+                "mediaCount": 3,
+                "normalFollowersCount": 108,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2117182615069626801"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2050823374088343552/1777789959",
+                "profileInterstitialType": "",
+                "statusesCount": 41,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/aa38nGWe0O",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "高校生起業家\n株式会社MOOSEI 代表取締役\nSkinU / ユア肌を開発\nデジタル大臣奨励賞受賞🏆\n慶應義塾大学総合政策学部\nAI × 美容 × ヘルスケア × 起業\n面白い人・技術・研究が大好きです。気になった方には積極的にDMさせていただきます！お話ししていただけたら嬉しいです🙇"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "2050823374088343552",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2117182615069626801"
+          ],
+          "editableUntilMsecs": "1793614245000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 113,
+          "bookmarked": false,
+          "conversationIdStr": "2117182615069626801",
+          "createdAt": "Mon Nov 02 09:10:45 +0000 2026",
+          "displayTextRange": [
+            0,
+            151
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  138,
+                  144
+                ],
+                "text": "春から慶應"
+              },
+              {
+                "indices": [
+                  145,
+                  151
+                ],
+                "text": "SFC27"
+              }
+            ],
+            "media": [
+              {
+                "displayUrl": "pic.x.com/5PYKXnDh2U",
+                "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2117182532789886977",
+                "indices": [
+                  152,
+                  175
+                ],
+                "mediaKey": "3_2117182532789886977",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2117182532789886977"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HWG-S9eaYAE8Yqt.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 1084,
+                      "w": 1936,
+                      "x": 56,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 1084,
+                      "x": 482,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 951,
+                      "x": 549,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 542,
+                      "x": 753,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 2048,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1084,
+                  "width": 2048
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1084,
+                    "resize": "fit",
+                    "w": 2048
+                  },
+                  "medium": {
+                    "h": 635,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 360,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/5PYKXnDh2U"
+              },
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/5PYKXnDh2U",
+                "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2117182532810887168",
+                "indices": [
+                  152,
+                  175
+                ],
+                "mediaKey": "13_2117182532810887168",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2117182532810887168"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2117182532810887168/img/CLp4x8sAnbSb5nfI.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 720,
+                  "width": 1280
+                },
+                "sizes": {
+                  "large": {
+                    "h": 720,
+                    "resize": "fit",
+                    "w": 1280
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/5PYKXnDh2U",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 37046,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/pl/MhP21t4ftg3CRBD3.m3u8?tag=29&v=cfc"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/480x270/1jW1xbE8Nh3XwpDy.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/640x360/yYte9GmubeKktIsK.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/1280x720/auE3EkLcPdaU5agH.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "displayUrl": "pic.x.com/5PYKXnDh2U",
+                "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2117182532789886977",
+                "indices": [
+                  152,
+                  175
+                ],
+                "mediaKey": "3_2117182532789886977",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2117182532789886977"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HWG-S9eaYAE8Yqt.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 1084,
+                      "w": 1936,
+                      "x": 56,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 1084,
+                      "x": 482,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 951,
+                      "x": 549,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 542,
+                      "x": 753,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 2048,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1084,
+                  "width": 2048
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1084,
+                    "resize": "fit",
+                    "w": 2048
+                  },
+                  "medium": {
+                    "h": 635,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 360,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/5PYKXnDh2U"
+              },
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/5PYKXnDh2U",
+                "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2117182532810887168",
+                "indices": [
+                  152,
+                  175
+                ],
+                "mediaKey": "13_2117182532810887168",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2117182532810887168"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2117182532810887168/img/CLp4x8sAnbSb5nfI.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 720,
+                  "width": 1280
+                },
+                "sizes": {
+                  "large": {
+                    "h": 720,
+                    "resize": "fit",
+                    "w": 1280
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/5PYKXnDh2U",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 37046,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/pl/MhP21t4ftg3CRBD3.m3u8?tag=29&v=cfc"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/480x270/1jW1xbE8Nh3XwpDy.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/640x360/yYte9GmubeKktIsK.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/1280x720/auE3EkLcPdaU5agH.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 1032,
+          "favorited": false,
+          "fullText": "第一志望の慶應義塾大学総合政策学部に合格しました！\n\n大学という新たな環境で、自分の価値観をアップデートしながら、自分と向き合い最高の大学生活にします！\n\nこれまで僕のことを支えていただいた\n皆様、本当にありがとうございました🙇‍♂️\n\nこれからもよろしくお願いします‼️\n\n#春から慶應 #SFC27 https://t.co/5PYKXnDh2U",
+          "idStr": "2117182615069626801",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 43,
+          "replyCount": 124,
+          "retweetCount": 30,
+          "retweeted": false,
+          "userIdStr": "2050823374088343552"
+        },
+        "restId": "2117182615069626801",
+        "unmentionData": {},
+        "views": {
+          "count": "124567",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2117423983197118507",
+    "unmentionData": {},
+    "views": {
+      "count": "39",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2090999548005220352/opsB8lbX_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "ゴミ箱",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 581,
+      "followRequestSent": false,
+      "followersCount": 42,
+      "friendsCount": 43,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 25,
+      "normalFollowersCount": 42,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 188,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "ゴミ箱"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/2117108910335336448/cPq2Njyk_normal.jpg"
+              },
+              "core": {
+                "createdAt": "Sun May 03 06:24:01 +0000 2026",
+                "name": "Hoshi Haruto",
+                "screenName": "Haruto_hoshiMOO"
+              },
+              "dmPermissions": {
+                "canDm": false
+              },
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoyMDUwODIzMzc0MDg4MzQzNTUy",
+              "isBlueVerified": false,
+              "legacy": {
+                "defaultProfile": true,
+                "defaultProfileImage": false,
+                "description": "高校生起業家\n株式会社MOOSEI 代表取締役\nSkinU / ユア肌を開発\nデジタル大臣奨励賞受賞🏆\n慶應義塾大学総合政策学部\nAI × 美容 × ヘルスケア × 起業\n面白い人・技術・研究が大好きです。気になった方には積極的にDMさせていただきます！お話ししていただけたら嬉しいです🙇",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "my.prairie.cards/u/harutohoshi",
+                        "expanded_url": "https://my.prairie.cards/u/harutohoshi",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/aa38nGWe0O"
+                      }
+                    ]
+                  }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 88,
+                "followRequestSent": false,
+                "followersCount": 108,
+                "friendsCount": 100,
+                "hasCustomTimelines": false,
+                "isTranslator": false,
+                "listedCount": 0,
+                "mediaCount": 3,
+                "normalFollowersCount": 108,
+                "notifications": false,
+                "pinnedTweetIdsStr": [
+                  "2117182615069626801"
+                ],
+                "possiblySensitive": false,
+                "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2050823374088343552/1777789959",
+                "profileInterstitialType": "",
+                "statusesCount": 41,
+                "timeZone": "",
+                "translatorType": "none",
+                "url": "https://t.co/aa38nGWe0O",
+                "utcOffset": 0,
+                "withheldDescription": "",
+                "withheldScope": ""
+              },
+              "location": {
+                "location": ""
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "高校生起業家\n株式会社MOOSEI 代表取締役\nSkinU / ユア肌を開発\nデジタル大臣奨励賞受賞🏆\n慶應義塾大学総合政策学部\nAI × 美容 × ヘルスケア × 起業\n面白い人・技術・研究が大好きです。気になった方には積極的にDMさせていただきます！お話ししていただけたら嬉しいです🙇"
+              },
+              "profileDescriptionLanguage": "ja",
+              "profileImageShape": "Circle",
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false
+              },
+              "restId": "2050823374088343552",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tipjarSettings": {
+                "bandcampHandle": "",
+                "bitcoinHandle": "",
+                "cashAppHandle": "",
+                "ethereumHandle": "",
+                "gofundmeHandle": "",
+                "isEnabled": false,
+                "patreonHandle": "",
+                "payPalHandle": "",
+                "venmoHandle": ""
+              },
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editTweetIds": [
+            "2117182615069626801"
+          ],
+          "editableUntilMsecs": "1793614245000",
+          "editsRemaining": "5",
+          "isEditEligible": true
+        },
+        "grokAnalysisButton": true,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 113,
+          "bookmarked": false,
+          "conversationIdStr": "2117182615069626801",
+          "createdAt": "Mon Nov 02 09:10:45 +0000 2026",
+          "displayTextRange": [
+            0,
+            151
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  138,
+                  144
+                ],
+                "text": "春から慶應"
+              },
+              {
+                "indices": [
+                  145,
+                  151
+                ],
+                "text": "SFC27"
+              }
+            ],
+            "media": [
+              {
+                "displayUrl": "pic.x.com/5PYKXnDh2U",
+                "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2117182532789886977",
+                "indices": [
+                  152,
+                  175
+                ],
+                "mediaKey": "3_2117182532789886977",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2117182532789886977"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HWG-S9eaYAE8Yqt.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 1084,
+                      "w": 1936,
+                      "x": 56,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 1084,
+                      "x": 482,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 951,
+                      "x": 549,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 542,
+                      "x": 753,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 2048,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1084,
+                  "width": 2048
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1084,
+                    "resize": "fit",
+                    "w": 2048
+                  },
+                  "medium": {
+                    "h": 635,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 360,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/5PYKXnDh2U"
+              },
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/5PYKXnDh2U",
+                "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2117182532810887168",
+                "indices": [
+                  152,
+                  175
+                ],
+                "mediaKey": "13_2117182532810887168",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2117182532810887168"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2117182532810887168/img/CLp4x8sAnbSb5nfI.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 720,
+                  "width": 1280
+                },
+                "sizes": {
+                  "large": {
+                    "h": 720,
+                    "resize": "fit",
+                    "w": 1280
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/5PYKXnDh2U",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 37046,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/pl/MhP21t4ftg3CRBD3.m3u8?tag=29&v=cfc"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/480x270/1jW1xbE8Nh3XwpDy.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/640x360/yYte9GmubeKktIsK.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/1280x720/auE3EkLcPdaU5agH.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "displayUrl": "pic.x.com/5PYKXnDh2U",
+                "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  }
+                },
+                "idStr": "2117182532789886977",
+                "indices": [
+                  152,
+                  175
+                ],
+                "mediaKey": "3_2117182532789886977",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "3_2117182532789886977"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/media/HWG-S9eaYAE8Yqt.jpg",
+                "originalInfo": {
+                  "focusRects": [
+                    {
+                      "h": 1084,
+                      "w": 1936,
+                      "x": 56,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 1084,
+                      "x": 482,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 951,
+                      "x": 549,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 542,
+                      "x": 753,
+                      "y": 0
+                    },
+                    {
+                      "h": 1084,
+                      "w": 2048,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1084,
+                  "width": 2048
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1084,
+                    "resize": "fit",
+                    "w": 2048
+                  },
+                  "medium": {
+                    "h": 635,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 360,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/5PYKXnDh2U"
+              },
+              {
+                "additionalMediaInfo": {
+                  "monetizable": false
+                },
+                "displayUrl": "pic.x.com/5PYKXnDh2U",
+                "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+                "extMediaAvailability": {
+                  "status": "Available"
+                },
+                "idStr": "2117182532810887168",
+                "indices": [
+                  152,
+                  175
+                ],
+                "mediaKey": "13_2117182532810887168",
+                "mediaResults": {
+                  "result": {
+                    "mediaKey": "13_2117182532810887168"
+                  }
+                },
+                "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2117182532810887168/img/CLp4x8sAnbSb5nfI.jpg",
+                "originalInfo": {
+                  "focusRects": [],
+                  "height": 720,
+                  "width": 1280
+                },
+                "sizes": {
+                  "large": {
+                    "h": 720,
+                    "resize": "fit",
+                    "w": 1280
+                  },
+                  "medium": {
+                    "h": 675,
+                    "resize": "fit",
+                    "w": 1200
+                  },
+                  "small": {
+                    "h": 383,
+                    "resize": "fit",
+                    "w": 680
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "resize": "crop",
+                    "w": 150
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/5PYKXnDh2U",
+                "videoInfo": {
+                  "aspectRatio": [
+                    16,
+                    9
+                  ],
+                  "durationMillis": 37046,
+                  "variants": [
+                    {
+                      "contentType": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/pl/MhP21t4ftg3CRBD3.m3u8?tag=29&v=cfc"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/480x270/1jW1xbE8Nh3XwpDy.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/640x360/yYte9GmubeKktIsK.mp4?tag=29"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "contentType": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/1280x720/auE3EkLcPdaU5agH.mp4?tag=29"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "favoriteCount": 1032,
+          "favorited": false,
+          "fullText": "第一志望の慶應義塾大学総合政策学部に合格しました！\n\n大学という新たな環境で、自分の価値観をアップデートしながら、自分と向き合い最高の大学生活にします！\n\nこれまで僕のことを支えていただいた\n皆様、本当にありがとうございました🙇‍♂️\n\nこれからもよろしくお願いします‼️\n\n#春から慶應 #SFC27 https://t.co/5PYKXnDh2U",
+          "idStr": "2117182615069626801",
+          "isQuoteStatus": false,
+          "lang": "ja",
+          "possiblySensitive": false,
+          "possiblySensitiveEditable": true,
+          "quoteCount": 43,
+          "replyCount": 124,
+          "retweetCount": 30,
+          "retweeted": false,
+          "userIdStr": "2050823374088343552"
+        },
+        "restId": "2117182615069626801",
+        "unmentionData": {},
+        "views": {
+          "count": "124567",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2117108910335336448/cPq2Njyk_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sun May 03 06:24:01 +0000 2026",
+              "name": "Hoshi Haruto",
+              "screenName": "Haruto_hoshiMOO"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoyMDUwODIzMzc0MDg4MzQzNTUy",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "高校生起業家\n株式会社MOOSEI 代表取締役\nSkinU / ユア肌を開発\nデジタル大臣奨励賞受賞🏆\n慶應義塾大学総合政策学部\nAI × 美容 × ヘルスケア × 起業\n面白い人・技術・研究が大好きです。気になった方には積極的にDMさせていただきます！お話ししていただけたら嬉しいです🙇",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "my.prairie.cards/u/harutohoshi",
+                      "expanded_url": "https://my.prairie.cards/u/harutohoshi",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/aa38nGWe0O"
+                    }
+                  ]
+                }
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 88,
+              "followRequestSent": false,
+              "followersCount": 108,
+              "friendsCount": 100,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 0,
+              "mediaCount": 3,
+              "normalFollowersCount": 108,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2117182615069626801"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2050823374088343552/1777789959",
+              "profileInterstitialType": "",
+              "statusesCount": 41,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "https://t.co/aa38nGWe0O",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "高校生起業家\n株式会社MOOSEI 代表取締役\nSkinU / ユア肌を開発\nデジタル大臣奨励賞受賞🏆\n慶應義塾大学総合政策学部\nAI × 美容 × ヘルスケア × 起業\n面白い人・技術・研究が大好きです。気になった方には積極的にDMさせていただきます！お話ししていただけたら嬉しいです🙇"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "2050823374088343552",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2117182615069626801"
+        ],
+        "editableUntilMsecs": "1793614245000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 113,
+        "bookmarked": false,
+        "conversationIdStr": "2117182615069626801",
+        "createdAt": "Mon Nov 02 09:10:45 +0000 2026",
+        "displayTextRange": [
+          0,
+          151
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                138,
+                144
+              ],
+              "text": "春から慶應"
+            },
+            {
+              "indices": [
+                145,
+                151
+              ],
+              "text": "SFC27"
+            }
+          ],
+          "media": [
+            {
+              "displayUrl": "pic.x.com/5PYKXnDh2U",
+              "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2117182532789886977",
+              "indices": [
+                152,
+                175
+              ],
+              "mediaKey": "3_2117182532789886977",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2117182532789886977"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HWG-S9eaYAE8Yqt.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 1084,
+                    "w": 1936,
+                    "x": 56,
+                    "y": 0
+                  },
+                  {
+                    "h": 1084,
+                    "w": 1084,
+                    "x": 482,
+                    "y": 0
+                  },
+                  {
+                    "h": 1084,
+                    "w": 951,
+                    "x": 549,
+                    "y": 0
+                  },
+                  {
+                    "h": 1084,
+                    "w": 542,
+                    "x": 753,
+                    "y": 0
+                  },
+                  {
+                    "h": 1084,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1084,
+                "width": 2048
+              },
+              "sizes": {
+                "large": {
+                  "h": 1084,
+                  "resize": "fit",
+                  "w": 2048
+                },
+                "medium": {
+                  "h": 635,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 360,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/5PYKXnDh2U"
+            },
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "displayUrl": "pic.x.com/5PYKXnDh2U",
+              "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2117182532810887168",
+              "indices": [
+                152,
+                175
+              ],
+              "mediaKey": "13_2117182532810887168",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2117182532810887168"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2117182532810887168/img/CLp4x8sAnbSb5nfI.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 720,
+                "width": 1280
+              },
+              "sizes": {
+                "large": {
+                  "h": 720,
+                  "resize": "fit",
+                  "w": 1280
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/5PYKXnDh2U",
+              "videoInfo": {
+                "aspectRatio": [
+                  16,
+                  9
+                ],
+                "durationMillis": 37046,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2117182532810887168/pl/MhP21t4ftg3CRBD3.m3u8?tag=29&v=cfc"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/480x270/1jW1xbE8Nh3XwpDy.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/640x360/yYte9GmubeKktIsK.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/1280x720/auE3EkLcPdaU5agH.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "displayUrl": "pic.x.com/5PYKXnDh2U",
+              "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2117182532789886977",
+              "indices": [
+                152,
+                175
+              ],
+              "mediaKey": "3_2117182532789886977",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2117182532789886977"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HWG-S9eaYAE8Yqt.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 1084,
+                    "w": 1936,
+                    "x": 56,
+                    "y": 0
+                  },
+                  {
+                    "h": 1084,
+                    "w": 1084,
+                    "x": 482,
+                    "y": 0
+                  },
+                  {
+                    "h": 1084,
+                    "w": 951,
+                    "x": 549,
+                    "y": 0
+                  },
+                  {
+                    "h": 1084,
+                    "w": 542,
+                    "x": 753,
+                    "y": 0
+                  },
+                  {
+                    "h": 1084,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1084,
+                "width": 2048
+              },
+              "sizes": {
+                "large": {
+                  "h": 1084,
+                  "resize": "fit",
+                  "w": 2048
+                },
+                "medium": {
+                  "h": 635,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 360,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/5PYKXnDh2U"
+            },
+            {
+              "additionalMediaInfo": {
+                "monetizable": false
+              },
+              "displayUrl": "pic.x.com/5PYKXnDh2U",
+              "expandedUrl": "https://x.com/Haruto_hoshiMOO/status/2117182615069626801/video/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "idStr": "2117182532810887168",
+              "indices": [
+                152,
+                175
+              ],
+              "mediaKey": "13_2117182532810887168",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "13_2117182532810887168"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/amplify_video_thumb/2117182532810887168/img/CLp4x8sAnbSb5nfI.jpg",
+              "originalInfo": {
+                "focusRects": [],
+                "height": 720,
+                "width": 1280
+              },
+              "sizes": {
+                "large": {
+                  "h": 720,
+                  "resize": "fit",
+                  "w": 1280
+                },
+                "medium": {
+                  "h": 675,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 383,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/5PYKXnDh2U",
+              "videoInfo": {
+                "aspectRatio": [
+                  16,
+                  9
+                ],
+                "durationMillis": 37046,
+                "variants": [
+                  {
+                    "contentType": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2117182532810887168/pl/MhP21t4ftg3CRBD3.m3u8?tag=29&v=cfc"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/480x270/1jW1xbE8Nh3XwpDy.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/640x360/yYte9GmubeKktIsK.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "contentType": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2117182532810887168/vid/avc1/1280x720/auE3EkLcPdaU5agH.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "favoriteCount": 1032,
+        "favorited": false,
+        "fullText": "第一志望の慶應義塾大学総合政策学部に合格しました！\n\n大学という新たな環境で、自分の価値観をアップデートしながら、自分と向き合い最高の大学生活にします！\n\nこれまで僕のことを支えていただいた\n皆様、本当にありがとうございました🙇‍♂️\n\nこれからもよろしくお願いします‼️\n\n#春から慶應 #SFC27 https://t.co/5PYKXnDh2U",
+        "idStr": "2117182615069626801",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 43,
+        "replyCount": 124,
+        "retweetCount": 30,
+        "retweeted": false,
+        "userIdStr": "2050823374088343552"
+      },
+      "restId": "2117182615069626801",
+      "unmentionData": {},
+      "views": {
+        "count": "124567",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/2117108910335336448/cPq2Njyk_normal.jpg"
+      },
+      "core": {
+        "createdAt": "Sun May 03 06:24:01 +0000 2026",
+        "name": "Hoshi Haruto",
+        "screenName": "Haruto_hoshiMOO"
+      },
+      "dmPermissions": {
+        "canDm": false
+      },
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoyMDUwODIzMzc0MDg4MzQzNTUy",
+      "isBlueVerified": false,
+      "legacy": {
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "description": "高校生起業家\n株式会社MOOSEI 代表取締役\nSkinU / ユア肌を開発\nデジタル大臣奨励賞受賞🏆\n慶應義塾大学総合政策学部\nAI × 美容 × ヘルスケア × 起業\n面白い人・技術・研究が大好きです。気になった方には積極的にDMさせていただきます！お話ししていただけたら嬉しいです🙇",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.prairie.cards/u/harutohoshi",
+                "expanded_url": "https://my.prairie.cards/u/harutohoshi",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/aa38nGWe0O"
+              }
+            ]
+          }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 88,
+        "followRequestSent": false,
+        "followersCount": 108,
+        "friendsCount": 100,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "listedCount": 0,
+        "mediaCount": 3,
+        "normalFollowersCount": 108,
+        "notifications": false,
+        "pinnedTweetIdsStr": [
+          "2117182615069626801"
+        ],
+        "possiblySensitive": false,
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2050823374088343552/1777789959",
+        "profileInterstitialType": "",
+        "statusesCount": 41,
+        "timeZone": "",
+        "translatorType": "none",
+        "url": "https://t.co/aa38nGWe0O",
+        "utcOffset": 0,
+        "withheldDescription": "",
+        "withheldScope": ""
+      },
+      "location": {
+        "location": ""
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "高校生起業家\n株式会社MOOSEI 代表取締役\nSkinU / ユア肌を開発\nデジタル大臣奨励賞受賞🏆\n慶應義塾大学総合政策学部\nAI × 美容 × ヘルスケア × 起業\n面白い人・技術・研究が大好きです。気になった方には積極的にDMさせていただきます！お話ししていただけたら嬉しいです🙇"
+      },
+      "profileDescriptionLanguage": "ja",
+      "profileImageShape": "Circle",
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false
+      },
+      "restId": "2050823374088343552",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tipjarSettings": {
+        "bandcampHandle": "",
+        "bitcoinHandle": "",
+        "cashAppHandle": "",
+        "ethereumHandle": "",
+        "gofundmeHandle": "",
+        "isEnabled": false,
+        "patreonHandle": "",
+        "payPalHandle": "",
+        "venmoHandle": ""
+      },
+      "verification": {
+        "verified": false
+      }
+    },
+    "replies": []
+  }
+}
