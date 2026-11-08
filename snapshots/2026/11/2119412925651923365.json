@@ -1,0 +1,362 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "dmPermissions": {
+              "canDm": false
+            },
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "legacy": {
+              "defaultProfile": true,
+              "defaultProfileImage": false,
+              "description": "ゴミ箱",
+              "entities": {
+                "description": {}
+              },
+              "fastFollowersCount": 0,
+              "favouritesCount": 593,
+              "followRequestSent": false,
+              "followersCount": 43,
+              "friendsCount": 44,
+              "hasCustomTimelines": false,
+              "isTranslator": false,
+              "listedCount": 1,
+              "mediaCount": 27,
+              "normalFollowersCount": 43,
+              "notifications": false,
+              "pinnedTweetIdsStr": [
+                "2083383324878471254"
+              ],
+              "possiblySensitive": false,
+              "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+              "profileInterstitialType": "",
+              "statusesCount": 192,
+              "timeZone": "",
+              "translatorType": "none",
+              "url": "",
+              "utcOffset": 0,
+              "withheldDescription": "",
+              "withheldScope": ""
+            },
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "ゴミ箱"
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tipjarSettings": {
+              "bandcampHandle": "",
+              "bitcoinHandle": "",
+              "cashAppHandle": "",
+              "ethereumHandle": "",
+              "gofundmeHandle": "",
+              "isEnabled": false,
+              "patreonHandle": "",
+              "payPalHandle": "",
+              "venmoHandle": ""
+            },
+            "verification": {
+              "verified": false
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2119412925651923365"
+        ],
+        "editableUntilMsecs": "1794145992000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2119412925651923365",
+        "createdAt": "Sun Nov 08 12:53:12 +0000 2026",
+        "displayTextRange": [
+          0,
+          22
+        ],
+        "entities": {},
+        "favoriteCount": 5,
+        "favorited": false,
+        "fullText": "教養人はフェミニストだから常識改変モノが好き",
+        "idStr": "2119412925651923365",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2119412925651923365",
+      "unmentionData": {},
+      "views": {
+        "count": "94",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "dmPermissions": {
+            "canDm": false
+          },
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "legacy": {
+            "defaultProfile": true,
+            "defaultProfileImage": false,
+            "description": "ゴミ箱",
+            "entities": {
+              "description": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 593,
+            "followRequestSent": false,
+            "followersCount": 43,
+            "friendsCount": 44,
+            "hasCustomTimelines": false,
+            "isTranslator": false,
+            "listedCount": 1,
+            "mediaCount": 27,
+            "normalFollowersCount": 43,
+            "notifications": false,
+            "pinnedTweetIdsStr": [
+              "2083383324878471254"
+            ],
+            "possiblySensitive": false,
+            "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+            "profileInterstitialType": "",
+            "statusesCount": 192,
+            "timeZone": "",
+            "translatorType": "none",
+            "url": "",
+            "utcOffset": 0,
+            "withheldDescription": "",
+            "withheldScope": ""
+          },
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "ゴミ箱"
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tipjarSettings": {
+            "bandcampHandle": "",
+            "bitcoinHandle": "",
+            "cashAppHandle": "",
+            "ethereumHandle": "",
+            "gofundmeHandle": "",
+            "isEnabled": false,
+            "patreonHandle": "",
+            "payPalHandle": "",
+            "venmoHandle": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2119412925651923365"
+      ],
+      "editableUntilMsecs": "1794145992000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2119412925651923365",
+      "createdAt": "Sun Nov 08 12:53:12 +0000 2026",
+      "displayTextRange": [
+        0,
+        22
+      ],
+      "entities": {},
+      "favoriteCount": 5,
+      "favorited": false,
+      "fullText": "教養人はフェミニストだから常識改変モノが好き",
+      "idStr": "2119412925651923365",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2119412925651923365",
+    "unmentionData": {},
+    "views": {
+      "count": "94",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "dmPermissions": {
+      "canDm": false
+    },
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "legacy": {
+      "defaultProfile": true,
+      "defaultProfileImage": false,
+      "description": "ゴミ箱",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 593,
+      "followRequestSent": false,
+      "followersCount": 43,
+      "friendsCount": 44,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "listedCount": 1,
+      "mediaCount": 27,
+      "normalFollowersCount": 43,
+      "notifications": false,
+      "pinnedTweetIdsStr": [
+        "2083383324878471254"
+      ],
+      "possiblySensitive": false,
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021",
+      "profileInterstitialType": "",
+      "statusesCount": 192,
+      "timeZone": "",
+      "translatorType": "none",
+      "url": "",
+      "utcOffset": 0,
+      "withheldDescription": "",
+      "withheldScope": ""
+    },
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "ゴミ箱"
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tipjarSettings": {
+      "bandcampHandle": "",
+      "bitcoinHandle": "",
+      "cashAppHandle": "",
+      "ethereumHandle": "",
+      "gofundmeHandle": "",
+      "isEnabled": false,
+      "patreonHandle": "",
+      "payPalHandle": "",
+      "venmoHandle": ""
+    },
+    "verification": {
+      "verified": false
+    }
+  },
+  "replies": []
+}
