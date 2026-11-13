@@ -2,3 +2,5 @@ allowBuilds:
   es5-ext: false
   puppeteer: false
   yarn: false
+minimumReleaseAgeExclude:
+  - twitter-snap@0.4.3

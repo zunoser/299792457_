@@ -136,9 +136,9 @@ async function renderPost(postId, {jsonOnly = false} = {}) {
     limit: 1,
     callback: async (run) => {
       const media = jsonOnly ? undefined : await run({
-        width: 1300,
+        width: 1200,
         scale: 2,
-        theme: 'RenderOceanBlueColor',
+        theme: 'RenderXReference',
         output: join(snapshotsRoot, '{time-yyyy}', '{time-mm}', '{id}.{if-type:png:mp4:json:}'),
       })
       const json = await run({

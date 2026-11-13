@@ -16,7 +16,8 @@ twitter-snap's exported `getSnapAppRenderWithCache` API and guest session, and
 commits each record to `snapshots/YYYY/MM/<tweet-id>.<png|mp4>` with a searchable
 `<tweet-id>.json` sidecar produced by twitter-snap's `Json` theme. JSON is
 pretty-printed for readable diffs and repository search. Image posts remain
-2x-resolution PNGs and video posts are rendered as MP4s. Posts and authored
+2x-resolution PNGs using `RenderXReference` (1200px wide, matching a 600px
+column at 2x scale), and video posts are rendered as MP4s. Posts and authored
 replies are both collected from `UserTweetsAndReplies`, including replies to
 other accounts and continuations of a self-thread. Each status in a thread is
 archived as its own addressable record. The library API reuses the guest
@@ -86,6 +87,12 @@ Rebuild every existing PNG or MP4 at 2x resolution with:
 ```sh
 pnpm snapshot -- --rebuild
 ```
+
+This fetches each archived post again and overwrites its media and JSON using
+the current theme. It processes all existing media IDs, without the normal
+40-post limit. If a post cannot be fetched or rendered, the run stops; completed
+files remain updated, and rerunning starts from the newest ID again. The hourly
+workflow and its manual trigger run normal collection, not a rebuild.
 
 Backfill every missing authored post, including replies, through Safe Relay's
 paginated `UserTweetsAndReplies` timeline with:
