@@ -1,0 +1,354 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "cashtagAttachments": [],
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "actionCounts": {
+              "favoritesCount": 602
+            },
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+            },
+            "banner": {
+              "imageUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "followRequestSent": false,
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "notificationsSettings": {
+              "notificationsEnabled": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "pinnedItems": {
+              "tweetIdsStr": [
+                "2083383324878471254"
+              ]
+            },
+            "possiblySensitive": false,
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "ゴミ箱",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "profileMetadata": {
+              "profileInterstitialType": ""
+            },
+            "profileTranslation": {
+              "translatorType": "none"
+            },
+            "relationshipCounts": {
+              "followers": 39,
+              "following": 42
+            },
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false,
+              "liveFollowing": false,
+              "muting": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tweetCounts": {
+              "mediaTweets": 27,
+              "tweets": 192
+            },
+            "verification": {
+              "verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2121524023297499234"
+        ],
+        "editableUntilMsecs": "1794649317000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "grokAnnotations": {
+        "isImageEditableByGrok": false
+      },
+      "grokTranslatedPostWithAvailability": {
+        "isAvailable": false
+      },
+      "hasBirdwatchNotes": false,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2121524023297499234",
+        "createdAt": "Sat Nov 14 08:41:57 +0000 2026",
+        "displayTextRange": [
+          0,
+          18
+        ],
+        "entities": {},
+        "favoriteCount": 2,
+        "favorited": false,
+        "fullText": "加法定理は死ねコスモスコスモス死ね派",
+        "idStr": "2121524023297499234",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2121524023297499234",
+      "unmentionData": {},
+      "views": {
+        "count": "83",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "cashtagAttachments": [],
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "actionCounts": {
+            "favoritesCount": 602
+          },
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+          },
+          "banner": {
+            "imageUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "followRequestSent": false,
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "notificationsSettings": {
+            "notificationsEnabled": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "pinnedItems": {
+            "tweetIdsStr": [
+              "2083383324878471254"
+            ]
+          },
+          "possiblySensitive": false,
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "ゴミ箱",
+            "entities": {
+              "description": {}
+            }
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "profileMetadata": {
+            "profileInterstitialType": ""
+          },
+          "profileTranslation": {
+            "translatorType": "none"
+          },
+          "relationshipCounts": {
+            "followers": 39,
+            "following": 42
+          },
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false,
+            "liveFollowing": false,
+            "muting": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tweetCounts": {
+            "mediaTweets": 27,
+            "tweets": 192
+          },
+          "verification": {
+            "verified": false
+          },
+          "website": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2121524023297499234"
+      ],
+      "editableUntilMsecs": "1794649317000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "grokAnnotations": {
+      "isImageEditableByGrok": false
+    },
+    "grokTranslatedPostWithAvailability": {
+      "isAvailable": false
+    },
+    "hasBirdwatchNotes": false,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2121524023297499234",
+      "createdAt": "Sat Nov 14 08:41:57 +0000 2026",
+      "displayTextRange": [
+        0,
+        18
+      ],
+      "entities": {},
+      "favoriteCount": 2,
+      "favorited": false,
+      "fullText": "加法定理は死ねコスモスコスモス死ね派",
+      "idStr": "2121524023297499234",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2121524023297499234",
+    "unmentionData": {},
+    "views": {
+      "count": "83",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "actionCounts": {
+      "favoritesCount": 602
+    },
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+    },
+    "banner": {
+      "imageUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "followRequestSent": false,
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "notificationsSettings": {
+      "notificationsEnabled": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "pinnedItems": {
+      "tweetIdsStr": [
+        "2083383324878471254"
+      ]
+    },
+    "possiblySensitive": false,
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "ゴミ箱",
+      "entities": {
+        "description": {}
+      }
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "profileMetadata": {
+      "profileInterstitialType": ""
+    },
+    "profileTranslation": {
+      "translatorType": "none"
+    },
+    "relationshipCounts": {
+      "followers": 39,
+      "following": 42
+    },
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false,
+      "liveFollowing": false,
+      "muting": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tweetCounts": {
+      "mediaTweets": 27,
+      "tweets": 192
+    },
+    "verification": {
+      "verified": false
+    },
+    "website": {
+      "url": ""
+    }
+  },
+  "replies": []
+}
