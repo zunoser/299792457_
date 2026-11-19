@@ -1,0 +1,350 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "cashtagAttachments": [],
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "actionCounts": {
+              "favoritesCount": 610
+            },
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+            },
+            "banner": {
+              "imageUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "followRequestSent": false,
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "notificationsSettings": {
+              "notificationsEnabled": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "pinnedItems": {
+              "tweetIdsStr": [
+                "2083383324878471254"
+              ]
+            },
+            "possiblySensitive": false,
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "フレネミー",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "profileMetadata": {
+              "profileInterstitialType": ""
+            },
+            "profileTranslation": {
+              "translatorType": "none"
+            },
+            "relationshipCounts": {
+              "followers": 39,
+              "following": 42
+            },
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false,
+              "liveFollowing": false,
+              "muting": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tweetCounts": {
+              "mediaTweets": 28,
+              "tweets": 194
+            },
+            "verification": {
+              "verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2123377031421567222"
+        ],
+        "editableUntilMsecs": "1795091109000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "grokAnnotations": {},
+      "grokTranslatedPostWithAvailability": {
+        "isAvailable": false
+      },
+      "hasBirdwatchNotes": false,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 0,
+        "bookmarked": false,
+        "conversationIdStr": "2123377031421567222",
+        "createdAt": "Thu Nov 19 11:25:09 +0000 2026",
+        "displayTextRange": [
+          0,
+          14
+        ],
+        "entities": {},
+        "favoriteCount": 2,
+        "favorited": false,
+        "fullText": "VIVANT見てない人メロい",
+        "idStr": "2123377031421567222",
+        "isQuoteStatus": false,
+        "lang": "ja",
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 0,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "restId": "2123377031421567222",
+      "unmentionData": {},
+      "views": {
+        "count": "67",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "cashtagAttachments": [],
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "actionCounts": {
+            "favoritesCount": 610
+          },
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+          },
+          "banner": {
+            "imageUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "followRequestSent": false,
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "notificationsSettings": {
+            "notificationsEnabled": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "pinnedItems": {
+            "tweetIdsStr": [
+              "2083383324878471254"
+            ]
+          },
+          "possiblySensitive": false,
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "フレネミー",
+            "entities": {
+              "description": {}
+            }
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "profileMetadata": {
+            "profileInterstitialType": ""
+          },
+          "profileTranslation": {
+            "translatorType": "none"
+          },
+          "relationshipCounts": {
+            "followers": 39,
+            "following": 42
+          },
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false,
+            "liveFollowing": false,
+            "muting": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tweetCounts": {
+            "mediaTweets": 28,
+            "tweets": 194
+          },
+          "verification": {
+            "verified": false
+          },
+          "website": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2123377031421567222"
+      ],
+      "editableUntilMsecs": "1795091109000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "grokAnnotations": {},
+    "grokTranslatedPostWithAvailability": {
+      "isAvailable": false
+    },
+    "hasBirdwatchNotes": false,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 0,
+      "bookmarked": false,
+      "conversationIdStr": "2123377031421567222",
+      "createdAt": "Thu Nov 19 11:25:09 +0000 2026",
+      "displayTextRange": [
+        0,
+        14
+      ],
+      "entities": {},
+      "favoriteCount": 2,
+      "favorited": false,
+      "fullText": "VIVANT見てない人メロい",
+      "idStr": "2123377031421567222",
+      "isQuoteStatus": false,
+      "lang": "ja",
+      "quoteCount": 0,
+      "replyCount": 0,
+      "retweetCount": 0,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "restId": "2123377031421567222",
+    "unmentionData": {},
+    "views": {
+      "count": "67",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "actionCounts": {
+      "favoritesCount": 610
+    },
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+    },
+    "banner": {
+      "imageUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "followRequestSent": false,
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "notificationsSettings": {
+      "notificationsEnabled": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "pinnedItems": {
+      "tweetIdsStr": [
+        "2083383324878471254"
+      ]
+    },
+    "possiblySensitive": false,
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "フレネミー",
+      "entities": {
+        "description": {}
+      }
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "profileMetadata": {
+      "profileInterstitialType": ""
+    },
+    "profileTranslation": {
+      "translatorType": "none"
+    },
+    "relationshipCounts": {
+      "followers": 39,
+      "following": 42
+    },
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false,
+      "liveFollowing": false,
+      "muting": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tweetCounts": {
+      "mediaTweets": 28,
+      "tweets": 194
+    },
+    "verification": {
+      "verified": false
+    },
+    "website": {
+      "url": ""
+    }
+  },
+  "replies": []
+}
