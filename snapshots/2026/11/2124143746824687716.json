@@ -1,0 +1,3278 @@
+{
+  "raw": {
+    "result": {
+      "typename": "Tweet",
+      "cashtagAttachments": [],
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "actionCounts": {
+              "favoritesCount": 613
+            },
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+            },
+            "banner": {
+              "imageUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021"
+            },
+            "core": {
+              "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+              "name": "教養人",
+              "screenName": "299792457_"
+            },
+            "followRequestSent": false,
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+            "isBlueVerified": false,
+            "location": {
+              "location": ""
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "notificationsSettings": {
+              "notificationsEnabled": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "pinnedItems": {
+              "tweetIdsStr": [
+                "2083383324878471254"
+              ]
+            },
+            "possiblySensitive": false,
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "フレネミー",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profileDescriptionLanguage": "ja",
+            "profileImageShape": "Circle",
+            "profileMetadata": {
+              "profileInterstitialType": ""
+            },
+            "profileTranslation": {
+              "translatorType": "none"
+            },
+            "relationshipCounts": {
+              "followers": 43,
+              "following": 42
+            },
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false,
+              "liveFollowing": false,
+              "muting": false
+            },
+            "restId": "1966785609529483264",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tweetCounts": {
+              "mediaTweets": 29,
+              "tweets": 197
+            },
+            "verification": {
+              "verified": false
+            },
+            "website": {
+              "url": ""
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editTweetIds": [
+          "2124143746824687716"
+        ],
+        "editableUntilMsecs": "1795273908000",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      },
+      "grokAnalysisButton": true,
+      "grokAnnotations": {
+        "isImageEditableByGrok": false
+      },
+      "grokTranslatedPostWithAvailability": {
+        "isAvailable": false
+      },
+      "hasBirdwatchNotes": false,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 81,
+        "bookmarked": false,
+        "conversationIdStr": "2124143746824687716",
+        "createdAt": "Sat Nov 21 14:11:48 +0000 2026",
+        "displayTextRange": [
+          0,
+          13
+        ],
+        "entities": {
+          "media": [
+            {
+              "displayUrl": "pic.x.com/Mie5CCtwxd",
+              "expandedUrl": "https://x.com/299792457_/status/2124143746824687716/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2124143690902118401",
+              "indices": [
+                14,
+                37
+              ],
+              "mediaKey": "3_2124143690902118401",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2124143690902118401"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HXp5bsQboAEJs2o.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 1139,
+                    "w": 2034,
+                    "x": 0,
+                    "y": 389
+                  },
+                  {
+                    "h": 1528,
+                    "w": 1528,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1528,
+                    "w": 1340,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1528,
+                    "w": 764,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1528,
+                    "w": 2034,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1528,
+                "width": 2034
+              },
+              "sizes": {
+                "large": {
+                  "h": 1528,
+                  "resize": "fit",
+                  "w": 2034
+                },
+                "medium": {
+                  "h": 901,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 511,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/Mie5CCtwxd"
+            }
+          ]
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "displayUrl": "pic.x.com/Mie5CCtwxd",
+              "expandedUrl": "https://x.com/299792457_/status/2124143746824687716/photo/1",
+              "extMediaAvailability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "medium": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                },
+                "small": {
+                  "faces": []
+                }
+              },
+              "idStr": "2124143690902118401",
+              "indices": [
+                14,
+                37
+              ],
+              "mediaKey": "3_2124143690902118401",
+              "mediaResults": {
+                "result": {
+                  "mediaKey": "3_2124143690902118401"
+                }
+              },
+              "mediaUrlHttps": "https://pbs.twimg.com/media/HXp5bsQboAEJs2o.jpg",
+              "originalInfo": {
+                "focusRects": [
+                  {
+                    "h": 1139,
+                    "w": 2034,
+                    "x": 0,
+                    "y": 389
+                  },
+                  {
+                    "h": 1528,
+                    "w": 1528,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1528,
+                    "w": 1340,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1528,
+                    "w": 764,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1528,
+                    "w": 2034,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1528,
+                "width": 2034
+              },
+              "sizes": {
+                "large": {
+                  "h": 1528,
+                  "resize": "fit",
+                  "w": 2034
+                },
+                "medium": {
+                  "h": 901,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 511,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/Mie5CCtwxd"
+            }
+          ]
+        },
+        "favoriteCount": 111,
+        "favorited": false,
+        "fullText": "購入したからいつでも読める https://t.co/Mie5CCtwxd",
+        "idStr": "2124143746824687716",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "possiblySensitive": false,
+        "possiblySensitiveEditable": true,
+        "quoteCount": 1,
+        "quotedStatusIdStr": "2124141630253158594",
+        "quotedStatusPermalink": {
+          "display": "x.com/nakasyou0/stat…",
+          "expanded": "https://twitter.com/nakasyou0/status/2124141630253158594",
+          "url": "https://t.co/aMyfSILlsf"
+        },
+        "replyCount": 2,
+        "retweetCount": 6,
+        "retweeted": false,
+        "userIdStr": "1966785609529483264"
+      },
+      "quotedStatusResult": {
+        "result": {
+          "typename": "Tweet",
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "actionCounts": {
+                  "favoritesCount": 180069
+                },
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+                },
+                "banner": {
+                  "imageUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293"
+                },
+                "core": {
+                  "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                  "name": "nakasyou@C109水曜東7U43b",
+                  "screenName": "nakasyou0"
+                },
+                "followRequestSent": false,
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+                "isBlueVerified": true,
+                "location": {
+                  "location": "Tokyo, Japan/🇯🇵"
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "notificationsSettings": {
+                  "notificationsEnabled": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "pinnedItems": {},
+                "possiblySensitive": false,
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "17y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "displayUrl": "nakasyou.how",
+                          "expandedUrl": "http://nakasyou.how",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/Vu0PfgrsvW"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profileImageShape": "Circle",
+                "profileMetadata": {
+                  "profileInterstitialType": ""
+                },
+                "profileTranslation": {
+                  "translatorType": "none"
+                },
+                "relationshipCounts": {
+                  "followers": 4807,
+                  "following": 1157
+                },
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false,
+                  "liveFollowing": false,
+                  "muting": false
+                },
+                "restId": "1608625702836011009",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tweetCounts": {
+                  "mediaTweets": 1098,
+                  "tweets": 15723
+                },
+                "verification": {
+                  "verified": false
+                },
+                "website": {
+                  "url": "https://t.co/Vu0PfgrsvW"
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editControlInitial": {
+              "editTweetIds": [
+                "2124141272730628132",
+                "2124141327671775356",
+                "2124141393472012500",
+                "2124141630253158594"
+              ],
+              "editableUntilMsecs": "1795273318000",
+              "editsRemaining": "2",
+              "isEditEligible": true
+            },
+            "initialTweetId": "2124141272730628132"
+          },
+          "grokAnalysisButton": true,
+          "grokTranslatedPostWithAvailability": {
+            "isAvailable": false
+          },
+          "hasBirdwatchNotes": false,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 1338,
+            "bookmarked": false,
+            "conversationIdStr": "2124141630253158594",
+            "createdAt": "Sat Nov 21 14:03:23 +0000 2026",
+            "displayTextRange": [
+              0,
+              142
+            ],
+            "entities": {},
+            "favoriteCount": 2434,
+            "favorited": false,
+            "fullText": "この人が失踪した事件懐かしい。「恒心教」という冗談宗教では「恒心営業の禁止」という掟があって、何人も恒心教の情報で金銭を得てはならない。\n彼は、Zenn で恒心教に触れた本を売ったことで掟に触れてしまった。恒心教のうちダークウェブを中心に活動するトクリュウみたいな流派から OSINT",
+            "idStr": "2124141630253158594",
+            "isQuoteStatus": true,
+            "lang": "ja",
+            "quoteCount": 37,
+            "quotedStatusIdStr": "2123791342841315533",
+            "quotedStatusPermalink": {
+              "display": "x.com/kicky1618/stat…",
+              "expanded": "https://twitter.com/kicky1618/status/2123791342841315533",
+              "url": "https://t.co/85jf8Ld1jr"
+            },
+            "replyCount": 8,
+            "retweetCount": 240,
+            "retweeted": false,
+            "userIdStr": "1608625702836011009"
+          },
+          "nestedQuotedTweetResults": {
+            "result": {
+              "typename": "Tweet",
+              "card": {
+                "legacy": {
+                  "bindingValues": [
+                    {
+                      "key": "thumbnail_image",
+                      "value": {
+                        "imageValue": {
+                          "height": 144,
+                          "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=144x144_2",
+                          "width": 144
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "description",
+                      "value": {
+                        "stringValue": "Tsumuriのプロファイルです。",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "domain",
+                      "value": {
+                        "stringValue": "web.archive.org",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_large",
+                      "value": {
+                        "imageValue": {
+                          "height": 400,
+                          "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=420x420_2",
+                          "width": 400
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_original",
+                      "value": {
+                        "imageValue": {
+                          "height": 400,
+                          "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=orig",
+                          "width": 400
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "site",
+                      "value": {
+                        "scribeKey": "publisher_id",
+                        "type": "USER",
+                        "userValue": {
+                          "idStr": "1451200778815741962",
+                          "path": []
+                        }
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_small",
+                      "value": {
+                        "imageValue": {
+                          "height": 100,
+                          "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=100x100_2",
+                          "width": 100
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_x_large",
+                      "value": {
+                        "imageValue": {
+                          "height": 400,
+                          "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=png&name=2048x2048_2_exp",
+                          "width": 400
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "vanity_url",
+                      "value": {
+                        "scribeKey": "vanity_url",
+                        "stringValue": "web.archive.org",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_color",
+                      "value": {
+                        "imageColorValue": {
+                          "palette": [
+                            {
+                              "percentage": 73.36,
+                              "rgb": {
+                                "blue": 247,
+                                "green": 233,
+                                "red": 236
+                              }
+                            },
+                            {
+                              "percentage": 15.14,
+                              "rgb": {
+                                "blue": 217,
+                                "green": 164,
+                                "red": 169
+                              }
+                            },
+                            {
+                              "percentage": 8.53,
+                              "rgb": {
+                                "blue": 109,
+                                "green": 65,
+                                "red": 77
+                              }
+                            },
+                            {
+                              "percentage": 0.59,
+                              "rgb": {
+                                "blue": 150,
+                                "green": 62,
+                                "red": 65
+                              }
+                            },
+                            {
+                              "percentage": 0.39,
+                              "rgb": {
+                                "blue": 73,
+                                "green": 61,
+                                "red": 78
+                              }
+                            }
+                          ]
+                        },
+                        "type": "IMAGE_COLOR"
+                      }
+                    },
+                    {
+                      "key": "title",
+                      "value": {
+                        "stringValue": "Profile|tsumuri's website",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "card_url",
+                      "value": {
+                        "scribeKey": "card_url",
+                        "stringValue": "https://t.co/zgako4yZyc",
+                        "type": "STRING"
+                      }
+                    }
+                  ],
+                  "cardPlatform": {
+                    "platform": {
+                      "audience": {
+                        "name": "production"
+                      },
+                      "device": {
+                        "name": "Swift",
+                        "version": "12"
+                      }
+                    }
+                  },
+                  "name": "summary",
+                  "url": "https://t.co/zgako4yZyc",
+                  "userRefsResults": [
+                    {
+                      "result": {
+                        "typename": "User",
+                        "actionCounts": {
+                          "favoritesCount": 5072
+                        },
+                        "affiliatesHighlightedLabel": {},
+                        "avatar": {
+                          "imageUrl": "https://pbs.twimg.com/profile_images/1636845712855154689/8h652-bl_normal.png"
+                        },
+                        "banner": {
+                          "imageUrl": "https://pbs.twimg.com/profile_banners/1451200778815741962/1682088423"
+                        },
+                        "core": {
+                          "createdAt": "Thu Oct 21 14:57:09 +0000 2021",
+                          "name": "tsumuri🍀",
+                          "screenName": "Tsumuri1017"
+                        },
+                        "followRequestSent": false,
+                        "hasGraduatedAccess": true,
+                        "id": "VXNlcjoxNDUxMjAwNzc4ODE1NzQxOTYy",
+                        "isBlueVerified": false,
+                        "location": {
+                          "location": "ストレリチア"
+                        },
+                        "mediaPermissions": {
+                          "canMediaTag": false
+                        },
+                        "notificationsSettings": {
+                          "notificationsEnabled": false
+                        },
+                        "parodyCommentaryFanLabel": "None",
+                        "pinnedItems": {},
+                        "possiblySensitive": false,
+                        "privacy": {
+                          "_protected": true
+                        },
+                        "professional": {
+                          "category": [
+                            {
+                              "iconName": "IconBriefcaseStroke",
+                              "id": 1055,
+                              "name": "Software developer/Programmer/Software engineer"
+                            }
+                          ],
+                          "professionalType": "Creator",
+                          "restId": "1482946556479574017"
+                        },
+                        "profileBio": {
+                          "description": "14歳の技術者。🕊ハコ船。ファン垢： @tsumuri_hkbn\n数学|情報解析|エスペラント|Web3|ピアノ|作曲|ボカロ \nメール：admin@tsumuri.moe\n脆弱性診断やサイト制作、仮想通貨追跡ができます。\nお仕事のご依頼はメールまでお願いします。",
+                          "entities": {
+                            "description": {},
+                            "url": {
+                              "urls": [
+                                {
+                                  "displayUrl": "tsumuri.moe",
+                                  "expandedUrl": "https://tsumuri.moe",
+                                  "indices": [
+                                    0,
+                                    23
+                                  ],
+                                  "url": "https://t.co/n19at2zIOq"
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "profileDescriptionLanguage": "ja",
+                        "profileImageShape": "Circle",
+                        "profileMetadata": {
+                          "profileInterstitialType": ""
+                        },
+                        "profileTranslation": {
+                          "translatorType": "none"
+                        },
+                        "relationshipCounts": {
+                          "followers": 615,
+                          "following": 257
+                        },
+                        "relationshipPerspectives": {
+                          "blockedBy": false,
+                          "blocking": false,
+                          "followedBy": false,
+                          "following": false,
+                          "liveFollowing": false,
+                          "muting": false
+                        },
+                        "restId": "1451200778815741962",
+                        "superFollowEligible": false,
+                        "superFollowedBy": false,
+                        "superFollowing": false,
+                        "tweetCounts": {
+                          "mediaTweets": 6,
+                          "tweets": 383
+                        },
+                        "verification": {
+                          "verified": false
+                        },
+                        "website": {
+                          "url": "https://t.co/n19at2zIOq"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "restId": "https://t.co/zgako4yZyc"
+              },
+              "core": {
+                "userResults": {
+                  "result": {
+                    "typename": "User",
+                    "actionCounts": {
+                      "favoritesCount": 3242
+                    },
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/2006348686939607041/pL8YY4y2_normal.jpg"
+                    },
+                    "banner": {
+                      "imageUrl": ""
+                    },
+                    "core": {
+                      "createdAt": "Sat Sep 17 06:15:19 +0000 2022",
+                      "name": "kicky1618",
+                      "screenName": "kicky1618"
+                    },
+                    "followRequestSent": false,
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjoxNTcxMDE5ODk0NjEwODgyNTY1",
+                    "isBlueVerified": false,
+                    "location": {
+                      "location": ""
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "notificationsSettings": {
+                      "notificationsEnabled": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "pinnedItems": {
+                      "tweetIdsStr": [
+                        "2103874378891149391"
+                      ]
+                    },
+                    "possiblySensitive": false,
+                    "privacy": {
+                      "_protected": false
+                    },
+                    "profileBio": {
+                      "description": "nakasyouの友達",
+                      "entities": {
+                        "description": {}
+                      }
+                    },
+                    "profileDescriptionLanguage": "ja",
+                    "profileImageShape": "Circle",
+                    "profileMetadata": {
+                      "profileInterstitialType": ""
+                    },
+                    "profileTranslation": {
+                      "translatorType": "none"
+                    },
+                    "relationshipCounts": {
+                      "followers": 640,
+                      "following": 906
+                    },
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false,
+                      "liveFollowing": false,
+                      "muting": false
+                    },
+                    "restId": "1571019894610882565",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tweetCounts": {
+                      "mediaTweets": 480,
+                      "tweets": 3324
+                    },
+                    "verification": {
+                      "verified": false
+                    },
+                    "website": {
+                      "url": ""
+                    }
+                  }
+                }
+              },
+              "editControl": {
+                "editTweetIds": [
+                  "2123791342841315533"
+                ],
+                "editableUntilMsecs": "1795189888000",
+                "editsRemaining": "5",
+                "isEditEligible": true
+              },
+              "grokAnalysisButton": true,
+              "grokTranslatedPostWithAvailability": {
+                "isAvailable": false
+              },
+              "hasBirdwatchNotes": false,
+              "isTranslatable": true,
+              "legacy": {
+                "bookmarkCount": 2349,
+                "bookmarked": false,
+                "conversationIdStr": "2123791342841315533",
+                "createdAt": "Fri Nov 20 14:51:28 +0000 2026",
+                "displayTextRange": [
+                  0,
+                  70
+                ],
+                "entities": {
+                  "urls": [
+                    {
+                      "displayUrl": "web.archive.org/web/2023033105…",
+                      "expandedUrl": "https://web.archive.org/web/20230331054505/https://tsumuri.moe/profile/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/zgako4yZyc"
+                    }
+                  ]
+                },
+                "favoriteCount": 3993,
+                "favorited": false,
+                "fullText": "https://t.co/zgako4yZyc\n多分日本の2008年生まれで一番強かった人。12,13あたりでGoogleに脆弱性報告してる",
+                "idStr": "2123791342841315533",
+                "isQuoteStatus": false,
+                "lang": "ja",
+                "possiblySensitive": false,
+                "possiblySensitiveEditable": true,
+                "quoteCount": 89,
+                "replyCount": 7,
+                "retweetCount": 217,
+                "retweeted": false,
+                "userIdStr": "1571019894610882565"
+              },
+              "restId": "2123791342841315533",
+              "unmentionData": {},
+              "views": {
+                "count": "1205070",
+                "state": "EnabledWithCount"
+              }
+            }
+          },
+          "noteTweet": {
+            "isExpandable": true,
+            "noteTweetResults": {
+              "result": {
+                "entitySet": {
+                  "hashtags": [],
+                  "smarttags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "userMentions": []
+                },
+                "id": "Tm90ZVR3ZWV0OjIxMjQxNDE2MzAxOTg1NzUxMDQ=",
+                "richtext": {
+                  "richtextTags": []
+                },
+                "text": "この人が失踪した事件懐かしい。「恒心教」という冗談宗教では「恒心営業の禁止」という掟があって、何人も恒心教の情報で金銭を得てはならない。\n彼は、Zenn で恒心教に触れた本を売ったことで掟に触れてしまった。恒心教のうちダークウェブを中心に活動するトクリュウみたいな流派から OSINT され、顔や本名がさらされ、彼の学校に彼名義で爆破予告が送られる、などがあって失踪してしまった。\nこのトクリュウみたいな恒心教はダークウェブの掲示板で完全に匿名化されて活動していて、何人いるかすらわからない。暇人がたくさんいるから容易に OSINT されてしまう。自分も彼と関わっていたというだけで本名や学校が特定されて掲示板に載ってしまった。"
+              }
+            }
+          },
+          "previousCounts": {
+            "bookmarkCount": 0,
+            "favoriteCount": 1,
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0
+          },
+          "quotedRefResult": {
+            "result": {
+              "typename": "Tweet",
+              "restId": "2123791342841315533"
+            }
+          },
+          "restId": "2124141630253158594",
+          "unmentionData": {},
+          "views": {
+            "count": "396818",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "restId": "2124143746824687716",
+      "unmentionData": {},
+      "views": {
+        "count": "15391",
+        "state": "EnabledWithCount"
+      }
+    }
+  },
+  "tweet": {
+    "typename": "Tweet",
+    "cashtagAttachments": [],
+    "core": {
+      "userResults": {
+        "result": {
+          "typename": "User",
+          "actionCounts": {
+            "favoritesCount": 613
+          },
+          "affiliatesHighlightedLabel": {},
+          "avatar": {
+            "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+          },
+          "banner": {
+            "imageUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021"
+          },
+          "core": {
+            "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+            "name": "教養人",
+            "screenName": "299792457_"
+          },
+          "followRequestSent": false,
+          "hasGraduatedAccess": true,
+          "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+          "isBlueVerified": false,
+          "location": {
+            "location": ""
+          },
+          "mediaPermissions": {
+            "canMediaTag": false
+          },
+          "notificationsSettings": {
+            "notificationsEnabled": false
+          },
+          "parodyCommentaryFanLabel": "None",
+          "pinnedItems": {
+            "tweetIdsStr": [
+              "2083383324878471254"
+            ]
+          },
+          "possiblySensitive": false,
+          "privacy": {
+            "_protected": false
+          },
+          "profileBio": {
+            "description": "フレネミー",
+            "entities": {
+              "description": {}
+            }
+          },
+          "profileDescriptionLanguage": "ja",
+          "profileImageShape": "Circle",
+          "profileMetadata": {
+            "profileInterstitialType": ""
+          },
+          "profileTranslation": {
+            "translatorType": "none"
+          },
+          "relationshipCounts": {
+            "followers": 43,
+            "following": 42
+          },
+          "relationshipPerspectives": {
+            "blockedBy": false,
+            "blocking": false,
+            "followedBy": false,
+            "following": false,
+            "liveFollowing": false,
+            "muting": false
+          },
+          "restId": "1966785609529483264",
+          "superFollowEligible": false,
+          "superFollowedBy": false,
+          "superFollowing": false,
+          "tweetCounts": {
+            "mediaTweets": 29,
+            "tweets": 197
+          },
+          "verification": {
+            "verified": false
+          },
+          "website": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "editControl": {
+      "editTweetIds": [
+        "2124143746824687716"
+      ],
+      "editableUntilMsecs": "1795273908000",
+      "editsRemaining": "5",
+      "isEditEligible": true
+    },
+    "grokAnalysisButton": true,
+    "grokAnnotations": {
+      "isImageEditableByGrok": false
+    },
+    "grokTranslatedPostWithAvailability": {
+      "isAvailable": false
+    },
+    "hasBirdwatchNotes": false,
+    "isTranslatable": true,
+    "legacy": {
+      "bookmarkCount": 81,
+      "bookmarked": false,
+      "conversationIdStr": "2124143746824687716",
+      "createdAt": "Sat Nov 21 14:11:48 +0000 2026",
+      "displayTextRange": [
+        0,
+        13
+      ],
+      "entities": {
+        "media": [
+          {
+            "displayUrl": "pic.x.com/Mie5CCtwxd",
+            "expandedUrl": "https://x.com/299792457_/status/2124143746824687716/photo/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "idStr": "2124143690902118401",
+            "indices": [
+              14,
+              37
+            ],
+            "mediaKey": "3_2124143690902118401",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "3_2124143690902118401"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/media/HXp5bsQboAEJs2o.jpg",
+            "originalInfo": {
+              "focusRects": [
+                {
+                  "h": 1139,
+                  "w": 2034,
+                  "x": 0,
+                  "y": 389
+                },
+                {
+                  "h": 1528,
+                  "w": 1528,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1528,
+                  "w": 1340,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1528,
+                  "w": 764,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1528,
+                  "w": 2034,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1528,
+              "width": 2034
+            },
+            "sizes": {
+              "large": {
+                "h": 1528,
+                "resize": "fit",
+                "w": 2034
+              },
+              "medium": {
+                "h": 901,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 511,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Mie5CCtwxd"
+          }
+        ]
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "displayUrl": "pic.x.com/Mie5CCtwxd",
+            "expandedUrl": "https://x.com/299792457_/status/2124143746824687716/photo/1",
+            "extMediaAvailability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "idStr": "2124143690902118401",
+            "indices": [
+              14,
+              37
+            ],
+            "mediaKey": "3_2124143690902118401",
+            "mediaResults": {
+              "result": {
+                "mediaKey": "3_2124143690902118401"
+              }
+            },
+            "mediaUrlHttps": "https://pbs.twimg.com/media/HXp5bsQboAEJs2o.jpg",
+            "originalInfo": {
+              "focusRects": [
+                {
+                  "h": 1139,
+                  "w": 2034,
+                  "x": 0,
+                  "y": 389
+                },
+                {
+                  "h": 1528,
+                  "w": 1528,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1528,
+                  "w": 1340,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1528,
+                  "w": 764,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1528,
+                  "w": 2034,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1528,
+              "width": 2034
+            },
+            "sizes": {
+              "large": {
+                "h": 1528,
+                "resize": "fit",
+                "w": 2034
+              },
+              "medium": {
+                "h": 901,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 511,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Mie5CCtwxd"
+          }
+        ]
+      },
+      "favoriteCount": 111,
+      "favorited": false,
+      "fullText": "購入したからいつでも読める https://t.co/Mie5CCtwxd",
+      "idStr": "2124143746824687716",
+      "isQuoteStatus": true,
+      "lang": "ja",
+      "possiblySensitive": false,
+      "possiblySensitiveEditable": true,
+      "quoteCount": 1,
+      "quotedStatusIdStr": "2124141630253158594",
+      "quotedStatusPermalink": {
+        "display": "x.com/nakasyou0/stat…",
+        "expanded": "https://twitter.com/nakasyou0/status/2124141630253158594",
+        "url": "https://t.co/aMyfSILlsf"
+      },
+      "replyCount": 2,
+      "retweetCount": 6,
+      "retweeted": false,
+      "userIdStr": "1966785609529483264"
+    },
+    "quotedStatusResult": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "actionCounts": {
+                "favoritesCount": 180069
+              },
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+              },
+              "banner": {
+                "imageUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293"
+              },
+              "core": {
+                "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                "name": "nakasyou@C109水曜東7U43b",
+                "screenName": "nakasyou0"
+              },
+              "followRequestSent": false,
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+              "isBlueVerified": true,
+              "location": {
+                "location": "Tokyo, Japan/🇯🇵"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "notificationsSettings": {
+                "notificationsEnabled": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "pinnedItems": {},
+              "possiblySensitive": false,
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "17y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "displayUrl": "nakasyou.how",
+                        "expandedUrl": "http://nakasyou.how",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/Vu0PfgrsvW"
+                      }
+                    ]
+                  }
+                }
+              },
+              "profileImageShape": "Circle",
+              "profileMetadata": {
+                "profileInterstitialType": ""
+              },
+              "profileTranslation": {
+                "translatorType": "none"
+              },
+              "relationshipCounts": {
+                "followers": 4807,
+                "following": 1157
+              },
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false,
+                "liveFollowing": false,
+                "muting": false
+              },
+              "restId": "1608625702836011009",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tweetCounts": {
+                "mediaTweets": 1098,
+                "tweets": 15723
+              },
+              "verification": {
+                "verified": false
+              },
+              "website": {
+                "url": "https://t.co/Vu0PfgrsvW"
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editControlInitial": {
+            "editTweetIds": [
+              "2124141272730628132",
+              "2124141327671775356",
+              "2124141393472012500",
+              "2124141630253158594"
+            ],
+            "editableUntilMsecs": "1795273318000",
+            "editsRemaining": "2",
+            "isEditEligible": true
+          },
+          "initialTweetId": "2124141272730628132"
+        },
+        "grokAnalysisButton": true,
+        "grokTranslatedPostWithAvailability": {
+          "isAvailable": false
+        },
+        "hasBirdwatchNotes": false,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 1338,
+          "bookmarked": false,
+          "conversationIdStr": "2124141630253158594",
+          "createdAt": "Sat Nov 21 14:03:23 +0000 2026",
+          "displayTextRange": [
+            0,
+            142
+          ],
+          "entities": {},
+          "favoriteCount": 2434,
+          "favorited": false,
+          "fullText": "この人が失踪した事件懐かしい。「恒心教」という冗談宗教では「恒心営業の禁止」という掟があって、何人も恒心教の情報で金銭を得てはならない。\n彼は、Zenn で恒心教に触れた本を売ったことで掟に触れてしまった。恒心教のうちダークウェブを中心に活動するトクリュウみたいな流派から OSINT",
+          "idStr": "2124141630253158594",
+          "isQuoteStatus": true,
+          "lang": "ja",
+          "quoteCount": 37,
+          "quotedStatusIdStr": "2123791342841315533",
+          "quotedStatusPermalink": {
+            "display": "x.com/kicky1618/stat…",
+            "expanded": "https://twitter.com/kicky1618/status/2123791342841315533",
+            "url": "https://t.co/85jf8Ld1jr"
+          },
+          "replyCount": 8,
+          "retweetCount": 240,
+          "retweeted": false,
+          "userIdStr": "1608625702836011009"
+        },
+        "nestedQuotedTweetResults": {
+          "result": {
+            "typename": "Tweet",
+            "card": {
+              "legacy": {
+                "bindingValues": [
+                  {
+                    "key": "thumbnail_image",
+                    "value": {
+                      "imageValue": {
+                        "height": 144,
+                        "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=144x144_2",
+                        "width": 144
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "description",
+                    "value": {
+                      "stringValue": "Tsumuriのプロファイルです。",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "domain",
+                    "value": {
+                      "stringValue": "web.archive.org",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 400,
+                        "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=420x420_2",
+                        "width": 400
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 400,
+                        "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=orig",
+                        "width": 400
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "site",
+                    "value": {
+                      "scribeKey": "publisher_id",
+                      "type": "USER",
+                      "userValue": {
+                        "idStr": "1451200778815741962",
+                        "path": []
+                      }
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 100,
+                        "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=100x100_2",
+                        "width": 100
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 400,
+                        "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=png&name=2048x2048_2_exp",
+                        "width": 400
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "vanity_url",
+                    "value": {
+                      "scribeKey": "vanity_url",
+                      "stringValue": "web.archive.org",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 73.36,
+                            "rgb": {
+                              "blue": 247,
+                              "green": 233,
+                              "red": 236
+                            }
+                          },
+                          {
+                            "percentage": 15.14,
+                            "rgb": {
+                              "blue": 217,
+                              "green": 164,
+                              "red": 169
+                            }
+                          },
+                          {
+                            "percentage": 8.53,
+                            "rgb": {
+                              "blue": 109,
+                              "green": 65,
+                              "red": 77
+                            }
+                          },
+                          {
+                            "percentage": 0.59,
+                            "rgb": {
+                              "blue": 150,
+                              "green": 62,
+                              "red": 65
+                            }
+                          },
+                          {
+                            "percentage": 0.39,
+                            "rgb": {
+                              "blue": 73,
+                              "green": 61,
+                              "red": 78
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "title",
+                    "value": {
+                      "stringValue": "Profile|tsumuri's website",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "card_url",
+                    "value": {
+                      "scribeKey": "card_url",
+                      "stringValue": "https://t.co/zgako4yZyc",
+                      "type": "STRING"
+                    }
+                  }
+                ],
+                "cardPlatform": {
+                  "platform": {
+                    "audience": {
+                      "name": "production"
+                    },
+                    "device": {
+                      "name": "Swift",
+                      "version": "12"
+                    }
+                  }
+                },
+                "name": "summary",
+                "url": "https://t.co/zgako4yZyc",
+                "userRefsResults": [
+                  {
+                    "result": {
+                      "typename": "User",
+                      "actionCounts": {
+                        "favoritesCount": 5072
+                      },
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/1636845712855154689/8h652-bl_normal.png"
+                      },
+                      "banner": {
+                        "imageUrl": "https://pbs.twimg.com/profile_banners/1451200778815741962/1682088423"
+                      },
+                      "core": {
+                        "createdAt": "Thu Oct 21 14:57:09 +0000 2021",
+                        "name": "tsumuri🍀",
+                        "screenName": "Tsumuri1017"
+                      },
+                      "followRequestSent": false,
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjoxNDUxMjAwNzc4ODE1NzQxOTYy",
+                      "isBlueVerified": false,
+                      "location": {
+                        "location": "ストレリチア"
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "notificationsSettings": {
+                        "notificationsEnabled": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "pinnedItems": {},
+                      "possiblySensitive": false,
+                      "privacy": {
+                        "_protected": true
+                      },
+                      "professional": {
+                        "category": [
+                          {
+                            "iconName": "IconBriefcaseStroke",
+                            "id": 1055,
+                            "name": "Software developer/Programmer/Software engineer"
+                          }
+                        ],
+                        "professionalType": "Creator",
+                        "restId": "1482946556479574017"
+                      },
+                      "profileBio": {
+                        "description": "14歳の技術者。🕊ハコ船。ファン垢： @tsumuri_hkbn\n数学|情報解析|エスペラント|Web3|ピアノ|作曲|ボカロ \nメール：admin@tsumuri.moe\n脆弱性診断やサイト制作、仮想通貨追跡ができます。\nお仕事のご依頼はメールまでお願いします。",
+                        "entities": {
+                          "description": {},
+                          "url": {
+                            "urls": [
+                              {
+                                "displayUrl": "tsumuri.moe",
+                                "expandedUrl": "https://tsumuri.moe",
+                                "indices": [
+                                  0,
+                                  23
+                                ],
+                                "url": "https://t.co/n19at2zIOq"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "profileDescriptionLanguage": "ja",
+                      "profileImageShape": "Circle",
+                      "profileMetadata": {
+                        "profileInterstitialType": ""
+                      },
+                      "profileTranslation": {
+                        "translatorType": "none"
+                      },
+                      "relationshipCounts": {
+                        "followers": 615,
+                        "following": 257
+                      },
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false,
+                        "liveFollowing": false,
+                        "muting": false
+                      },
+                      "restId": "1451200778815741962",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tweetCounts": {
+                        "mediaTweets": 6,
+                        "tweets": 383
+                      },
+                      "verification": {
+                        "verified": false
+                      },
+                      "website": {
+                        "url": "https://t.co/n19at2zIOq"
+                      }
+                    }
+                  }
+                ]
+              },
+              "restId": "https://t.co/zgako4yZyc"
+            },
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "actionCounts": {
+                    "favoritesCount": 3242
+                  },
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/2006348686939607041/pL8YY4y2_normal.jpg"
+                  },
+                  "banner": {
+                    "imageUrl": ""
+                  },
+                  "core": {
+                    "createdAt": "Sat Sep 17 06:15:19 +0000 2022",
+                    "name": "kicky1618",
+                    "screenName": "kicky1618"
+                  },
+                  "followRequestSent": false,
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoxNTcxMDE5ODk0NjEwODgyNTY1",
+                  "isBlueVerified": false,
+                  "location": {
+                    "location": ""
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "notificationsSettings": {
+                    "notificationsEnabled": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "pinnedItems": {
+                    "tweetIdsStr": [
+                      "2103874378891149391"
+                    ]
+                  },
+                  "possiblySensitive": false,
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "nakasyouの友達",
+                    "entities": {
+                      "description": {}
+                    }
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "profileMetadata": {
+                    "profileInterstitialType": ""
+                  },
+                  "profileTranslation": {
+                    "translatorType": "none"
+                  },
+                  "relationshipCounts": {
+                    "followers": 640,
+                    "following": 906
+                  },
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false,
+                    "liveFollowing": false,
+                    "muting": false
+                  },
+                  "restId": "1571019894610882565",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tweetCounts": {
+                    "mediaTweets": 480,
+                    "tweets": 3324
+                  },
+                  "verification": {
+                    "verified": false
+                  },
+                  "website": {
+                    "url": ""
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2123791342841315533"
+              ],
+              "editableUntilMsecs": "1795189888000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            },
+            "grokAnalysisButton": true,
+            "grokTranslatedPostWithAvailability": {
+              "isAvailable": false
+            },
+            "hasBirdwatchNotes": false,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 2349,
+              "bookmarked": false,
+              "conversationIdStr": "2123791342841315533",
+              "createdAt": "Fri Nov 20 14:51:28 +0000 2026",
+              "displayTextRange": [
+                0,
+                70
+              ],
+              "entities": {
+                "urls": [
+                  {
+                    "displayUrl": "web.archive.org/web/2023033105…",
+                    "expandedUrl": "https://web.archive.org/web/20230331054505/https://tsumuri.moe/profile/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/zgako4yZyc"
+                  }
+                ]
+              },
+              "favoriteCount": 3993,
+              "favorited": false,
+              "fullText": "https://t.co/zgako4yZyc\n多分日本の2008年生まれで一番強かった人。12,13あたりでGoogleに脆弱性報告してる",
+              "idStr": "2123791342841315533",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "possiblySensitive": false,
+              "possiblySensitiveEditable": true,
+              "quoteCount": 89,
+              "replyCount": 7,
+              "retweetCount": 217,
+              "retweeted": false,
+              "userIdStr": "1571019894610882565"
+            },
+            "restId": "2123791342841315533",
+            "unmentionData": {},
+            "views": {
+              "count": "1205070",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "noteTweet": {
+          "isExpandable": true,
+          "noteTweetResults": {
+            "result": {
+              "entitySet": {
+                "hashtags": [],
+                "smarttags": [],
+                "symbols": [],
+                "urls": [],
+                "userMentions": []
+              },
+              "id": "Tm90ZVR3ZWV0OjIxMjQxNDE2MzAxOTg1NzUxMDQ=",
+              "richtext": {
+                "richtextTags": []
+              },
+              "text": "この人が失踪した事件懐かしい。「恒心教」という冗談宗教では「恒心営業の禁止」という掟があって、何人も恒心教の情報で金銭を得てはならない。\n彼は、Zenn で恒心教に触れた本を売ったことで掟に触れてしまった。恒心教のうちダークウェブを中心に活動するトクリュウみたいな流派から OSINT され、顔や本名がさらされ、彼の学校に彼名義で爆破予告が送られる、などがあって失踪してしまった。\nこのトクリュウみたいな恒心教はダークウェブの掲示板で完全に匿名化されて活動していて、何人いるかすらわからない。暇人がたくさんいるから容易に OSINT されてしまう。自分も彼と関わっていたというだけで本名や学校が特定されて掲示板に載ってしまった。"
+            }
+          }
+        },
+        "previousCounts": {
+          "bookmarkCount": 0,
+          "favoriteCount": 1,
+          "quoteCount": 0,
+          "replyCount": 0,
+          "retweetCount": 0
+        },
+        "quotedRefResult": {
+          "result": {
+            "typename": "Tweet",
+            "restId": "2123791342841315533"
+          }
+        },
+        "restId": "2124141630253158594",
+        "unmentionData": {},
+        "views": {
+          "count": "396818",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "restId": "2124143746824687716",
+    "unmentionData": {},
+    "views": {
+      "count": "15391",
+      "state": "EnabledWithCount"
+    }
+  },
+  "user": {
+    "typename": "User",
+    "actionCounts": {
+      "favoritesCount": 613
+    },
+    "affiliatesHighlightedLabel": {},
+    "avatar": {
+      "imageUrl": "https://pbs.twimg.com/profile_images/2118670929802997760/sDGE1rW1_normal.jpg"
+    },
+    "banner": {
+      "imageUrl": "https://pbs.twimg.com/profile_banners/1966785609529483264/1782304021"
+    },
+    "core": {
+      "createdAt": "Sat Sep 13 08:46:52 +0000 2025",
+      "name": "教養人",
+      "screenName": "299792457_"
+    },
+    "followRequestSent": false,
+    "hasGraduatedAccess": true,
+    "id": "VXNlcjoxOTY2Nzg1NjA5NTI5NDgzMjY0",
+    "isBlueVerified": false,
+    "location": {
+      "location": ""
+    },
+    "mediaPermissions": {
+      "canMediaTag": false
+    },
+    "notificationsSettings": {
+      "notificationsEnabled": false
+    },
+    "parodyCommentaryFanLabel": "None",
+    "pinnedItems": {
+      "tweetIdsStr": [
+        "2083383324878471254"
+      ]
+    },
+    "possiblySensitive": false,
+    "privacy": {
+      "_protected": false
+    },
+    "profileBio": {
+      "description": "フレネミー",
+      "entities": {
+        "description": {}
+      }
+    },
+    "profileDescriptionLanguage": "ja",
+    "profileImageShape": "Circle",
+    "profileMetadata": {
+      "profileInterstitialType": ""
+    },
+    "profileTranslation": {
+      "translatorType": "none"
+    },
+    "relationshipCounts": {
+      "followers": 43,
+      "following": 42
+    },
+    "relationshipPerspectives": {
+      "blockedBy": false,
+      "blocking": false,
+      "followedBy": false,
+      "following": false,
+      "liveFollowing": false,
+      "muting": false
+    },
+    "restId": "1966785609529483264",
+    "superFollowEligible": false,
+    "superFollowedBy": false,
+    "superFollowing": false,
+    "tweetCounts": {
+      "mediaTweets": 29,
+      "tweets": 197
+    },
+    "verification": {
+      "verified": false
+    },
+    "website": {
+      "url": ""
+    }
+  },
+  "replies": [],
+  "quoted": {
+    "raw": {
+      "result": {
+        "typename": "Tweet",
+        "core": {
+          "userResults": {
+            "result": {
+              "typename": "User",
+              "actionCounts": {
+                "favoritesCount": 180069
+              },
+              "affiliatesHighlightedLabel": {},
+              "avatar": {
+                "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+              },
+              "banner": {
+                "imageUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293"
+              },
+              "core": {
+                "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+                "name": "nakasyou@C109水曜東7U43b",
+                "screenName": "nakasyou0"
+              },
+              "followRequestSent": false,
+              "hasGraduatedAccess": true,
+              "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+              "isBlueVerified": true,
+              "location": {
+                "location": "Tokyo, Japan/🇯🇵"
+              },
+              "mediaPermissions": {
+                "canMediaTag": false
+              },
+              "notificationsSettings": {
+                "notificationsEnabled": false
+              },
+              "parodyCommentaryFanLabel": "None",
+              "pinnedItems": {},
+              "possiblySensitive": false,
+              "privacy": {
+                "_protected": false
+              },
+              "profileBio": {
+                "description": "17y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "displayUrl": "nakasyou.how",
+                        "expandedUrl": "http://nakasyou.how",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/Vu0PfgrsvW"
+                      }
+                    ]
+                  }
+                }
+              },
+              "profileImageShape": "Circle",
+              "profileMetadata": {
+                "profileInterstitialType": ""
+              },
+              "profileTranslation": {
+                "translatorType": "none"
+              },
+              "relationshipCounts": {
+                "followers": 4807,
+                "following": 1157
+              },
+              "relationshipPerspectives": {
+                "blockedBy": false,
+                "blocking": false,
+                "followedBy": false,
+                "following": false,
+                "liveFollowing": false,
+                "muting": false
+              },
+              "restId": "1608625702836011009",
+              "superFollowEligible": false,
+              "superFollowedBy": false,
+              "superFollowing": false,
+              "tweetCounts": {
+                "mediaTweets": 1098,
+                "tweets": 15723
+              },
+              "verification": {
+                "verified": false
+              },
+              "website": {
+                "url": "https://t.co/Vu0PfgrsvW"
+              }
+            }
+          }
+        },
+        "editControl": {
+          "editControlInitial": {
+            "editTweetIds": [
+              "2124141272730628132",
+              "2124141327671775356",
+              "2124141393472012500",
+              "2124141630253158594"
+            ],
+            "editableUntilMsecs": "1795273318000",
+            "editsRemaining": "2",
+            "isEditEligible": true
+          },
+          "initialTweetId": "2124141272730628132"
+        },
+        "grokAnalysisButton": true,
+        "grokTranslatedPostWithAvailability": {
+          "isAvailable": false
+        },
+        "hasBirdwatchNotes": false,
+        "isTranslatable": true,
+        "legacy": {
+          "bookmarkCount": 1338,
+          "bookmarked": false,
+          "conversationIdStr": "2124141630253158594",
+          "createdAt": "Sat Nov 21 14:03:23 +0000 2026",
+          "displayTextRange": [
+            0,
+            142
+          ],
+          "entities": {},
+          "favoriteCount": 2434,
+          "favorited": false,
+          "fullText": "この人が失踪した事件懐かしい。「恒心教」という冗談宗教では「恒心営業の禁止」という掟があって、何人も恒心教の情報で金銭を得てはならない。\n彼は、Zenn で恒心教に触れた本を売ったことで掟に触れてしまった。恒心教のうちダークウェブを中心に活動するトクリュウみたいな流派から OSINT",
+          "idStr": "2124141630253158594",
+          "isQuoteStatus": true,
+          "lang": "ja",
+          "quoteCount": 37,
+          "quotedStatusIdStr": "2123791342841315533",
+          "quotedStatusPermalink": {
+            "display": "x.com/kicky1618/stat…",
+            "expanded": "https://twitter.com/kicky1618/status/2123791342841315533",
+            "url": "https://t.co/85jf8Ld1jr"
+          },
+          "replyCount": 8,
+          "retweetCount": 240,
+          "retweeted": false,
+          "userIdStr": "1608625702836011009"
+        },
+        "nestedQuotedTweetResults": {
+          "result": {
+            "typename": "Tweet",
+            "card": {
+              "legacy": {
+                "bindingValues": [
+                  {
+                    "key": "thumbnail_image",
+                    "value": {
+                      "imageValue": {
+                        "height": 144,
+                        "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=144x144_2",
+                        "width": 144
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "description",
+                    "value": {
+                      "stringValue": "Tsumuriのプロファイルです。",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "domain",
+                    "value": {
+                      "stringValue": "web.archive.org",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 400,
+                        "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=420x420_2",
+                        "width": 400
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_original",
+                    "value": {
+                      "imageValue": {
+                        "height": 400,
+                        "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=orig",
+                        "width": 400
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "site",
+                    "value": {
+                      "scribeKey": "publisher_id",
+                      "type": "USER",
+                      "userValue": {
+                        "idStr": "1451200778815741962",
+                        "path": []
+                      }
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_small",
+                    "value": {
+                      "imageValue": {
+                        "height": 100,
+                        "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=100x100_2",
+                        "width": 100
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_x_large",
+                    "value": {
+                      "imageValue": {
+                        "height": 400,
+                        "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=png&name=2048x2048_2_exp",
+                        "width": 400
+                      },
+                      "type": "IMAGE"
+                    }
+                  },
+                  {
+                    "key": "vanity_url",
+                    "value": {
+                      "scribeKey": "vanity_url",
+                      "stringValue": "web.archive.org",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "thumbnail_image_color",
+                    "value": {
+                      "imageColorValue": {
+                        "palette": [
+                          {
+                            "percentage": 73.36,
+                            "rgb": {
+                              "blue": 247,
+                              "green": 233,
+                              "red": 236
+                            }
+                          },
+                          {
+                            "percentage": 15.14,
+                            "rgb": {
+                              "blue": 217,
+                              "green": 164,
+                              "red": 169
+                            }
+                          },
+                          {
+                            "percentage": 8.53,
+                            "rgb": {
+                              "blue": 109,
+                              "green": 65,
+                              "red": 77
+                            }
+                          },
+                          {
+                            "percentage": 0.59,
+                            "rgb": {
+                              "blue": 150,
+                              "green": 62,
+                              "red": 65
+                            }
+                          },
+                          {
+                            "percentage": 0.39,
+                            "rgb": {
+                              "blue": 73,
+                              "green": 61,
+                              "red": 78
+                            }
+                          }
+                        ]
+                      },
+                      "type": "IMAGE_COLOR"
+                    }
+                  },
+                  {
+                    "key": "title",
+                    "value": {
+                      "stringValue": "Profile|tsumuri's website",
+                      "type": "STRING"
+                    }
+                  },
+                  {
+                    "key": "card_url",
+                    "value": {
+                      "scribeKey": "card_url",
+                      "stringValue": "https://t.co/zgako4yZyc",
+                      "type": "STRING"
+                    }
+                  }
+                ],
+                "cardPlatform": {
+                  "platform": {
+                    "audience": {
+                      "name": "production"
+                    },
+                    "device": {
+                      "name": "Swift",
+                      "version": "12"
+                    }
+                  }
+                },
+                "name": "summary",
+                "url": "https://t.co/zgako4yZyc",
+                "userRefsResults": [
+                  {
+                    "result": {
+                      "typename": "User",
+                      "actionCounts": {
+                        "favoritesCount": 5072
+                      },
+                      "affiliatesHighlightedLabel": {},
+                      "avatar": {
+                        "imageUrl": "https://pbs.twimg.com/profile_images/1636845712855154689/8h652-bl_normal.png"
+                      },
+                      "banner": {
+                        "imageUrl": "https://pbs.twimg.com/profile_banners/1451200778815741962/1682088423"
+                      },
+                      "core": {
+                        "createdAt": "Thu Oct 21 14:57:09 +0000 2021",
+                        "name": "tsumuri🍀",
+                        "screenName": "Tsumuri1017"
+                      },
+                      "followRequestSent": false,
+                      "hasGraduatedAccess": true,
+                      "id": "VXNlcjoxNDUxMjAwNzc4ODE1NzQxOTYy",
+                      "isBlueVerified": false,
+                      "location": {
+                        "location": "ストレリチア"
+                      },
+                      "mediaPermissions": {
+                        "canMediaTag": false
+                      },
+                      "notificationsSettings": {
+                        "notificationsEnabled": false
+                      },
+                      "parodyCommentaryFanLabel": "None",
+                      "pinnedItems": {},
+                      "possiblySensitive": false,
+                      "privacy": {
+                        "_protected": true
+                      },
+                      "professional": {
+                        "category": [
+                          {
+                            "iconName": "IconBriefcaseStroke",
+                            "id": 1055,
+                            "name": "Software developer/Programmer/Software engineer"
+                          }
+                        ],
+                        "professionalType": "Creator",
+                        "restId": "1482946556479574017"
+                      },
+                      "profileBio": {
+                        "description": "14歳の技術者。🕊ハコ船。ファン垢： @tsumuri_hkbn\n数学|情報解析|エスペラント|Web3|ピアノ|作曲|ボカロ \nメール：admin@tsumuri.moe\n脆弱性診断やサイト制作、仮想通貨追跡ができます。\nお仕事のご依頼はメールまでお願いします。",
+                        "entities": {
+                          "description": {},
+                          "url": {
+                            "urls": [
+                              {
+                                "displayUrl": "tsumuri.moe",
+                                "expandedUrl": "https://tsumuri.moe",
+                                "indices": [
+                                  0,
+                                  23
+                                ],
+                                "url": "https://t.co/n19at2zIOq"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "profileDescriptionLanguage": "ja",
+                      "profileImageShape": "Circle",
+                      "profileMetadata": {
+                        "profileInterstitialType": ""
+                      },
+                      "profileTranslation": {
+                        "translatorType": "none"
+                      },
+                      "relationshipCounts": {
+                        "followers": 615,
+                        "following": 257
+                      },
+                      "relationshipPerspectives": {
+                        "blockedBy": false,
+                        "blocking": false,
+                        "followedBy": false,
+                        "following": false,
+                        "liveFollowing": false,
+                        "muting": false
+                      },
+                      "restId": "1451200778815741962",
+                      "superFollowEligible": false,
+                      "superFollowedBy": false,
+                      "superFollowing": false,
+                      "tweetCounts": {
+                        "mediaTweets": 6,
+                        "tweets": 383
+                      },
+                      "verification": {
+                        "verified": false
+                      },
+                      "website": {
+                        "url": "https://t.co/n19at2zIOq"
+                      }
+                    }
+                  }
+                ]
+              },
+              "restId": "https://t.co/zgako4yZyc"
+            },
+            "core": {
+              "userResults": {
+                "result": {
+                  "typename": "User",
+                  "actionCounts": {
+                    "favoritesCount": 3242
+                  },
+                  "affiliatesHighlightedLabel": {},
+                  "avatar": {
+                    "imageUrl": "https://pbs.twimg.com/profile_images/2006348686939607041/pL8YY4y2_normal.jpg"
+                  },
+                  "banner": {
+                    "imageUrl": ""
+                  },
+                  "core": {
+                    "createdAt": "Sat Sep 17 06:15:19 +0000 2022",
+                    "name": "kicky1618",
+                    "screenName": "kicky1618"
+                  },
+                  "followRequestSent": false,
+                  "hasGraduatedAccess": true,
+                  "id": "VXNlcjoxNTcxMDE5ODk0NjEwODgyNTY1",
+                  "isBlueVerified": false,
+                  "location": {
+                    "location": ""
+                  },
+                  "mediaPermissions": {
+                    "canMediaTag": false
+                  },
+                  "notificationsSettings": {
+                    "notificationsEnabled": false
+                  },
+                  "parodyCommentaryFanLabel": "None",
+                  "pinnedItems": {
+                    "tweetIdsStr": [
+                      "2103874378891149391"
+                    ]
+                  },
+                  "possiblySensitive": false,
+                  "privacy": {
+                    "_protected": false
+                  },
+                  "profileBio": {
+                    "description": "nakasyouの友達",
+                    "entities": {
+                      "description": {}
+                    }
+                  },
+                  "profileDescriptionLanguage": "ja",
+                  "profileImageShape": "Circle",
+                  "profileMetadata": {
+                    "profileInterstitialType": ""
+                  },
+                  "profileTranslation": {
+                    "translatorType": "none"
+                  },
+                  "relationshipCounts": {
+                    "followers": 640,
+                    "following": 906
+                  },
+                  "relationshipPerspectives": {
+                    "blockedBy": false,
+                    "blocking": false,
+                    "followedBy": false,
+                    "following": false,
+                    "liveFollowing": false,
+                    "muting": false
+                  },
+                  "restId": "1571019894610882565",
+                  "superFollowEligible": false,
+                  "superFollowedBy": false,
+                  "superFollowing": false,
+                  "tweetCounts": {
+                    "mediaTweets": 480,
+                    "tweets": 3324
+                  },
+                  "verification": {
+                    "verified": false
+                  },
+                  "website": {
+                    "url": ""
+                  }
+                }
+              }
+            },
+            "editControl": {
+              "editTweetIds": [
+                "2123791342841315533"
+              ],
+              "editableUntilMsecs": "1795189888000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            },
+            "grokAnalysisButton": true,
+            "grokTranslatedPostWithAvailability": {
+              "isAvailable": false
+            },
+            "hasBirdwatchNotes": false,
+            "isTranslatable": true,
+            "legacy": {
+              "bookmarkCount": 2349,
+              "bookmarked": false,
+              "conversationIdStr": "2123791342841315533",
+              "createdAt": "Fri Nov 20 14:51:28 +0000 2026",
+              "displayTextRange": [
+                0,
+                70
+              ],
+              "entities": {
+                "urls": [
+                  {
+                    "displayUrl": "web.archive.org/web/2023033105…",
+                    "expandedUrl": "https://web.archive.org/web/20230331054505/https://tsumuri.moe/profile/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/zgako4yZyc"
+                  }
+                ]
+              },
+              "favoriteCount": 3993,
+              "favorited": false,
+              "fullText": "https://t.co/zgako4yZyc\n多分日本の2008年生まれで一番強かった人。12,13あたりでGoogleに脆弱性報告してる",
+              "idStr": "2123791342841315533",
+              "isQuoteStatus": false,
+              "lang": "ja",
+              "possiblySensitive": false,
+              "possiblySensitiveEditable": true,
+              "quoteCount": 89,
+              "replyCount": 7,
+              "retweetCount": 217,
+              "retweeted": false,
+              "userIdStr": "1571019894610882565"
+            },
+            "restId": "2123791342841315533",
+            "unmentionData": {},
+            "views": {
+              "count": "1205070",
+              "state": "EnabledWithCount"
+            }
+          }
+        },
+        "noteTweet": {
+          "isExpandable": true,
+          "noteTweetResults": {
+            "result": {
+              "entitySet": {
+                "hashtags": [],
+                "smarttags": [],
+                "symbols": [],
+                "urls": [],
+                "userMentions": []
+              },
+              "id": "Tm90ZVR3ZWV0OjIxMjQxNDE2MzAxOTg1NzUxMDQ=",
+              "richtext": {
+                "richtextTags": []
+              },
+              "text": "この人が失踪した事件懐かしい。「恒心教」という冗談宗教では「恒心営業の禁止」という掟があって、何人も恒心教の情報で金銭を得てはならない。\n彼は、Zenn で恒心教に触れた本を売ったことで掟に触れてしまった。恒心教のうちダークウェブを中心に活動するトクリュウみたいな流派から OSINT され、顔や本名がさらされ、彼の学校に彼名義で爆破予告が送られる、などがあって失踪してしまった。\nこのトクリュウみたいな恒心教はダークウェブの掲示板で完全に匿名化されて活動していて、何人いるかすらわからない。暇人がたくさんいるから容易に OSINT されてしまう。自分も彼と関わっていたというだけで本名や学校が特定されて掲示板に載ってしまった。"
+            }
+          }
+        },
+        "previousCounts": {
+          "bookmarkCount": 0,
+          "favoriteCount": 1,
+          "quoteCount": 0,
+          "replyCount": 0,
+          "retweetCount": 0
+        },
+        "quotedRefResult": {
+          "result": {
+            "typename": "Tweet",
+            "restId": "2123791342841315533"
+          }
+        },
+        "restId": "2124141630253158594",
+        "unmentionData": {},
+        "views": {
+          "count": "396818",
+          "state": "EnabledWithCount"
+        }
+      }
+    },
+    "tweet": {
+      "typename": "Tweet",
+      "core": {
+        "userResults": {
+          "result": {
+            "typename": "User",
+            "actionCounts": {
+              "favoritesCount": 180069
+            },
+            "affiliatesHighlightedLabel": {},
+            "avatar": {
+              "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+            },
+            "banner": {
+              "imageUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293"
+            },
+            "core": {
+              "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+              "name": "nakasyou@C109水曜東7U43b",
+              "screenName": "nakasyou0"
+            },
+            "followRequestSent": false,
+            "hasGraduatedAccess": true,
+            "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+            "isBlueVerified": true,
+            "location": {
+              "location": "Tokyo, Japan/🇯🇵"
+            },
+            "mediaPermissions": {
+              "canMediaTag": false
+            },
+            "notificationsSettings": {
+              "notificationsEnabled": false
+            },
+            "parodyCommentaryFanLabel": "None",
+            "pinnedItems": {},
+            "possiblySensitive": false,
+            "privacy": {
+              "_protected": false
+            },
+            "profileBio": {
+              "description": "17y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "displayUrl": "nakasyou.how",
+                      "expandedUrl": "http://nakasyou.how",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/Vu0PfgrsvW"
+                    }
+                  ]
+                }
+              }
+            },
+            "profileImageShape": "Circle",
+            "profileMetadata": {
+              "profileInterstitialType": ""
+            },
+            "profileTranslation": {
+              "translatorType": "none"
+            },
+            "relationshipCounts": {
+              "followers": 4807,
+              "following": 1157
+            },
+            "relationshipPerspectives": {
+              "blockedBy": false,
+              "blocking": false,
+              "followedBy": false,
+              "following": false,
+              "liveFollowing": false,
+              "muting": false
+            },
+            "restId": "1608625702836011009",
+            "superFollowEligible": false,
+            "superFollowedBy": false,
+            "superFollowing": false,
+            "tweetCounts": {
+              "mediaTweets": 1098,
+              "tweets": 15723
+            },
+            "verification": {
+              "verified": false
+            },
+            "website": {
+              "url": "https://t.co/Vu0PfgrsvW"
+            }
+          }
+        }
+      },
+      "editControl": {
+        "editControlInitial": {
+          "editTweetIds": [
+            "2124141272730628132",
+            "2124141327671775356",
+            "2124141393472012500",
+            "2124141630253158594"
+          ],
+          "editableUntilMsecs": "1795273318000",
+          "editsRemaining": "2",
+          "isEditEligible": true
+        },
+        "initialTweetId": "2124141272730628132"
+      },
+      "grokAnalysisButton": true,
+      "grokTranslatedPostWithAvailability": {
+        "isAvailable": false
+      },
+      "hasBirdwatchNotes": false,
+      "isTranslatable": true,
+      "legacy": {
+        "bookmarkCount": 1338,
+        "bookmarked": false,
+        "conversationIdStr": "2124141630253158594",
+        "createdAt": "Sat Nov 21 14:03:23 +0000 2026",
+        "displayTextRange": [
+          0,
+          142
+        ],
+        "entities": {},
+        "favoriteCount": 2434,
+        "favorited": false,
+        "fullText": "この人が失踪した事件懐かしい。「恒心教」という冗談宗教では「恒心営業の禁止」という掟があって、何人も恒心教の情報で金銭を得てはならない。\n彼は、Zenn で恒心教に触れた本を売ったことで掟に触れてしまった。恒心教のうちダークウェブを中心に活動するトクリュウみたいな流派から OSINT",
+        "idStr": "2124141630253158594",
+        "isQuoteStatus": true,
+        "lang": "ja",
+        "quoteCount": 37,
+        "quotedStatusIdStr": "2123791342841315533",
+        "quotedStatusPermalink": {
+          "display": "x.com/kicky1618/stat…",
+          "expanded": "https://twitter.com/kicky1618/status/2123791342841315533",
+          "url": "https://t.co/85jf8Ld1jr"
+        },
+        "replyCount": 8,
+        "retweetCount": 240,
+        "retweeted": false,
+        "userIdStr": "1608625702836011009"
+      },
+      "nestedQuotedTweetResults": {
+        "result": {
+          "typename": "Tweet",
+          "card": {
+            "legacy": {
+              "bindingValues": [
+                {
+                  "key": "thumbnail_image",
+                  "value": {
+                    "imageValue": {
+                      "height": 144,
+                      "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=144x144_2",
+                      "width": 144
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "description",
+                  "value": {
+                    "stringValue": "Tsumuriのプロファイルです。",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "domain",
+                  "value": {
+                    "stringValue": "web.archive.org",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 400,
+                      "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=420x420_2",
+                      "width": 400
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_original",
+                  "value": {
+                    "imageValue": {
+                      "height": 400,
+                      "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=orig",
+                      "width": 400
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "site",
+                  "value": {
+                    "scribeKey": "publisher_id",
+                    "type": "USER",
+                    "userValue": {
+                      "idStr": "1451200778815741962",
+                      "path": []
+                    }
+                  }
+                },
+                {
+                  "key": "thumbnail_image_small",
+                  "value": {
+                    "imageValue": {
+                      "height": 100,
+                      "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=jpg&name=100x100_2",
+                      "width": 100
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_x_large",
+                  "value": {
+                    "imageValue": {
+                      "height": 400,
+                      "url": "https://pbs.twimg.com/card_img/2123791344737062912/GA4iO1uC?format=png&name=2048x2048_2_exp",
+                      "width": 400
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "vanity_url",
+                  "value": {
+                    "scribeKey": "vanity_url",
+                    "stringValue": "web.archive.org",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_color",
+                  "value": {
+                    "imageColorValue": {
+                      "palette": [
+                        {
+                          "percentage": 73.36,
+                          "rgb": {
+                            "blue": 247,
+                            "green": 233,
+                            "red": 236
+                          }
+                        },
+                        {
+                          "percentage": 15.14,
+                          "rgb": {
+                            "blue": 217,
+                            "green": 164,
+                            "red": 169
+                          }
+                        },
+                        {
+                          "percentage": 8.53,
+                          "rgb": {
+                            "blue": 109,
+                            "green": 65,
+                            "red": 77
+                          }
+                        },
+                        {
+                          "percentage": 0.59,
+                          "rgb": {
+                            "blue": 150,
+                            "green": 62,
+                            "red": 65
+                          }
+                        },
+                        {
+                          "percentage": 0.39,
+                          "rgb": {
+                            "blue": 73,
+                            "green": 61,
+                            "red": 78
+                          }
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "title",
+                  "value": {
+                    "stringValue": "Profile|tsumuri's website",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "card_url",
+                  "value": {
+                    "scribeKey": "card_url",
+                    "stringValue": "https://t.co/zgako4yZyc",
+                    "type": "STRING"
+                  }
+                }
+              ],
+              "cardPlatform": {
+                "platform": {
+                  "audience": {
+                    "name": "production"
+                  },
+                  "device": {
+                    "name": "Swift",
+                    "version": "12"
+                  }
+                }
+              },
+              "name": "summary",
+              "url": "https://t.co/zgako4yZyc",
+              "userRefsResults": [
+                {
+                  "result": {
+                    "typename": "User",
+                    "actionCounts": {
+                      "favoritesCount": 5072
+                    },
+                    "affiliatesHighlightedLabel": {},
+                    "avatar": {
+                      "imageUrl": "https://pbs.twimg.com/profile_images/1636845712855154689/8h652-bl_normal.png"
+                    },
+                    "banner": {
+                      "imageUrl": "https://pbs.twimg.com/profile_banners/1451200778815741962/1682088423"
+                    },
+                    "core": {
+                      "createdAt": "Thu Oct 21 14:57:09 +0000 2021",
+                      "name": "tsumuri🍀",
+                      "screenName": "Tsumuri1017"
+                    },
+                    "followRequestSent": false,
+                    "hasGraduatedAccess": true,
+                    "id": "VXNlcjoxNDUxMjAwNzc4ODE1NzQxOTYy",
+                    "isBlueVerified": false,
+                    "location": {
+                      "location": "ストレリチア"
+                    },
+                    "mediaPermissions": {
+                      "canMediaTag": false
+                    },
+                    "notificationsSettings": {
+                      "notificationsEnabled": false
+                    },
+                    "parodyCommentaryFanLabel": "None",
+                    "pinnedItems": {},
+                    "possiblySensitive": false,
+                    "privacy": {
+                      "_protected": true
+                    },
+                    "professional": {
+                      "category": [
+                        {
+                          "iconName": "IconBriefcaseStroke",
+                          "id": 1055,
+                          "name": "Software developer/Programmer/Software engineer"
+                        }
+                      ],
+                      "professionalType": "Creator",
+                      "restId": "1482946556479574017"
+                    },
+                    "profileBio": {
+                      "description": "14歳の技術者。🕊ハコ船。ファン垢： @tsumuri_hkbn\n数学|情報解析|エスペラント|Web3|ピアノ|作曲|ボカロ \nメール：admin@tsumuri.moe\n脆弱性診断やサイト制作、仮想通貨追跡ができます。\nお仕事のご依頼はメールまでお願いします。",
+                      "entities": {
+                        "description": {},
+                        "url": {
+                          "urls": [
+                            {
+                              "displayUrl": "tsumuri.moe",
+                              "expandedUrl": "https://tsumuri.moe",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/n19at2zIOq"
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "profileDescriptionLanguage": "ja",
+                    "profileImageShape": "Circle",
+                    "profileMetadata": {
+                      "profileInterstitialType": ""
+                    },
+                    "profileTranslation": {
+                      "translatorType": "none"
+                    },
+                    "relationshipCounts": {
+                      "followers": 615,
+                      "following": 257
+                    },
+                    "relationshipPerspectives": {
+                      "blockedBy": false,
+                      "blocking": false,
+                      "followedBy": false,
+                      "following": false,
+                      "liveFollowing": false,
+                      "muting": false
+                    },
+                    "restId": "1451200778815741962",
+                    "superFollowEligible": false,
+                    "superFollowedBy": false,
+                    "superFollowing": false,
+                    "tweetCounts": {
+                      "mediaTweets": 6,
+                      "tweets": 383
+                    },
+                    "verification": {
+                      "verified": false
+                    },
+                    "website": {
+                      "url": "https://t.co/n19at2zIOq"
+                    }
+                  }
+                }
+              ]
+            },
+            "restId": "https://t.co/zgako4yZyc"
+          },
+          "core": {
+            "userResults": {
+              "result": {
+                "typename": "User",
+                "actionCounts": {
+                  "favoritesCount": 3242
+                },
+                "affiliatesHighlightedLabel": {},
+                "avatar": {
+                  "imageUrl": "https://pbs.twimg.com/profile_images/2006348686939607041/pL8YY4y2_normal.jpg"
+                },
+                "banner": {
+                  "imageUrl": ""
+                },
+                "core": {
+                  "createdAt": "Sat Sep 17 06:15:19 +0000 2022",
+                  "name": "kicky1618",
+                  "screenName": "kicky1618"
+                },
+                "followRequestSent": false,
+                "hasGraduatedAccess": true,
+                "id": "VXNlcjoxNTcxMDE5ODk0NjEwODgyNTY1",
+                "isBlueVerified": false,
+                "location": {
+                  "location": ""
+                },
+                "mediaPermissions": {
+                  "canMediaTag": false
+                },
+                "notificationsSettings": {
+                  "notificationsEnabled": false
+                },
+                "parodyCommentaryFanLabel": "None",
+                "pinnedItems": {
+                  "tweetIdsStr": [
+                    "2103874378891149391"
+                  ]
+                },
+                "possiblySensitive": false,
+                "privacy": {
+                  "_protected": false
+                },
+                "profileBio": {
+                  "description": "nakasyouの友達",
+                  "entities": {
+                    "description": {}
+                  }
+                },
+                "profileDescriptionLanguage": "ja",
+                "profileImageShape": "Circle",
+                "profileMetadata": {
+                  "profileInterstitialType": ""
+                },
+                "profileTranslation": {
+                  "translatorType": "none"
+                },
+                "relationshipCounts": {
+                  "followers": 640,
+                  "following": 906
+                },
+                "relationshipPerspectives": {
+                  "blockedBy": false,
+                  "blocking": false,
+                  "followedBy": false,
+                  "following": false,
+                  "liveFollowing": false,
+                  "muting": false
+                },
+                "restId": "1571019894610882565",
+                "superFollowEligible": false,
+                "superFollowedBy": false,
+                "superFollowing": false,
+                "tweetCounts": {
+                  "mediaTweets": 480,
+                  "tweets": 3324
+                },
+                "verification": {
+                  "verified": false
+                },
+                "website": {
+                  "url": ""
+                }
+              }
+            }
+          },
+          "editControl": {
+            "editTweetIds": [
+              "2123791342841315533"
+            ],
+            "editableUntilMsecs": "1795189888000",
+            "editsRemaining": "5",
+            "isEditEligible": true
+          },
+          "grokAnalysisButton": true,
+          "grokTranslatedPostWithAvailability": {
+            "isAvailable": false
+          },
+          "hasBirdwatchNotes": false,
+          "isTranslatable": true,
+          "legacy": {
+            "bookmarkCount": 2349,
+            "bookmarked": false,
+            "conversationIdStr": "2123791342841315533",
+            "createdAt": "Fri Nov 20 14:51:28 +0000 2026",
+            "displayTextRange": [
+              0,
+              70
+            ],
+            "entities": {
+              "urls": [
+                {
+                  "displayUrl": "web.archive.org/web/2023033105…",
+                  "expandedUrl": "https://web.archive.org/web/20230331054505/https://tsumuri.moe/profile/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/zgako4yZyc"
+                }
+              ]
+            },
+            "favoriteCount": 3993,
+            "favorited": false,
+            "fullText": "https://t.co/zgako4yZyc\n多分日本の2008年生まれで一番強かった人。12,13あたりでGoogleに脆弱性報告してる",
+            "idStr": "2123791342841315533",
+            "isQuoteStatus": false,
+            "lang": "ja",
+            "possiblySensitive": false,
+            "possiblySensitiveEditable": true,
+            "quoteCount": 89,
+            "replyCount": 7,
+            "retweetCount": 217,
+            "retweeted": false,
+            "userIdStr": "1571019894610882565"
+          },
+          "restId": "2123791342841315533",
+          "unmentionData": {},
+          "views": {
+            "count": "1205070",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "noteTweet": {
+        "isExpandable": true,
+        "noteTweetResults": {
+          "result": {
+            "entitySet": {
+              "hashtags": [],
+              "smarttags": [],
+              "symbols": [],
+              "urls": [],
+              "userMentions": []
+            },
+            "id": "Tm90ZVR3ZWV0OjIxMjQxNDE2MzAxOTg1NzUxMDQ=",
+            "richtext": {
+              "richtextTags": []
+            },
+            "text": "この人が失踪した事件懐かしい。「恒心教」という冗談宗教では「恒心営業の禁止」という掟があって、何人も恒心教の情報で金銭を得てはならない。\n彼は、Zenn で恒心教に触れた本を売ったことで掟に触れてしまった。恒心教のうちダークウェブを中心に活動するトクリュウみたいな流派から OSINT され、顔や本名がさらされ、彼の学校に彼名義で爆破予告が送られる、などがあって失踪してしまった。\nこのトクリュウみたいな恒心教はダークウェブの掲示板で完全に匿名化されて活動していて、何人いるかすらわからない。暇人がたくさんいるから容易に OSINT されてしまう。自分も彼と関わっていたというだけで本名や学校が特定されて掲示板に載ってしまった。"
+          }
+        }
+      },
+      "previousCounts": {
+        "bookmarkCount": 0,
+        "favoriteCount": 1,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "retweetCount": 0
+      },
+      "quotedRefResult": {
+        "result": {
+          "typename": "Tweet",
+          "restId": "2123791342841315533"
+        }
+      },
+      "restId": "2124141630253158594",
+      "unmentionData": {},
+      "views": {
+        "count": "396818",
+        "state": "EnabledWithCount"
+      }
+    },
+    "user": {
+      "typename": "User",
+      "actionCounts": {
+        "favoritesCount": 180069
+      },
+      "affiliatesHighlightedLabel": {},
+      "avatar": {
+        "imageUrl": "https://pbs.twimg.com/profile_images/1608626007438950400/296af05K_normal.jpg"
+      },
+      "banner": {
+        "imageUrl": "https://pbs.twimg.com/profile_banners/1608625702836011009/1740315293"
+      },
+      "core": {
+        "createdAt": "Fri Dec 30 00:47:27 +0000 2022",
+        "name": "nakasyou@C109水曜東7U43b",
+        "screenName": "nakasyou0"
+      },
+      "followRequestSent": false,
+      "hasGraduatedAccess": true,
+      "id": "VXNlcjoxNjA4NjI1NzAyODM2MDExMDA5",
+      "isBlueVerified": true,
+      "location": {
+        "location": "Tokyo, Japan/🇯🇵"
+      },
+      "mediaPermissions": {
+        "canMediaTag": false
+      },
+      "notificationsSettings": {
+        "notificationsEnabled": false
+      },
+      "parodyCommentaryFanLabel": "None",
+      "pinnedItems": {},
+      "possiblySensitive": false,
+      "privacy": {
+        "_protected": false
+      },
+      "profileBio": {
+        "description": "17y/o 高2♂, 情達 7 期, @mitoujr'25, @kowrocojp",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "displayUrl": "nakasyou.how",
+                "expandedUrl": "http://nakasyou.how",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Vu0PfgrsvW"
+              }
+            ]
+          }
+        }
+      },
+      "profileImageShape": "Circle",
+      "profileMetadata": {
+        "profileInterstitialType": ""
+      },
+      "profileTranslation": {
+        "translatorType": "none"
+      },
+      "relationshipCounts": {
+        "followers": 4807,
+        "following": 1157
+      },
+      "relationshipPerspectives": {
+        "blockedBy": false,
+        "blocking": false,
+        "followedBy": false,
+        "following": false,
+        "liveFollowing": false,
+        "muting": false
+      },
+      "restId": "1608625702836011009",
+      "superFollowEligible": false,
+      "superFollowedBy": false,
+      "superFollowing": false,
+      "tweetCounts": {
+        "mediaTweets": 1098,
+        "tweets": 15723
+      },
+      "verification": {
+        "verified": false
+      },
+      "website": {
+        "url": "https://t.co/Vu0PfgrsvW"
+      }
+    },
+    "replies": []
+  }
+}
